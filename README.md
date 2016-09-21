@@ -9,4 +9,4 @@ De XSD's die zijn afgeleid van bovengenoemde applicationSchema's, zijn te vinden
 http://register.geostandaarden.nl/gmlapplicatieschema/brt-algemeen/1.2.0/ 
 http://register.geostandaarden.nl/gmlapplicatieschema/top10nl/1.2.0/ 
 http://register.geostandaarden.nl/gmlapplicatieschema/top250nl/1.2.0/ 
-http://register.geostandaarden.nl/gmlapplicatieschema/top250nl/1.2.0/ 
+http://register.geostandaarden.nl/gmlapplicatieschema/top500nl/1.2.0/ 
