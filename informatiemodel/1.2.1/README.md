@@ -2,6 +2,7 @@
 IMBRT is het informatiemodel van de Basisregistratie Topografie (BRT). 
 
 IMBRT versie 1.2.1 bevat de applicationSchema's "BRT-algemeen", "TOP10NL", "TOP10NL_objecthistorie", "TOP50NL", "TOP100NL" en "TOP250NL" (allemaal versie 1.2.0).
+Ten opzichte van versie 1.2.0 is TOP250NL toegevoegd.
 
 De XSD's die zijn afgeleid van bovengenoemde applicationSchema's, zijn te vinden op: 
 http://register.geostandaarden.nl/gmlapplicatieschema/brt-algemeen/1.2.0/ 
