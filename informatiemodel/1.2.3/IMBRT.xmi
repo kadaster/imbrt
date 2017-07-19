@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<XMI xmi.version="1.1" xmlns:UML="omg.org/UML1.3" timestamp="2017-01-19 11:40:45">
+<XMI xmi.version="1.1" xmlns:UML="omg.org/UML1.3" timestamp="2017-07-19 13:10:33">
 	<XMI.header>
 		<XMI.documentation>
 			<XMI.exporter>Enterprise Architect</XMI.exporter>
@@ -483,7 +483,7 @@
 						</UML:Dependency>
 						<UML:Package name="BRT-algemeen" xmi.id="EAPK_4E4027D8_BA71_4e41_97C6_5C62131A0981" isRoot="false" isLeaf="false" isAbstract="false" visibility="public">
 							<UML:ModelElement.stereotype>
-								<UML:Stereotype xmi.idref="EAID_78AC533A_A687_4b99_B2AD_71748D2B0C10"/>
+								<UML:Stereotype xmi.idref="EAID_EAB3D340_2D67_40ca_8540_225D758931A5"/>
 							</UML:ModelElement.stereotype>
 							<UML:ModelElement.taggedValue>
 								<UML:TaggedValue tag="parent" value="EAPK_166639BB_1BED_41b1_A2B1_086AA58B5894"/>
@@ -3902,7 +3902,7 @@
 								</UML:Generalization>
 								<UML:Package name="Waardelijsten" xmi.id="EAPK_D5999057_C4E2_4a31_98E0_FE0734C17202" isRoot="false" isLeaf="false" isAbstract="false" visibility="public">
 									<UML:ModelElement.stereotype>
-										<UML:Stereotype xmi.idref="EAID_194B1EF4_4E1B_49cb_806D_8BA91391E6BD"/>
+										<UML:Stereotype xmi.idref="EAID_F7AF6FEC_1124_416c_9ABF_0150FF8A9399"/>
 									</UML:ModelElement.stereotype>
 									<UML:ModelElement.taggedValue>
 										<UML:TaggedValue tag="parent" value="EAPK_4E4027D8_BA71_4e41_97C6_5C62131A0981"/>
@@ -4168,7 +4168,7 @@
 						</UML:Package>
 						<UML:Package name="TOP10NL" xmi.id="EAPK_BABE8F7F_DC3A_4f6f_8B34_EC2F6AA0D7EA" isRoot="false" isLeaf="false" isAbstract="false" visibility="public">
 							<UML:ModelElement.stereotype>
-								<UML:Stereotype xmi.idref="EAID_78AC533A_A687_4b99_B2AD_71748D2B0C10"/>
+								<UML:Stereotype xmi.idref="EAID_EAB3D340_2D67_40ca_8540_225D758931A5"/>
 							</UML:ModelElement.stereotype>
 							<UML:ModelElement.taggedValue>
 								<UML:TaggedValue tag="parent" value="EAPK_166639BB_1BED_41b1_A2B1_086AA58B5894"/>
@@ -4236,7 +4236,7 @@
 												<UML:TaggedValue tag="precision" value="0"/>
 												<UML:TaggedValue tag="scale" value="0"/>
 												<UML:TaggedValue tag="collection" value="false"/>
-												<UML:TaggedValue tag="position" value="3"/>
+												<UML:TaggedValue tag="position" value="0"/>
 												<UML:TaggedValue tag="lowerBound" value="1"/>
 												<UML:TaggedValue tag="upperBound" value="1"/>
 												<UML:TaggedValue tag="duplicates" value="0"/>
@@ -4253,7 +4253,7 @@
 												<UML:Classifier xmi.idref="EAID_F8D66774_69DA_4eee_92BD_31EECCB65BF3"/>
 											</UML:StructuralFeature.type>
 											<UML:ModelElement.taggedValue>
-												<UML:TaggedValue tag="description" value="-- Definition --&#xA;Hoogte van het object t.o.v. NAP in meters met een nauwkeurigheid van 1 decimeter. / De diepte van het water"/>
+												<UML:TaggedValue tag="description" value="-- Definition --&#xA;Hoogte van het object t.o.v. het opgegeven referentievlak in meters met een nauwkeurigheid van 1 decimeter. / De diepte van het water t.o.v. het opgegeven referentievlak in meters met een nauwkeurigheid van 1 decimeter."/>
 												<UML:TaggedValue tag="type" value="Real"/>
 												<UML:TaggedValue tag="derived" value="0"/>
 												<UML:TaggedValue tag="containment" value="Not Specified"/>
@@ -4303,13 +4303,13 @@
 												<UML:Classifier xmi.idref="EAID_2233BD8F_DB4C_4bcb_8DBB_E9F0A5D71078"/>
 											</UML:StructuralFeature.type>
 											<UML:ModelElement.taggedValue>
-												<UML:TaggedValue tag="description" value="-- Definition --&#xA;Het soort hoogte object, bijv. hoogtlijn"/>
+												<UML:TaggedValue tag="description" value="-- Definition --&#xA;Het soort hoogte object, bijv. hoogtelijn ,dieptelijn."/>
 												<UML:TaggedValue tag="type" value="T10HoogteTypeWaarde"/>
 												<UML:TaggedValue tag="derived" value="0"/>
 												<UML:TaggedValue tag="containment" value="Not Specified"/>
 												<UML:TaggedValue tag="ordered" value="0"/>
 												<UML:TaggedValue tag="collection" value="false"/>
-												<UML:TaggedValue tag="position" value="0"/>
+												<UML:TaggedValue tag="position" value="3"/>
 												<UML:TaggedValue tag="lowerBound" value="1"/>
 												<UML:TaggedValue tag="upperBound" value="1"/>
 												<UML:TaggedValue tag="duplicates" value="0"/>
@@ -8738,7 +8738,7 @@
 								</UML:Comment>
 								<UML:Package name="Waardelijsten" xmi.id="EAPK_CA8549DF_4985_43d3_A90F_1489B4FE4996" isRoot="false" isLeaf="false" isAbstract="false" visibility="public">
 									<UML:ModelElement.stereotype>
-										<UML:Stereotype xmi.idref="EAID_194B1EF4_4E1B_49cb_806D_8BA91391E6BD"/>
+										<UML:Stereotype xmi.idref="EAID_F7AF6FEC_1124_416c_9ABF_0150FF8A9399"/>
 									</UML:ModelElement.stereotype>
 									<UML:ModelElement.taggedValue>
 										<UML:TaggedValue tag="parent" value="EAPK_BABE8F7F_DC3A_4f6f_8B34_EC2F6AA0D7EA"/>
@@ -10056,7 +10056,7 @@
 						</UML:Package>
 						<UML:Package name="TOP10NL_Objecthistorie" xmi.id="EAPK_BEF32C37_9C84_4cee_9EC1_429F367FFCBD" isRoot="false" isLeaf="false" isAbstract="false" visibility="public">
 							<UML:ModelElement.stereotype>
-								<UML:Stereotype xmi.idref="EAID_78AC533A_A687_4b99_B2AD_71748D2B0C10"/>
+								<UML:Stereotype xmi.idref="EAID_EAB3D340_2D67_40ca_8540_225D758931A5"/>
 							</UML:ModelElement.stereotype>
 							<UML:ModelElement.taggedValue>
 								<UML:TaggedValue tag="parent" value="EAPK_166639BB_1BED_41b1_A2B1_086AA58B5894"/>
@@ -10418,7 +10418,7 @@
 								</UML:Comment>
 								<UML:Package name="Waardelijsten" xmi.id="EAPK_49B39363_DDF0_4c2a_9D94_9A6DEC97FF59" isRoot="false" isLeaf="false" isAbstract="false" visibility="public">
 									<UML:ModelElement.stereotype>
-										<UML:Stereotype xmi.idref="EAID_194B1EF4_4E1B_49cb_806D_8BA91391E6BD"/>
+										<UML:Stereotype xmi.idref="EAID_F7AF6FEC_1124_416c_9ABF_0150FF8A9399"/>
 									</UML:ModelElement.stereotype>
 									<UML:ModelElement.taggedValue>
 										<UML:TaggedValue tag="parent" value="EAPK_BEF32C37_9C84_4cee_9EC1_429F367FFCBD"/>
@@ -10857,7 +10857,7 @@
 						</UML:Package>
 						<UML:Package name="TOP1000NL" xmi.id="EAPK_11AAB94B_4064_44ce_B3C5_7F687BFA2322" isRoot="false" isLeaf="false" isAbstract="false" visibility="public">
 							<UML:ModelElement.stereotype>
-								<UML:Stereotype xmi.idref="EAID_78AC533A_A687_4b99_B2AD_71748D2B0C10"/>
+								<UML:Stereotype xmi.idref="EAID_EAB3D340_2D67_40ca_8540_225D758931A5"/>
 							</UML:ModelElement.stereotype>
 							<UML:ModelElement.taggedValue>
 								<UML:TaggedValue tag="parent" value="EAPK_166639BB_1BED_41b1_A2B1_086AA58B5894"/>
@@ -12008,7 +12008,7 @@
 												<UML:TaggedValue tag="precision" value="0"/>
 												<UML:TaggedValue tag="scale" value="0"/>
 												<UML:TaggedValue tag="collection" value="false"/>
-												<UML:TaggedValue tag="position" value="3"/>
+												<UML:TaggedValue tag="position" value="0"/>
 												<UML:TaggedValue tag="lowerBound" value="1"/>
 												<UML:TaggedValue tag="upperBound" value="1"/>
 												<UML:TaggedValue tag="duplicates" value="0"/>
@@ -12025,7 +12025,7 @@
 												<UML:Classifier xmi.idref="EAID_F8D66774_69DA_4eee_92BD_31EECCB65BF3"/>
 											</UML:StructuralFeature.type>
 											<UML:ModelElement.taggedValue>
-												<UML:TaggedValue tag="description" value="-- Definition --&#xA;Hoogte van het object t.o.v. NAP in meters met een nauwkeurigheid van 1 decimeter. / De diepte van het water"/>
+												<UML:TaggedValue tag="description" value="-- Definition --&#xA;Hoogte van het object t.o.v. het opgegeven referentievlak in meters met een nauwkeurigheid van 1 decimeter. / De diepte van het water t.o.v. het opgegeven referentievlak in meters met een nauwkeurigheid van 1 decimeter."/>
 												<UML:TaggedValue tag="type" value="Real"/>
 												<UML:TaggedValue tag="derived" value="0"/>
 												<UML:TaggedValue tag="containment" value="Not Specified"/>
@@ -12079,7 +12079,7 @@
 												<UML:Classifier xmi.idref="EAID_5BD234D0_C2A7_47f5_85D6_C89640F7C8BF"/>
 											</UML:StructuralFeature.type>
 											<UML:ModelElement.taggedValue>
-												<UML:TaggedValue tag="description" value="-- Definition --&#xA;Het soort hoogte object, bijv. hoogtlijn"/>
+												<UML:TaggedValue tag="description" value="-- Definition --&#xA;Het soort hoogte object, bijv. hoogtelijn, dieptelijn"/>
 												<UML:TaggedValue tag="type" value="T1000HoogteTypeWaarde"/>
 												<UML:TaggedValue tag="derived" value="0"/>
 												<UML:TaggedValue tag="containment" value="Not Specified"/>
@@ -12088,7 +12088,7 @@
 												<UML:TaggedValue tag="precision" value="0"/>
 												<UML:TaggedValue tag="scale" value="0"/>
 												<UML:TaggedValue tag="collection" value="false"/>
-												<UML:TaggedValue tag="position" value="0"/>
+												<UML:TaggedValue tag="position" value="3"/>
 												<UML:TaggedValue tag="lowerBound" value="1"/>
 												<UML:TaggedValue tag="upperBound" value="1"/>
 												<UML:TaggedValue tag="duplicates" value="0"/>
@@ -14684,7 +14684,7 @@
 								</UML:Class>
 								<UML:Package name="Waardelijsten" xmi.id="EAPK_531FC9A8_32EF_480f_B9E4_B511E4FE6569" isRoot="false" isLeaf="false" isAbstract="false" visibility="public">
 									<UML:ModelElement.stereotype>
-										<UML:Stereotype xmi.idref="EAID_194B1EF4_4E1B_49cb_806D_8BA91391E6BD"/>
+										<UML:Stereotype xmi.idref="EAID_F7AF6FEC_1124_416c_9ABF_0150FF8A9399"/>
 									</UML:ModelElement.stereotype>
 									<UML:ModelElement.taggedValue>
 										<UML:TaggedValue tag="parent" value="EAPK_11AAB94B_4064_44ce_B3C5_7F687BFA2322"/>
@@ -15777,7 +15777,7 @@
 						</UML:Package>
 						<UML:Package name="TOP250NL" xmi.id="EAPK_05B64FE4_6164_4a60_B154_61BA6A9E7CEC" isRoot="false" isLeaf="false" isAbstract="false" visibility="public">
 							<UML:ModelElement.stereotype>
-								<UML:Stereotype xmi.idref="EAID_78AC533A_A687_4b99_B2AD_71748D2B0C10"/>
+								<UML:Stereotype xmi.idref="EAID_EAB3D340_2D67_40ca_8540_225D758931A5"/>
 							</UML:ModelElement.stereotype>
 							<UML:ModelElement.taggedValue>
 								<UML:TaggedValue tag="parent" value="EAPK_166639BB_1BED_41b1_A2B1_086AA58B5894"/>
@@ -16118,7 +16118,7 @@
 												<UML:TaggedValue tag="precision" value="0"/>
 												<UML:TaggedValue tag="scale" value="0"/>
 												<UML:TaggedValue tag="collection" value="false"/>
-												<UML:TaggedValue tag="position" value="3"/>
+												<UML:TaggedValue tag="position" value="0"/>
 												<UML:TaggedValue tag="lowerBound" value="1"/>
 												<UML:TaggedValue tag="upperBound" value="1"/>
 												<UML:TaggedValue tag="duplicates" value="0"/>
@@ -16135,7 +16135,7 @@
 												<UML:Classifier xmi.idref="EAID_F8D66774_69DA_4eee_92BD_31EECCB65BF3"/>
 											</UML:StructuralFeature.type>
 											<UML:ModelElement.taggedValue>
-												<UML:TaggedValue tag="description" value="-- Definition --&#xA;Hoogte van het object t.o.v. NAP in meters met een nauwkeurigheid van 1 decimeter. / De diepte van het water"/>
+												<UML:TaggedValue tag="description" value="-- Definition --&#xA;Hoogte van het object t.o.v. het opgegeven referentievlak in meters met een nauwkeurigheid van 1 decimeter. / De diepte van het water t.o.v. het opgegeven referentievlak in meters met een nauwkeurigheid van 1 decimeter."/>
 												<UML:TaggedValue tag="type" value="Real"/>
 												<UML:TaggedValue tag="derived" value="0"/>
 												<UML:TaggedValue tag="containment" value="Not Specified"/>
@@ -16189,7 +16189,7 @@
 												<UML:Classifier xmi.idref="EAID_40383B9C_B17E_4e72_9BCB_661C2E059AAC"/>
 											</UML:StructuralFeature.type>
 											<UML:ModelElement.taggedValue>
-												<UML:TaggedValue tag="description" value="-- Definition --&#xA;Het soort hoogte object, bijv. hoogtlijn"/>
+												<UML:TaggedValue tag="description" value="-- Definition --&#xA;Het soort hoogte object, bijv. hoogtelijn, dieptelijn."/>
 												<UML:TaggedValue tag="type" value="T250HoogteTypeWaarde"/>
 												<UML:TaggedValue tag="derived" value="0"/>
 												<UML:TaggedValue tag="containment" value="Not Specified"/>
@@ -16198,7 +16198,7 @@
 												<UML:TaggedValue tag="precision" value="0"/>
 												<UML:TaggedValue tag="scale" value="0"/>
 												<UML:TaggedValue tag="collection" value="false"/>
-												<UML:TaggedValue tag="position" value="0"/>
+												<UML:TaggedValue tag="position" value="3"/>
 												<UML:TaggedValue tag="lowerBound" value="1"/>
 												<UML:TaggedValue tag="upperBound" value="1"/>
 												<UML:TaggedValue tag="duplicates" value="0"/>
@@ -19817,7 +19817,7 @@
 								</UML:Comment>
 								<UML:Package name="Waardelijsten" xmi.id="EAPK_CFB83B65_C4F4_4b07_9D5B_83E186780BD0" isRoot="false" isLeaf="false" isAbstract="false" visibility="public">
 									<UML:ModelElement.stereotype>
-										<UML:Stereotype xmi.idref="EAID_194B1EF4_4E1B_49cb_806D_8BA91391E6BD"/>
+										<UML:Stereotype xmi.idref="EAID_F7AF6FEC_1124_416c_9ABF_0150FF8A9399"/>
 									</UML:ModelElement.stereotype>
 									<UML:ModelElement.taggedValue>
 										<UML:TaggedValue tag="parent" value="EAPK_05B64FE4_6164_4a60_B154_61BA6A9E7CEC"/>
@@ -21019,7 +21019,7 @@
 						</UML:Package>
 						<UML:Package name="TOP500NL" xmi.id="EAPK_F4C0628F_C821_45c7_A35E_79A2CA434EF9" isRoot="false" isLeaf="false" isAbstract="false" visibility="public">
 							<UML:ModelElement.stereotype>
-								<UML:Stereotype xmi.idref="EAID_78AC533A_A687_4b99_B2AD_71748D2B0C10"/>
+								<UML:Stereotype xmi.idref="EAID_EAB3D340_2D67_40ca_8540_225D758931A5"/>
 							</UML:ModelElement.stereotype>
 							<UML:ModelElement.taggedValue>
 								<UML:TaggedValue tag="parent" value="EAPK_166639BB_1BED_41b1_A2B1_086AA58B5894"/>
@@ -23983,7 +23983,7 @@
 												<UML:TaggedValue tag="precision" value="0"/>
 												<UML:TaggedValue tag="scale" value="0"/>
 												<UML:TaggedValue tag="collection" value="false"/>
-												<UML:TaggedValue tag="position" value="3"/>
+												<UML:TaggedValue tag="position" value="0"/>
 												<UML:TaggedValue tag="lowerBound" value="1"/>
 												<UML:TaggedValue tag="upperBound" value="1"/>
 												<UML:TaggedValue tag="duplicates" value="0"/>
@@ -24000,7 +24000,7 @@
 												<UML:Classifier xmi.idref="EAID_F8D66774_69DA_4eee_92BD_31EECCB65BF3"/>
 											</UML:StructuralFeature.type>
 											<UML:ModelElement.taggedValue>
-												<UML:TaggedValue tag="description" value="-- Definition --&#xA;Hoogte van het object t.o.v. NAP in meters met een nauwkeurigheid van 1 decimeter. / De diepte van het water"/>
+												<UML:TaggedValue tag="description" value="-- Definition --&#xA;Hoogte van het object t.o.v. het opgegeven referentievlak in meters met een nauwkeurigheid van 1 decimeter. / De diepte van het water t.o.v. het opgegeven referentievlak in meters met een nauwkeurigheid van 1 decimeter."/>
 												<UML:TaggedValue tag="type" value="Real"/>
 												<UML:TaggedValue tag="derived" value="0"/>
 												<UML:TaggedValue tag="containment" value="Not Specified"/>
@@ -24054,7 +24054,7 @@
 												<UML:Classifier xmi.idref="EAID_1D07A6C5_8363_482a_8791_EB6130B4F2A5"/>
 											</UML:StructuralFeature.type>
 											<UML:ModelElement.taggedValue>
-												<UML:TaggedValue tag="description" value="-- Definition --&#xA;Het soort hoogte object, bijv. hoogtlijn"/>
+												<UML:TaggedValue tag="description" value="-- Definition --&#xA;Het soort hoogte object, bijv. hoogtelijn, dieptelijn."/>
 												<UML:TaggedValue tag="type" value="T500HoogteTypeWaarde"/>
 												<UML:TaggedValue tag="derived" value="0"/>
 												<UML:TaggedValue tag="containment" value="Not Specified"/>
@@ -24063,7 +24063,7 @@
 												<UML:TaggedValue tag="precision" value="0"/>
 												<UML:TaggedValue tag="scale" value="0"/>
 												<UML:TaggedValue tag="collection" value="false"/>
-												<UML:TaggedValue tag="position" value="0"/>
+												<UML:TaggedValue tag="position" value="3"/>
 												<UML:TaggedValue tag="lowerBound" value="1"/>
 												<UML:TaggedValue tag="upperBound" value="1"/>
 												<UML:TaggedValue tag="duplicates" value="0"/>
@@ -24820,7 +24820,7 @@
 								</UML:Class>
 								<UML:Package name="Waardelijsten" xmi.id="EAPK_982687AC_BAFC_422d_9610_D57E17218AF5" isRoot="false" isLeaf="false" isAbstract="false" visibility="public">
 									<UML:ModelElement.stereotype>
-										<UML:Stereotype xmi.idref="EAID_194B1EF4_4E1B_49cb_806D_8BA91391E6BD"/>
+										<UML:Stereotype xmi.idref="EAID_F7AF6FEC_1124_416c_9ABF_0150FF8A9399"/>
 									</UML:ModelElement.stereotype>
 									<UML:ModelElement.taggedValue>
 										<UML:TaggedValue tag="parent" value="EAPK_F4C0628F_C821_45c7_A35E_79A2CA434EF9"/>
@@ -25913,10 +25913,10 @@
 						</UML:Package>
 					</UML:Namespace.ownedElement>
 				</UML:Package>
-				<UML:Stereotype xmi.id="EAID_78AC533A_A687_4b99_B2AD_71748D2B0C10" name="applicationSchema" isRoot="false" isLeaf="false" isAbstract="false">
+				<UML:Stereotype xmi.id="EAID_EAB3D340_2D67_40ca_8540_225D758931A5" name="applicationSchema" isRoot="false" isLeaf="false" isAbstract="false">
 					<UML:Stereotype.baseClass>Package</UML:Stereotype.baseClass>
 				</UML:Stereotype>
-				<UML:Stereotype xmi.id="EAID_194B1EF4_4E1B_49cb_806D_8BA91391E6BD" name="leaf" isRoot="false" isLeaf="false" isAbstract="false">
+				<UML:Stereotype xmi.id="EAID_F7AF6FEC_1124_416c_9ABF_0150FF8A9399" name="leaf" isRoot="false" isLeaf="false" isAbstract="false">
 					<UML:Stereotype.baseClass>Package</UML:Stereotype.baseClass>
 				</UML:Stereotype>
 				<UML:DataType xmi.id="eaxmiid0" visibility="private" isRoot="false" isLeaf="false" isAbstract="false"/>
