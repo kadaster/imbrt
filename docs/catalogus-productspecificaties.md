@@ -2,7 +2,7 @@
 
 # Basisregistratie Topografie: Catalogus en Productspecificaties
 
-Versie: 1.2.0.1
+Versie: 1.2.0.3
 
 ## Versiehistorie
 
@@ -15,6 +15,8 @@ Versie: 1.2.0.1
 | 2.2.1 | 23 mei 2016 | Kadaster | Wijzigingen n.a.v. Audit BRT 2014 doorgevoerd |
 | 1.2.0 | 21 september 2017 | Kadaster | Nummering gelijk datamodel TOP10NL. Herziening n.a.v. TOP10NL datamodel 1.2 verwerkt, wijzigingen in productieporces en inwinningscriteria verwerkt |
 | 1.2.0.1 | 8 juli 2019 | Kadaster | Wijzigingen n.a.v. Audit BRT 2017 doorgevoerd. Wijzigingen datamodel inrichtingselement en functioneel gebied verwerkt. Diverse verduidelijkingen verwerkt |
+| 1.2.0.2 | 20 april 2020 | Kadaster | Enkele kleine tekstuele fouten verbeterd |
+| 1.2.0.3 | 20 november 2020 | Kadaster | Enkele URL’s geactualiseerd |
 
 # Inhoudsopgave
 
@@ -124,8 +126,8 @@ In 2014 heeft het Kadaster samen met gebruikers een nieuw datamodel voor TOP10NL
 
 > De catalogus en productspecificaties voor de basisregistratie Topografie verschijnt in twee versies:
 >
-> - een actuele versie op de website van de BRT: [https://www.kadaster.nl/brt-documentatie](https://www.kadaster.nl/brt-documentatie)
-> - een versie waarin de wijzigingen ten opzichte van de vorige versie in rood zijn aangegeven op GitHub: [https://github.com/kadaster/top10nl/blob/master/documentatie](https://github.com/kadaster/top10nl/blob/master/documentatie/)
+> - een actuele versie op de website van de BRT: [www.kadaster.nl/brt-documentatie](https://www.kadaster.nl/brt-documentatie)
+> - een versie waarin de wijzigingen ten opzichte van de vorige versie in rood zijn aangegeven op GitHub: [github.com/kadaster/top10nl/blob/master/documentatie](https://github.com/kadaster/top10nl/blob/master/documentatie/)
 
 # Leeswijzer
 
@@ -137,7 +139,7 @@ Dit document begint met een kort overzicht van het Stelsel van Basisregistraties
 
 De overheid beschikt over 30.000 verschillende systemen om gegevens vast te leggen. Bepaalde gegevens worden daardoor in meerdere systemen geregistreerd én bijgehouden. Om dit proces te vereenvoudigen en de dienstverlening te verbeteren is door de overheid besloten een stelsel van basisregistraties te implementeren. Dit stelsel zorgt ervoor dat elk (basis)gegeven één bron kent. Gegevens zullen daardoor betrouwbaarder, actueler en uitwisselbaar zijn.
 
-Een basisregistratie is een door de overheid officieel aangewezen registratie met daarin gegevens van hoogwaardige kwaliteit, die door alle overheidsinstellingen verplicht en zonder nader onderzoek, worden gebruikt bij de uitvoering van publiekrechtelijke taken. De kenmerken van een basisregistratie zijn verwoord in [12 eisen](https://wiki.stelselvanbasisregistraties.nl/xwiki/bin/view/Stelselhandboek/12+eisen) waaraan een basisregistratie moet voldoen (bron: [https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties/](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties) ):
+Een basisregistratie is een door de overheid officieel aangewezen registratie met daarin gegevens van hoogwaardige kwaliteit, die door alle overheidsinstellingen verplicht en zonder nader onderzoek, worden gebruikt bij de uitvoering van publiekrechtelijke taken. De kenmerken van een basisregistratie zijn verwoord in 12 eisen waaraan een basisregistratie moet voldoen (bron: [www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties/](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties) ):
 
 1. De registratie is bij wet geregeld
 2. De afnemers hebben een terugmeldplicht
@@ -156,9 +158,9 @@ De Basisregistratie Topografie (BRT) is dé unieke bron voor alle topografische 
 
 In onderstaande figuur is de plaats van de Basisregistratie Topografie (BRT) in het stelsel van basisregistraties te zien. Op dit moment zijn er relaties met de Basisregistraties Adressen en Gebouwen en de Basisregistratie Kadaster.
 
-![https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2017/10/stelselplaat-2018.png](images/figuur1-1.png)
+![](images/figuur1-1.png)
 
-_Figuur 1.1: Stelselplaat Stelsel van Basisregistraties, status 31 december 2017. [https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties/stelselplaat](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties/stelselplaat)_
+_Figuur 1.1: Stelselplaat Stelsel van Basisregistraties, status 31 december 2019. [www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties/stelselplaat](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties/stelselplaat)_
 
 # 2 Kenmerken van TOP10NL
 
@@ -182,7 +184,7 @@ Dit hoofdstuk beschrijft de belangrijkste kenmerken van TOP10NL, daarbij ook rel
 
 - Mutatiebestanden versus integrale updates
 
-    Alle geo-objecten en versies van geo-objecten bevatten begin- en eindtijden waarmee direct is na te gaan of een geo-object gewijzigd is. Daarmee is het mogelijk om mutaties te ~~leveren~~ detecteren die tussen 2 data hebben plaatsgevonden.
+    Alle geo-objecten en versies van geo-objecten bevatten begin- en eindtijden waarmee direct is na te gaan of een geo-object gewijzigd is. Daarmee is het mogelijk om mutaties te detecteren die tussen 2 data hebben plaatsgevonden.
 
 - Historische versies toegankelijk houden
 
@@ -226,7 +228,7 @@ Het bestand TOP10NL beslaat het gehele Nederlandse grondgebied. Langs de grenzen
 
 ## 3.2 Actualiteit
 
-TOP10NL is gebaseerd op luchtfotografie, ondersteund door 360 graden beelden en eventueel een terreinverkenning. De datum van de luchtopname, meestal in de periode januari – april, is bepalend voor de actualiteitsdatum van TOP10NL. De bijhoudingscyclus van TOP10NL is één jaar voor heel Nederland. Een overzicht van de actualiteit van TOP10NL wordt weergegeven in de "BRT Actualiteitskaart: TOP10NL" (te vinden op [https://www.kadaster.nl/-/top10nl](https://www.kadaster.nl/-/top10nl)).
+TOP10NL is gebaseerd op luchtfotografie, ondersteund door 360 graden beelden en eventueel een terreinverkenning. De datum van de luchtopname, meestal in de periode januari – april, is bepalend voor de actualiteitsdatum van TOP10NL. De bijhoudingscyclus van TOP10NL is één jaar voor heel Nederland. Een overzicht van de actualiteit van TOP10NL wordt weergegeven in de "BRT Actualiteitskaart: TOP10NL" (te vinden op [www.kadaster.nl/-/top10nl](https://www.kadaster.nl/-/top10nl)).
 
 ## 3.3 Ruimtelijk referentiesysteem
 
@@ -255,7 +257,7 @@ In GIS-applicaties worden EPSG (European Petroleum Survey Group) codes gebruik o
 
 ### 3.4.1 Kwaliteitscontrole
 
-De interne kwaliteitscontrole wordt uitgevoerd met behulp van het interne document "Controleprotocol TOP10NL" ( [https://www.kadaster.nl/brt-documentatie](https://www.kadaster.nl/brt-documentatie) ). In het controleprotocol vinden de controleaspecten plaats zoals genoemd in ISO 19113. Deze controleaspecten zijn: logische consistentie, positionele nauwkeurigheid, actualiteit, volledigheid, thematische nauwkeurigheid en de terugmeldingen.
+De interne kwaliteitscontrole wordt uitgevoerd met behulp van het interne document "Controleprotocol TOP10NL" ( [www.kadaster.nl/brt-documentatie](https://www.kadaster.nl/brt-documentatie) ). In het controleprotocol vinden de controleaspecten plaats zoals genoemd in ISO 19113. Deze controleaspecten zijn: logische consistentie, positionele nauwkeurigheid, actualiteit, volledigheid, thematische nauwkeurigheid en de terugmeldingen.
 
 De in de wet bedoelde externe kwaliteitscontrole wordt eens in de drie jaar uitgevoerd door een externe expert. De kwaliteitsbeoordeling moet worden gemaakt volgens de ISO 19114 standaard. In 2011 en 2015 zijn deze controles uitgevoerd door Wageningen Environmental Research (Alterra). De uitkomsten van deze controle heeft het Kadaster aan het Ministerie van Infrastructuur en Milieu gerapporteerd.
 
@@ -343,7 +345,7 @@ De bijgewerkte TOP10NL is vervolgens de bron voor het maken van de vervolgproduc
 - TOPgrenzen
 - TOPnamen
 
-Net zoals TOP10NL worden deze producten 5 keer per jaar ontsloten via PDOK.
+Net zoals TOP10NL worden deze producten 5 keer per jaar ontsloten via PDOK ( [www.pdok.nl](https://www.pdok.nl) ).
 
 # 3.6 Volledigheid TOP10NL
 
@@ -775,9 +777,9 @@ Definitie: Kleinste functioneel onafhankelijk stukje weg met gelijkblijvende, ho
 | lokale weg | x | x | x |
 | straat | x | x | x |
 | veerverbinding | x | x | |
-| parkeerplaats | x | | |
-| parkeerplaats: carpoolplaats | x | | |
-| parkeerplaats: P+R parkeerplaats | x | | |
+| parkeerplaats | | | x |
+| parkeerplaats: carpoolplaats | | | x |
+| parkeerplaats: P+R parkeerplaats | | | x |
 | overig | x | x | x |
 
 | Domein "WE\_hoofdverkeersgebruik" |
@@ -800,7 +802,6 @@ Definitie: Kleinste functioneel onafhankelijk stukje weg met gelijkblijvende, ho
 | op knooppuntverbinding | x | x | x |
 | overkluisd | x | x | x |
 | in tunnel | x | x | x |
-| als veer/pont | | x | |
 
 | Domein "WE\_verhardingsbreedteklasse" |
 |:---|
@@ -1220,8 +1221,8 @@ Definitie: Ruimtelijk object, punt of lijnvormig, al dan niet ter detaillering d
 | type inrichtingselement | enkelvoudig | verplicht | < domein "IE\_typeInrichtingselement" > | | | |
 | hoogte | enkelvoudig | optioneel | < hoogte boven maaiveld in meters > | x | x | |
 | breedte | enkelvoudig | optioneel | < breedte in meters > | | x | |
-| naam | veelvoudig | optioneel | < naam inrichtingselement > | | | |
-| soortnaam | enkelvoudig | optioneel | < soortnaam inrichtingselement > | | | |
+| naam | veelvoudig | optioneel | < naam inrichtingselement > | x | x | |
+| soortnaam | enkelvoudig | optioneel | < soortnaam inrichtingselement > | x | x | |
 | nummer | veelvoudig | optioneel | < nummer inrichtingselement > | x | x | |
 | hoogteniveau | enkelvoudig | verplicht | < getal > | x | x | |
 
@@ -1265,8 +1266,8 @@ Definitie: Ruimtelijk object, punt of lijnvormig, al dan niet ter detaillering d
 | luchtvaartlicht | x | | |
 | markant object | x | | |
 | metrostation | x | | |
-| muur | | | |
-| oliepompinstallatie | x | x | |
+| muur | | x | |
+| oliepompinstallatie | x | | |
 | paal | x | | |
 | paalwerk | | x | |
 | peilschaal | x | | |
@@ -1550,7 +1551,7 @@ Definitie: ruimtelijk object dat wel gepland is, maar nog niet in uitvoering is;
 | Attribuut | Multipliciteit | Optionaliteit | Attribuutwaarde | Punt | Lijn | Vlak |
 |:---|:---|:---|:---|:---|:---|:---|
 | type object | enkelvoudig | verplicht | < domein "PT\_typeObject" > | x | x | x |
-| naam | veelvoudig | optioneel | < naam plantopografie > | x | | x |
+| naam | veelvoudig | optioneel | < naam plantopografie > | x | x | x |
 
 | Domein "PT\_typeObject" |
 |:---|
@@ -1605,7 +1606,7 @@ Het UML model is omgezet naar een XSD voor het gebruik in diverse programma's. D
 
 Het UML model en de XSD van TOP10NL kunnen gevonden worden op:
 
-[http://register.geostandaarden.nl/brt/top10nl](http://register.geostandaarden.nl/brt/top10nl)
+[register.geostandaarden.nl/?url=brt/top10nl](https://register.geostandaarden.nl/?url=brt/top10nl)
 
 ## 6.3 Waardelijsten TOP10NL
 
@@ -1613,7 +1614,7 @@ De mogelijke attribuutwaarden voor attributen van TOP10NL zijn opgeslagen in waa
 
 De waardelijsten van TOP10NL kunnen gevonden worden op:
 
-[http://register.geostandaarden.nl/brt/top10nl](http://register.geostandaarden.nl/brt/top10nl)
+[register.geostandaarden.nl/?url=brt/top10nl](https://register.geostandaarden.nl/?url=brt/top10nl)
 
 ## 6.4 Open data
 
@@ -1623,9 +1624,9 @@ De basisregistratie Topografie is vanaf 1 januari 2012 als open data beschikbaar
 
 Meer informatie over de basisregistratie Topografie en de wijze van bestellen vindt u op de productpagina's van de BRT en TOP10NL:
 
-[https://www.kadaster.nl/BRT](https://www.kadaster.nl/brt)
+[www.kadaster.nl/BRT](https://www.kadaster.nl/brt)
 
-[https://www.kadaster.nl/-/top10nl](https://www.kadaster.nl/-/top10nl)
+[www.kadaster.nl/-/top10nl](https://www.kadaster.nl/-/top10nl)
 
 ### Webservices
 
@@ -2000,7 +2001,7 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 |:---|:---|
 | Domeinwaarde | **kruising** |
 | Definitie | Gelijkvloerse kruising (wegdeel waar drie of meer hartlijnen van verbindingen op elkaar aansluiten). |
-| Inwinningscriteria | Een wegdeel van het type kruising heeft meestal als hoofdgeometrie een wegvlak of een wegpunt. Soms heeft het geen hoofdgeometrie.<br>Een wegdeel van het type kruising heeft altijd een hartpunt.<br>**Het kruisingsvlak wordt geplaatst, daar waar twee wegvlakken elkaar kruisen of zoals bij op – en afritten, daar waar de wegvlakken bij elkaar komen.** |
+| Inwinningscriteria | Een wegdeel van het type kruising heeft meestal als hoofdgeometrie een wegvlak of een wegpunt. Soms heeft het geen hoofdgeometrie.<br>Een wegdeel van het type kruising heeft altijd een hartpunt.<br>Het kruisingsvlak wordt geplaatst, daar waar twee wegvlakken elkaar kruisen of zoals bij op – en afritten, daar waar de wegvlakken bij elkaar komen. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
@@ -2280,7 +2281,7 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 | Domeinwaarde | **op rotonde** |
 | Definitie | Deel van weg onderdeel zijnde van een rotonde. |
 | Inwinningscriteria | - |
-| Volledigheid | Niet |
+| Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Ja |
 | Vlak | Ja |
@@ -2798,7 +2799,7 @@ De hartlijnen worden opgenomen. Op het rangeergedeelte van een emplacement worde
 | Domein | SP\_typeSpoorbaan |
 |:---|:---|
 | Domeinwaarde | **gemengd** |
-| Definitie | Spoorbaandeel bestemd voor een combinatie van zowel trein, metro of tramverkeer. |
+| Definitie | Spoorbaandeel bestemd voor een combinatie van zowel trein, metro, sneltram of tramverkeer. |
 | Inwinningscriteria | - |
 | Volledigheid | Volledig |
 | Punt | Ja |
@@ -3590,12 +3591,12 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 
 | Attribuut | vaarwegklasse |
 |:---|:---|
-| Definitie | Aanduiding voor het geven van de stroomrichting(en) van natuurlijke waterlopen. |
+| Definitie | CEMT klasses van vaarwegen, welke gebaseerd zijn op de afmetingen en laadvermogen van standaardschepen en duwstellen voor de binnen- en riviervaart in West-Europa. De klasses I t/m VII zijn in 1992 bepaald door de Conferentie van Europese Ministers van Verkeer (C.E.M.T.). Naderhand is klasse 0 (vaarwegen kleiner dan die van klasse I) daaraan toegevoegd. Klasse VII komt in Nederland niet voor. |
 | Inwinningscriteria | - |
 | Multipliciteit | Enkelvoudig |
 | Optionaliteit | Optioneel |
 | Formaat | Tekst |
-| Domein | "WA\_stroomrichting" |
+| Domein | "WA\_vaarwegklasse" |
 
 #### Domein "WA\_vaarwegklasse"
 
@@ -8087,7 +8088,7 @@ _Inwinningscriteria:_
 
 | Domein | PT\_typeObject |
 |:---|:---|
-| Domeinwaarde | **spoor** |
+| Domeinwaarde | **spoorbaan** |
 | Definitie | Plantopografie van spoorbaandelen. |
 | Inwinningscriteria | - |
 | Volledigheid | Beperkt |
