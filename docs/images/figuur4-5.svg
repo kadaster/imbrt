@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg117"
+   height="45.042668mm"
+   width="100.838mm"
+   version="1.0">
+  <metadata
+     id="metadata121">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9">
+    <clipPath
+       id="clipWmfPath1"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path2"
+         d="M 222.4,10.08 L 375.36,10.08 L 375.36,69.28 L 222.4,69.28 z" />
+    </clipPath>
+    <clipPath
+       id="clipWmfPath2"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5"
+         d="M 222.4,98.56 L 375.36,98.56 L 375.36,157.92 L 222.4,157.92 z" />
+    </clipPath>
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="WMFhbasepattern" />
+  </defs>
+  <text
+     id="text15"
+     y="8.748000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,0.000000,5.120000)"
+     style="font-size:12.000000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:HELVETICA;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan13"
+       y="8.748000"
+       x="0.000000"><tspan
+         id="tspan11"
+         style="fill:#000000;font-size:12.000000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:HELVETICA;"
+         dy="0.000000"
+         dx="0.000000" /></tspan></text>
+  <image
+     id="image17"
+     preserveAspectRatio="none"
+     transform="matrix(1,0,0,1,0,0)"
+     width="180.96"
+     height="167.36"
+     xlink:href="data:image/png;base64,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"
+     x="1.76"
+     y="1.92" />
+  <path
+     id="path19"
+     d="  M 1.44,1.6   L 183.2,1.6   L 183.2,169.76   L 1.44,169.76   z "
+     style="fill:none;stroke:#000000;stroke-width:0.63999999px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path21"
+     d="  M 92.96,93.28   L 175.84,106.56   L 217.92,106.56  "
+     style="fill:none;stroke:#000000;stroke-width:1.28px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path23"
+     d="  M 91.2,65.6   L 140,13.28   L 217.92,13.28  "
+     style="fill:none;stroke:#000000;stroke-width:1.28px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path25"
+     d="  M 217.92,5.6   L 380,5.6   L 380,74.08   L 217.92,74.08   z "
+     style="fill:none;stroke:#000000;stroke-width:1.28px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <g
+     id="g71"
+     clip-path="url(#clipWmfPath1)">
+    <text
+       id="text39"
+       y="10.119500"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,222.400000,9.920000)"
+       style="font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;line-height:77.450975%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan31"
+         y="10.119500"
+         x="0.000000"><tspan
+           id="tspan27"
+           style="fill:#000000;font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">wegdeel</tspan><tspan
+           id="tspan29"
+           style="fill:#000000;font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="-3.478000"
+           dx="0.000000" /></tspan><tspan
+         id="tspan37"
+         y="17.361500"
+         x="0.000000"><tspan
+           id="tspan33"
+           style="fill:#000000;font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">type infrastructuur = verbinding</tspan><tspan
+           id="tspan35"
+           style="fill:#000000;font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.770750" /></tspan></text>
+    <text
+       id="text63"
+       y="28.081500"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,222.400000,9.920000)"
+       style="font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:115.891892%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan45"
+         y="28.081500"
+         x="0.000000"><tspan
+           id="tspan41"
+           style="fill:#000000;font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">type weg = lokale weg</tspan><tspan
+           id="tspan43"
+           style="fill:#000000;font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.518250" /></tspan><tspan
+         id="tspan51"
+         y="38.801500"
+         x="0.000000"><tspan
+           id="tspan47"
+           style="fill:#000000;font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">fysiek voorkomen = in tunnel</tspan><tspan
+           id="tspan49"
+           style="fill:#000000;font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.781250" /></tspan><tspan
+         id="tspan61"
+         y="49.521500"
+         x="0.000000"><tspan
+           id="tspan53"
+           style="fill:#000000;font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">hoogteniveau = </tspan><tspan
+           id="tspan55"
+           style="fill:#000000;font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan57"
+           style="fill:#000000;font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">1</tspan><tspan
+           id="tspan59"
+           style="fill:#000000;font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+    <text
+       id="text69"
+       y="62.988000"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,222.400000,9.920000)"
+       style="font-size:12.000000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:HELVETICA;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan67"
+         y="62.988000"
+         x="0.000000"><tspan
+           id="tspan65"
+           style="fill:#000000;font-size:12.000000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:HELVETICA;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+  </g>
+  <path
+     id="path73"
+     d="  M 217.92,94.08   L 380,94.08   L 380,162.56   L 217.92,162.56   z "
+     style="fill:none;stroke:#000000;stroke-width:1.28px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <g
+     id="g115"
+     clip-path="url(#clipWmfPath2)">
+    <text
+       id="text87"
+       y="10.119500"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,222.400000,98.400000)"
+       style="font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;line-height:77.450975%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan79"
+         y="10.119500"
+         x="0.000000"><tspan
+           id="tspan75"
+           style="fill:#000000;font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">spoorbaandeel</tspan><tspan
+           id="tspan77"
+           style="fill:#000000;font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="-3.478000"
+           dx="0.000000" /></tspan><tspan
+         id="tspan85"
+         y="17.361500"
+         x="0.000000"><tspan
+           id="tspan81"
+           style="fill:#000000;font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">type infrastructuur = verbinding</tspan><tspan
+           id="tspan83"
+           style="fill:#000000;font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.770750" /></tspan></text>
+    <text
+       id="text107"
+       y="28.081500"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,222.400000,98.400000)"
+       style="font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:115.891892%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan93"
+         y="28.081500"
+         x="0.000000"><tspan
+           id="tspan89"
+           style="fill:#000000;font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">type spoorbaan = trein</tspan><tspan
+           id="tspan91"
+           style="fill:#000000;font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.467250" /></tspan><tspan
+         id="tspan99"
+         y="38.801500"
+         x="0.000000"><tspan
+           id="tspan95"
+           style="fill:#000000;font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">fysiek voorkomen = op vast deel van brug</tspan><tspan
+           id="tspan97"
+           style="fill:#000000;font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.057215" /></tspan><tspan
+         id="tspan105"
+         y="49.521500"
+         x="0.000000"><tspan
+           id="tspan101"
+           style="fill:#000000;font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">hoogteniveau = 0</tspan><tspan
+           id="tspan103"
+           style="fill:#000000;font-size:9.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+    <text
+       id="text113"
+       y="62.988000"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,222.400000,98.400000)"
+       style="font-size:12.000000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:HELVETICA;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan111"
+         y="62.988000"
+         x="0.000000"><tspan
+           id="tspan109"
+           style="fill:#000000;font-size:12.000000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:HELVETICA;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+  </g>
+</svg>
