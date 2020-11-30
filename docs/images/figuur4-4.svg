@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg530"
+   height="75.010002mm"
+   width="115.37mm"
+   version="1.0">
+  <metadata
+     id="metadata534">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs30">
+    <clipPath
+       id="clipEmfPath1"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path2"
+         d="M 42.567157,138.26325 L 103.05733,138.26325 L 103.05733,155.8662 L 42.567157,155.8662 z" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath2"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5"
+         d="M 254.12272,137.30308 L 328.69526,137.30308 L 328.69526,155.2261 L 254.12272,155.2261 z" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath3"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path8"
+         d="M 297.00993,180.51035 L 415.7499,180.51035 L 415.7499,279.72703 L 297.00993,279.72703 z" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath4"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path11"
+         d="M 62.410493,12.482099 L 177.62986,12.482099 L 177.62986,123.54077 L 62.410493,123.54077 z" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath5"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14"
+         d="M 35.205919,180.51035 L 153.62583,180.51035 L 153.62583,279.72703 L 35.205919,279.72703 z" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath6"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path17"
+         d="M 275.24628,12.482099 L 390.46565,12.482099 L 390.46565,123.54077 L 275.24628,123.54077 z" />
+    </clipPath>
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+    <image
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAI0lEQVQImWP8f2YmAxwYp8GZTAw4AOkSjP///0fwzs6ihR0A7C0HcOHvT4YAAAAASUVORK5CYII="
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage0_ref">
+      <use
+         xlink:href="#EMFimage0"
+         id="EMFimage0_ign" />
+    </pattern>
+    <image
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAPUlEQVQImW2MwREAIAjDCiuxEzvJTDIT/hCFPpNcKfZCnyiPFG5NiMINAI/0FaK14ad1S83fQzqKiEvL7QF6nhaiDV1LEQAAAABJRU5ErkJggg=="
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage1" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage1_ref">
+      <use
+         xlink:href="#EMFimage1"
+         id="EMFimage1_ign" />
+    </pattern>
+    <image
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAARUlEQVQImWWNwQ0AIAgDK3EjdmInmAlnqg+NQb0X10AB00kyfQ+LdIEaftQayTcdAUAuH3Gsb6mFagD644f7R7mW2ls3Jj1vKPZfAV4OAAAAAElFTkSuQmCC"
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage2" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage2_ref">
+      <use
+         xlink:href="#EMFimage2"
+         id="EMFimage2_ign" />
+    </pattern>
+  </defs>
+  <text
+     id="text36"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,0.000000,21.443605)"
+     style="font-size:14.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan34"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan32"
+         style="fill:#000000;font-size:14.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         dy="0.000000"
+         dx="0.000000" /></tspan></text>
+  <path
+     id="path38"
+     d="  M 226.47808,130.60196   L 226.47808,162.80737   L 303.17097,162.80737   L 303.17097,130.60196   L 226.47808,130.60196   z "
+     style="fill:url(#EMFimage0_ref); fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path40"
+     d="  M 226.47808,130.60196   L 226.47808,162.80737   L 303.17097,162.80737   L 303.17097,130.60196   z "
+     style="fill:none;stroke:#000000;stroke-width:1.0001682px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path42"
+     d="  M 1.7202892,130.60196   L 1.7202892,162.80737   L 226.47808,162.80737   L 226.47808,130.60196   L 1.7202892,130.60196   z "
+     style="fill:url(#EMFimage1_ref); fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path44"
+     d="  M 302.97094,130.60196   L 302.97094,162.00724   L 432.45271,162.00724   L 432.45271,130.60196   L 302.97094,130.60196   z "
+     style="fill:url(#EMFimage2_ref); fill-rule:evenodd;fill-opacity:1;stroke:none;" />
+  <path
+     id="path46"
+     d="  M 1.7202892,130.60196   L 432.65274,130.60196  "
+     style="fill:none;stroke:#000000;stroke-width:1.540259px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <g
+     id="g56"
+     clip-path="url(#clipEmfPath1)">
+    <text
+       id="text54"
+       y="0.000000"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,42.567157,152.345613)"
+       style="font-size:14.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan52"
+         y="0.000000"
+         x="0.000000"><tspan
+           id="tspan48"
+           style="fill:#000000;font-size:14.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+           dy="0.000000"
+           dx="0.000000">Hoflaan</tspan><tspan
+           id="tspan50"
+           style="fill:#000000;font-size:14.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+  </g>
+  <g
+     id="g66"
+     clip-path="url(#clipEmfPath2)">
+    <text
+       id="text64"
+       y="0.000000"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,254.122724,151.065398)"
+       style="font-size:14.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan62"
+         y="0.000000"
+         x="0.000000"><tspan
+           id="tspan58"
+           style="fill:#000000;font-size:14.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+           dy="0.000000"
+           dx="0.000000">Walstraat</tspan><tspan
+           id="tspan60"
+           style="fill:#000000;font-size:14.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+  </g>
+  <path
+     id="path68"
+     d="  M 1.9803329,162.14726   L 432.65274,162.20727  "
+     style="fill:none;stroke:#000000;stroke-width:1.540259px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path70"
+     d="  M 149.40512,130.20189   L 149.54514,162.4073  "
+     style="fill:none;stroke:#000000;stroke-width:1.0001682px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path72"
+     d="  M 178.20996,152.00556   L 162.06725,234.01934   L 154.20593,234.01934  "
+     style="fill:none;stroke:#000000;stroke-width:0.66011101px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path74"
+     d="  M 226.21803,130.60196   L 261.52397,62.93058   L 274.2261,62.93058  "
+     style="fill:none;stroke:#000000;stroke-width:0.66011101px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path76"
+     d="  M 250.22207,152.00556   L 280.46715,236.01968   L 296.08978,236.01968  "
+     style="fill:none;stroke:#000000;stroke-width:0.66011101px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path78"
+     d="  M 303.17097,131.26207   L 303.17097,162.80737  "
+     style="fill:none;stroke:#000000;stroke-width:1.0001682px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path80"
+     d="  M 296.08978,176.00959   L 296.08978,284.02775   L 416.18997,284.02775   L 416.18997,176.00959   z "
+     style="fill:none;stroke:#000000;stroke-width:1.3402253px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1;" />
+  <g
+     id="g180"
+     clip-path="url(#clipEmfPath3)">
+    <text
+       id="text92"
+       y="0.000000"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,300.850580,189.151801)"
+       style="font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;line-height:115.596779%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan86"
+         y="0.000000"
+         x="0.000000"><tspan
+           id="tspan82"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">wegdeel</tspan><tspan
+           id="tspan84"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan><tspan
+         id="tspan90"
+         y="10.881830"
+         x="0.000000"><tspan
+           id="tspan88"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">identificatie= </tspan></tspan></text>
+    <text
+       id="text118"
+       y="21.443605"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,300.850580,189.151801)"
+       style="font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;line-height:115.596779%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan100"
+         y="21.443605"
+         x="0.000000"><tspan
+           id="tspan94"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">NL.TOP10NL</tspan><tspan
+           id="tspan96"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">.214809</tspan><tspan
+           id="tspan98"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan><tspan
+         id="tspan116"
+         y="32.325435"
+         x="0.000000"><tspan
+           id="tspan102"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">objectBeginTijd = </tspan><tspan
+           id="tspan104"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">2005</tspan><tspan
+           id="tspan106"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan108"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">02</tspan><tspan
+           id="tspan110"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan112"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">15</tspan><tspan
+           id="tspan114"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+    <text
+       id="text144"
+       y="42.887210"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,300.850580,189.151801)"
+       style="font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:116.851860%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan124"
+         y="42.887210"
+         x="0.000000"><tspan
+           id="tspan120"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">objectEindTijd = Null</tspan><tspan
+           id="tspan122"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan><tspan
+         id="tspan142"
+         y="53.769040"
+         x="0.000000"><tspan
+           id="tspan126"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">tijdstipRegistratie </tspan><tspan
+           id="tspan128"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">= </tspan><tspan
+           id="tspan130"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">2005</tspan><tspan
+           id="tspan132"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan134"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">02</tspan><tspan
+           id="tspan136"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan138"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">15</tspan><tspan
+           id="tspan140"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+    <text
+       id="text168"
+       y="64.330816"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,300.850580,189.151801)"
+       style="font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:116.851860%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan156"
+         y="64.330816"
+         x="0.000000"><tspan
+           id="tspan146"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">eindRegistratie </tspan><tspan
+           id="tspan148"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">=</tspan><tspan
+           id="tspan150"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan152"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">Null</tspan><tspan
+           id="tspan154"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan><tspan
+         id="tspan166"
+         y="75.212645"
+         x="0.000000"><tspan
+           id="tspan158"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">naam</tspan><tspan
+           id="tspan160"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /><tspan
+           id="tspan162"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">= Walstraat</tspan><tspan
+           id="tspan164"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+    <text
+       id="text178"
+       y="85.454367"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,300.850580,189.151801)"
+       style="font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan176"
+         y="85.454367"
+         x="0.000000"><tspan
+           id="tspan170"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">verhardingstype = </tspan><tspan
+           id="tspan172"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">onverhard</tspan><tspan
+           id="tspan174"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+  </g>
+  <path
+     id="path182"
+     d="  M 61.530345,7.9813419   L 61.530345,128.00152   L 178.20996,128.00152   L 178.20996,7.9813419   z "
+     style="fill:none;stroke:#000000;stroke-width:1.3402253px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1;" />
+  <g
+     id="g294"
+     clip-path="url(#clipEmfPath4)">
+    <text
+       id="text196"
+       y="0.000000"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,66.251138,21.123551)"
+       style="font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;line-height:116.851860%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan188"
+         y="0.000000"
+         x="0.000000"><tspan
+           id="tspan184"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">VOOR:</tspan><tspan
+           id="tspan186"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan><tspan
+         id="tspan194"
+         y="10.881830"
+         x="0.000000"><tspan
+           id="tspan190"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">wegdeel</tspan><tspan
+           id="tspan192"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+    <text
+       id="text210"
+       y="21.443605"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,66.251138,21.123551)"
+       style="font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:116.851860%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan200"
+         y="21.443605"
+         x="0.000000"><tspan
+           id="tspan198"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">identificatie= </tspan></tspan><tspan
+         id="tspan208"
+         y="32.325435"
+         x="0.000000"><tspan
+           id="tspan202"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">NL.TOP10NL</tspan><tspan
+           id="tspan204"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">.213457</tspan><tspan
+           id="tspan206"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+    <text
+       id="text236"
+       y="42.887210"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,66.251138,21.123551)"
+       style="font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:116.851860%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan226"
+         y="42.887210"
+         x="0.000000"><tspan
+           id="tspan212"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">objectBeginTijd = </tspan><tspan
+           id="tspan214"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">2005</tspan><tspan
+           id="tspan216"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan218"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">01</tspan><tspan
+           id="tspan220"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan222"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">01</tspan><tspan
+           id="tspan224"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan><tspan
+         id="tspan234"
+         y="53.769040"
+         x="0.000000"><tspan
+           id="tspan228"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">objectEindTijd = </tspan><tspan
+           id="tspan230"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">Null</tspan><tspan
+           id="tspan232"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+    <text
+       id="text272"
+       y="64.330816"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,66.251138,21.123551)"
+       style="font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:116.851860%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan254"
+         y="64.330816"
+         x="0.000000"><tspan
+           id="tspan238"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">tijdstipRegistratie</tspan><tspan
+           id="tspan240"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /><tspan
+           id="tspan242"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">= 2005</tspan><tspan
+           id="tspan244"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan246"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">01</tspan><tspan
+           id="tspan248"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan250"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">01</tspan><tspan
+           id="tspan252"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan><tspan
+         id="tspan270"
+         y="75.212645"
+         x="0.000000"><tspan
+           id="tspan256"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">eindRegistrat</tspan><tspan
+           id="tspan258"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">ie</tspan><tspan
+           id="tspan260"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /><tspan
+           id="tspan262"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">=</tspan><tspan
+           id="tspan264"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan266"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">Null</tspan><tspan
+           id="tspan268"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+    <text
+       id="text292"
+       y="85.774421"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,66.251138,21.123551)"
+       style="font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:116.851860%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan282"
+         y="85.774421"
+         x="0.000000"><tspan
+           id="tspan274"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">naam</tspan><tspan
+           id="tspan276"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /><tspan
+           id="tspan278"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">= Walstraat</tspan><tspan
+           id="tspan280"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan><tspan
+         id="tspan290"
+         y="96.656250"
+         x="0.000000"><tspan
+           id="tspan284"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">verhardingstype = </tspan><tspan
+           id="tspan286"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">verhard</tspan><tspan
+           id="tspan288"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+  </g>
+  <path
+     id="path296"
+     d="  M 34.185747,176.00959   L 34.185747,284.02775   L 154.20593,284.02775   L 154.20593,176.00959   z "
+     style="fill:none;stroke:#000000;stroke-width:1.3402253px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1;" />
+  <g
+     id="g396"
+     clip-path="url(#clipEmfPath5)">
+    <text
+       id="text308"
+       y="0.000000"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,38.726511,189.151801)"
+       style="font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;line-height:115.596779%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan302"
+         y="0.000000"
+         x="0.000000"><tspan
+           id="tspan298"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">wegdeel</tspan><tspan
+           id="tspan300"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan><tspan
+         id="tspan306"
+         y="10.881830"
+         x="0.000000"><tspan
+           id="tspan304"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">identificatie= </tspan></tspan></text>
+    <text
+       id="text334"
+       y="21.443605"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,38.726511,189.151801)"
+       style="font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;line-height:115.596779%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan316"
+         y="21.443605"
+         x="0.000000"><tspan
+           id="tspan310"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">NL.TOP10NL</tspan><tspan
+           id="tspan312"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">.214808</tspan><tspan
+           id="tspan314"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan><tspan
+         id="tspan332"
+         y="32.325435"
+         x="0.000000"><tspan
+           id="tspan318"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">objectBeginTijd = </tspan><tspan
+           id="tspan320"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">2005</tspan><tspan
+           id="tspan322"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan324"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">02</tspan><tspan
+           id="tspan326"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan328"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">15</tspan><tspan
+           id="tspan330"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+    <text
+       id="text360"
+       y="42.887210"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,38.726511,189.151801)"
+       style="font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:116.851860%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan340"
+         y="42.887210"
+         x="0.000000"><tspan
+           id="tspan336"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">objectEindTijd = Null</tspan><tspan
+           id="tspan338"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan><tspan
+         id="tspan358"
+         y="53.769040"
+         x="0.000000"><tspan
+           id="tspan342"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">tijdstipRegistratie </tspan><tspan
+           id="tspan344"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">= </tspan><tspan
+           id="tspan346"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">2005</tspan><tspan
+           id="tspan348"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan350"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">02</tspan><tspan
+           id="tspan352"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan354"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">15</tspan><tspan
+           id="tspan356"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+    <text
+       id="text384"
+       y="64.330816"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,38.726511,189.151801)"
+       style="font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:116.851860%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan372"
+         y="64.330816"
+         x="0.000000"><tspan
+           id="tspan362"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">eindRegistratie </tspan><tspan
+           id="tspan364"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">=</tspan><tspan
+           id="tspan366"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan368"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">Null</tspan><tspan
+           id="tspan370"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan><tspan
+         id="tspan382"
+         y="75.212645"
+         x="0.000000"><tspan
+           id="tspan374"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">naam</tspan><tspan
+           id="tspan376"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /><tspan
+           id="tspan378"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">= Walstraat</tspan><tspan
+           id="tspan380"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+    <text
+       id="text394"
+       y="85.454367"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,38.726511,189.151801)"
+       style="font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan392"
+         y="85.454367"
+         x="0.000000"><tspan
+           id="tspan386"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">verhardingstype = </tspan><tspan
+           id="tspan388"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">half verhard</tspan><tspan
+           id="tspan390"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+  </g>
+  <path
+     id="path398"
+     d="  M 226.35806,131.26207   L 226.47808,162.80737  "
+     style="fill:none;stroke:#000000;stroke-width:1.0001682px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path400"
+     d="  M 226.21803,130.60196   L 190.9121,62.93058   L 178.20996,62.93058  "
+     style="fill:none;stroke:#000000;stroke-width:0.66011101px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path402"
+     d="  M 274.2261,7.9813419   L 274.2261,128.00152   L 390.90572,128.00152   L 390.90572,7.9813419   z "
+     style="fill:none;stroke:#000000;stroke-width:1.3402253px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1;" />
+  <g
+     id="g528"
+     clip-path="url(#clipEmfPath6)">
+    <text
+       id="text416"
+       y="0.000000"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,278.766868,21.123551)"
+       style="font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;line-height:116.851860%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan408"
+         y="0.000000"
+         x="0.000000"><tspan
+           id="tspan404"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">NA:</tspan><tspan
+           id="tspan406"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan><tspan
+         id="tspan414"
+         y="10.881830"
+         x="0.000000"><tspan
+           id="tspan410"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">wegdeel</tspan><tspan
+           id="tspan412"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+    <text
+       id="text430"
+       y="21.443605"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,278.766868,21.123551)"
+       style="font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:116.851860%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan420"
+         y="21.443605"
+         x="0.000000"><tspan
+           id="tspan418"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">identificatie= </tspan></tspan><tspan
+         id="tspan428"
+         y="32.325435"
+         x="0.000000"><tspan
+           id="tspan422"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">NL.TOP10NL</tspan><tspan
+           id="tspan424"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">.213457</tspan><tspan
+           id="tspan426"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+    <text
+       id="text464"
+       y="42.887210"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,278.766868,21.123551)"
+       style="font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:116.851860%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan446"
+         y="42.887210"
+         x="0.000000"><tspan
+           id="tspan432"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">objectBeginTijd = </tspan><tspan
+           id="tspan434"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">2005</tspan><tspan
+           id="tspan436"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan438"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">01</tspan><tspan
+           id="tspan440"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan442"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">01</tspan><tspan
+           id="tspan444"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan><tspan
+         id="tspan462"
+         y="53.769040"
+         x="0.000000"><tspan
+           id="tspan448"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">objectEindTijd = </tspan><tspan
+           id="tspan450"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">2005</tspan><tspan
+           id="tspan452"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan454"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">02</tspan><tspan
+           id="tspan456"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan458"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">15</tspan><tspan
+           id="tspan460"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+    <text
+       id="text502"
+       y="64.330816"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,278.766868,21.123551)"
+       style="font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:116.851860%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan480"
+         y="64.330816"
+         x="0.000000"><tspan
+           id="tspan466"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">tijdstipRegistratie </tspan><tspan
+           id="tspan468"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">= 2005</tspan><tspan
+           id="tspan470"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan472"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">01</tspan><tspan
+           id="tspan474"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan476"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">01</tspan><tspan
+           id="tspan478"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan><tspan
+         id="tspan500"
+         y="75.212645"
+         x="0.000000"><tspan
+           id="tspan482"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">eindRegistratie </tspan><tspan
+           id="tspan484"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">=</tspan><tspan
+           id="tspan486"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan488"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">2005</tspan><tspan
+           id="tspan490"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan492"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">02</tspan><tspan
+           id="tspan494"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">-</tspan><tspan
+           id="tspan496"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">15</tspan><tspan
+           id="tspan498"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+    <text
+       id="text526"
+       y="85.774421"
+       x="0.000000"
+       transform="matrix(1.000000,-0.000000,0.000000,1.000000,278.766868,21.123551)"
+       style="font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;line-height:116.851860%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Narrow;text-align:start;text-anchor:start;"
+       xml:space="preserve"><tspan
+         id="tspan516"
+         y="85.774421"
+         x="0.000000"><tspan
+           id="tspan504"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">naam</tspan><tspan
+           id="tspan506"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /><tspan
+           id="tspan508"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">=</tspan><tspan
+           id="tspan510"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /><tspan
+           id="tspan512"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">Walstraat</tspan><tspan
+           id="tspan514"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan><tspan
+         id="tspan524"
+         y="96.656250"
+         x="0.000000"><tspan
+           id="tspan518"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">verhardingstype = </tspan><tspan
+           id="tspan520"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000">verhard</tspan><tspan
+           id="tspan522"
+           style="fill:#000000;font-size:9.312500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Condensed;font-family:Arial Narrow;"
+           dy="0.000000"
+           dx="0.000000" /></tspan></text>
+  </g>
+</svg>
