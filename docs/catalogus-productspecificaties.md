@@ -16,7 +16,7 @@ Versie: 1.2.0.3
 | 1.2.0 | 21 september 2017 | Kadaster | Nummering gelijk datamodel TOP10NL. Herziening n.a.v. TOP10NL datamodel 1.2 verwerkt, wijzigingen in productieporces en inwinningscriteria verwerkt |
 | 1.2.0.1 | 8 juli 2019 | Kadaster | Wijzigingen n.a.v. Audit BRT 2017 doorgevoerd. Wijzigingen datamodel inrichtingselement en functioneel gebied verwerkt. Diverse verduidelijkingen verwerkt |
 | 1.2.0.2 | 20 april 2020 | Kadaster | Enkele kleine tekstuele fouten verbeterd |
-| 1.2.0.3 | 20 november 2020 | Kadaster | Enkele URL’s geactualiseerd |
+| 1.2.0.3 | 27 november 2020 | Kadaster | Enkele URL’s geactualiseerd, catalogus nu ook in GIT, wijziging door gebruik BAG-panden verwerkt |
 
 # Inhoudsopgave
 
@@ -124,10 +124,14 @@ Tijdens de ontwikkeling van TOP10NL zijn een groot aantal deelonderzoeken verric
 
 In 2014 heeft het Kadaster samen met gebruikers een nieuw datamodel voor TOP10NL gedefiniëerd: TOP10NL 1.2. Vanaf november 2015 wordt TOP10NL geleverd volgens dit nieuwe datamodel. Ook heeft het Kadaster in 2015 meerdere experimenten uitgevoerd met als doel het bereiken van een 1 jarige cyclus voor de bijhouding van de TOP10NL met behoud van kwaliteit. In deze experimenten lag de focus op het opsporen van topografische terreinmutaties. Het resultaat van deze experimenten is dat de actualiteit van TOP10NL is verhoogd en het aantal bijgewerkte gebieden is gestegen. Met het nieuwe proces is het mogelijk om per levering 1/5 van Nederland te actualiseren. Vanwege de goede resultaten van deze experimenten is dit nieuwe TOP10NL-proces in gebruik genomen. TOP10NL wordt nu dus bijgehouden in een 1 jarige cyclus.
 
-> De catalogus en productspecificaties voor de basisregistratie Topografie verschijnt in twee versies:
->
-> - een actuele versie op de website van de BRT: [www.kadaster.nl/brt-documentatie](https://www.kadaster.nl/brt-documentatie)
-> - een versie waarin de wijzigingen ten opzichte van de vorige versie in rood zijn aangegeven op GitHub: [github.com/kadaster/top10nl/blob/master/documentatie](https://github.com/kadaster/top10nl/blob/master/documentatie/)
+> De catalogus en productspecificaties voor de basisregistratie Topografie verschijnt in twee versies: als document (pdf) en als website. In beide gevallen is er een actuele versie van de catalogus en productspecificaties en een versie waarin de wijzigingen ten opzichte van de vorige versie zijn aangegeven.
+> 
+> Als document:
+> -	een actuele versie op de website van de BRT: [www.kadaster.nl/brt-documentatie](https://www.kadaster.nl/brt-documentatie)
+> -	een versie waarin de wijzigingen ten opzichte van de vorige versie in rood zijn aangegeven op GitHub: [github.com/kadaster/top10nl/blob/master/documentatie](https://github.com/kadaster/top10nl/blob/master/documentatie)
+> Als website:
+> -	een actuele versie op: [kadaster.github.io/imbrt] (https://kadaster.github.io/imbrt)
+> -	wijzigingen ten opzichte van een vorige versie kunnen op GIThub ingezien worden op: [github.com/kadaster/imbrt/blob/master/docs/catalogus-productspecificaties.md] (https://github.com/kadaster/imbrt/blob/master/docs/catalogus-productspecificaties.md)
 
 # Leeswijzer
 
