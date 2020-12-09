@@ -3850,9 +3850,10 @@ _Inwinningscriteria:_
 - Uitbouwsels tot plm. 3x3 meter en luifels worden verwaarloosd. Inspringingen tot plm. 3x3 meter worden aangegeven als onderdeel van de bebouwing. Een loopgang of loopbrug wordt als onderdeel van het gebouw opgenomen indien deze 3 meter of breder is. Bij openingen groter dan plm. 3 meter wordt het hierdoor ontsloten binnenterrein wel gegeven, waarna een nieuwe afweging gemaakt wordt of er sprake is van een gebouw dan wel een bebouwd oppervlak.
 
 - Een open gedeelte binnen bebouwing (waarbij loopgangen buiten beschouwing worden gelaten), niet direct bereikbaar vanaf de openbare weg, kleiner dan ongeveer 1000 m² wordt niet opgenomen. Deze regel geldt echter niet voor boerderijen met ommuurde binnenplaats zoals deze in Limburg voorkomen.
+
 - Het al dan niet aangegeven van een gebouw is afhankelijk van de omgeving waarin dit gebouw staat. In een gebied met weinig bebouwing wordt elk gebouw aangegeven (vanwege de oriënterende waarde).
 
-In een gebied met drukke bebouwing worden gebouwen kleiner dan 50 m² achter de eerste rij gebouwen gezien vanaf de ontsluitingsweg niet opgenomen.
+- In een gebied met drukke bebouwing worden gebouwen kleiner dan 50 m² achter de eerste rij gebouwen gezien vanaf de ontsluitingsweg niet opgenomen.
 
 - Boothuizen worden als gebouw ingewonnen.
 
