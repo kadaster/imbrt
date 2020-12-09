@@ -39,7 +39,8 @@ Versie: 1.2.0.3
 - [3.5 Productieproces in het kort](#35-productieproces-in-het-kort)
 - [3.5.1 Detecteren van mutaties](#351-detecteren-van-mutaties)
 - [3.5.2 Interpretatie luchtfoto's en muteren TOP10NL](#352-interpretatie-luchtfotos-en-muteren-top10nl)
-- [3.5.3 Vervolgproducten](#353-vervolgproducten)
+- [3.5.3 Gebruik externe bronnen](#353-gebruik-externe-bronnen)
+- [3.5.4 Vervolgproducten](#354-vervolgproducten)
 - [3.6 Volledigheid TOP10NL](#36-volledigheid-top10nl)
 - [3.7 TDN-codes uit TOP10vector](#37-tdn-codes-uit-top10vector)
 - [3.8 Gebruik van TOP10NL](#38-gebruik-van-top10nl)
@@ -335,7 +336,12 @@ De luchtfoto's, ondersteund door 360 graden beelden, vormen de basis voor het bi
 
 De gegevens worden opgeslagen in een centrale database. Daarvoor wordt gebruik gemaakt van Oracle 11g Spatial. De data in de database is nu beschikbaar voor gebruik in geografische informatiesystemen en voor het maken van standaard kaartseries of speciale eenmalige producten.
 
-### 3.5.3 Vervolgproducten
+### 3.5.3 Gebruik externe bronnen
+
+Luchtfoto’s en panoramafoto’s vormen de belangrijkste bron voor het bijhouden van de basistopografie in TOP10NL. Maar op basis van alleen deze foto’s kunnen lang niet alle gegevens in TOP10NL ingewonnen en bijgehouden worden. Daarom wordt er veel veel en toenemend gebruik gemaakt van externe bronnen. Dit gebeurt hoofdzakelijk in aparte, thematische processen.
+Net als de basistopografie, worden de objecten en attributen die gebaseerd zijn op externe bronnen in principe jaarlijks bij gewerkt aan de hand van de beschikbare externe bronnen, voor zover jaarlijks een nieuwe versie van de bron beschikbaar is. Voor het intekenen van de geometrie wordt ook gebruik gemaakt van luchtfoto’s en panoramafoto’s. Externe bronnen worden met namen gebruik voor het bijhouden van de gegeven in de volgedne objectklassen: Gebouw, Inrichtingselement, Registratief gebied, Geografisch gebied, Plaats en Functioneel gebied.
+
+### 3.5.4 Vervolgproducten
 
 De bijgewerkte TOP10NL is vervolgens de bron voor het maken van de vervolgproducten. Door middel van visualisatie en automatische generalisatie worden deze vervolgproducten gerealiseerd. Het gaat om de volgende producten:
 
@@ -1581,6 +1587,8 @@ NEN3610 _2005_ (Basismodel Geo-Informatie) is vrijwel tegelijkertijd met TOP10NL
 Het uitwisselingsformaat waarin de gegevens beschikbaar zijn, is meestal afhankelijk van het softwarepakket waarin de gegevens zijn geproduceerd. De ontwikkelingen van de laatste decennia hebben geleid tot een breed scala van uitwisselingsformaten. Voor gebruikers met een afwijkend softwarepakket dan de producent levert dit vaak onoverkomelijke problemen op. Gelukkig zijn er nationale en internationale organisaties die standaarden vaststellen waarmee, onafhankelijk van de gebruikte software, datasets kunnen worden uitgewisseld. Dit gaat echter soms gepaard met gegevensverlies. Zo zijn er NEN- (Nederlandse), CEN- (Europese) en ISO- (wereldwijde) standaarden. Voor TOP10NL is gekozen voor een internationale standaard, aangereikt door het Open Geospatial Consortium (OGC, voorheen OpenGIS Consortium). Dit consortium is een samenwerkings-verband van enkele honderden internationale bedrijven en instanties op het gebied van GIS-software en GIS-gebruikers. Het doel is open standaarden te ontwikkelen, zodat datasets zonder problemen kunnen worden uitgewisseld en worden gebruikt op diverse platforms binnen de gangbare GIS-software.
 
 Voor de uitwisseling van de TOP10NL bestanden is gekozen voor de standaardtaal GML (Geography Markup Language). Het voordeel van GML is dat zowel de inhoud als de structuur van de gegevens meegeleverd wordt. De structuur wordt via het internet door de bronhouder(s) bijgehouden, zodat dataconversie problemen tot het verleden behoren. GML is in beginsel een uitwisselingsformaat dat onafhankelijk is van specifieke GIS-software. Het is wereldwijd bruikbaar in een GIS systeem dat compatibel is met XML (eXtensible Markup Language), een internationale standaard op ICT gebied.
+
+Vanaf de BRT-levering van september 2020 wordt TOP10NL ook ontsloten als Geopackage. Meer informatie over Geopackage is te vinden op de website van Geonovum ([www.geonovum.nl/geo-standaarden/geopackage](https://www.geonovum.nl/geo-standaarden/geopackage)
 
 ## 6.1 GML
 
@@ -3837,6 +3845,8 @@ Vrijstaande, overdekte en geheel of gedeeltelijk met wanden omsloten toegankelij
 
 _Inwinningscriteria:_
 
+- Met ingang van april 2020 is het muteren van gebouwen in de BRT gebaseerd op mutaties in de Basisregistraties Adressen en Gebouwen (BAG). Alle mutaties die in de BAG plaatsvinden worden in enigszins gegeneraliseerde vorm overgenomen in de BRT. Als peildatum voor de BAG-mutaties is hierbij 1 juni gebruikt, omdat dit het beste aansluit bij de luchtfoto’s waarmee de andere elementen in de BRT wordt bijgewerkt. 
+
 - Een gebouw moet een permanent karakter hebben en bedoeld zijn voor verblijf, handel, verkeer en/of arbeid.
 
 - De orthogonale projectie van de uiterste buitenrand inclusief carports en passages (overbouwing van een weg reikend van gebouw tot gebouw, enkel bestaand uit een al dan niet licht doorlatend dak), exclusief luifels, op onderliggend terrein, wegen of water wordt opgenomen. Een stationsoverkapping wordt ingewonnenn als gebouw, een overkapping van alleen een perron op een station wordt niet opgenomen. Bebouwing boven (hoge) poorten maakt onderdeel uit van de opgaande bebouwing. Bebouwing, geheel of gedeeltelijk gelegen over een ander object, wordt als bebouwing aangegeven.
@@ -4986,6 +4996,8 @@ _Inwinningscriteria:_
 Voor terreinen begrensd door uitsluitend harde topografie (zoals wegdelen, spoorbaandelen, waterdelen en enkele inrichtingselementen) geldt geen minimummaat. Voor terreinen niet geheel begrensd door harde topografie is de minimumoppervlakte 1000 m². Voor eilanden (land omgeven door water): minimumoppervlakte 50 m².
 
 Een berm smaller dan 6 meter en zonder talud en zonder brede houtrand wordt niet als terrein opgenomen als de berm begrensd wordt door een waterloop, bebouwing, bebouwd oppervlak of een weg. Een berm met talud wordt ongeacht de breedte als terrein met reliëf opgenomen. Het niet berijdbare middenvlak van een rotonde wordt, ongeacht de grootte, aangegeven.
+
+Voor het bijhouden van het attribuut type_landgebruik wordt gebruik gemaakt van een externe bron. Voor agrarische percelen wordt hiervoor gebruik gemaakt van de Basisregistratie Gewaspercelen (BRP) van RVO. Het soort gewas dat een perceeleigenaar opgeeft in de BRP is bepalend voor het invullen van het juiste type_landgebruik in TOP10NL.
 
 ### Attribuut geometrieVlak
 
