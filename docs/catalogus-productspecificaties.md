@@ -847,7 +847,7 @@ Gelijkvloerse kruisingen kunnen meerdere waarden hebben voor 'wegtype' en 'hoofd
 
 | identificatie | type infrastructuur | type weg | type weg |
 |:---:|:---:|:---:|:---:|
-| 2200018 | verbinding | regionale | weg | |
+| 2200018 | verbinding | regionale weg | |
 | 2200056 | verbinding | overig | |
 | 2200095 | verbinding | overig | |
 | 2200101 | verbinding | overig | |
