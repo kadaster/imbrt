@@ -338,8 +338,7 @@ De gegevens worden opgeslagen in een centrale database. Daarvoor wordt gebruik g
 
 ### 3.5.3 Gebruik externe bronnen
 
-Luchtfoto’s en panoramafoto’s vormen de belangrijkste bron voor het bijhouden van de basistopografie in TOP10NL. Maar op basis van alleen deze foto’s kunnen lang niet alle gegevens in TOP10NL ingewonnen en bijgehouden worden. Daarom wordt er veel veel en toenemend gebruik gemaakt van externe bronnen. Dit gebeurt hoofdzakelijk in aparte, thematische processen.
-Net als de basistopografie, worden de objecten en attributen die gebaseerd zijn op externe bronnen in principe jaarlijks bij gewerkt aan de hand van de beschikbare externe bronnen, voor zover jaarlijks een nieuwe versie van de bron beschikbaar is. Voor het intekenen van de geometrie wordt ook gebruik gemaakt van luchtfoto’s en panoramafoto’s. Externe bronnen worden met namen gebruik voor het bijhouden van de gegeven in de volgedne objectklassen: Gebouw, Inrichtingselement, Registratief gebied, Geografisch gebied, Plaats en Functioneel gebied.
+Luchtfoto’s en panoramafoto’s vormen de belangrijkste bron voor het bijhouden van de basistopografie in TOP10NL. Maar op basis van alleen deze foto’s kunnen niet alle gegevens in TOP10NL ingewonnen en bijgehouden worden. Daarom wordt er in toenemende mate gebruik gemaakt van externe bronnen. Net als de basistopografie, worden de objecten en attributen die gebaseerd zijn op externe bronnen in principe jaarlijks bijgewerkt aan de hand van de beschikbare externe bronnen, voor zover jaarlijks een nieuwe versie van de bron beschikbaar is. Voor het intekenen van de geometrie wordt ook gebruik gemaakt van luchtfoto’s en panoramafoto’s. Externe bronnen worden met name gebruik voor het bijhouden van de gegevens in de volgende objectklassen: Gebouw, Inrichtingselement, Registratief gebied, Geografisch gebied, Plaats en Functioneel gebied.
 
 ### 3.5.4 Vervolgproducten
 
@@ -3845,7 +3844,7 @@ Vrijstaande, overdekte en geheel of gedeeltelijk met wanden omsloten toegankelij
 
 _Inwinningscriteria:_
 
-- Met ingang van april 2020 is het muteren van gebouwen in de BRT gebaseerd op mutaties in de Basisregistraties Adressen en Gebouwen (BAG). Alle mutaties die in de BAG plaatsvinden worden in enigszins gegeneraliseerde vorm overgenomen in de BRT. Als peildatum voor de BAG-mutaties is hierbij 1 juni gebruikt, omdat dit het beste aansluit bij de luchtfoto’s waarmee de andere elementen in de BRT wordt bijgewerkt. 
+- Met ingang van april 2020 is het muteren van gebouwen in de BRT gebaseerd op mutaties in de Basisregistraties Adressen en Gebouwen (BAG). Alle mutaties die in de BAG plaatsvinden worden in enigszins gegeneraliseerde vorm overgenomen in de BRT. Als peildatum voor de BAG-mutaties is hierbij 1 juni gebruikt, omdat dit het beste aansluit bij de luchtfoto’s waarmee de andere elementen in de BRT worden bijgewerkt. 
 
 - Een gebouw moet een permanent karakter hebben en bedoeld zijn voor verblijf, handel, verkeer en/of arbeid.
 
