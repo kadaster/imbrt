@@ -5124,9 +5124,9 @@ Voor het bijhouden van het attribuut type_landgebruik wordt gebruik gemaakt van 
 
 | Domein | TE\_typeIandgebruik |
 |:---|:---|
-| Domeinwaarde | **dodenakker** |
-| Definitie | Terrein, gedeelte van een begraafplaats waar doden zijn of zullen worden begraven, niet gelegen in bos. |
-| Inwinningscriteria | - |
+| Domeinwaarde | **braakliggend** |
+| Definitie | Een stuk grond dat geen functie vervult of niet wordt onderhouden, met uitzondering van landbouwgrond. |
+| Inwinningscriteria | Braakliggende landbouwgronden en landbouwterreinen die zijn ingezaaid met groenbemesters worden aangegeven als braakliggend. Betreft het een andersoortig terrein dan wordt dit gegeven met een vlak van het type 'overig'. |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
@@ -5134,9 +5134,9 @@ Voor het bijhouden van het attribuut type_landgebruik wordt gebruik gemaakt van 
 
 | Domein | TE\_typeIandgebruik |
 |:---|:---|
-| Domeinwaarde | **braakliggend** |
-| Definitie | Een stuk grond dat geen functie vervult of niet wordt onderhouden, met uitzondering van landbouwgrond. |
-| Inwinningscriteria | Braakliggende landbouwgronden en landbouwterreinen die zijn ingezaaid met groenbemesters worden aangegeven als braakliggend. Betreft het een andersoortig terrein dan wordt dit gegeven met een vlak van het type 'overig'. |
+| Domeinwaarde | **dodenakker** |
+| Definitie | Terrein, gedeelte van een begraafplaats waar doden zijn of zullen worden begraven, niet gelegen in bos. |
+| Inwinningscriteria | - |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
