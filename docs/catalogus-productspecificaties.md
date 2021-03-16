@@ -8098,7 +8098,7 @@ _Inwinningscriteria:_
 | Multipliciteit | Enkelvoudig |
 | Optionaliteit | Verplicht |
 | Formaat | Tekst |
-| Domein | "PT\_typePlantopografie" |
+| Domein | "PT\_typeObject" |
 
 #### Domein "PT\_typeObject"
 
