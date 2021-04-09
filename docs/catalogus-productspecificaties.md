@@ -3263,7 +3263,7 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 | Lijn | Ja |
 | Vlak | Nee |
 
-| Domein | WA\_breedteklasser |
+| Domein | WA\_breedteklasse |
 |:---|:---|
 | Domeinwaarde | **3 - 6 meter** |
 | Definitie | De breedte van het water is groter dan of gelijk aan 3 meter en minder dan 6 meter. |
@@ -3273,7 +3273,7 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 | Lijn | Ja |
 | Vlak | Nee |
 
-| Domein | WA\_breedteklasser |
+| Domein | WA\_breedteklasse |
 |:---|:---|
 | Domeinwaarde | **6 - 12 meter** |
 | Definitie | De breedte van het water is groter dan of gelijk aan 6 meter en minder dan 12 meter. |
@@ -3283,7 +3283,7 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 | Lijn | Nee |
 | Vlak | Ja |
 
-| Domein | WA\_breedteklasser |
+| Domein | WA\_breedteklasse |
 |:---|:---|
 | Domeinwaarde | **12 - 50 meter** |
 | Definitie | De breedte van het water is groter dan of gelijk aan 12 meter en minder dan 50 meter. |
@@ -3293,7 +3293,7 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 | Lijn | Nee |
 | Vlak | Ja |
 
-| Domein | WA\_breedteklasser |
+| Domein | WA\_breedteklasse |
 |:---|:---|
 | Domeinwaarde | **50 - 125 meter** |
 | Definitie | De breedte van het water is groter dan of gelijk aan 50 meter en minder dan 125 meter. |
@@ -3303,7 +3303,7 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 | Lijn | Nee |
 | Vlak | Ja |
 
-| Domein | WA\_breedteklasser |
+| Domein | WA\_breedteklasse |
 |:---|:---|
 | Domeinwaarde | **> 125 meter** |
 | Definitie | De breedte van het water is groter dan of gelijk aan 125 meter. |
