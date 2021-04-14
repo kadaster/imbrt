@@ -54,6 +54,7 @@ Dit document begint met een kort overzicht van het Stelsel van Basisregistraties
 
 - [Inleiding](#inleiding)
 - [Leeswijzer](#leeswijzer)
+- [Versiehistorie](##versiehistorie)
 - [1 Stelsel van Basisregistraties](#1-stelsel-van-basisregistraties)
 - [2 Kenmerken van TOP10NL](#2-kenmerken-van-top10nl)
 - [3 Opbouw TOP10NL](#3-opbouw-top10nl)
