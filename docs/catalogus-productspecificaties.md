@@ -4,6 +4,38 @@
 
 Versie: 1.2.0.3
 
+# Inleiding
+
+Dit document is bestemd voor de gebruikers van TOP10NL en bevat een beschrijving van het product. Ook wordt in dit document achtergrondinformatie over het ontstaan van TOP10NL en de algemeen geldende regels betreffende geo-objecten in TOP10NL gegeven.
+
+TOP10NL is een digitaal topografisch bestand in het algemeen bruikbaar binnen een schaalbereik van 1:5.000 tot 1:25.000. TOP10NL is uitermate geschikt als geometrische referentie en als basis voor GIS- en webapplicaties. Voorts is TOP10NL geschikt voor flexibele visualisaties. TOP10NL vormt tevens de basis voor de standaard analoge topografische kaarten op de schalen 1:10.000 en 1:25.000 en vanaf 2013 ook als bron voor de 1: 50.000 door automatische generalisatie. Visualisaties voor andere gebruikstoepassingen zijn zonder meer mogelijk.
+
+TOP10NL geeft de topografische werkelijkheid binnen de grenzen van het schaalbereik, of de resolutie, onvertekend weer. Daartoe is een datamodel gedefinieerd dat bepaald welke geo-objecten er in het bestand zijn opgenomen. Voorts zijn regels geformuleerd op welke wijze deze geo-objecten worden ingewonnen en vastgelegd, de zogenaamde verkenningsregels. De aldus gedefinieerde geo-objecten worden digitaal opgeslagen in de vastgestelde gegevensstructuur.
+
+Het Kadaster produceert vanaf 2007 dit nieuwe objectgerichte vectorbestand op de schaal 1:10.000. Het is de opvolger van TOP10vector dat sinds 1992 is vervaardigd. Bij de ontwikkeling van TOP10NL spelen standaarden een belangrijke rol. Eén van de belangrijkste doeleinden van het nieuwe bestand is een optimale uitwisseling mogelijk te maken tussen dit topografisch basisbestand en vele andere topografische en thematische bestanden die in Nederland worden geproduceerd. Aansluiten bij internationale standaarden is van essentieel belang om uitwisseling mogelijk te maken met geografische basisbestanden welke binnen Europa geproduceerd worden.
+
+Vanaf 1 januari 2008 fungeert TOP10NL als Basisregistratie Topografie (BRT). Daarmee is TOP10NL het standaard topografische basisbestand voor gebruik binnen de overheid op het betreffende schaalgebied. Voor meer informatie zie [www.rijksoverheid.nl](https://www.rijksoverheid.nl) en [www.kadaster.nl/BRT](https://www.kadaster.nl/brt)
+
+Tijdens de ontwikkeling van TOP10NL zijn een groot aantal deelonderzoeken verricht. Het product TOP10NL is ontwikkeld in samenspraak met de gebruikers. Deelonderzoeken zijn verricht door de universiteiten van Delft, Wageningen en het ITC te Enschede. Externe GIS-software ontwikkelbedrijven hebben een aanzienlijke bijdrage geleverd in de ontwikkeling van de database.
+
+In 2014 heeft het Kadaster samen met gebruikers een nieuw datamodel voor TOP10NL gedefiniëerd: TOP10NL 1.2. Vanaf november 2015 wordt TOP10NL geleverd volgens dit nieuwe datamodel. Ook heeft het Kadaster in 2015 meerdere experimenten uitgevoerd met als doel het bereiken van een 1 jarige cyclus voor de bijhouding van de TOP10NL met behoud van kwaliteit. In deze experimenten lag de focus op het opsporen van topografische terreinmutaties. Het resultaat van deze experimenten is dat de actualiteit van TOP10NL is verhoogd en het aantal bijgewerkte gebieden is gestegen. Met het nieuwe proces is het mogelijk om per levering 1/5 van Nederland te actualiseren. Vanwege de goede resultaten van deze experimenten is dit nieuwe TOP10NL-proces in gebruik genomen. TOP10NL wordt nu dus bijgehouden in een 1 jarige cyclus.
+
+> De catalogus en productspecificaties voor de basisregistratie Topografie verschijnt in twee versies: als document (pdf) en als website. In beide gevallen is er een actuele versie van de catalogus en productspecificaties en een versie waarin de wijzigingen ten opzichte van de vorige versie zijn aangegeven.
+> 
+> Als document:
+> -	een actuele versie op de website van de BRT: [www.kadaster.nl/brt-documentatie](https://www.kadaster.nl/brt-documentatie)
+> -	een versie waarin de wijzigingen ten opzichte van de vorige versie in rood zijn aangegeven op GitHub: [github.com/kadaster/top10nl/blob/master/documentatie](https://github.com/kadaster/top10nl/blob/master/documentatie)
+> 
+> Als website:
+> -	een actuele versie op: [kadaster.github.io/imbrt] (https://kadaster.github.io/imbrt)
+> -	wijzigingen ten opzichte van een vorige versie kunnen op GIThub ingezien worden op: [github.com/kadaster/imbrt/blob/master/docs/catalogus-productspecificaties.md] (https://github.com/kadaster/imbrt/blob/master/docs/catalogus-productspecificaties.md)
+
+# Leeswijzer
+
+Dit document begint met een kort overzicht van het Stelsel van Basisregistraties. Hierna worden de belangrijkste kenmerken van TOP10NL beschreven. [Hoofdstuk 3](#3-opbouw-top10nl) behandelt een aantal algemene zaken over TOP10NL, zoals de gebiedsaanduiding, de actualiteit, het ruimtelijk referentiesysteem, een kwaliteitsbeschrijving, het productieproces en het gebruik van TOP10NL. [Hoofdstuk 4](#4-gegevensmodel-top10nl) beschrijft het gegevensmodel met de verschillende groepen kenmerken en het gedrag van geo-objecten. In [hoofdstuk 5](#5-de-objectcatalogus-in-het-kort) vindt u een compact overzicht van alle objectklassen, attributen en attribuutwaarden van TOP10NL inclusief de mogelijke geometrieën. Hoofdstuk 0 gaat in op de uitwisseling van gegevens. Daarbij komen o.a. GML, UML en de XSD aan bod. De complete uitgebreide objectcatalogus is opgenomen in [hoofdstuk 7](#7-catalogus-basisregistratie-topografie).
+
+[Bijlage 1: Mutatieprotocol](#bijlage-1-mutatieprotocol) beschrijft het mutatieprotocol dat gebruikt wordt om te bepalen wanneer er sprake is van een nieuw object of een nieuwe versie van een object. Dit is van belang bij het toekennen van unieke identificatiecodes.
+
 ## Versiehistorie
 
 | Versie | Datum | Auteur | Opmerking |
@@ -108,38 +140,6 @@ Versie: 1.2.0.3
 - [7.13 Objectklasse: functioneel gebied](#713-objectklasse-functioneel-gebied)
 - [7.14 Objectklasse: plantopografie](#714-objectklasse-plantopografie)
 - [Bijlage 1: Mutatieprotocol](#bijlage-1-mutatieprotocol)
-
-# Inleiding
-
-Dit document is bestemd voor de gebruikers van TOP10NL en bevat een beschrijving van het product. Ook wordt in dit document achtergrondinformatie over het ontstaan van TOP10NL en de algemeen geldende regels betreffende geo-objecten in TOP10NL gegeven.
-
-TOP10NL is een digitaal topografisch bestand in het algemeen bruikbaar binnen een schaalbereik van 1:5.000 tot 1:25.000. TOP10NL is uitermate geschikt als geometrische referentie en als basis voor GIS- en webapplicaties. Voorts is TOP10NL geschikt voor flexibele visualisaties. TOP10NL vormt tevens de basis voor de standaard analoge topografische kaarten op de schalen 1:10.000 en 1:25.000 en vanaf 2013 ook als bron voor de 1: 50.000 door automatische generalisatie. Visualisaties voor andere gebruikstoepassingen zijn zonder meer mogelijk.
-
-TOP10NL geeft de topografische werkelijkheid binnen de grenzen van het schaalbereik, of de resolutie, onvertekend weer. Daartoe is een datamodel gedefinieerd dat bepaald welke geo-objecten er in het bestand zijn opgenomen. Voorts zijn regels geformuleerd op welke wijze deze geo-objecten worden ingewonnen en vastgelegd, de zogenaamde verkenningsregels. De aldus gedefinieerde geo-objecten worden digitaal opgeslagen in de vastgestelde gegevensstructuur.
-
-Het Kadaster produceert vanaf 2007 dit nieuwe objectgerichte vectorbestand op de schaal 1:10.000. Het is de opvolger van TOP10vector dat sinds 1992 is vervaardigd. Bij de ontwikkeling van TOP10NL spelen standaarden een belangrijke rol. Eén van de belangrijkste doeleinden van het nieuwe bestand is een optimale uitwisseling mogelijk te maken tussen dit topografisch basisbestand en vele andere topografische en thematische bestanden die in Nederland worden geproduceerd. Aansluiten bij internationale standaarden is van essentieel belang om uitwisseling mogelijk te maken met geografische basisbestanden welke binnen Europa geproduceerd worden.
-
-Vanaf 1 januari 2008 fungeert TOP10NL als Basisregistratie Topografie (BRT). Daarmee is TOP10NL het standaard topografische basisbestand voor gebruik binnen de overheid op het betreffende schaalgebied. Voor meer informatie zie [www.rijksoverheid.nl](https://www.rijksoverheid.nl) en [www.kadaster.nl/BRT](https://www.kadaster.nl/brt)
-
-Tijdens de ontwikkeling van TOP10NL zijn een groot aantal deelonderzoeken verricht. Het product TOP10NL is ontwikkeld in samenspraak met de gebruikers. Deelonderzoeken zijn verricht door de universiteiten van Delft, Wageningen en het ITC te Enschede. Externe GIS-software ontwikkelbedrijven hebben een aanzienlijke bijdrage geleverd in de ontwikkeling van de database.
-
-In 2014 heeft het Kadaster samen met gebruikers een nieuw datamodel voor TOP10NL gedefiniëerd: TOP10NL 1.2. Vanaf november 2015 wordt TOP10NL geleverd volgens dit nieuwe datamodel. Ook heeft het Kadaster in 2015 meerdere experimenten uitgevoerd met als doel het bereiken van een 1 jarige cyclus voor de bijhouding van de TOP10NL met behoud van kwaliteit. In deze experimenten lag de focus op het opsporen van topografische terreinmutaties. Het resultaat van deze experimenten is dat de actualiteit van TOP10NL is verhoogd en het aantal bijgewerkte gebieden is gestegen. Met het nieuwe proces is het mogelijk om per levering 1/5 van Nederland te actualiseren. Vanwege de goede resultaten van deze experimenten is dit nieuwe TOP10NL-proces in gebruik genomen. TOP10NL wordt nu dus bijgehouden in een 1 jarige cyclus.
-
-> De catalogus en productspecificaties voor de basisregistratie Topografie verschijnt in twee versies: als document (pdf) en als website. In beide gevallen is er een actuele versie van de catalogus en productspecificaties en een versie waarin de wijzigingen ten opzichte van de vorige versie zijn aangegeven.
-> 
-> Als document:
-> -	een actuele versie op de website van de BRT: [www.kadaster.nl/brt-documentatie](https://www.kadaster.nl/brt-documentatie)
-> -	een versie waarin de wijzigingen ten opzichte van de vorige versie in rood zijn aangegeven op GitHub: [github.com/kadaster/top10nl/blob/master/documentatie](https://github.com/kadaster/top10nl/blob/master/documentatie)
-> 
-> Als website:
-> -	een actuele versie op: [kadaster.github.io/imbrt] (https://kadaster.github.io/imbrt)
-> -	wijzigingen ten opzichte van een vorige versie kunnen op GIThub ingezien worden op: [github.com/kadaster/imbrt/blob/master/docs/catalogus-productspecificaties.md] (https://github.com/kadaster/imbrt/blob/master/docs/catalogus-productspecificaties.md)
-
-# Leeswijzer
-
-Dit document begint met een kort overzicht van het Stelsel van Basisregistraties. Hierna worden de belangrijkste kenmerken van TOP10NL beschreven. [Hoofdstuk 3](#3-opbouw-top10nl) behandelt een aantal algemene zaken over TOP10NL, zoals de gebiedsaanduiding, de actualiteit, het ruimtelijk referentiesysteem, een kwaliteitsbeschrijving, het productieproces en het gebruik van TOP10NL. [Hoofdstuk 4](#4-gegevensmodel-top10nl) beschrijft het gegevensmodel met de verschillende groepen kenmerken en het gedrag van geo-objecten. In [hoofdstuk 5](#5-de-objectcatalogus-in-het-kort) vindt u een compact overzicht van alle objectklassen, attributen en attribuutwaarden van TOP10NL inclusief de mogelijke geometrieën. Hoofdstuk 0 gaat in op de uitwisseling van gegevens. Daarbij komen o.a. GML, UML en de XSD aan bod. De complete uitgebreide objectcatalogus is opgenomen in [hoofdstuk 7](#7-catalogus-basisregistratie-topografie).
-
-[Bijlage 1: Mutatieprotocol](#bijlage-1-mutatieprotocol) beschrijft het mutatieprotocol dat gebruikt wordt om te bepalen wanneer er sprake is van een nieuw object of een nieuwe versie van een object. Dit is van belang bij het toekennen van unieke identificatiecodes.
 
 # 1 Stelsel van Basisregistraties
 
