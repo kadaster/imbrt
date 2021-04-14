@@ -27,8 +27,8 @@ In 2014 heeft het Kadaster samen met gebruikers een nieuw datamodel voor TOP10NL
 > -	een versie waarin de wijzigingen ten opzichte van de vorige versie in rood zijn aangegeven op GitHub: [github.com/kadaster/top10nl/blob/master/documentatie](https://github.com/kadaster/top10nl/blob/master/documentatie)
 > 
 > Als website:
-> -	een actuele versie op: [kadaster.github.io/imbrt] (https://kadaster.github.io/imbrt)
-> -	wijzigingen ten opzichte van een vorige versie kunnen op GIThub ingezien worden op: [github.com/kadaster/imbrt/blob/master/docs/catalogus-productspecificaties.md] (https://github.com/kadaster/imbrt/blob/master/docs/catalogus-productspecificaties.md)
+> -	een actuele versie op: [kadaster.github.io/imbrt](https://kadaster.github.io/imbrt)
+> -	wijzigingen ten opzichte van een vorige versie kunnen op GIThub ingezien worden op: [github.com/kadaster/imbrt/blob/master/docs/catalogus-productspecificaties.md](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-productspecificaties.md)
 
 # Leeswijzer
 
