@@ -39,7 +39,7 @@ Dit document begint met een kort overzicht van het Stelsel van Basisregistraties
 # Versiehistorie
 
 | Versie | Datum | Auteur | Opmerking | Link naar versie in GIT |
-|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|
 | 1.0 | 18 september 2007 | Kadaster | Initiële versie intern Kadaster. | - |
 | 2.0 | 18 december 2007 | Kadaster | Eerste versie extern Kadaster. | - |
 | 2.1 | 11 april 2013 | Kadaster | Complete herziening, toevoeging productspecificaties. | - |
