@@ -49,7 +49,7 @@ Dit document begint met een kort overzicht van het Stelsel van Basisregistraties
 | 1.2.0.1 | 8 juli 2019 | Kadaster | Wijzigingen n.a.v. Audit BRT 2017 doorgevoerd. Wijzigingen datamodel inrichtingselement en functioneel gebied verwerkt. Diverse verduidelijkingen verwerkt. | - |
 | 1.2.0.2 | 20 april 2020 | Kadaster | Enkele kleine tekstuele fouten verbeterd. | - |
 | 1.2.0.3 | 11 december 2020 | Kadaster | Enkele URL’s geactualiseerd, catalogus nu ook in GIT, wijziging door gebruik BAG-panden verwerkt. | [Catalogus versie 1.2.0.3](https://github.com/kadaster/imbrt/blob/b5531020caaab2d0c0da4c1b9a9d2f06fe685d3e/docs/catalogus-productspecificaties.md) |
-| 1.2.0.4 | 14 mei 2021 | Kadaster | Toevoeging tabel met wijzigingen, toevoeging  link naar versie in GIT. | [Catalogus versie 1.2.0.4](--) |
+| 1.2.0.4 | 14 mei 2021 | Kadaster | Toevoeging tabel met wijzigingen, toevoeging  link naar versie in GIT. | [Catalogus versie 1.2.0.4](https://github.com/kadaster/imbrt/blob/b49e5ff6cc5419d14960dfe760649056113096f0/docs/catalogus-productspecificaties.md) |
 
 # Wijzigingshistorie
 <!---
@@ -58,7 +58,7 @@ Link pas aanpassen nadat alle andere wijzigingen doorgevoerd zijn in een aparte 
 -->
 | Versie | Wijzigingen | Link naar uitgebreide wijzigingen |
 |:---|:---|:---|
-| 1.2.0.4 | Toevoeging tabel met wijzigingen <br> Toevoeging  link naar versie in GIT| [Wijzigingen in 1.2.0.4](https://github.com/kadaster/imbrt/compare/b553102..master?diff=split) |
+| 1.2.0.4 | Toevoeging tabel met wijzigingen <br> Toevoeging  link naar versie in GIT| [Wijzigingen in 1.2.0.4](https://github.com/kadaster/imbrt/compare/b553102..b49e5ff?diff=split) |
 
 
 # Inhoudsopgave
