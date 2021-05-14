@@ -40,14 +40,14 @@ Dit document begint met een kort overzicht van het Stelsel van Basisregistraties
 
 | Versie | Datum | Auteur | Opmerking | Link naar versie in GIT |
 |:---|:---|:---|:---|
-| 1.0 | 18 september 2007 | Kadaster | Initiële versie intern Kadaster. | |
-| 2.0 | 18 december 2007 | Kadaster | Eerste versie extern Kadaster. | |
-| 2.1 | 11 april 2013 | Kadaster | Complete herziening, toevoeging productspecificaties. | |
-| 2.2 | 27 juni 2014 | Kadaster | Herziening n.a.v. wijziging inwinningscriteria en productieproces. | |
-| 2.2.1 | 23 mei 2016 | Kadaster | Wijzigingen n.a.v. Audit BRT 2014 doorgevoerd. | |
-| 1.2.0 | 21 september 2017 | Kadaster | Nummering gelijk datamodel TOP10NL. Herziening n.a.v. TOP10NL datamodel 1.2 verwerkt, wijzigingen in productieporces en inwinningscriteria verwerkt. | |
-| 1.2.0.1 | 8 juli 2019 | Kadaster | Wijzigingen n.a.v. Audit BRT 2017 doorgevoerd. Wijzigingen datamodel inrichtingselement en functioneel gebied verwerkt. Diverse verduidelijkingen verwerkt. | |
-| 1.2.0.2 | 20 april 2020 | Kadaster | Enkele kleine tekstuele fouten verbeterd. | |
+| 1.0 | 18 september 2007 | Kadaster | Initiële versie intern Kadaster. | - |
+| 2.0 | 18 december 2007 | Kadaster | Eerste versie extern Kadaster. | - |
+| 2.1 | 11 april 2013 | Kadaster | Complete herziening, toevoeging productspecificaties. | - |
+| 2.2 | 27 juni 2014 | Kadaster | Herziening n.a.v. wijziging inwinningscriteria en productieproces. | - |
+| 2.2.1 | 23 mei 2016 | Kadaster | Wijzigingen n.a.v. Audit BRT 2014 doorgevoerd. | - |
+| 1.2.0 | 21 september 2017 | Kadaster | Nummering gelijk datamodel TOP10NL. Herziening n.a.v. TOP10NL datamodel 1.2 verwerkt, wijzigingen in productieporces en inwinningscriteria verwerkt. | - |
+| 1.2.0.1 | 8 juli 2019 | Kadaster | Wijzigingen n.a.v. Audit BRT 2017 doorgevoerd. Wijzigingen datamodel inrichtingselement en functioneel gebied verwerkt. Diverse verduidelijkingen verwerkt. | - |
+| 1.2.0.2 | 20 april 2020 | Kadaster | Enkele kleine tekstuele fouten verbeterd. | - |
 | 1.2.0.3 | 11 december 2020 | Kadaster | Enkele URL’s geactualiseerd, catalogus nu ook in GIT, wijziging door gebruik BAG-panden verwerkt. | [Catalogus versie 1.2.0.3](https://github.com/kadaster/imbrt/blob/b5531020caaab2d0c0da4c1b9a9d2f06fe685d3e/docs/catalogus-productspecificaties.md) |
 | 1.2.0.4 | 14 mei 2021 | Kadaster | Toevoeging tabel met wijzigingen, toevoeging  link naar versie in GIT. | [Catalogus versie 1.2.0.4](--) |
 
