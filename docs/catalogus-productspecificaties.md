@@ -53,7 +53,7 @@ Dit document begint met een kort overzicht van het Stelsel van Basisregistraties
 # Wijzigingshistorie
 | Versie | Wijzigingen | Link naar uitgebreide wijzigingen |
 |:---|:---|:---|
-| 1.2.0.3 | Wat zijn de wijzigingen | [Wijzigingen in 1.2.0.3](https://github.com/kadaster/imbrt/compare/fa09785..master?diff=split) |
+| 1.2.0.3 | Eerste wijziging <br> tweede wijziging| [Wijzigingen in 1.2.0.3](https://github.com/kadaster/imbrt/compare/fa09785..master?diff=split) |
 
 # Inhoudsopgave
 
