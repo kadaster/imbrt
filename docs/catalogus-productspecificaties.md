@@ -38,7 +38,7 @@ Dit document begint met een kort overzicht van het Stelsel van Basisregistraties
 
 # Versiehistorie
 
-| Versie | Datum | Auteur | Opmerking | Link naar versie in GIT |
+| Versie | Datum | Auteur | Opmerking | Link naar historische versies |
 |:---|:---|:---|:---|:---|
 | 1.0 | 18 september 2007 | Kadaster | Initiële versie intern Kadaster. | |
 | 2.0 | 18 december 2007 | Kadaster | Eerste versie extern Kadaster. | |
@@ -48,26 +48,30 @@ Dit document begint met een kort overzicht van het Stelsel van Basisregistraties
 | 1.2.0 | 21 september 2017 | Kadaster | Nummering gelijk datamodel TOP10NL. <br> Herziening n.a.v. TOP10NL datamodel 1.2 verwerkt, wijzigingen in productieporces en inwinningscriteria verwerkt. | |
 | 1.2.0.1 | 8 juli 2019 | Kadaster | Wijzigingen n.a.v. Audit BRT 2017 doorgevoerd. <br> Wijzigingen datamodel inrichtingselement en functioneel gebied verwerkt. <br> Diverse verduidelijkingen verwerkt. | |
 | 1.2.0.2 | 20 april 2020 | Kadaster | Enkele kleine tekstuele fouten verbeterd. | |
-| 1.2.0.3 | 11 december 2020 | Kadaster | Enkele URL’s geactualiseerd, catalogus nu ook in GIT, wijziging door gebruik BAG-panden verwerkt. | [Catalogus versie 1.2.0.3](https://github.com/kadaster/imbrt/blob/b5531020caaab2d0c0da4c1b9a9d2f06fe685d3e/docs/catalogus-productspecificaties.md) |
-| 1.2.0.4 | 14 mei 2021 | Kadaster | Toevoeging tabel met wijzigingen, toevoeging  link naar versie in GIT. | [Catalogus versie 1.2.0.4](https://github.com/kadaster/imbrt/blob/b49e5ff6cc5419d14960dfe760649056113096f0/docs/catalogus-productspecificaties.md) |
+| 1.2.0.3 | 11 december 2020 | Kadaster | Enkele URL’s geactualiseerd, catalogus nu ook in GIT, wijziging door gebruik BAG-panden verwerkt. | [Catalogus versie 1.2.0.3](https://github.com/kadaster/imbrt/blob/3b193ec7da5ce23c4c486e2f021b491c3573fb01/docs/catalogus-productspecificaties.md) |
+| 1.2.0.4 | 14 mei 2021 | Kadaster | Toevoeging wijzigingen t.o.v. vorige versie, toevoeging link naar historische versie Catalogus. | |
 
-# Wijzigingshistorie
+# Wijzigingen t.o.v. vorige versie
+
+De belangrijkste wijzigingen in versie 1.2.0.4 van de Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
+- Toevoeging hoofdstuk met wijzigingen t.o.v. de vorige versie
+- Toevoeging link naar historische versie Catalogus
+
+Een exact verschill tussen twee versies van de Catalogus kan bekeken worden in Git.
+- Toevoegen wat je te zien krijgt in deze vergelijking in GIT
 <!---
 Deze tekst komt niet mee naar de web-pagina (wel in het vergelijk)
-Tip voor onderstaande tabel:
+Tip voor onderstaande link:
 Links pas aanpassen nadat alle andere wijzigingen doorgevoerd zijn in een aparte commit.
 -->
-| Versie | Wijzigingen | Link naar uitgebreide wijzigingen |
-|:---|:---|:---|
-| 1.2.0.4 | Toevoeging tabel met wijzigingen <br> Toevoeging  link naar versie in GIT| [Wijzigingen in 1.2.0.4](https://github.com/kadaster/imbrt/compare/b553102..b49e5ff?diff=split) |
-
+[Uitgebreid overzicht van de wijzigingen](https://github.com/kadaster/imbrt/compare/3b193ec..master?diff=split)
 
 # Inhoudsopgave
 
 - [Inleiding](#inleiding)
 - [Leeswijzer](#leeswijzer)
 - [Versiehistorie](#versiehistorie)
-- [Wijzigingshistorie](#wijzigingshistorie)
+- [Wijzigingen t.o.v. vorige versie](#Wijzigingen-t.o.v.-vorige-versie)
 - [1 Stelsel van Basisregistraties](#1-stelsel-van-basisregistraties)
 - [2 Kenmerken van TOP10NL](#2-kenmerken-van-top10nl)
 - [3 Opbouw TOP10NL](#3-opbouw-top10nl)
