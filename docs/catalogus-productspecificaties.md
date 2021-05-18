@@ -63,8 +63,9 @@ De belangrijkste wijzigingen in versie 1.2.0.4 van de Catalogus en Productspecif
 Een exact verschill tussen twee versies van de Catalogus kan bekeken worden in Git.
 <!---
 Nog toevoegen wat je te zien krijgt in deze vergelijking in GIT
+laatste gedeelte van de URL nog aanpassen naar de Master
 -->
-[Uitgebreid overzicht van de wijzigingen](https://github.com/kadaster/imbrt/compare/3b193ec..master?diff=split)
+[Uitgebreid overzicht van de wijzigingen](https://github.com/kadaster/imbrt/compare/3b193ec..1da0758?diff=split)
 
 # Inhoudsopgave
 
