@@ -977,7 +977,6 @@ Definitie: Kleinste functioneel onafhankelijk stukje water met gelijkblijvende, 
 | functie | enkelvoudig | verplicht | < domein "WA\_functie" > | | | |
 | voorkomen | enkelvoudig | optioneel | met riet | | x | x |
 | getijdeInvloed | enkelvoudig | verplicht | < domein "WA\_getijdeInvloed" > | x | x | x |
-| getijdeInvloed | enkelvoudig | verplicht | nee | x | x | x |
 | vaarwegklasse | enkelvoudig | optioneel | < domein "WA\_vaarwegklasse" > | x | x | x |
 | NaamOfficieel | enkelvoudig | optioneel | < Officiële naam water > | x | x | x |
 | naamNL | veelvoudig | optioneel | < Nederlandse naam water > | x | x | x |
