@@ -3870,7 +3870,7 @@ _Inwinningscriteria:_
 
 - Een gebouw moet een permanent karakter hebben en bedoeld zijn voor verblijf, handel, verkeer en/of arbeid.
 
-- De orthogonale projectie van de uiterste buitenrand inclusief carports en passages (overbouwing van een weg reikend van gebouw tot gebouw, enkel bestaand uit een al dan niet licht doorlatend dak), exclusief luifels, op onderliggend terrein, wegen of water wordt opgenomen. Een stationsoverkapping wordt ingewonnenn als gebouw, een overkapping van alleen een perron op een station wordt niet opgenomen. Bebouwing boven (hoge) poorten maakt onderdeel uit van de opgaande bebouwing. Bebouwing, geheel of gedeeltelijk gelegen over een ander object, wordt als bebouwing aangegeven.
+- De orthogonale projectie van de uiterste buitenrand inclusief carports en passages (overbouwing van een weg reikend van gebouw tot gebouw, enkel bestaand uit een al dan niet licht doorlatend dak), exclusief luifels, op onderliggend terrein, wegen of water wordt opgenomen. Een stationsoverkapping wordt ingewonnen als gebouw, een overkapping van alleen een perron op een station wordt niet opgenomen. Bebouwing boven (hoge) poorten maakt onderdeel uit van de opgaande bebouwing. Bebouwing, geheel of gedeeltelijk gelegen over een ander object, wordt als bebouwing aangegeven.
 
 - De minimumgrootte voor een gebouwvlak is 9 m².
 
