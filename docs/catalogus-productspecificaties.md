@@ -43,24 +43,27 @@ Dit document begint met een kort overzicht van het Stelsel van Basisregistraties
 
 # Wijzigingen t.o.v. vorige versie
 
-In deze paragraaf worden de belangrijkste wijzigingen ten opzichte van de vorige versie van de BRT Catalogus weergegeven. Inhoudelijke wijzigingen, verduidelijkingen en aanvullingen zullen hier beknopt omschreven worden. Het corrigeren van spelfouten of wijzigingen in de opmaak niet. 
+In deze paragraaf worden de belangrijkste wijzigingen ten opzichte van de vorige versie van de BRT Catalogus weergegeven. Inhoudelijke wijzigingen, verduidelijkingen en aanvullingen zullen hier beknopt omschreven worden. Het corrigeren van spelfouten of wijzigingen in de opmaak niet.
+Ook kunnen alle verschillen tussen twee versie van de catalogus bekeken worden. Dit wordt mogelijk gemaakt door het versiebeheersysteem GitHub, het systeem waar de online BRT Catalogus in gemaakt is.
 
+## Belangrijkste verschillen
 De belangrijkste wijzigingen in versie 1.2.0.4 van de Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
 - Toevoeging hoofdstuk met wijzigingen t.o.v. de vorige versie: [wijzigingen t.o.v. vorige versie](#Wijzigingen-t.o.v.-vorige-versie)
 - Toevoeging links aan versiehistorie naar historische versies Catalogus: [versiehistorie](#versiehistorie)
 
+## Alle verschillen
 <!---
 Hoe werkt de URL naar de vergelijking die hieronder staat:
 Eerste gedeelte van de URL: hier staat de verwijzing naar de laatste commit van de vorige versie van de catalogus
 Laatste gedeelte van de URL: hier staat de "master", oftewel de actuele versie
 -->
-Een exact verschil tussen twee versies van de BRT Catalogus kan bekeken worden in GitHub.
-> [Bekijk de exacte verschillen in GitHub](https://github.com/kadaster/imbrt/compare/3b193ec..master?diff=split)
+Alle verschillen tussen twee versies van de BRT Catalogus kunnen bekeken worden in GitHub.
+> [Bekijk alle verschillen in GitHub](https://github.com/kadaster/imbrt/compare/3b193ec..master?diff=split)
 
-Op deze internetpagina worden twee versies van de BRT Catalogus weergegeven, aan de linkerzijde de vorige versie en aan de rechterzijde de huidige versie. Alleen de gedeelten van de catalogus waar wijzigingen hebben plaatsgevonden worden weergegeven. Door middel van de kleuren roze en groen worden de exacte verschillen tussen beide versies gemarkeerd.
-> - een licht roze kleur markeert de vorige versie van de regel
+Op deze internetpagina worden twee versies van de BRT Catalogus weergegeven, aan de linkerzijde de vorige versie en aan de rechterzijde de huidige versie. Alleen de gedeelten van de BRT catalogus waar wijzigingen hebben plaatsgevonden, worden weergegeven. Door middel van de kleuren roze en groen worden de verschillen tussen beide versies gemarkeerd. De betekenis van de kleuren is als volgt:
+> - een licht roze kleur markeert de vorige versie van de desbetreffende regel
 > - een donker roze kleur markeert een verwijderd karakter, woord of zin
-> - een licht groene kleur markeert de huidige versie van de regel
+> - een licht groene kleur markeert de huidige versie van de desbetreffende regel
 > - een donker groene kleur markeert een toegevoegd karakter, woord of zin
  
 # Inhoudsopgave
