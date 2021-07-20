@@ -28,13 +28,13 @@ Dit document begint met een kort overzicht van het Stelsel van Basisregistraties
 
 # Versiehistorie
 
-| Versie | Datum | Auteur | Opmerking | Link naar historische versies BRT Catalogus |
+| Versie | Datum | Auteur | Opmerking | Link naar historische versies |
 |:---|:---|:---|:---|:---|
 | 1.2.0.4 | 21 juli 2021 | Kadaster | Toevoeging wijzigingen t.o.v. vorige versie, toevoeging link naar historische versies BRT Catalogus. | - |
 | 1.2.0.3 | 11 december 2020 | Kadaster | Enkele URL’s geactualiseerd, catalogus nu ook in GIT, wijziging door gebruik BAG-panden verwerkt. | [versie 1.2.0.3 (web)](https://github.com/kadaster/imbrt/blob/3b193ec7da5ce23c4c486e2f021b491c3573fb01/docs/catalogus-productspecificaties.md) <br> [versie 1.2.0.3 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.3.pdf) |
 | 1.2.0.2 | 20 april 2020 | Kadaster | Enkele kleine tekstuele fouten verbeterd. | [versie 1.2.0.2 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.2.pdf) |
 | 1.2.0.1 | 8 juli 2019 | Kadaster | Wijzigingen n.a.v. Audit BRT 2017 doorgevoerd. <br> Wijzigingen datamodel inrichtingselement en functioneel gebied verwerkt. <br> Diverse verduidelijkingen verwerkt. | [versie 1.2.0.1 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.1.pdf) |
-| 1.2.0 | 21 september 2017 | Kadaster | Nummering gelijk datamodel TOP10NL. <br> Herziening n.a.v. TOP10NL datamodel 1.2 verwerkt, wijzigingen in productieporces en inwinningscriteria verwerkt. | [versie 1.2.0 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.pdf) |
+| 1.2.0 | 21 september 2017 | Kadaster | Nummering gelijk datamodel TOP10NL. <br> Herziening n.a.v. TOP10NL datamodel 1.2 verwerkt, wijzigingen in productieproces en inwinningscriteria verwerkt. | [versie 1.2.0 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.pdf) |
 | 2.2.1 | 23 mei 2016 | Kadaster | Wijzigingen n.a.v. Audit BRT 2014 doorgevoerd. | [versie 2.2.1 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_2.2.1.pdf) |
 | 2.2 | 27 juni 2014 | Kadaster | Herziening n.a.v. wijziging inwinningscriteria en productieproces. | [versie 2.2 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_2.2.pdf) |
 | 2.1 | 11 april 2013 | Kadaster | Complete herziening, toevoeging productspecificaties. | [versie 2.1 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_2.1.pdf) |
@@ -43,13 +43,13 @@ Dit document begint met een kort overzicht van het Stelsel van Basisregistraties
 
 # Wijzigingen t.o.v. vorige versie
 
-In deze paragraaf worden de belangrijkste wijzigingen ten opzichte van de vorige versie van de BRT Catalogus weergegeven. Inhoudelijke wijzigingen, verduidelijkingen en aanvullingen zullen hier beknopt omschreven worden. Het corrigeren van spelfouten of wijzigingen in de opmaak niet.
-Ook kunnen alle verschillen tussen twee versie van de catalogus bekeken worden. Dit wordt mogelijk gemaakt door het versiebeheersysteem GitHub, het systeem waar de online BRT Catalogus in gemaakt is.
+In deze paragraaf worden de belangrijkste wijzigingen ten opzichte van de vorige versie van de BRT Catalogus en Productspecificaties weergegeven. Inhoudelijke wijzigingen, verduidelijkingen en aanvullingen zullen hier beknopt omschreven worden. Het corrigeren van spelfouten of wijzigingen in de opmaak niet.
+Het is ook mogelijk om alle wijzigingen ten opzichte van de vorige versie van de BRT Catalogus en Productspecificaties te bekijken. Dit wordt mogelijk gemaakt door het versiebeheersysteem GitHub, het systeem waar de online BRT Catalogus en Productspecificaties in gemaakt is.
 
 ## Belangrijkste verschillen
 De belangrijkste wijzigingen in versie 1.2.0.4 van de Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
 - Toevoeging hoofdstuk met wijzigingen t.o.v. de vorige versie: [wijzigingen t.o.v. vorige versie](#Wijzigingen-t.o.v.-vorige-versie)
-- Toevoeging links aan versiehistorie naar historische versies Catalogus: [versiehistorie](#versiehistorie)
+- Toevoeging links aan versiehistorie naar historische versies catalogus: [versiehistorie](#versiehistorie)
 
 ## Alle verschillen
 <!---
@@ -57,10 +57,10 @@ Hoe werkt de URL naar de vergelijking die hieronder staat:
 Eerste gedeelte van de URL: hier staat de verwijzing naar de laatste commit van de vorige versie van de catalogus
 Laatste gedeelte van de URL: hier staat de "master", oftewel de actuele versie
 -->
-Alle verschillen tussen twee versies van de BRT Catalogus kunnen bekeken worden in GitHub.
+Alle verschillen tussen versie 1.2.0.4 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie kunnen bekeken worden in GitHub.
 > [Bekijk alle verschillen in GitHub](https://github.com/kadaster/imbrt/compare/3b193ec..master?diff=split)
 
-Op deze internetpagina worden twee versies van de BRT Catalogus weergegeven, aan de linkerzijde de vorige versie en aan de rechterzijde de huidige versie. Alleen de gedeelten van de BRT catalogus waar wijzigingen hebben plaatsgevonden, worden weergegeven. Door middel van de kleuren roze en groen worden de verschillen tussen beide versies gemarkeerd. De betekenis van de kleuren is als volgt:
+Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecificaties weergegeven, aan de linkerzijde de vorige versie en aan de rechterzijde de huidige versie. Alleen de gedeelten van de BRT Catalogus en Productspecificaties waar wijzigingen hebben plaatsgevonden, worden weergegeven. Door middel van de kleuren roze en groen worden de verschillen tussen beide versies gemarkeerd. De betekenis van de kleuren is als volgt:
 > - een licht roze kleur markeert de vorige versie van de desbetreffende regel
 > - een donker roze kleur markeert een verwijderd karakter, woord of zin
 > - een licht groene kleur markeert de huidige versie van de desbetreffende regel
