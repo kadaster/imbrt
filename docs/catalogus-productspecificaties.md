@@ -54,13 +54,15 @@ Hoe werkt de URL naar de vergelijking die hieronder staat:
 Eerste gedeelte van de URL: hier staat de verwijzing naar de laatste commit van de vorige versie van de catalogus
 Laatste gedeelte van de URL: hier staat de "master", oftewel de actuele versie
 -->
-Een exact verschill tussen twee versies van de BRT Catalogus kan bekeken worden in Git via de volgende link: [uitgebreid overzicht van de wijzigingen](https://github.com/kadaster/imbrt/compare/3b193ec..master?diff=split).
+Een exact verschill tussen twee versies van de BRT Catalogus kan bekeken worden in Git:
+> [bekijk de wijzigingen in GIT](https://github.com/kadaster/imbrt/compare/3b193ec..master?diff=split).
+
 Op deze internetpagina worden twee versies van de BRT Catalogus weergegeven, aan de linkerzijde de vorige versie en aan de rechterzijde de huidige versie. Alleen de gedeelten van de catalogus waar wijzigingen hebben plaatsgevonden worden weergegeven. Door middel van de kleuren roze en groen worden de exacte verschillen tussen beide versies gemarkeerd.
 > - een licht roze kleur markeert de vorige versie van de regel
 > - een donker roze kleur markeert een verwijderd karakter, woord of zin
 > - een licht groene kleur markeert de huidige versie van de regel
 > - een donker groene kleur markeert een toegevoegd karakter, woord of zin
-
+ 
 # Inhoudsopgave
 
 - [Inleiding](#inleiding)
