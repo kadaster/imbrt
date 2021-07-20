@@ -32,7 +32,7 @@ In 2014 heeft het Kadaster samen met gebruikers een nieuw datamodel voor TOP10NL
 
 # Leeswijzer
 
-Dit document begint met een kort overzicht van het Stelsel van Basisregistraties. Hierna worden de belangrijkste kenmerken van TOP10NL beschreven. [Hoofdstuk 3](#3-opbouw-top10nl) behandelt een aantal algemene zaken over TOP10NL, zoals de gebiedsaanduiding, de actualiteit, het ruimtelijk referentiesysteem, een kwaliteitsbeschrijving, het productieproces en het gebruik van TOP10NL. [Hoofdstuk 4](#4-gegevensmodel-top10nl) beschrijft het gegevensmodel met de verschillende groepen kenmerken en het gedrag van geo-objecten. In [hoofdstuk 5](#5-de-objectcatalogus-in-het-kort) vindt u een compact overzicht van alle objectklassen, attributen en attribuutwaarden van TOP10NL inclusief de mogelijke geometrieën. Hoofdstuk 0 gaat in op de uitwisseling van gegevens. Daarbij komen o.a. GML, UML en de XSD aan bod. De complete uitgebreide objectcatalogus is opgenomen in [hoofdstuk 7](#7-catalogus-basisregistratie-topografie).
+Dit document begint met een kort overzicht van het Stelsel van Basisregistraties. Hierna worden de belangrijkste kenmerken van TOP10NL beschreven. [Hoofdstuk 3](#3-opbouw-top10nl) behandelt een aantal algemene zaken over TOP10NL, zoals de gebiedsaanduiding, de actualiteit, het ruimtelijk referentiesysteem, een kwaliteitsbeschrijving, het productieproces en het gebruik van TOP10NL. [Hoofdstuk 4](#4-gegevensmodel-top10nl) beschrijft het gegevensmodel met de verschillende groepen kenmerken en het gedrag van geo-objecten. In [hoofdstuk 5](#5-de-objectcatalogus-in-het-kort) vindt u een compact overzicht van alle objectklassen, attributen en attribuutwaarden van TOP10NL inclusief de mogelijke geometrieën. [Hoofdstuk 6](#6-uitwisseling-van-topografische-gegevens) gaat in op de uitwisseling van gegevens. Daarbij komen o.a. GML, UML en de XSD aan bod. De complete uitgebreide objectcatalogus is opgenomen in [hoofdstuk 7](#7-catalogus-basisregistratie-topografie).
 
 [Bijlage 1: Mutatieprotocol](#bijlage-1-mutatieprotocol) beschrijft het mutatieprotocol dat gebruikt wordt om te bepalen wanneer er sprake is van een nieuw object of een nieuwe versie van een object. Dit is van belang bij het toekennen van unieke identificatiecodes.
 
@@ -540,7 +540,7 @@ _Tabel 4.2: De geometrische kenmerken_
 
 Registratief gebied, geografisch gebied en functioneel gebied bestaan voorlopig (ook) als puntobject, omdat deze gebieden in TOP10vector alleen als naam bekend waren zonder bijbehorend gebied.
 
-De positie van een geo-object wordt weergegeven door middel van x en y- coördinaten in het Rijksdriehoeksstelsel (gegeven in meters, met 3 decimalen) en de hoogte ten opzichte van Normaal Amsterdams Peil (NAP). Indien de hoogtewaarde niet beschikbaar is blijft deze ongevuld. (zie ook hoogteniveau in [hoofdstuk 4.5.3](#453-kruisende-objecten)). Bij de objectklasse hoogte wordt middels het attribuut "Referentievlak" aangegeven ten opzichte van welk referentievlak de hoogte gegeven wordt.
+De positie van een geo-object wordt weergegeven door middel van x en y- coördinaten in het Rijksdriehoeksstelsel (gegeven in meters, met 3 decimalen) en de hoogte ten opzichte van Normaal Amsterdams Peil (NAP). Indien de hoogtewaarde niet beschikbaar is blijft deze ongevuld. (zie ook hoogteniveau in [paragraaf 4.5.3](#453-kruisende-objecten)). Bij de objectklasse hoogte wordt middels het attribuut "Referentievlak" aangegeven ten opzichte van welk referentievlak de hoogte gegeven wordt.
 
 ### 4.3.6 Geo-objecten met meervoudige geometrie
 
@@ -759,7 +759,7 @@ Lijnobjecten binnen eenzelfde objectklasse met dezelfde attribuutwaarden (incl. 
 
 # 5 De objectcatalogus in het kort
 
-In dit hoofdstuk wordt een algemene toelichting gegeven op de objectklassen. Voor uitgebreide informatie betreffende de objecten wordt verwezen naar de Objectcatalogus TOP10NL ([Hoofdstuk 7](#7-catalogus-basisregistratie-topografie)).
+In dit hoofdstuk wordt een algemene toelichting gegeven op de objectklassen. Voor uitgebreide informatie betreffende de objecten wordt verwezen naar de Objectcatalogus TOP10NL ([hoofdstuk 7](#7-catalogus-basisregistratie-topografie)).
 
 Per objectklasse worden in een tabel de attributen weergegeven met de bijbehorende waarden. Ook wordt daar per attribuut aangegeven of het één of meer keer mag voorkomen en of het attribuut verplicht of optioneel is. Eventueel wordt extra informatie over de objectklasse gegeven.
 
