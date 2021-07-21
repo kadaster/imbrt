@@ -52,18 +52,18 @@ De belangrijkste wijzigingen in versie 1.2.0.4 van de Catalogus en Productspecif
 - Toevoeging links aan versiehistorie naar historische versies catalogus: [versiehistorie](#versiehistorie)
 
 ## Alle verschillen
-<!---
+<!--
 Hoe werkt de URL naar de vergelijking die hieronder staat:
 Eerste gedeelte van de URL: hier staat de verwijzing naar de laatste commit van de vorige versie van de catalogus
 Laatste gedeelte van de URL: hier staat de "master", oftewel de actuele versie
 -->
 Alle verschillen tussen versie 1.2.0.4 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie kunnen bekeken worden in GitHub.
-> [Bekijk alle verschillen in GitHub](https://github.com/kadaster/imbrt/compare/3b193ec..master?diff=split)
+> [Bekijk alle verschillen in GitHub](https://github.com/kadaster/imbrt/compare/93e4a27..master?diff=split)
 
 Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecificaties weergegeven, aan de linkerzijde de vorige versie en aan de rechterzijde de huidige versie. Alleen de gedeelten van de BRT Catalogus en Productspecificaties waar wijzigingen hebben plaatsgevonden, worden weergegeven. Door middel van de kleuren roze en groen worden de verschillen tussen beide versies gemarkeerd. De betekenis van de kleuren is als volgt:
 > - een licht roze kleur markeert de vorige versie van de desbetreffende regel
 > - een donker roze kleur markeert een verwijderd karakter, woord of zin
-> - een licht groene kleur markeert de huidige versie van de desbetreffende regel
+> - een licht groene kleur markeert de nieuwe versie van de desbetreffende regel
 > - een donker groene kleur markeert een toegevoegd karakter, woord of zin
  
 # Inhoudsopgave
