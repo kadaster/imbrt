@@ -2,7 +2,7 @@
 
 # Basisregistratie Topografie: Catalogus en Productspecificaties
 
-Versie: 1.2.0.3
+Versie: 1.2.0.4
 
 # Inleiding
 
@@ -20,126 +20,143 @@ Tijdens de ontwikkeling van TOP10NL zijn een groot aantal deelonderzoeken verric
 
 In 2014 heeft het Kadaster samen met gebruikers een nieuw datamodel voor TOP10NL gedefiniëerd: TOP10NL 1.2. Vanaf november 2015 wordt TOP10NL geleverd volgens dit nieuwe datamodel. Ook heeft het Kadaster in 2015 meerdere experimenten uitgevoerd met als doel het bereiken van een 1 jarige cyclus voor de bijhouding van de TOP10NL met behoud van kwaliteit. In deze experimenten lag de focus op het opsporen van topografische terreinmutaties. Het resultaat van deze experimenten is dat de actualiteit van TOP10NL is verhoogd en het aantal bijgewerkte gebieden is gestegen. Met het nieuwe proces is het mogelijk om per levering 1/5 van Nederland te actualiseren. Vanwege de goede resultaten van deze experimenten is dit nieuwe TOP10NL-proces in gebruik genomen. TOP10NL wordt nu dus bijgehouden in een 1 jarige cyclus.
 
-> De catalogus en productspecificaties voor de basisregistratie Topografie verschijnt in twee versies: als document (pdf) en als website. In beide gevallen is er een actuele versie van de catalogus en productspecificaties en een versie waarin de wijzigingen ten opzichte van de vorige versie zijn aangegeven.
-> 
-> Als document:
-> -	een actuele versie op de website van de BRT: [www.kadaster.nl/brt-documentatie](https://www.kadaster.nl/brt-documentatie)
-> -	een versie waarin de wijzigingen ten opzichte van de vorige versie in rood zijn aangegeven op GitHub: [github.com/kadaster/top10nl/blob/master/documentatie](https://github.com/kadaster/top10nl/blob/master/documentatie)
-> 
-> Als website:
-> -	een actuele versie op: [kadaster.github.io/imbrt](https://kadaster.github.io/imbrt)
-> -	wijzigingen ten opzichte van een vorige versie kunnen op GIThub ingezien worden op: [github.com/kadaster/imbrt/blob/master/docs/catalogus-productspecificaties.md](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-productspecificaties.md)
-
 # Leeswijzer
 
-Dit document begint met een kort overzicht van het Stelsel van Basisregistraties. Hierna worden de belangrijkste kenmerken van TOP10NL beschreven. [Hoofdstuk 3](#3-opbouw-top10nl) behandelt een aantal algemene zaken over TOP10NL, zoals de gebiedsaanduiding, de actualiteit, het ruimtelijk referentiesysteem, een kwaliteitsbeschrijving, het productieproces en het gebruik van TOP10NL. [Hoofdstuk 4](#4-gegevensmodel-top10nl) beschrijft het gegevensmodel met de verschillende groepen kenmerken en het gedrag van geo-objecten. In [hoofdstuk 5](#5-de-objectcatalogus-in-het-kort) vindt u een compact overzicht van alle objectklassen, attributen en attribuutwaarden van TOP10NL inclusief de mogelijke geometrieën. Hoofdstuk 0 gaat in op de uitwisseling van gegevens. Daarbij komen o.a. GML, UML en de XSD aan bod. De complete uitgebreide objectcatalogus is opgenomen in [hoofdstuk 7](#7-catalogus-basisregistratie-topografie).
+Dit document begint met een kort overzicht van het Stelsel van Basisregistraties. Hierna worden de belangrijkste kenmerken van TOP10NL beschreven. [Hoofdstuk 3](#3-opbouw-top10nl) behandelt een aantal algemene zaken over TOP10NL, zoals de gebiedsaanduiding, de actualiteit, het ruimtelijk referentiesysteem, een kwaliteitsbeschrijving, het productieproces en het gebruik van TOP10NL. [Hoofdstuk 4](#4-gegevensmodel-top10nl) beschrijft het gegevensmodel met de verschillende groepen kenmerken en het gedrag van geo-objecten. In [hoofdstuk 5](#5-de-objectcatalogus-in-het-kort) vindt u een compact overzicht van alle objectklassen, attributen en attribuutwaarden van TOP10NL inclusief de mogelijke geometrieën. [Hoofdstuk 6](#6-uitwisseling-van-topografische-gegevens) gaat in op de uitwisseling van gegevens. Daarbij komen o.a. GML, UML en de XSD aan bod. De complete uitgebreide objectcatalogus is opgenomen in [hoofdstuk 7](#7-catalogus-basisregistratie-topografie).
 
 [Bijlage 1: Mutatieprotocol](#bijlage-1-mutatieprotocol) beschrijft het mutatieprotocol dat gebruikt wordt om te bepalen wanneer er sprake is van een nieuw object of een nieuwe versie van een object. Dit is van belang bij het toekennen van unieke identificatiecodes.
 
-## Versiehistorie
+# Versiehistorie
 
-| Versie | Datum | Auteur | Opmerking |
-|:---|:---|:---|:---|
-| 1.0 | 18 september 2007 | Kadaster | Initiële versie intern Kadaster. |
-| 2.0 | 18 december 2007 | Kadaster | Eerste versie extern Kadaster. |
-| 2.1 | 11 april 2013 | Kadaster | Complete herziening, toevoeging productspecificaties. |
-| 2.2 | 27 juni 2014 | Kadaster | Herziening n.a.v. wijziging inwinningscriteria en productieproces. |
-| 2.2.1 | 23 mei 2016 | Kadaster | Wijzigingen n.a.v. Audit BRT 2014 doorgevoerd |
-| 1.2.0 | 21 september 2017 | Kadaster | Nummering gelijk datamodel TOP10NL. Herziening n.a.v. TOP10NL datamodel 1.2 verwerkt, wijzigingen in productieporces en inwinningscriteria verwerkt |
-| 1.2.0.1 | 8 juli 2019 | Kadaster | Wijzigingen n.a.v. Audit BRT 2017 doorgevoerd. Wijzigingen datamodel inrichtingselement en functioneel gebied verwerkt. Diverse verduidelijkingen verwerkt |
-| 1.2.0.2 | 20 april 2020 | Kadaster | Enkele kleine tekstuele fouten verbeterd |
-| 1.2.0.3 | 11 december 2020 | Kadaster | Enkele URL’s geactualiseerd, catalogus nu ook in GIT, wijziging door gebruik BAG-panden verwerkt |
+| Versie | Datum | Auteur | Opmerking | Link naar historische versies |
+|:---|:---|:---|:---|:---|
+| 1.2.0.4 | 22 juli 2021 | Kadaster | Toevoeging hoofdstuk met wijzigingen t.o.v. vorige versie, toevoeging link naar historische versies BRT Catalogus. | - |
+| 1.2.0.3 | 11 december 2020 | Kadaster | Enkele URL’s geactualiseerd, catalogus nu ook in GIT, wijziging door gebruik BAG-panden verwerkt. | [versie 1.2.0.3 (web)](https://github.com/kadaster/imbrt/blob/3b193ec7da5ce23c4c486e2f021b491c3573fb01/docs/catalogus-productspecificaties.md) <br> [versie 1.2.0.3 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.3.pdf) |
+| 1.2.0.2 | 20 april 2020 | Kadaster | Enkele kleine tekstuele fouten verbeterd. | [versie 1.2.0.2 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.2.pdf) |
+| 1.2.0.1 | 8 juli 2019 | Kadaster | Wijzigingen n.a.v. Audit BRT 2017 doorgevoerd. <br> Wijzigingen datamodel inrichtingselement en functioneel gebied verwerkt. <br> Diverse verduidelijkingen verwerkt. | [versie 1.2.0.1 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.1.pdf) |
+| 1.2.0 | 21 september 2017 | Kadaster | Nummering gelijk datamodel TOP10NL. <br> Herziening n.a.v. TOP10NL datamodel 1.2 verwerkt, wijzigingen in productieproces en inwinningscriteria verwerkt. | [versie 1.2.0 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.pdf) |
+| 2.2.1 | 23 mei 2016 | Kadaster | Wijzigingen n.a.v. Audit BRT 2014 doorgevoerd. | [versie 2.2.1 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_2.2.1.pdf) |
+| 2.2 | 27 juni 2014 | Kadaster | Herziening n.a.v. wijziging inwinningscriteria en productieproces. | [versie 2.2 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_2.2.pdf) |
+| 2.1 | 11 april 2013 | Kadaster | Complete herziening, toevoeging productspecificaties. | [versie 2.1 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_2.1.pdf) |
+| 2.0 | 18 december 2007 | Kadaster | Eerste versie extern Kadaster. | [versie 2.0 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_BRT_2.0.pdf) |
+| 1.0 | 18 september 2007 | Kadaster | Initiële versie intern Kadaster. | - |
 
+# Wijzigingen t.o.v. vorige versie
+
+In deze paragraaf worden de belangrijkste wijzigingen ten opzichte van de vorige versie van de BRT Catalogus en Productspecificaties weergegeven. Inhoudelijke wijzigingen, verduidelijkingen en aanvullingen zullen hier beknopt omschreven worden. Het corrigeren van spelfouten of wijzigingen in de opmaak niet.
+Het is ook mogelijk om alle wijzigingen ten opzichte van de vorige versie van de BRT Catalogus en Productspecificaties te bekijken. Dit wordt mogelijk gemaakt door het versiebeheersysteem GitHub, het systeem waar de online BRT Catalogus en Productspecificaties in gemaakt is.
+
+## Belangrijkste verschillen
+De belangrijkste wijzigingen in versie 1.2.0.4 van de Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
+- Toevoeging hoofdstuk met wijzigingen t.o.v. de vorige versie: [wijzigingen t.o.v. vorige versie](#Wijzigingen-t.o.v.-vorige-versie)
+- Toevoeging links aan versiehistorie naar historische versies catalogus: [versiehistorie](#versiehistorie)
+
+## Alle verschillen
+<!--
+Hoe werkt de URL naar de vergelijking die hieronder staat:
+Eerste gedeelte van de URL: hier staat de verwijzing naar de laatste commit van de vorige versie van de catalogus
+Laatste gedeelte van de URL: hier staat de "master", oftewel de actuele versie
+-->
+Alle verschillen tussen versie 1.2.0.4 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie kunnen bekeken worden in GitHub.
+> [Bekijk alle verschillen in GitHub](https://github.com/kadaster/imbrt/compare/93e4a27..master?diff=split)
+
+Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecificaties weergegeven, aan de linkerzijde de vorige versie en aan de rechterzijde de huidige versie. Alleen de gedeelten van de BRT Catalogus en Productspecificaties waar wijzigingen hebben plaatsgevonden, worden weergegeven. Door middel van de kleuren roze en groen worden de verschillen tussen beide versies gemarkeerd. De betekenis van de kleuren is als volgt:
+> - een licht roze kleur markeert de vorige versie van de desbetreffende regel
+> - een donker roze kleur markeert een verwijderd karakter, woord of zin
+> - een licht groene kleur markeert de nieuwe versie van de desbetreffende regel
+> - een donker groene kleur markeert een toegevoegd karakter, woord of zin
+ 
 # Inhoudsopgave
 
 - [Inleiding](#inleiding)
 - [Leeswijzer](#leeswijzer)
 - [Versiehistorie](#versiehistorie)
+- [Wijzigingen t.o.v. vorige versie](#Wijzigingen-t.o.v.-vorige-versie)
 - [1 Stelsel van Basisregistraties](#1-stelsel-van-basisregistraties)
 - [2 Kenmerken van TOP10NL](#2-kenmerken-van-top10nl)
 - [3 Opbouw TOP10NL](#3-opbouw-top10nl)
-- [3.1 Gebiedsaanduiding](#31-gebiedsaanduiding)
-- [3.2 Actualiteit](#32-actualiteit)
-- [3.3 Ruimtelijk referentiesysteem](#33-ruimtelijk-referentiesysteem)
-- [3.3.1 Horizontaal coördinatenstelsel](#331-horizontaal-coördinatenstelsel)
-- [3.3.2 Verticaal coördinatenstelsel](#332-verticaal-coördinatenstelsel)
-- [3.3.3 Coördinatenstelsel in GIS applicaties](#333-coördinatenstelsel-in-gis-applicaties)
-- [3.4 Kwaliteitsbeschrijving](#34-kwaliteitsbeschrijving)
-- [3.4.1 Kwaliteitscontrole](#341-kwaliteitscontrole)
-- [3.4.2 Verkenningsvoorschriften](#342-verkenningsvoorschriften)
-- [3.4.3 Metadata](#343-metadata)
-- [3.4.4 Metadata per object](#344-metadata-per-object)
-- [3.5 Productieproces in het kort](#35-productieproces-in-het-kort)
-- [3.5.1 Detecteren van mutaties](#351-detecteren-van-mutaties)
-- [3.5.2 Interpretatie luchtfoto's en muteren TOP10NL](#352-interpretatie-luchtfotos-en-muteren-top10nl)
-- [3.5.3 Gebruik externe bronnen](#353-gebruik-externe-bronnen)
-- [3.5.4 Vervolgproducten](#354-vervolgproducten)
-- [3.6 Volledigheid TOP10NL](#36-volledigheid-top10nl)
-- [3.7 TDN-codes uit TOP10vector](#37-tdn-codes-uit-top10vector)
-- [3.8 Gebruik van TOP10NL](#38-gebruik-van-top10nl)
-- [3.8.1 GIS gebruik](#381-gis-gebruik)
-- [3.8.2 Visualisatie](#382-visualisatie)
-- [3.8.3 Webapplicaties](#383-webapplicaties)
+  - [3.1 Gebiedsaanduiding](#31-gebiedsaanduiding)
+  - [3.2 Actualiteit](#32-actualiteit)
+  - [3.3 Ruimtelijk referentiesysteem](#33-ruimtelijk-referentiesysteem)
+    - [3.3.1 Horizontaal coördinatenstelsel](#331-horizontaal-coördinatenstelsel)
+    - [3.3.2 Verticaal coördinatenstelsel](#332-verticaal-coördinatenstelsel)
+    - [3.3.3 Coördinatenstelsel in GIS applicaties](#333-coördinatenstelsel-in-gis-applicaties)
+  - [3.4 Kwaliteitsbeschrijving](#34-kwaliteitsbeschrijving)
+    - [3.4.1 Kwaliteitscontrole](#341-kwaliteitscontrole)
+    - [3.4.2 Verkenningsvoorschriften](#342-verkenningsvoorschriften)
+    - [3.4.3 Metadata](#343-metadata)
+    - [3.4.4 Metadata per object](#344-metadata-per-object)
+  - [3.5 Productieproces in het kort](#35-productieproces-in-het-kort)
+    - [3.5.1 Detecteren van mutaties](#351-detecteren-van-mutaties)
+    - [3.5.2 Interpretatie luchtfoto's en muteren TOP10NL](#352-interpretatie-luchtfotos-en-muteren-top10nl)
+    - [3.5.3 Gebruik externe bronnen](#353-gebruik-externe-bronnen)
+    - [3.5.4 Vervolgproducten](#354-vervolgproducten)
+  - [3.6 Volledigheid TOP10NL](#36-volledigheid-top10nl)
+  - [3.7 TDN-codes uit TOP10vector](#37-tdn-codes-uit-top10vector)
+  - [3.8 Gebruik van TOP10NL](#38-gebruik-van-top10nl)
+    - [3.8.1 GIS gebruik](#381-gis-gebruik)
+    - [3.8.2 Visualisatie](#382-visualisatie)
+    - [3.8.3 Webapplicaties](#383-webapplicaties)
 - [4 Gegevensmodel TOP10NL](#4-gegevensmodel-top10nl)
-- [4.1 Objectgerichte gegevens](#41-objectgerichte-gegevens)
-- [4.1.1 Waarom een objectgerichte structuur?](#411-waarom-een-objectgerichte-structuur)
-- [4.2 Objectklassen](#42-objectklassen)
-- [4.2.1 Samengestelde geo-objecten](#421-samengestelde-geo-objecten)
-- [4.3 Objectkenmerken](#43-objectkenmerken)
-- [4.3.1 Identificerende kenmerken](#431-identificerende-kenmerken)
-- [4.3.2 Beschrijvende kenmerken](#432-beschrijvende-kenmerken)
-- [4.3.3 Multipliciteit van een kenmerk](#433-multipliciteit-van-een-kenmerk)
-- [4.3.4 Optionaliteit van een kenmerk](#434-optionaliteit-van-een-kenmerk)
-- [4.3.5 Geometrische kenmerken](#435-geometrische-kenmerken)
-- [4.3.6 Geo-objecten met meervoudige geometrie](#436-geo-objecten-met-meervoudige-geometrie)
-- [4.3.7 Temporele kenmerken](#437-temporele-kenmerken)
-- [4.4 Relatiematrix](#44-relatiematrix)
-- [4.5 Gedrag van geo-objecten](#45-gedrag-van-geo-objecten)
-- [4.5.1 Vorming van geo-objecten](#451-vorming-van-geo-objecten)
-- [4.5.2 Mutatie van geo-objecten](#452-mutatie-van-geo-objecten)
-- [4.5.3 Kruisende objecten](#453-kruisende-objecten)
-- [4.5.4 Aaneengrenzende en overlappende objecten](#454-aaneengrenzende-en-overlappende-objecten)
-- [4.6 Samenvoegen en splitsen van objecten](#46-samenvoegen-en-splitsen-van-objecten)
-- [4.6.1 Splitsen van objecten met een vlakgeometrie](#461-splitsen-van-objecten-met-een-vlakgeometrie)
-- [4.6.2 Splitsen van objecten met een lijngeometrie](#462-splitsen-van-objecten-met-een-lijngeometrie)
-- [4.6.3 Samenvoegen van objecten met een vlakgeometrie](#463-samenvoegen-van-objecten-met-een-vlakgeometrie)
-- [4.6.4 Samenvoegen van objecten met een lijngeometrie](#464-samenvoegen-van-objecten-met-een-lijngeometrie)
+  - [4.1 Objectgerichte gegevens](#41-objectgerichte-gegevens)
+    - [4.1.1 Waarom een objectgerichte structuur?](#411-waarom-een-objectgerichte-structuur)
+  - [4.2 Objectklassen](#42-objectklassen)
+    - [4.2.1 Samengestelde geo-objecten](#421-samengestelde-geo-objecten)
+  - [4.3 Objectkenmerken](#43-objectkenmerken)
+    - [4.3.1 Identificerende kenmerken](#431-identificerende-kenmerken)
+    - [4.3.2 Beschrijvende kenmerken](#432-beschrijvende-kenmerken)
+    - [4.3.3 Multipliciteit van een kenmerk](#433-multipliciteit-van-een-kenmerk)
+    - [4.3.4 Optionaliteit van een kenmerk](#434-optionaliteit-van-een-kenmerk)
+    - [4.3.5 Geometrische kenmerken](#435-geometrische-kenmerken)
+    - [4.3.6 Geo-objecten met meervoudige geometrie](#436-geo-objecten-met-meervoudige-geometrie)
+    - [4.3.7 Temporele kenmerken](#437-temporele-kenmerken)
+  - [4.4 Relatiematrix](#44-relatiematrix)
+  - [4.5 Gedrag van geo-objecten](#45-gedrag-van-geo-objecten)
+    - [4.5.1 Vorming van geo-objecten](#451-vorming-van-geo-objecten)
+    - [4.5.2 Mutatie van geo-objecten](#452-mutatie-van-geo-objecten)
+    - [4.5.3 Kruisende objecten](#453-kruisende-objecten)
+    - [4.5.4 Aaneengrenzende en overlappende objecten](#454-aaneengrenzende-en-overlappende-objecten)
+  - [4.6 Samenvoegen en splitsen van objecten](#46-samenvoegen-en-splitsen-van-objecten)
+    - [4.6.1 Splitsen van objecten met een vlakgeometrie](#461-splitsen-van-objecten-met-een-vlakgeometrie)
+    - [4.6.2 Splitsen van objecten met een lijngeometrie](#462-splitsen-van-objecten-met-een-lijngeometrie)
+    - [4.6.3 Samenvoegen van objecten met een vlakgeometrie](#463-samenvoegen-van-objecten-met-een-vlakgeometrie)
+    - [4.6.4 Samenvoegen van objecten met een lijngeometrie](#464-samenvoegen-van-objecten-met-een-lijngeometrie)
 - [5 De objectcatalogus in het kort](#5-de-objectcatalogus-in-het-kort)
-- [5.1 Wegdeel](#51-wegdeel)
-- [5.2 Spoorbaandeel](#52-spoorbaandeel)
-- [5.3 Waterdeel](#53-waterdeel)
-- [5.4 Gebouw](#54-gebouw)
-- [5.5 Terrein](#55-terrein)
-- [5.6 Inrichtingselement](#56-inrichtingselement)
-- [5.7 Reliëf](#57-reliëf)
-- [5.8 Hoogte](#58-hoogte)
-- [5.9 Registratief gebied](#59-registratief-gebied)
-- [5.10 Geografisch gebied](#510-geografisch-gebied)
-- [5.11 Plaats](#511-plaats)
-- [5.12 Functioneel gebied](#512-functioneel-gebied)
-- [5.13 Plantopografie](#513-plantopografie)
+  - [5.1 Wegdeel](#51-wegdeel)
+  - [5.2 Spoorbaandeel](#52-spoorbaandeel)
+  - [5.3 Waterdeel](#53-waterdeel)
+  - [5.4 Gebouw](#54-gebouw)
+  - [5.5 Terrein](#55-terrein)
+  - [5.6 Inrichtingselement](#56-inrichtingselement)
+  - [5.7 Reliëf](#57-reliëf)
+  - [5.8 Hoogte](#58-hoogte)
+  - [5.9 Registratief gebied](#59-registratief-gebied)
+  - [5.10 Geografisch gebied](#510-geografisch-gebied)
+  - [5.11 Plaats](#511-plaats)
+  - [5.12 Functioneel gebied](#512-functioneel-gebied)
+  - [5.13 Plantopografie](#513-plantopografie)
 - [6 Uitwisseling van topografische gegevens](#6-uitwisseling-van-topografische-gegevens)
-- [6.1 GML](#61-gml)
-- [6.2 UML-model en XSD TOP10NL](#62-uml-model-en-xsd-top10nl)
-- [6.3 Waardelijsten TOP10NL](#63-waardelijsten-top10nl)
-- [6.4 Open data](#64-open-data)
+  - [6.1 GML](#61-gml)
+  - [6.2 UML-model en XSD TOP10NL](#62-uml-model-en-xsd-top10nl)
+  - [6.3 Waardelijsten TOP10NL](#63-waardelijsten-top10nl)
+  - [6.4 Open data](#64-open-data)
 - [7 Catalogus Basisregistratie Topografie](#7-catalogus-basisregistratie-topografie)
-- [7.1 Objectklasse onafhankelijke attributen en domeinen](#71-objectklasse-onafhankelijke-attributen-en-domeinen)
-- [7.1.1 Attributen](#711-attributen)
-- [7.1.2 Domeinen](#712-domeinen)
-- [7.2 Objectklasse: wegdeel](#72-objectklasse-wegdeel)
-- [7.3 Objectklasse: spoorbaandeel](#73-objectklasse-spoorbaandeel)
-- [7.4 Objectklasse: waterdeel](#74-objectklasse-waterdeel)
-- [7.5 Objectklasse: gebouw](#75-objectklasse-gebouw)
-- [7.6 Objectklasse: terrein](#76-objectklasse-terrein)
-- [7.7 Objectklasse: inrichtingselement](#77-objectklasse-inrichtingselement)
-- [7.8 Objectklasse: reliëf](#78-objectklasse-reliëf)
-- [7.9 Objectklasse: hoogte](#79-objectklasse-hoogte)
-- [7.10 Objectklasse: registratief gebied](#710-objectklasse-registratief-gebied)
-- [7.11 Objectklasse: geografisch gebied](#711-objectklasse-geografisch-gebied)
-- [7.12 Objectklasse: plaats](#712-objectklasse-plaats)
-- [7.13 Objectklasse: functioneel gebied](#713-objectklasse-functioneel-gebied)
-- [7.14 Objectklasse: plantopografie](#714-objectklasse-plantopografie)
+  - [7.1 Objectklasse onafhankelijke attributen en domeinen](#71-objectklasse-onafhankelijke-attributen-en-domeinen)
+    - [7.1.1 Attributen](#711-attributen)
+    - [7.1.2 Domeinen](#712-domeinen)
+  - [7.2 Objectklasse: wegdeel](#72-objectklasse-wegdeel)
+  - [7.3 Objectklasse: spoorbaandeel](#73-objectklasse-spoorbaandeel)
+  - [7.4 Objectklasse: waterdeel](#74-objectklasse-waterdeel)
+  - [7.5 Objectklasse: gebouw](#75-objectklasse-gebouw)
+  - [7.6 Objectklasse: terrein](#76-objectklasse-terrein)
+  - [7.7 Objectklasse: inrichtingselement](#77-objectklasse-inrichtingselement)
+  - [7.8 Objectklasse: reliëf](#78-objectklasse-reliëf)
+  - [7.9 Objectklasse: hoogte](#79-objectklasse-hoogte)
+  - [7.10 Objectklasse: registratief gebied](#710-objectklasse-registratief-gebied)
+  - [7.11 Objectklasse: geografisch gebied](#711-objectklasse-geografisch-gebied)
+  - [7.12 Objectklasse: plaats](#712-objectklasse-plaats)
+  - [7.13 Objectklasse: functioneel gebied](#713-objectklasse-functioneel-gebied)
+  - [7.14 Objectklasse: plantopografie](#714-objectklasse-plantopografie)
 - [Bijlage 1: Mutatieprotocol](#bijlage-1-mutatieprotocol)
 
 # 1 Stelsel van Basisregistraties
@@ -519,7 +536,7 @@ _Tabel 4.2: De geometrische kenmerken_
 
 Registratief gebied, geografisch gebied en functioneel gebied bestaan voorlopig (ook) als puntobject, omdat deze gebieden in TOP10vector alleen als naam bekend waren zonder bijbehorend gebied.
 
-De positie van een geo-object wordt weergegeven door middel van x en y- coördinaten in het Rijksdriehoeksstelsel (gegeven in meters, met 3 decimalen) en de hoogte ten opzichte van Normaal Amsterdams Peil (NAP). Indien de hoogtewaarde niet beschikbaar is blijft deze ongevuld. (zie ook hoogteniveau in [hoofdstuk 4.5.3](#453-kruisende-objecten)). Bij de objectklasse hoogte wordt middels het attribuut "Referentievlak" aangegeven ten opzichte van welk referentievlak de hoogte gegeven wordt.
+De positie van een geo-object wordt weergegeven door middel van x en y- coördinaten in het Rijksdriehoeksstelsel (gegeven in meters, met 3 decimalen) en de hoogte ten opzichte van Normaal Amsterdams Peil (NAP). Indien de hoogtewaarde niet beschikbaar is blijft deze ongevuld. (zie ook hoogteniveau in [paragraaf 4.5.3](#453-kruisende-objecten)). Bij de objectklasse hoogte wordt middels het attribuut "Referentievlak" aangegeven ten opzichte van welk referentievlak de hoogte gegeven wordt.
 
 ### 4.3.6 Geo-objecten met meervoudige geometrie
 
@@ -738,7 +755,7 @@ Lijnobjecten binnen eenzelfde objectklasse met dezelfde attribuutwaarden (incl. 
 
 # 5 De objectcatalogus in het kort
 
-In dit hoofdstuk wordt een algemene toelichting gegeven op de objectklassen. Voor uitgebreide informatie betreffende de objecten wordt verwezen naar de Objectcatalogus TOP10NL ([Hoofdstuk 7](#7-catalogus-basisregistratie-topografie)).
+In dit hoofdstuk wordt een algemene toelichting gegeven op de objectklassen. Voor uitgebreide informatie betreffende de objecten wordt verwezen naar de Objectcatalogus TOP10NL ([hoofdstuk 7](#7-catalogus-basisregistratie-topografie)).
 
 Per objectklasse worden in een tabel de attributen weergegeven met de bijbehorende waarden. Ook wordt daar per attribuut aangegeven of het één of meer keer mag voorkomen en of het attribuut verplicht of optioneel is. Eventueel wordt extra informatie over de objectklasse gegeven.
 
@@ -956,7 +973,6 @@ Definitie: Kleinste functioneel onafhankelijk stukje water met gelijkblijvende, 
 | functie | enkelvoudig | verplicht | < domein "WA\_functie" > | | | |
 | voorkomen | enkelvoudig | optioneel | met riet | | x | x |
 | getijdeInvloed | enkelvoudig | verplicht | < domein "WA\_getijdeInvloed" > | x | x | x |
-| getijdeInvloed | enkelvoudig | verplicht | nee | x | x | x |
 | vaarwegklasse | enkelvoudig | optioneel | < domein "WA\_vaarwegklasse" > | x | x | x |
 | NaamOfficieel | enkelvoudig | optioneel | < Officiële naam water > | x | x | x |
 | naamNL | veelvoudig | optioneel | < Nederlandse naam water > | x | x | x |
@@ -3850,7 +3866,7 @@ _Inwinningscriteria:_
 
 - Een gebouw moet een permanent karakter hebben en bedoeld zijn voor verblijf, handel, verkeer en/of arbeid.
 
-- De orthogonale projectie van de uiterste buitenrand inclusief carports en passages (overbouwing van een weg reikend van gebouw tot gebouw, enkel bestaand uit een al dan niet licht doorlatend dak), exclusief luifels, op onderliggend terrein, wegen of water wordt opgenomen. Een stationsoverkapping wordt ingewonnenn als gebouw, een overkapping van alleen een perron op een station wordt niet opgenomen. Bebouwing boven (hoge) poorten maakt onderdeel uit van de opgaande bebouwing. Bebouwing, geheel of gedeeltelijk gelegen over een ander object, wordt als bebouwing aangegeven.
+- De orthogonale projectie van de uiterste buitenrand inclusief carports en passages (overbouwing van een weg reikend van gebouw tot gebouw, enkel bestaand uit een al dan niet licht doorlatend dak), exclusief luifels, op onderliggend terrein, wegen of water wordt opgenomen. Een stationsoverkapping wordt ingewonnen als gebouw, een overkapping van alleen een perron op een station wordt niet opgenomen. Bebouwing boven (hoge) poorten maakt onderdeel uit van de opgaande bebouwing. Bebouwing, geheel of gedeeltelijk gelegen over een ander object, wordt als bebouwing aangegeven.
 
 - De minimumgrootte voor een gebouwvlak is 9 m².
 
