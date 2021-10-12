@@ -1653,9 +1653,9 @@ De basisregistratie Topografie is vanaf 1 januari 2012 als open data beschikbaar
 
 Meer informatie over de basisregistratie Topografie en de wijze van bestellen vindt u op de productpagina's van de BRT en TOP10NL:
 
-[www.kadaster.nl/BRT](https://www.kadaster.nl/brt)
+[www.kadaster.nl/zakelijk/registraties/basisregistraties/brt](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt)
 
-[www.kadaster.nl/-/top10nl](https://www.kadaster.nl/-/top10nl)
+[www.kadaster.nl/zakelijk/producten/geo-informatie/topnl](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl)
 
 ### Webservices
 
