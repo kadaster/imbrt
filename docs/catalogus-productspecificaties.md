@@ -281,7 +281,7 @@ In GIS-applicaties worden EPSG (European Petroleum Survey Group) codes gebruik o
 
 ### 3.4.1 Kwaliteitscontrole
 
-De interne kwaliteitscontrole wordt uitgevoerd met behulp van het interne document "Controleprotocol TOP10NL" ( [www.kadaster.nl/brt-documentatie](https://www.kadaster.nl/brt-documentatie) ). In het controleprotocol vinden de controleaspecten plaats zoals genoemd in ISO 19113. Deze controleaspecten zijn: logische consistentie, positionele nauwkeurigheid, actualiteit, volledigheid, thematische nauwkeurigheid en de terugmeldingen.
+De interne kwaliteitscontrole wordt uitgevoerd met behulp van het interne document "Controleprotocol TOP10NL" ( [www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-documentatie](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-documentatie) ). In het controleprotocol vinden de controleaspecten plaats zoals genoemd in ISO 19113. Deze controleaspecten zijn: logische consistentie, positionele nauwkeurigheid, actualiteit, volledigheid, thematische nauwkeurigheid en de terugmeldingen.
 
 De in de wet bedoelde externe kwaliteitscontrole wordt eens in de drie jaar uitgevoerd door een externe expert. De kwaliteitsbeoordeling moet worden gemaakt volgens de ISO 19114 standaard. In 2011 en 2015 zijn deze controles uitgevoerd door Wageningen Environmental Research (Alterra). De uitkomsten van deze controle heeft het Kadaster aan het Ministerie van Infrastructuur en Milieu gerapporteerd.
 
