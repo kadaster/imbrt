@@ -14,7 +14,7 @@ TOP10NL geeft de topografische werkelijkheid binnen de grenzen van het schaalber
 
 Het Kadaster produceert vanaf 2007 dit nieuwe objectgerichte vectorbestand op de schaal 1:10.000. Het is de opvolger van TOP10vector dat sinds 1992 is vervaardigd. Bij de ontwikkeling van TOP10NL spelen standaarden een belangrijke rol. Eén van de belangrijkste doeleinden van het nieuwe bestand is een optimale uitwisseling mogelijk te maken tussen dit topografisch basisbestand en vele andere topografische en thematische bestanden die in Nederland worden geproduceerd. Aansluiten bij internationale standaarden is van essentieel belang om uitwisseling mogelijk te maken met geografische basisbestanden welke binnen Europa geproduceerd worden.
 
-Vanaf 1 januari 2008 fungeert TOP10NL als Basisregistratie Topografie (BRT). Daarmee is TOP10NL het standaard topografische basisbestand voor gebruik binnen de overheid op het betreffende schaalgebied. Voor meer informatie zie [www.rijksoverheid.nl](https://www.rijksoverheid.nl) en [www.kadaster.nl/BRT](https://www.kadaster.nl/brt)
+Vanaf 1 januari 2008 fungeert TOP10NL als Basisregistratie Topografie (BRT). Daarmee is TOP10NL het standaard topografische basisbestand voor gebruik binnen de overheid op het betreffende schaalgebied. Voor meer informatie zie [www.rijksoverheid.nl](https://www.rijksoverheid.nl) en [www.kadaster.nl/zakelijk/registraties/basisregistraties/brt](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt)
 
 Tijdens de ontwikkeling van TOP10NL zijn een groot aantal deelonderzoeken verricht. Het product TOP10NL is ontwikkeld in samenspraak met de gebruikers. Deelonderzoeken zijn verricht door de universiteiten van Delft, Wageningen en het ITC te Enschede. Externe GIS-software ontwikkelbedrijven hebben een aanzienlijke bijdrage geleverd in de ontwikkeling van de database.
 
@@ -252,7 +252,7 @@ Het bestand TOP10NL beslaat het gehele Nederlandse grondgebied. Langs de grenzen
 
 ## 3.2 Actualiteit
 
-TOP10NL is gebaseerd op luchtfotografie, ondersteund door 360 graden beelden en eventueel een terreinverkenning. De datum van de luchtopname, meestal in de periode januari – april, is bepalend voor de actualiteitsdatum van TOP10NL. De bijhoudingscyclus van TOP10NL is één jaar voor heel Nederland. Een overzicht van de actualiteit van TOP10NL wordt weergegeven in de "BRT Actualiteitskaart: TOP10NL" (te vinden op [www.kadaster.nl/-/top10nl](https://www.kadaster.nl/-/top10nl)).
+TOP10NL is gebaseerd op luchtfotografie, ondersteund door 360 graden beelden en eventueel een terreinverkenning. De datum van de luchtopname, meestal in de periode januari – april, is bepalend voor de actualiteitsdatum van TOP10NL. De bijhoudingscyclus van TOP10NL is één jaar voor heel Nederland. Een overzicht van de actualiteit van TOP10NL wordt weergegeven in de "BRT Actualiteitskaart: TOP10NL" (te vinden op [www.kadaster.nl/zakelijk/producten/geo-informatie/topnl](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl)).
 
 ## 3.3 Ruimtelijk referentiesysteem
 
@@ -281,7 +281,7 @@ In GIS-applicaties worden EPSG (European Petroleum Survey Group) codes gebruik o
 
 ### 3.4.1 Kwaliteitscontrole
 
-De interne kwaliteitscontrole wordt uitgevoerd met behulp van het interne document "Controleprotocol TOP10NL" ( [www.kadaster.nl/brt-documentatie](https://www.kadaster.nl/brt-documentatie) ). In het controleprotocol vinden de controleaspecten plaats zoals genoemd in ISO 19113. Deze controleaspecten zijn: logische consistentie, positionele nauwkeurigheid, actualiteit, volledigheid, thematische nauwkeurigheid en de terugmeldingen.
+De interne kwaliteitscontrole wordt uitgevoerd met behulp van het interne document "Controleprotocol TOP10NL" ( [www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-documentatie](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-documentatie) ). In het controleprotocol vinden de controleaspecten plaats zoals genoemd in ISO 19113. Deze controleaspecten zijn: logische consistentie, positionele nauwkeurigheid, actualiteit, volledigheid, thematische nauwkeurigheid en de terugmeldingen.
 
 De in de wet bedoelde externe kwaliteitscontrole wordt eens in de drie jaar uitgevoerd door een externe expert. De kwaliteitsbeoordeling moet worden gemaakt volgens de ISO 19114 standaard. In 2011 en 2015 zijn deze controles uitgevoerd door Wageningen Environmental Research (Alterra). De uitkomsten van deze controle heeft het Kadaster aan het Ministerie van Infrastructuur en Milieu gerapporteerd.
 
@@ -1605,7 +1605,7 @@ Het uitwisselingsformaat waarin de gegevens beschikbaar zijn, is meestal afhanke
 
 Voor de uitwisseling van de TOP10NL bestanden is gekozen voor de standaardtaal GML (Geography Markup Language). Het voordeel van GML is dat zowel de inhoud als de structuur van de gegevens meegeleverd wordt. De structuur wordt via het internet door de bronhouder(s) bijgehouden, zodat dataconversie problemen tot het verleden behoren. GML is in beginsel een uitwisselingsformaat dat onafhankelijk is van specifieke GIS-software. Het is wereldwijd bruikbaar in een GIS systeem dat compatibel is met XML (eXtensible Markup Language), een internationale standaard op ICT gebied.
 
-Vanaf de BRT-levering van september 2020 wordt TOP10NL ook ontsloten als Geopackage. Meer informatie over Geopackage is te vinden op de website van Geonovum ([www.geonovum.nl/geo-standaarden/geopackage](https://www.geonovum.nl/geo-standaarden/geopackage).
+Vanaf de BRT-levering van september 2020 wordt TOP10NL ook ontsloten als Geopackage. Meer informatie over Geopackage is te vinden op de website van Geonovum ( [www.geonovum.nl/geo-standaarden/geopackage](https://www.geonovum.nl/geo-standaarden/geopackage) ).
 
 ## 6.1 GML
 
@@ -1653,9 +1653,9 @@ De basisregistratie Topografie is vanaf 1 januari 2012 als open data beschikbaar
 
 Meer informatie over de basisregistratie Topografie en de wijze van bestellen vindt u op de productpagina's van de BRT en TOP10NL:
 
-[www.kadaster.nl/BRT](https://www.kadaster.nl/brt)
+[www.kadaster.nl/zakelijk/registraties/basisregistraties/brt](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt)
 
-[www.kadaster.nl/-/top10nl](https://www.kadaster.nl/-/top10nl)
+[www.kadaster.nl/zakelijk/producten/geo-informatie/topnl](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl)
 
 ### Webservices
 
