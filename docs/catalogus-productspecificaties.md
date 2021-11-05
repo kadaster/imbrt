@@ -47,7 +47,7 @@ In deze paragraaf worden de belangrijkste wijzigingen ten opzichte van de vorige
 Het is ook mogelijk om alle wijzigingen ten opzichte van de vorige versie van de BRT Catalogus en Productspecificaties te bekijken. Dit wordt mogelijk gemaakt door het versiebeheersysteem GitHub, het systeem waar de online BRT Catalogus en Productspecificaties in gemaakt is.
 
 ## Belangrijkste verschillen
-De belangrijkste wijzigingen in versie 1.2.0.4 van de Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
+De belangrijkste wijzigingen in versie 1.2.0.4 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
 - Toevoeging hoofdstuk met wijzigingen t.o.v. de vorige versie: [wijzigingen t.o.v. vorige versie](#Wijzigingen-t.o.v.-vorige-versie)
 - Toevoeging links aan versiehistorie naar historische versies catalogus: [versiehistorie](#versiehistorie)
 
