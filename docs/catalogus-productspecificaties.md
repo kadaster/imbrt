@@ -1663,7 +1663,6 @@ Een webservice maakt het mogelijk een kaartbeeld in een webapplicatie te gebruik
 
 - TOP10NL wms (web map service)
 - TOP10NL wmts (web mab tile service)
-- TOP10NL tms (tile map service)
 
 ### Gebruiksvoorwaarden BRT
 
