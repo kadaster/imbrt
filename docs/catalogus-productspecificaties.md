@@ -47,7 +47,7 @@ In deze paragraaf worden de belangrijkste wijzigingen ten opzichte van de vorige
 Het is ook mogelijk om alle wijzigingen ten opzichte van de vorige versie van de BRT Catalogus en Productspecificaties te bekijken. Dit wordt mogelijk gemaakt door het versiebeheersysteem GitHub, het systeem waar de online BRT Catalogus en Productspecificaties in gemaakt is.
 
 ## Belangrijkste verschillen
-De belangrijkste wijzigingen in versie 1.2.0.4 van de Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
+De belangrijkste wijzigingen in versie 1.2.0.4 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
 - Toevoeging hoofdstuk met wijzigingen t.o.v. de vorige versie: [wijzigingen t.o.v. vorige versie](#Wijzigingen-t.o.v.-vorige-versie)
 - Toevoeging links aan versiehistorie naar historische versies catalogus: [versiehistorie](#versiehistorie)
 
@@ -58,7 +58,7 @@ Eerste gedeelte van de URL: hier staat de verwijzing naar de laatste commit van 
 Laatste gedeelte van de URL: hier staat de "master", oftewel de actuele versie
 -->
 Alle verschillen tussen versie 1.2.0.4 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie kunnen bekeken worden in GitHub.
-> [Bekijk alle verschillen in GitHub](https://github.com/kadaster/imbrt/compare/93e4a27..master?diff=split)
+> [Bekijk alle verschillen in GitHub](https://github.com/kadaster/imbrt/compare/93e4a27...master#files_bucket)
 
 Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecificaties weergegeven, aan de linkerzijde de vorige versie en aan de rechterzijde de huidige versie. Alleen de gedeelten van de BRT Catalogus en Productspecificaties waar wijzigingen hebben plaatsgevonden, worden weergegeven. Door middel van de kleuren roze en groen worden de verschillen tussen beide versies gemarkeerd. De betekenis van de kleuren is als volgt:
 > - een licht roze kleur markeert de vorige versie van de desbetreffende regel
@@ -1663,7 +1663,6 @@ Een webservice maakt het mogelijk een kaartbeeld in een webapplicatie te gebruik
 
 - TOP10NL wms (web map service)
 - TOP10NL wmts (web mab tile service)
-- TOP10NL tms (tile map service)
 
 ### Gebruiksvoorwaarden BRT
 
