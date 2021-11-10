@@ -2,7 +2,7 @@
 
 # Basisregistratie Topografie: Catalogus en Productspecificaties
 
-Versie: 1.2.0.4
+Versie: 1.2.0.5
 
 # Inleiding
 
@@ -28,9 +28,17 @@ Dit document begint met een kort overzicht van het Stelsel van Basisregistraties
 
 # Versiehistorie
 
+<!--
+Hoe wordt de URL naar de oude versie van de Catalogus, die hieronder in de laatste kolom staat, bepaald:
+Ga op github.com naar de commits in deze repository
+Bepaal de laatste commit van die versie van de Catalogus en kies voor de knop "<>" (Browse the repository at this point in the history)
+Blader vervolgens naar dit bestand en klik er op om het te openen
+De URL die nu geopend wordt is de URL van de oude versie van de Catalogus
+-->
 | Versie | Datum | Auteur | Opmerking | Link naar historische versies |
 |:---|:---|:---|:---|:---|
-| 1.2.0.4 | 22 juli 2021 | Kadaster | Toevoeging hoofdstuk met wijzigingen t.o.v. vorige versie, toevoeging link naar historische versies BRT Catalogus. | - |
+| 1.2.0.5 | 10 november 2021 | Kadaster | Wijzigingen n.a.v. Audit BRT 2020 doorgevoerd. | - |
+| 1.2.0.4 | 22 juli 2021 | Kadaster | Toevoeging hoofdstuk met wijzigingen t.o.v. vorige versie, toevoeging link naar historische versies BRT Catalogus. | [versie 1.2.0.4 (web)](https://github.com/kadaster/imbrt/blob/5639d20316bd183a59d27a41e44eb312f64d8286/docs/catalogus-productspecificaties.md) |
 | 1.2.0.3 | 11 december 2020 | Kadaster | Enkele URL’s geactualiseerd, catalogus nu ook in GIT, wijziging door gebruik BAG-panden verwerkt. | [versie 1.2.0.3 (web)](https://github.com/kadaster/imbrt/blob/3b193ec7da5ce23c4c486e2f021b491c3573fb01/docs/catalogus-productspecificaties.md) <br> [versie 1.2.0.3 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.3.pdf) |
 | 1.2.0.2 | 20 april 2020 | Kadaster | Enkele kleine tekstuele fouten verbeterd. | [versie 1.2.0.2 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.2.pdf) |
 | 1.2.0.1 | 8 juli 2019 | Kadaster | Wijzigingen n.a.v. Audit BRT 2017 doorgevoerd. <br> Wijzigingen datamodel inrichtingselement en functioneel gebied verwerkt. <br> Diverse verduidelijkingen verwerkt. | [versie 1.2.0.1 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.1.pdf) |
@@ -47,18 +55,17 @@ In deze paragraaf worden de belangrijkste wijzigingen ten opzichte van de vorige
 Het is ook mogelijk om alle wijzigingen ten opzichte van de vorige versie van de BRT Catalogus en Productspecificaties te bekijken. Dit wordt mogelijk gemaakt door het versiebeheersysteem GitHub, het systeem waar de online BRT Catalogus en Productspecificaties in gemaakt is.
 
 ## Belangrijkste verschillen
-De belangrijkste wijzigingen in versie 1.2.0.4 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
-- Toevoeging hoofdstuk met wijzigingen t.o.v. de vorige versie: [wijzigingen t.o.v. vorige versie](#Wijzigingen-t.o.v.-vorige-versie)
-- Toevoeging links aan versiehistorie naar historische versies catalogus: [versiehistorie](#versiehistorie)
+De belangrijkste wijzigingen in versie 1.2.0.5 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
+- Wijzigingen n.a.v. Audit BRT 2020 doorgevoerd.
 
 ## Alle verschillen
 <!--
 Hoe werkt de URL naar de vergelijking die hieronder staat:
-Eerste gedeelte van de URL: hier staat de verwijzing naar de laatste commit van de vorige versie van de catalogus
-Laatste gedeelte van de URL: hier staat de "master", oftewel de actuele versie
+Eerste gedeelte van de URL achter "compare": hier staat de verwijzing naar de laatste commit van de vorige versie van de catalogus (dit zijn de eerste 7 karakters van het complete commit-id)
+Laatste gedeelte van de URL achter "compare": hier staat de "master", oftewel de actuele versie
 -->
-Alle verschillen tussen versie 1.2.0.4 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie kunnen bekeken worden in GitHub.
-> [Bekijk alle verschillen in GitHub](https://github.com/kadaster/imbrt/compare/93e4a27...master#files_bucket)
+Alle verschillen tussen versie 1.2.0.5 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie kunnen bekeken worden in GitHub.
+> [Bekijk alle verschillen in GitHub](https://github.com/kadaster/imbrt/compare/5639d20...master#files_bucket)
 
 Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecificaties weergegeven, aan de linkerzijde de vorige versie en aan de rechterzijde de huidige versie. Alleen de gedeelten van de BRT Catalogus en Productspecificaties waar wijzigingen hebben plaatsgevonden, worden weergegeven. Door middel van de kleuren roze en groen worden de verschillen tussen beide versies gemarkeerd. De betekenis van de kleuren is als volgt:
 > - een licht roze kleur markeert de vorige versie van de desbetreffende regel
