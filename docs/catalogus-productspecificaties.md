@@ -33,6 +33,7 @@ Ga op github.com naar de commits in deze repository
 Bepaal de laatste commit van die versie van de Catalogus en kies voor de knop "<>" (Browse the repository at this point in the history)
 Blader vervolgens naar dit bestand en klik er op om het te openen
 De URL die nu geopend wordt is de URL van de oude versie van de Catalogus
+Belangrijk: om de tabel hieronder juist weer te geven, moet er een witregel na de volgende pijl komen!!
 -->
 
 | Versie | Datum | Auteur | Opmerking | Link naar historische versie |
