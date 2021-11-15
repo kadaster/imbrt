@@ -14,7 +14,7 @@ TOP10NL geeft de topografische werkelijkheid binnen de grenzen van het schaalber
 
 Het Kadaster produceert vanaf 2007 dit nieuwe objectgerichte vectorbestand op de schaal 1:10.000. Het is de opvolger van TOP10vector dat sinds 1992 is vervaardigd. Bij de ontwikkeling van TOP10NL spelen standaarden een belangrijke rol. Eén van de belangrijkste doeleinden van het nieuwe bestand is een optimale uitwisseling mogelijk te maken tussen dit topografisch basisbestand en vele andere topografische en thematische bestanden die in Nederland worden geproduceerd. Aansluiten bij internationale standaarden is van essentieel belang om uitwisseling mogelijk te maken met geografische basisbestanden welke binnen Europa geproduceerd worden.
 
-Vanaf 1 januari 2008 fungeert TOP10NL als Basisregistratie Topografie (BRT). Daarmee is TOP10NL het standaard topografische basisbestand voor gebruik binnen de overheid op het betreffende schaalgebied. Voor meer informatie zie [www.rijksoverheid.nl](https://www.rijksoverheid.nl) en [www.kadaster.nl/zakelijk/registraties/basisregistraties/brt](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt)
+Vanaf 1 januari 2008 fungeert TOP10NL als Basisregistratie Topografie (BRT). Daarmee is TOP10NL het standaard topografische basisbestand voor gebruik binnen de overheid op het betreffende schaalgebied. Voor meer informatie zie [**www.rijksoverheid.nl**](https://www.rijksoverheid.nl) en [**www.kadaster.nl/zakelijk/registraties/basisregistraties/brt**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt)
 
 Tijdens de ontwikkeling van TOP10NL zijn een groot aantal deelonderzoeken verricht. Het product TOP10NL is ontwikkeld in samenspraak met de gebruikers. Deelonderzoeken zijn verricht door de universiteiten van Delft, Wageningen en het ITC te Enschede. Externe GIS-software ontwikkelbedrijven hebben een aanzienlijke bijdrage geleverd in de ontwikkeling van de database.
 
@@ -22,9 +22,9 @@ In 2014 heeft het Kadaster samen met gebruikers een nieuw datamodel voor TOP10NL
 
 # Leeswijzer
 
-Dit document begint met een kort overzicht van het Stelsel van Basisregistraties. Hierna worden de belangrijkste kenmerken van TOP10NL beschreven. [Hoofdstuk 3](#3-opbouw-top10nl) behandelt een aantal algemene zaken over TOP10NL, zoals de gebiedsaanduiding, de actualiteit, het ruimtelijk referentiesysteem, een kwaliteitsbeschrijving, het productieproces en het gebruik van TOP10NL. [Hoofdstuk 4](#4-gegevensmodel-top10nl) beschrijft het gegevensmodel met de verschillende groepen kenmerken en het gedrag van geo-objecten. In [hoofdstuk 5](#5-de-objectcatalogus-in-het-kort) vindt u een compact overzicht van alle objectklassen, attributen en attribuutwaarden van TOP10NL inclusief de mogelijke geometrieën. [Hoofdstuk 6](#6-uitwisseling-van-topografische-gegevens) gaat in op de uitwisseling van gegevens. Daarbij komen o.a. GML, UML en de XSD aan bod. De complete uitgebreide objectcatalogus is opgenomen in [hoofdstuk 7](#7-catalogus-basisregistratie-topografie).
+Dit document begint met een kort overzicht van het Stelsel van Basisregistraties. Hierna worden de belangrijkste kenmerken van TOP10NL beschreven. [**Hoofdstuk 3**](#3-opbouw-top10nl) behandelt een aantal algemene zaken over TOP10NL, zoals de gebiedsaanduiding, de actualiteit, het ruimtelijk referentiesysteem, een kwaliteitsbeschrijving, het productieproces en het gebruik van TOP10NL. [**Hoofdstuk 4**](#4-gegevensmodel-top10nl) beschrijft het gegevensmodel met de verschillende groepen kenmerken en het gedrag van geo-objecten. In [**hoofdstuk 5**](#5-de-objectcatalogus-in-het-kort) vindt u een compact overzicht van alle objectklassen, attributen en attribuutwaarden van TOP10NL inclusief de mogelijke geometrieën. [**Hoofdstuk 6**](#6-uitwisseling-van-topografische-gegevens) gaat in op de uitwisseling van gegevens. Daarbij komen o.a. GML, UML en de XSD aan bod. De complete uitgebreide objectcatalogus is opgenomen in [**hoofdstuk 7**](#7-catalogus-basisregistratie-topografie).
 
-[Bijlage 1: Mutatieprotocol](#bijlage-1-mutatieprotocol) beschrijft het mutatieprotocol dat gebruikt wordt om te bepalen wanneer er sprake is van een nieuw object of een nieuwe versie van een object. Dit is van belang bij het toekennen van unieke identificatiecodes.
+[**Bijlage 1: Mutatieprotocol**](#bijlage-1-mutatieprotocol) beschrijft het mutatieprotocol dat gebruikt wordt om te bepalen wanneer er sprake is van een nieuw object of een nieuwe versie van een object. Dit is van belang bij het toekennen van unieke identificatiecodes.
 
 # Versiehistorie
 
@@ -67,7 +67,7 @@ Laatste gedeelte van de URL achter "compare": hier staat de "master", oftewel de
 Deze link werkt alleen als de werk-branch is gepushed naar de master, gebruik tijdens het doorvoeren van wijzigingen het Pull-request om de verschillen te zien.
 -->
 Alle verschillen tussen versie 1.2.0.5 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie kunnen bekeken worden in GitHub.
-> [Bekijk alle verschillen in GitHub](https://github.com/kadaster/imbrt/compare/5639d20...master#files_bucket)
+> [**Bekijk alle verschillen in GitHub**](https://github.com/kadaster/imbrt/compare/5639d20...master#files_bucket)
 
 Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecificaties weergegeven, aan de linkerzijde de vorige versie en aan de rechterzijde de huidige versie. Alleen de gedeelten van de BRT Catalogus en Productspecificaties waar wijzigingen hebben plaatsgevonden, worden weergegeven. Door middel van de kleuren roze en groen worden de verschillen tussen beide versies gemarkeerd. De betekenis van de kleuren is als volgt:
 > - een licht roze kleur markeert de vorige versie van de desbetreffende regel
@@ -172,7 +172,7 @@ Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecif
 
 De overheid beschikt over 30.000 verschillende systemen om gegevens vast te leggen. Bepaalde gegevens worden daardoor in meerdere systemen geregistreerd én bijgehouden. Om dit proces te vereenvoudigen en de dienstverlening te verbeteren is door de overheid besloten een stelsel van basisregistraties te implementeren. Dit stelsel zorgt ervoor dat elk (basis)gegeven één bron kent. Gegevens zullen daardoor betrouwbaarder, actueler en uitwisselbaar zijn.
 
-Een basisregistratie is een door de overheid officieel aangewezen registratie met daarin gegevens van hoogwaardige kwaliteit, die door alle overheidsinstellingen verplicht en zonder nader onderzoek, worden gebruikt bij de uitvoering van publiekrechtelijke taken. De kenmerken van een basisregistratie zijn verwoord in 12 eisen waaraan een basisregistratie moet voldoen (bron: [www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties) ):
+Een basisregistratie is een door de overheid officieel aangewezen registratie met daarin gegevens van hoogwaardige kwaliteit, die door alle overheidsinstellingen verplicht en zonder nader onderzoek, worden gebruikt bij de uitvoering van publiekrechtelijke taken. De kenmerken van een basisregistratie zijn verwoord in 12 eisen waaraan een basisregistratie moet voldoen (bron: [**www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties**](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties) ):
 
 1. De registratie is bij wet geregeld
 2. De afnemers hebben een terugmeldplicht
@@ -193,7 +193,7 @@ In onderstaande figuur is de plaats van de Basisregistratie Topografie (BRT) in 
 
 ![](images/figuur1-1.png)
 
-_Figuur 1.1: Stelselplaat Stelsel van Basisregistraties, status 31 december 2019. [www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties/stelselplaat](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties/stelselplaat)_
+_Figuur 1.1: Stelselplaat Stelsel van Basisregistraties, status 31 december 2019. [**www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties/stelselplaat**](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties/stelselplaat)_
 
 # 2 Kenmerken van TOP10NL
 
@@ -261,7 +261,7 @@ Het bestand TOP10NL beslaat het gehele Nederlandse grondgebied. Langs de grenzen
 
 ## 3.2 Actualiteit
 
-TOP10NL is gebaseerd op luchtfotografie, ondersteund door 360 graden beelden en eventueel een terreinverkenning. De datum van de luchtopname, meestal in de periode januari – april, is bepalend voor de actualiteitsdatum van TOP10NL. De bijhoudingscyclus van TOP10NL is één jaar voor heel Nederland. Een overzicht van de actualiteit van TOP10NL wordt weergegeven in de "BRT Actualiteitskaart: TOP10NL" (te vinden op [www.kadaster.nl/zakelijk/producten/geo-informatie/topnl](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl)).
+TOP10NL is gebaseerd op luchtfotografie, ondersteund door 360 graden beelden en eventueel een terreinverkenning. De datum van de luchtopname, meestal in de periode januari – april, is bepalend voor de actualiteitsdatum van TOP10NL. De bijhoudingscyclus van TOP10NL is één jaar voor heel Nederland. Een overzicht van de actualiteit van TOP10NL wordt weergegeven in de "BRT Actualiteitskaart: TOP10NL" (te vinden op [**www.kadaster.nl/zakelijk/producten/geo-informatie/topnl**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl)).
 
 ## 3.3 Ruimtelijk referentiesysteem
 
@@ -290,13 +290,13 @@ In GIS-applicaties worden EPSG (European Petroleum Survey Group) codes gebruik o
 
 ### 3.4.1 Kwaliteitscontrole
 
-De interne kwaliteitscontrole wordt uitgevoerd met behulp van het interne document "Controleprotocol TOP10NL" ( [www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-documentatie](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-documentatie) ). In het controleprotocol vinden de controleaspecten plaats zoals genoemd in ISO 19113. Deze controleaspecten zijn: logische consistentie, positionele nauwkeurigheid, actualiteit, volledigheid, thematische nauwkeurigheid en de terugmeldingen.
+De interne kwaliteitscontrole wordt uitgevoerd met behulp van het interne document "Controleprotocol TOP10NL" ( [**www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-documentatie**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-documentatie) ). In het controleprotocol vinden de controleaspecten plaats zoals genoemd in ISO 19113. Deze controleaspecten zijn: logische consistentie, positionele nauwkeurigheid, actualiteit, volledigheid, thematische nauwkeurigheid en de terugmeldingen.
 
 De in de wet bedoelde externe kwaliteitscontrole wordt eens in de drie jaar uitgevoerd door een externe expert. De kwaliteitsbeoordeling moet worden gemaakt volgens de ISO 19114 standaard. In 2011 en 2015 zijn deze controles uitgevoerd door Wageningen Environmental Research (Alterra). De uitkomsten van deze controle heeft het Kadaster aan het Ministerie van Infrastructuur en Milieu gerapporteerd.
 
 ### 3.4.2 Verkenningsvoorschriften
 
-In de interne verkenningsvoorschriften wordt in detail beschreven welke objecten in TOP10NL als geo-object worden opgenomen. Deze elementen worden altijd beschreven door een geometrisch type, coördinaten, hun betekenis en temporele kenmerken. Het gaat hierbij niet alleen om beschrijvingen, maar ook om afmetingen en relaties met andere objecten. In de voorschriften wordt bijvoorbeeld bepaald dat lantaarnpalen niet worden opgenomen, maar dat steenglooiingen wel worden opgenomen, uitgezonderd steenglooiingen langs een kanaal. In de Objectcatalogus TOP10NL (zie [hoofdstuk 7](#7-catalogus-basisregistratie-topografie)) zijn de inwinningscriteria uit de verkenningsvoorschriften te vinden.
+In de interne verkenningsvoorschriften wordt in detail beschreven welke objecten in TOP10NL als geo-object worden opgenomen. Deze elementen worden altijd beschreven door een geometrisch type, coördinaten, hun betekenis en temporele kenmerken. Het gaat hierbij niet alleen om beschrijvingen, maar ook om afmetingen en relaties met andere objecten. In de voorschriften wordt bijvoorbeeld bepaald dat lantaarnpalen niet worden opgenomen, maar dat steenglooiingen wel worden opgenomen, uitgezonderd steenglooiingen langs een kanaal. In de Objectcatalogus TOP10NL (zie [**hoofdstuk 7**](#7-catalogus-basisregistratie-topografie)) zijn de inwinningscriteria uit de verkenningsvoorschriften te vinden.
 
 De verkenningsvoorschriften zijn in grote lijnen ongewijzigd gebleven ten opzichte van TOP10vector. Jaarlijks worden ze aangepast indien nieuwe of vervallen relevante categorieën worden geconstateerd of indien gebruikerswensen en verbeteringen in de productiemethodiek daartoe aanleiding geven.
 
@@ -318,7 +318,7 @@ De ISO-norm is dermate uitgebreid, dat de opstellende werkgroep TC211 een aantal
 
 Om een aantal praktische problemen, o.a. wat betreft uitwisselbaarheid, met de 'core-metadata' op te lossen is besloten een Nederlands profiel op ISO 19115:2003 op te stellen.
 
-Dit profiel bestaat uit een kernset en een optionele set. De kernset bevat de verplichte metadataelementen op basis waarvan gebruikers geografische datasets en –series kunnen zoeken ("metadata for discovery"). Deze kernset is zo beperkt mogelijk gehouden. Dankzij deze kernset kunnen gebruikers gevonden datasets en –series op dezelfde elementen met elkaar vergelijken en weten gebruikers dat ze alle beschikbare data gevonden hebben. De optionele set bevat metadataelementen voor het beheer van geografische datasets en –series. Het is een aanvulling op de minimale kernset en voorziet in de behoefte van het geo-werkveld aan een brede gemeenschappelijke basis van metadata-elementen, in het bijzonder voor het beheer. De verplichte kernset en optionele set maken dit profiel breed en praktisch toepasbaar voor het geo-werkveld. De metadata van TOP10NL is te vinden in het Nationaal Georegister ( [www.nationaalgeoregister.nl](https://www.nationaalgeoregister.nl) ).
+Dit profiel bestaat uit een kernset en een optionele set. De kernset bevat de verplichte metadataelementen op basis waarvan gebruikers geografische datasets en –series kunnen zoeken ("metadata for discovery"). Deze kernset is zo beperkt mogelijk gehouden. Dankzij deze kernset kunnen gebruikers gevonden datasets en –series op dezelfde elementen met elkaar vergelijken en weten gebruikers dat ze alle beschikbare data gevonden hebben. De optionele set bevat metadataelementen voor het beheer van geografische datasets en –series. Het is een aanvulling op de minimale kernset en voorziet in de behoefte van het geo-werkveld aan een brede gemeenschappelijke basis van metadata-elementen, in het bijzonder voor het beheer. De verplichte kernset en optionele set maken dit profiel breed en praktisch toepasbaar voor het geo-werkveld. De metadata van TOP10NL is te vinden in het Nationaal Georegister ( [**www.nationaalgeoregister.nl**](https://www.nationaalgeoregister.nl) ).
 
 ### 3.4.4 Metadata per object
 
@@ -356,7 +356,7 @@ De productie van digitale topografische bestanden valt uiteen in een aantal stap
 
 In deze processtap worden de mutaties gedetecteerd door het vergelijken van 2 jaargangen luchtfoto's. Daar waar verschillen waarneembaar zijn tussen de beide luchtfoto's wordt een trigger aangebracht. Deze triggers geven aan waar in het vervolgproces de wijzigingen in TOP10NL kunnen worden aangebracht.
 
-De gebruikte luchtfoto's zijn afkomstig uit de Landelijke Voorziening Beeldmateriaal ( [www.beeldmateriaal.nl](https://www.beeldmateriaal.nl) )
+De gebruikte luchtfoto's zijn afkomstig uit de Landelijke Voorziening Beeldmateriaal ( [**www.beeldmateriaal.nl**](https://www.beeldmateriaal.nl) )
 
 ### 3.5.2 Interpretatie luchtfoto's en muteren TOP10NL
 
@@ -382,13 +382,13 @@ De bijgewerkte TOP10NL is vervolgens de bron voor het maken van de vervolgproduc
 - TOPgrenzen
 - TOPnamen
 
-Net zoals TOP10NL worden deze producten 5 keer per jaar ontsloten via PDOK ( [www.pdok.nl](https://www.pdok.nl) ).
+Net zoals TOP10NL worden deze producten 5 keer per jaar ontsloten via PDOK ( [**www.pdok.nl**](https://www.pdok.nl) ).
 
 # 3.6 Volledigheid TOP10NL
 
 Met betrekking tot de compleetheid van de objectgegevens zijn ook een aantal beperkingen van kracht. Voor de opbouw van TOP10NL is gebruik gemaakt van de gegevens van TOP10vector. Het gegevensmodel van TOP10NL is ruimer opgezet dan de voorhanden zijnde inhoud van TOP10vector. Dit betekent dat er meer kenmerken (attributen en attribuutwaarden) in de TOP10NL structuur kunnen worden opgenomen dan in de TOP10vector bestanden aanwezig waren. TOP10vector kende in zekere zin beperkingen omdat bij de inwinning van gegevens sterk rekening is gehouden met de hoeveelheid gegevens die op een topografische kaart op de schaal 1:10.000 en 1:25.000 kan worden afgebeeld. Dat betekent onder meer dat er beperkingen zijn opgelegd ten aanzien van het inwinnen van bepaalde topografische gegevens.
 
-Omdat de topografische gegevens nu als objecten zijn opgeslagen, met een aantal beschrijvende kenmerken blijkt expliciet welke attribuutwaarden niet gevuld zijn. In de uitgebreide Objectcatalogus TOP10NL (zie [hoofdstuk 7](#7-catalogus-basisregistratie-topografie)) is aangegeven welke gegevens "volledig", "beperkt" en "niet" worden ingewonnen. Met "volledig" bij een attribuutwaarde wordt bedoeld, dat minimaal 95 % van de objecten, die voldoen aan de criteria van deze attribuutwaarde, voorkomen in TOP10NL.
+Omdat de topografische gegevens nu als objecten zijn opgeslagen, met een aantal beschrijvende kenmerken blijkt expliciet welke attribuutwaarden niet gevuld zijn. In de uitgebreide Objectcatalogus TOP10NL (zie [**hoofdstuk 7**](#7-catalogus-basisregistratie-topografie)) is aangegeven welke gegevens "volledig", "beperkt" en "niet" worden ingewonnen. Met "volledig" bij een attribuutwaarde wordt bedoeld, dat minimaal 95 % van de objecten, die voldoen aan de criteria van deze attribuutwaarde, voorkomen in TOP10NL.
 
 ## 3.7 TDN-codes uit TOP10vector
 
@@ -486,7 +486,7 @@ _Figuur 4.1: Een selectie (lichtblauw gemarkeerd) op basis van het objectkenmerk
 
 ## 4.3 Objectkenmerken
 
-De geo-objecten hebben identificerende, geometrische, temporele, meta en beschrijvende kenmerken, die als attributen in het gegevensmodel zijn opgenomen. De relatiematrix in [paragraaf 4.4](#44-relatiematrix) geeft een overzicht van de objectklassen met bijbehorende attributen.
+De geo-objecten hebben identificerende, geometrische, temporele, meta en beschrijvende kenmerken, die als attributen in het gegevensmodel zijn opgenomen. De relatiematrix in [**paragraaf 4.4**](#44-relatiematrix) geeft een overzicht van de objectklassen met bijbehorende attributen.
 
 ### 4.3.1 Identificerende kenmerken
 
@@ -545,7 +545,7 @@ _Tabel 4.2: De geometrische kenmerken_
 
 Registratief gebied, geografisch gebied en functioneel gebied bestaan voorlopig (ook) als puntobject, omdat deze gebieden in TOP10vector alleen als naam bekend waren zonder bijbehorend gebied.
 
-De positie van een geo-object wordt weergegeven door middel van x en y- coördinaten in het Rijksdriehoeksstelsel (gegeven in meters, met 3 decimalen) en de hoogte ten opzichte van Normaal Amsterdams Peil (NAP). Indien de hoogtewaarde niet beschikbaar is blijft deze ongevuld. (zie ook hoogteniveau in [paragraaf 4.5.3](#453-kruisende-objecten)). Bij de objectklasse hoogte wordt middels het attribuut "Referentievlak" aangegeven ten opzichte van welk referentievlak de hoogte gegeven wordt.
+De positie van een geo-object wordt weergegeven door middel van x en y- coördinaten in het Rijksdriehoeksstelsel (gegeven in meters, met 3 decimalen) en de hoogte ten opzichte van Normaal Amsterdams Peil (NAP). Indien de hoogtewaarde niet beschikbaar is blijft deze ongevuld. (zie ook hoogteniveau in [**paragraaf 4.5.3**](#453-kruisende-objecten)). Bij de objectklasse hoogte wordt middels het attribuut "Referentievlak" aangegeven ten opzichte van welk referentievlak de hoogte gegeven wordt.
 
 ### 4.3.6 Geo-objecten met meervoudige geometrie
 
@@ -578,7 +578,7 @@ De tijdstipRegistratie en eindRegistratie zorgen ervoor dat iedere mutatie van e
 
 Voor het volgen van geo-objecten in de tijd heeft elk geo-object een relatie met zijn voorganger en opvolger. Een geo-object kan ontstaan uit één of meer geo-objecten en kan overgaan in één of meer geo-objecten.
 
-Het mutatieprotocol (zie [Bijlage 1: Mutatieprotocol](#bijlage-1-mutatieprotocol)) bepaald wat er met bovenstaande attributen van een geo-object gebeurt bij bepaalde wijzigingen.
+Het mutatieprotocol (zie [**Bijlage 1: Mutatieprotocol**](#bijlage-1-mutatieprotocol)) bepaald wat er met bovenstaande attributen van een geo-object gebeurt bij bepaalde wijzigingen.
 
 ## 4.4 Relatiematrix
 
@@ -685,7 +685,7 @@ _Figuur 4.4: voorbeeld object mutatie_
 
 Door opsplitsing van het wegdeel ontstaan er twee nieuwe wegdelen, elk met een nieuwe identificatie. Het oude wegdeel krijgt een objectEindTijd, maar blijft in de database aanwezig.
 
-De exacte regels voor het toekennen van identificaties, objectBegintijd, objectEindtijd, tijdstipRegistratie en eindRegistratie staan beschreven in het mutatieprotocol in [Bijlage 1: Mutatieprotocol](#bijlage-1-mutatieprotocol).
+De exacte regels voor het toekennen van identificaties, objectBegintijd, objectEindtijd, tijdstipRegistratie en eindRegistratie staan beschreven in het mutatieprotocol in [**Bijlage 1: Mutatieprotocol**](#bijlage-1-mutatieprotocol).
 
 ### 4.5.3 Kruisende objecten
 
@@ -764,7 +764,7 @@ Lijnobjecten binnen eenzelfde objectklasse met dezelfde attribuutwaarden (incl. 
 
 # 5 De objectcatalogus in het kort
 
-In dit hoofdstuk wordt een algemene toelichting gegeven op de objectklassen. Voor uitgebreide informatie betreffende de objecten wordt verwezen naar de Objectcatalogus TOP10NL ([hoofdstuk 7](#7-catalogus-basisregistratie-topografie)).
+In dit hoofdstuk wordt een algemene toelichting gegeven op de objectklassen. Voor uitgebreide informatie betreffende de objecten wordt verwezen naar de Objectcatalogus TOP10NL ([**hoofdstuk 7**](#7-catalogus-basisregistratie-topografie)).
 
 Per objectklasse worden in een tabel de attributen weergegeven met de bijbehorende waarden. Ook wordt daar per attribuut aangegeven of het één of meer keer mag voorkomen en of het attribuut verplicht of optioneel is. Eventueel wordt extra informatie over de objectklasse gegeven.
 
@@ -1614,7 +1614,7 @@ Het uitwisselingsformaat waarin de gegevens beschikbaar zijn, is meestal afhanke
 
 Voor de uitwisseling van de TOP10NL bestanden is gekozen voor de standaardtaal GML (Geography Markup Language). Het voordeel van GML is dat zowel de inhoud als de structuur van de gegevens meegeleverd wordt. De structuur wordt via het internet door de bronhouder(s) bijgehouden, zodat dataconversie problemen tot het verleden behoren. GML is in beginsel een uitwisselingsformaat dat onafhankelijk is van specifieke GIS-software. Het is wereldwijd bruikbaar in een GIS systeem dat compatibel is met XML (eXtensible Markup Language), een internationale standaard op ICT gebied.
 
-Vanaf de BRT-levering van september 2020 wordt TOP10NL ook ontsloten als Geopackage. Meer informatie over Geopackage is te vinden op de website van Geonovum ( [www.geonovum.nl/geo-standaarden/geopackage](https://www.geonovum.nl/geo-standaarden/geopackage) ).
+Vanaf de BRT-levering van september 2020 wordt TOP10NL ook ontsloten als Geopackage. Meer informatie over Geopackage is te vinden op de website van Geonovum ( [**www.geonovum.nl/geo-standaarden/geopackage**](https://www.geonovum.nl/geo-standaarden/geopackage) ).
 
 ## 6.1 GML
 
@@ -1634,7 +1634,7 @@ De GML specificatie van het Open Geospatial Consortium bestaat uit vele XML Sche
 
 ## 6.2 UML-model en XSD TOP10NL
 
-Voor TOP10NL is een UML model opgesteld waarin de objectstructuur beschreven wordt. In onderstaande figuur is dit model weergegeven. Het model bestaat uit de 13 objectklassen zoals beschreven in [paragraaf 4.2](#42-objectklassen).
+Voor TOP10NL is een UML model opgesteld waarin de objectstructuur beschreven wordt. In onderstaande figuur is dit model weergegeven. Het model bestaat uit de 13 objectklassen zoals beschreven in [**paragraaf 4.2**](#42-objectklassen).
 
 ![H:\\\_\_D\_BRT\_UML\_XSD\_Backup\\EnterpriseArchitect\\TOP10NL\_1.2\_UML.jpg](images/figuur6-1.jpeg)
 
@@ -1644,7 +1644,7 @@ Het UML model is omgezet naar een XSD voor het gebruik in diverse programma's. D
 
 Het UML model en de XSD van TOP10NL kunnen gevonden worden op:
 
-[register.geostandaarden.nl/?url=brt/top10nl](https://register.geostandaarden.nl/?url=brt/top10nl)
+[**register.geostandaarden.nl/?url=brt/top10nl**](https://register.geostandaarden.nl/?url=brt/top10nl)
 
 ## 6.3 Waardelijsten TOP10NL
 
@@ -1652,7 +1652,7 @@ De mogelijke attribuutwaarden voor attributen van TOP10NL zijn opgeslagen in waa
 
 De waardelijsten van TOP10NL kunnen gevonden worden op:
 
-[register.geostandaarden.nl/?url=brt/top10nl](https://register.geostandaarden.nl/?url=brt/top10nl)
+[**register.geostandaarden.nl/?url=brt/top10nl**](https://register.geostandaarden.nl/?url=brt/top10nl)
 
 ## 6.4 Open data
 
@@ -1662,13 +1662,13 @@ De basisregistratie Topografie is vanaf 1 januari 2012 als open data beschikbaar
 
 Meer informatie over de basisregistratie Topografie en de wijze van bestellen vindt u op de productpagina's van de BRT en TOP10NL:
 
-[www.kadaster.nl/zakelijk/registraties/basisregistraties/brt](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt)
+[**www.kadaster.nl/zakelijk/registraties/basisregistraties/brt**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt)
 
-[www.kadaster.nl/zakelijk/producten/geo-informatie/topnl](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl)
+[**www.kadaster.nl/zakelijk/producten/geo-informatie/topnl**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl)
 
 ### Webservices
 
-Een webservice maakt het mogelijk een kaartbeeld in een webapplicatie te gebruiken, zonder dat de beheerder van de applicatie de geodata zelf in huis hoeft te hebben. Een webservice ontsluit dus de topografie "bij de bron". De webservices zijn beschikbaar via PDOK ( [www.pdok.nl](https://www.pdok.nl) ). Voor TOP10NL zijn op dit moment de volgende webservices beschikbaar:
+Een webservice maakt het mogelijk een kaartbeeld in een webapplicatie te gebruiken, zonder dat de beheerder van de applicatie de geodata zelf in huis hoeft te hebben. Een webservice ontsluit dus de topografie "bij de bron". De webservices zijn beschikbaar via PDOK ( [**www.pdok.nl**](https://www.pdok.nl) ). Voor TOP10NL zijn op dit moment de volgende webservices beschikbaar:
 
 - TOP10NL wms (web map service)
 - TOP10NL wmts (web mab tile service)
@@ -1687,9 +1687,9 @@ Daarnaast moet u er rekening mee houden dat alleen de gegevens die rechtstreeks 
 
 # 7 Catalogus Basisregistratie Topografie
 
-In de catalogus van de Basisregistratie Topografie worden objecten en hun attributen in detail beschreven. Dit wordt gedaan door voor de objecten de attributen en attribuutwaarden te beschrijven. Onder andere worden de definitie, inwinningscriteria, multipliciteit en optionaliteit van de attributen en attribuutwaarden gegeven. Meer informatie over deze attributen is te vinden in de paragrafen [3.6](#36-volledigheid-top10nl), [4.3.3](#433-multipliciteit-van-een-kenmerk) en [4.3.4](#434-optionaliteit-van-een-kenmerk). Ook wordt aangegeven als welk geometrietype het object kan voorkomen.
+In de catalogus van de Basisregistratie Topografie worden objecten en hun attributen in detail beschreven. Dit wordt gedaan door voor de objecten de attributen en attribuutwaarden te beschrijven. Onder andere worden de definitie, inwinningscriteria, multipliciteit en optionaliteit van de attributen en attribuutwaarden gegeven. Meer informatie over deze attributen is te vinden in de paragrafen [**3.6**](#36-volledigheid-top10nl), [**4.3.3**](#433-multipliciteit-van-een-kenmerk) en [**4.3.4**](#434-optionaliteit-van-een-kenmerk). Ook wordt aangegeven als welk geometrietype het object kan voorkomen.
 
-De attributen, domeinen en attribuutwaarden die in alle objectklassen gebruikt worden, zoals identificatie, brontype, etc., zijn beschreven in [paragraaf 7.1](#71-objectklasse-onafhankelijke-attributen-en-domeinen). De overige attributen, domeinen en attribuutwaarden zijn beschreven in de [paragraaf 7.2](#72-objectklasse-wegdeel) tot en met paragraaf 7.13.
+De attributen, domeinen en attribuutwaarden die in alle objectklassen gebruikt worden, zoals identificatie, brontype, etc., zijn beschreven in [**paragraaf 7.1**](#71-objectklasse-onafhankelijke-attributen-en-domeinen). De overige attributen, domeinen en attribuutwaarden zijn beschreven in de [**paragraaf 7.2**](#72-objectklasse-wegdeel) tot en met paragraaf 7.13.
 
 Volgens de Kadasterwet zijn alle gegevens in de Basisregistratie Topografie (TOP10NL) authentiek. In deze catalogus zal niet per gegeven worden aangegeven of het authentiek is of niet.
 
