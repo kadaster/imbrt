@@ -35,7 +35,7 @@ Bepaal de laatste commit van die versie van de Catalogus en kies voor de knop "<
 Blader vervolgens naar dit bestand en klik er op om het te openen
 De URL die nu geopend wordt is de URL van de oude versie van de Catalogus
 -->
-| Versie | Datum | Auteur | Opmerking | Link naar historische versies |
+| Versie | Datum | Auteur | Opmerking | Link naar historische versie |
 |:---|:---|:---|:---|:---|
 | 1.2.0.5 | 10 november 2021 | Kadaster | Wijzigingen n.a.v. Audit BRT 2020 doorgevoerd. | - |
 | 1.2.0.4 | 22 juli 2021 | Kadaster | Toevoeging hoofdstuk met wijzigingen t.o.v. vorige versie, toevoeging link naar historische versies BRT Catalogus. | [versie 1.2.0.4 (web)](https://github.com/kadaster/imbrt/blob/5639d20316bd183a59d27a41e44eb312f64d8286/docs/catalogus-productspecificaties.md) |
@@ -57,12 +57,14 @@ Het is ook mogelijk om alle wijzigingen ten opzichte van de vorige versie van de
 ## Belangrijkste verschillen
 De belangrijkste wijzigingen in versie 1.2.0.5 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
 - Wijzigingen n.a.v. Audit BRT 2020 doorgevoerd.
+- Toepassen webrichtlijnen bij hyperlinks en afbeeldingen
 
 ## Alle verschillen
 <!--
 Hoe werkt de URL naar de vergelijking die hieronder staat:
 Eerste gedeelte van de URL achter "compare": hier staat de verwijzing naar de laatste commit van de vorige versie van de catalogus (dit zijn de eerste 7 karakters van het complete commit-id)
 Laatste gedeelte van de URL achter "compare": hier staat de "master", oftewel de actuele versie
+Deze link werkt alleen als de werk-branch is gepushed naar de master, gebruik tijdens het doorvoeren van wijzigingen het Pull-request om de verschillen te zien.
 -->
 Alle verschillen tussen versie 1.2.0.5 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie kunnen bekeken worden in GitHub.
 > [Bekijk alle verschillen in GitHub](https://github.com/kadaster/imbrt/compare/5639d20...master#files_bucket)
@@ -715,7 +717,7 @@ De verschillende gebieden (registratief gebied, geografisch gebied, plaats, func
 
 De vlakvormige wegdelen en waterdelen en het terrein zijn aanééngrenzend en volledig landsdekkend. Er zijn geen onbenoemde (zogenaamde "witte") gebieden. In figuur 4.6 is dit weergegeven.
 
-![aaneengrenzende vlakken weg](images/figuur4-6lb.png)![aaneengrenzende vlakken water](images/figuur4-6mb.png)![aaneengrenzende vlakken terein](images/figuur4-6rb.png)
+![aaneengrenzende vlakken weg](images/figuur4-6lb.png)![aaneengrenzende vlakken water](images/figuur4-6mb.png)![aaneengrenzende vlakken terrein](images/figuur4-6rb.png)
 
 ![aaneengrenzende vlakken alles](images/figuur4-6o.png)
 
@@ -4477,7 +4479,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **sporthal** |
 | Definitie | Hal waarin kan worden gesport. |
-| Inwinningscriteria | Grootschalige voorziening met een meer regionale uitstraling en meerdere velden tbv verschillende of een specifieke tak van sport. |
+| Inwinningscriteria | Grootschalige voorziening met een meer regionale uitstraling en meerdere velden t.b.v. verschillende of een specifieke tak van sport. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
@@ -4886,7 +4888,7 @@ _Inwinningscriteria:_
 | Domein | **GE\_gebruiksdoel** |
 |:---|:---|
 | Domeinwaarde | bijeenkomstfunctie |
-| Definitie | Gebouw waar bijeenkomsten voor personen kunnnen worden georganiseerd. |
+| Definitie | Gebouw waar bijeenkomsten voor personen kunnen worden georganiseerd. |
 | Inwinningscriteria | - |
 | Volledigheid | Niet |
 | Punt | Ja |
@@ -5200,7 +5202,7 @@ Voor het bijhouden van het attribuut type_landgebruik wordt gebruik gemaakt van 
 |:---|:---|
 | Domeinwaarde | **grasland** |
 | Definitie | Terrein, overwegend begroeid met een grasachtige vegetatie. |
-| Inwinningscriteria | Een graszaadkwekerij en graszodenbedrijf worden ook als grasland ingewonnen. Een (sier)gazon, d.w.z. een goed onderhouden grasperk, op een erf wordt opgenomen als terrein met het type landgebruik 'overig'.<br>Indien het grasland tijdelijk onder water is gezet worden de wallen en het water genegeerd.<br>Ook een smalle strook grasland, niet zijnde een berm en begrensd door harde topografie, wordt ingewonnen.<br>Indien de strook gras gelegen is langs een waterdeel en begrensd wordt door een bosrand dan geldt er een minimum breedtemaat van 2 meter vanaf insteek sloot.<br>Indien de strook gras gelegen is langs een waterdeel en begrensd wordt door zachte topografie dan geldt er een minimum breedtemaat van 6 meter vanaf kant water.<br>Indien de strook gras niet gelegen is langs een waterdeel en permanent aanwezig, dan wordt deze gegeven indien breder dan 6 meter.<br>Een grasland met bomen kan op verschillende manieren ingewonnen worden in TOP10NL.<br>- Bij één enkele rij bomen: als terrein grasland met een inrichtingselement bomenrij<br>- Bij meerdere rijen populieren: als terrein populieren<br>- In alle overge gevallen: als terrein loofbos. |
+| Inwinningscriteria | Een graszaadkwekerij en graszodenbedrijf worden ook als grasland ingewonnen. Een (sier)gazon, d.w.z. een goed onderhouden grasperk, op een erf wordt opgenomen als terrein met het type landgebruik 'overig'.<br>Indien het grasland tijdelijk onder water is gezet worden de wallen en het water genegeerd.<br>Ook een smalle strook grasland, niet zijnde een berm en begrensd door harde topografie, wordt ingewonnen.<br>Indien de strook gras gelegen is langs een waterdeel en begrensd wordt door een bosrand dan geldt er een minimum breedtemaat van 2 meter vanaf insteek sloot.<br>Indien de strook gras gelegen is langs een waterdeel en begrensd wordt door zachte topografie dan geldt er een minimum breedtemaat van 6 meter vanaf kant water.<br>Indien de strook gras niet gelegen is langs een waterdeel en permanent aanwezig, dan wordt deze gegeven indien breder dan 6 meter.<br>Een grasland met bomen kan op verschillende manieren ingewonnen worden in TOP10NL.<br>- Bij één enkele rij bomen: als terrein grasland met een inrichtingselement bomenrij<br>- Bij meerdere rijen populieren: als terrein populieren<br>- In alle overige gevallen: als terrein loofbos. |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
@@ -5220,7 +5222,7 @@ Voor het bijhouden van het attribuut type_landgebruik wordt gebruik gemaakt van 
 |:---|:---|
 | Domeinwaarde | **populieren** |
 | Definitie | Terrein, volgens een regelmatig patroon beplant met populieren. |
-| Inwinningscriteria | Het perceel wordt aangegeven als terrein van het type landgebruik populieren, indien de ondergrond bestaat uit grasland en het perceel is beplant met meerdere rijen populieren. Betreft het een enkele rij populieren dan wordt het terein gegeven als grasland in combinatie met een inrichtingselement bomenrij.<br>In alle overige gevallen wordt het perceel aangegeven als "bos/ loofbos". |
+| Inwinningscriteria | Het perceel wordt aangegeven als terrein van het type landgebruik populieren, indien de ondergrond bestaat uit grasland en het perceel is beplant met meerdere rijen populieren. Betreft het een enkele rij populieren dan wordt het terrein gegeven als grasland in combinatie met een inrichtingselement bomenrij.<br>In alle overige gevallen wordt het perceel aangegeven als "bos/ loofbos". |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
@@ -7871,7 +7873,7 @@ _Inwinningscriteria:_
 | Domein | FG\_typeFunctioneelGebied |
 |:---|:---|
 | Domeinwaarde | **vliegveld, luchthaven** |
-| Definitie | Vliegveld voor verkeersvliegtuigen met groot, effen terrein met al dan niet verharde banen, waar vliegtuigen kunnen opstijgen en landen, eventueel met accomodatie voor ontvangst en vertrek van passagiers en verzending van goederen. |
+| Definitie | Vliegveld voor verkeersvliegtuigen met groot, effen terrein met al dan niet verharde banen, waar vliegtuigen kunnen opstijgen en landen, eventueel met accommodatie voor ontvangst en vertrek van passagiers en verzending van goederen. |
 | Inwinningscriteria | - |
 | Volledigheid | Volledig |
 | Punt | Ja |
