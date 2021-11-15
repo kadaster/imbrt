@@ -27,7 +27,6 @@ Dit document begint met een kort overzicht van het Stelsel van Basisregistraties
 [**Bijlage 1: Mutatieprotocol**](#bijlage-1-mutatieprotocol) beschrijft het mutatieprotocol dat gebruikt wordt om te bepalen wanneer er sprake is van een nieuw object of een nieuwe versie van een object. Dit is van belang bij het toekennen van unieke identificatiecodes.
 
 # Versiehistorie
-
 <!--
 Hoe wordt de URL naar de oude versie van de Catalogus, die hieronder in de laatste kolom staat, bepaald:
 Ga op github.com naar de commits in deze repository
@@ -35,6 +34,7 @@ Bepaal de laatste commit van die versie van de Catalogus en kies voor de knop "<
 Blader vervolgens naar dit bestand en klik er op om het te openen
 De URL die nu geopend wordt is de URL van de oude versie van de Catalogus
 -->
+
 | Versie | Datum | Auteur | Opmerking | Link naar historische versie |
 |:---|:---|:---|:---|:---|
 | 1.2.0.5 | 10 november 2021 | Kadaster | Wijzigingen n.a.v. Audit BRT 2020 doorgevoerd. <br> Toepassen webrichtlijnen. | - |
