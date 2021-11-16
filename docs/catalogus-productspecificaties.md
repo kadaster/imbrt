@@ -8286,13 +8286,13 @@ Deze regel wordt voor elk 'nieuw' geo-object toegepast. Een 'nieuw' geo-object n
 
 ![Schematische weergave van twee geo-objecten die worden samengevoegd. In de oorspronkelijke situatie zijn er twee geo-objecten, met de identificaties 1011 en 1012. In de nieuwe situatie is er nog slechts één geo-object dat gedeeltelijk overlapt met elk van de oorspronkelijke geo-objecten.](images/figuurb1-5.png "Toepassing van de overlapregel")
 
-| identificatie | objectBeginTijd | | tijdstipRegistratie | |
-|:---|:---|:---|:---|:---|
-| 1011 | 01-01-2005 | | 01-01-2005 | |
-| 1012 | 01-01-2005 | | 01-01-2005 | |
-| 1012 | 01-01-2005 | | 01-01-2006 | |
+| identificatie | objectBeginTijd | tijdstipRegistratie |
+|:---|:---|:---|
+| 1011 | 01-01-2005 | 01-01-2005 |
+| 1012 | 01-01-2005 | 01-01-2005 |
+| _1012_ | _01-01-2005_ | _01-01-2006_ |
 
-_Figuur B1.5: Toepassing van de overlapregel. De blauwe tekst geeft de nieuwe attribuutwaarden t.o.v. de oorspronkelijke situatie._
+_Figuur B1.5: Toepassing van de overlapregel. De cursieve tekst geeft de nieuwe attribuutwaarden t.o.v. de oorspronkelijke situatie._
 
 In figuur B1.5 worden twee geo-objecten die ontstaan zijn op 01-01-2005 samengevoegd op de datum 01-01-2006. In de oorspronkelijke situatie zijn er twee geo-objecten, met de identificaties 1011 en 1012. In de nieuwe situatie is er nog slechts één geo-object dat overlapt met elk van de oorspronkelijke geo-objecten.
 
@@ -8306,13 +8306,13 @@ Als de oppervlakte van het nieuwe geo-object minder dan 200% is van de oppervlak
 
 ![Schematische weergave van twee geo-objecten die worden samengevoegd. In de oorspronkelijke situatie zijn er twee geo-objecten, met de identificaties 0011 en 0012. In de nieuwe situatie is er nog slechts één geo-object dat volledig overlapt met elk van de oorspronkelijke geo-objecten.](images/figuurb1-6.png "Toepassing van de samenvoegregel")
 
-| identificatie | objectBeginTijd | | versieBeginTijd | |
-|:---|:---|:---|:---|:---|
-| 0011 | 01-01-2005 | | 01-01-2005 | |
-| 0012 | 01-01-2005 | | 01-01-2005 | |
-| 0012 | 01-01-2005 | | 01-01-2006 | |
+| identificatie | objectBeginTijd | versieBeginTijd |
+|:---|:---|:---|
+| 0011 | 01-01-2005 | 01-01-2005 |
+| 0012 | 01-01-2005 | 01-01-2005 |
+| _0012_ | _01-01-2005_ | _01-01-2006_ |
 
-_Figuur B1.6: Toepassing van de samenvoegregel. De blauwe tekst geeft de nieuwe attribuutwaarden t.o.v. de oorspronkelijke situatie._
+_Figuur B1.6: Toepassing van de samenvoegregel. De cursieve tekst geeft de nieuwe attribuutwaarden t.o.v. de oorspronkelijke situatie._
 
 Volgens de overlapregel mag het nieuwe geo-object in figuur B1.6 de identificatie van beide geo-objecten overnemen dus wordt de samenvoegregel toegepast.
 
@@ -8324,13 +8324,13 @@ Soms kan, na toepassing van de samenvoegregel, een geo-object toch nog meerdere 
 
 ![Schematische weergave van twee geo-objecten die worden samengevoegd. In de oorspronkelijke situatie zijn er twee geo-objecten, met de identificaties 0031 en 0032. In de nieuwe situatie is er nog slechts één geo-object dat volledig overlapt met elk van de oorspronkelijke geo-objecten.](images/figuurb1-7.png "Uitzonderingssituatie na het toepassen van de overlapregel en de samenvoegregel")
 
-| identificatie | objectBeginTijd | | versieBeginTijd | |
-|:---|:---|:---|:---|:---|
-| 0031 | 01-01-2005 | | 01-01-2005 | |
-| 0032 | 01-01-2005 | | 01-01-2005 | |
-| 0033 | 01-01-2006 | | 01-01-2006 | |
+| identificatie | objectBeginTijd | versieBeginTijd |
+|:---|:---|:---|
+| 0031 | 01-01-2005 | 01-01-2005 |
+| 0032 | 01-01-2005 | 01-01-2005 |
+| _0033_ | _01-01-2006_ | _01-01-2006_ |
 
-_Figuur B1.7: Uitzonderingssituatie na het toepassen van de overlapregel en de samenvoegregel. De blauwe tekst geeft de nieuwe attribuutwaarden t.o.v. de oorspronkelijke situatie._
+_Figuur B1.7: Uitzonderingssituatie na het toepassen van de overlapregel en de samenvoegregel. De cursieve tekst geeft de nieuwe attribuutwaarden t.o.v. de oorspronkelijke situatie._
 
 Na het toepassen van de overlapregel kan het nieuwe geo-object in figuur B1.7 beide oorspronkelijke identificaties (0031 en 0032) overnemen. Dus moet de samenvoegregel worden toegepast. Na het toepassen hiervan kan het nieuwe geo-object nog steeds beide identificaties overnemen. Dit kan niet, dus krijgt het een nieuwe identificatie (0033) met een nieuwe objectBeginTijd en een zelfde tijdstipRegistratie.
 
@@ -8342,13 +8342,13 @@ Is de oppervlakte van een nieuw geo-object meer dan 50% van de oppervlakte van h
 
 ![Schematische weergave van een geo-object dat wordt gesplitst. In de oorspronkelijke situatie is er één geo-object, met de identificatie 0001. In de nieuwe situatie zijn er twee geo-objecten die samen het oude object afdekken.](images/figuurb1-8.png "Toepassing van de splitsregel")
 
-| identificatie | objectBeginTijd | | versieBeginTijd | |
-|:---|:---|:---|:---|:---|
-| 0001 | 01-01-2005 | | 01-01-2005 | |
-| 0002 | 01-01-2006 | | 01-01-2006 | |
-| 0001 | 01-01-2005 | | 01-01-2006 | |
+| identificatie | objectBeginTijd | versieBeginTijd |
+|:---|:---|:---|
+| 0001 | 01-01-2005 | 01-01-2005 |
+| _0002_ | _01-01-2006_ | _01-01-2006_ |
+| _0001_ | _01-01-2005_ | _01-01-2006_ |
 
-_Figuur B1.8: Toepassing van de splitsregel. De blauwe tekst geeft de nieuwe attribuutwaarden t.o.v. de oorspronkelijke situatie._
+_Figuur B1.8: Toepassing van de splitsregel. De cursieve tekst geeft de nieuwe attribuutwaarden t.o.v. de oorspronkelijke situatie._
 
 Na het toepassen van de overlapregel op beide 'nieuwe' geo-objecten blijken ze beide de identificatie 0001 te mogen krijgen. Dit mag niet en de splitsregel wordt toegepast.
 
@@ -8358,13 +8358,13 @@ Soms kunnen, na toepassing van deze regel, toch meerdere geo-objecten de identif
 
 ![Schematische weergave van een geo-object dat wordt gesplitst. In de oorspronkelijke situatie is er één geo-object, met de identificatie 0021. In de nieuwe situatie zijn er twee geo-objecten die samen het oude object afdekken.](images/figuurb1-9.png "Uitzonderingssituatie na het toepassen van de overlapregel en de splitsregel")
 
-| identificatie | objectBeginTijd | | VersieBeginTijd | |
-|:---|:---|:---|:---|:---|
-| 0021 | 01-01-2005 | | 01-01-2005 | |
-| 0022 | 01-01-2006 | | 01-01-2006 | |
-| 0023 | 01-01-2006 | | 01-01-2006 | |
+| identificatie | objectBeginTijd | VersieBeginTijd |
+|:---|:---|:---|
+| 0021 | 01-01-2005 | 01-01-2005 |
+| _0022_ | _01-01-2006_ | _01-01-2006_ |
+| _0023_ | _01-01-2006_ | _01-01-2006_ |
 
-_Figuur B1.9: Voorbeeld waarbij overlapregel en splitsregels nog geen uitsluitsel geven. De blauwe tekst geeft de nieuwe attribuutwaarden t.o.v. de oorspronkelijke situatie._
+_Figuur B1.9: Voorbeeld waarbij overlapregel en splitsregels nog geen uitsluitsel geven. De cursieve tekst geeft de nieuwe attribuutwaarden t.o.v. de oorspronkelijke situatie._
 
 Na het toepassen van de overlapregel in figuur B1.9 kunnen beide geo-objecten de identificatiecode 0021 overnemen. Dit is nog steeds het geval na het toepassen van de splitsregel, dus krijgen beide nieuwe geo-objecten een nieuwe identificatie (0022 en 0023).
 
