@@ -1,4 +1,4 @@
-﻿![Kadaster](images/logo.jpeg)
+﻿![Kadaster logo.](images/logo.jpeg "Kadaster logo")
 
 # Basisregistratie Topografie: Catalogus en Productspecificaties
 
@@ -192,7 +192,7 @@ De Basisregistratie Topografie (BRT) is dé unieke bron voor alle topografische 
 
 In onderstaande figuur is de plaats van de Basisregistratie Topografie (BRT) in het stelsel van basisregistraties te zien. Op dit moment zijn er relaties met de Basisregistraties Adressen en Gebouwen en de Basisregistratie Kadaster.
 
-![](images/figuur1-1.png)
+![Stelselplaat van het stelsel van basisregistraties, waarin te zien is hoe de verschillende basisregistraties zicht tot elkaar verhouden en verbonden zijn.](images/figuur1-1.png "Stelselplaat Stelsel van Basisregistraties")
 
 _Figuur 1.1: Stelselplaat Stelsel van Basisregistraties, status 31 december 2019. [**www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties/stelselplaat**](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties/stelselplaat)_
 
@@ -419,9 +419,9 @@ Afhankelijk van het GIS-software pakket dat gebruikt wordt, kunnen vele GIS anal
 
 De TOP10NL database bevat geo-objecten met een beschrijving van de eigenschappen. Sinds september 2012 heeft ieder object een visualisatiecode gekregen. Hiermee is het visualiseren van TOP10NL eenvoudiger gemaakt. Het Kadaster levert standaard visualisatiemodules mee met de TOP10NL-data gebaseerd op de topografische kaart 1:25.000. Ook kan de gebruiker zelf visualisaties definiëren in de applicatiesoftware.
 
-![](images/figuur3-1.png)
+![Standaardvisualisatie van TOP10NL.](images/figuur3-1.png "Standaardvisualisatie van TOP10NL")
 
-_Figuur 3.1: Standaard visualisatie van TOP10NL_
+_Figuur 3.1: Standaardvisualisatie van TOP10NL_
 
 ### 3.8.3 Webapplicaties
 
@@ -481,7 +481,7 @@ De geo-objecten in TOP10NL kunnen gebruikt worden als bouwstenen voor de vorming
 
 Ook voor generalisatiedoeleinden kunnen op basis van gemeenschappelijke kenmerkwaarden, samengestelde objecten op een hoger abstractieniveau worden afgeleid. Bijvoorbeeld een bosgebied is een verzameling terreinobjecten die gekenmerkt wordt door het landgebruik loofbos, naaldbos of gemengd bos.
 
-![](images/figuur4-1.png)
+![Kaartvisualisatie waarin alle objecten met het objectkenmerk wegnummer gelijk aan A12 in lichtblauw afgebeeld zijn, waardoor ze gezamenlijk de snelweg A12 weergeven.](images/figuur4-1.png "Een selectie (lichtblauw gemarkeerd) op basis van het objectkenmerk 'wegnummer': de A12 als samengesteld geo-object")
 
 _Figuur 4.1: Een selectie (lichtblauw gemarkeerd) op basis van het objectkenmerk 'wegnummer': de A12 als samengesteld geo-object._
 
@@ -552,9 +552,9 @@ De positie van een geo-object wordt weergegeven door middel van x en y- coördin
 
 Wegdelen hebben vrijwel altijd een meervoudige geometrie. Voor de meeste wegdelen wordt naast het vlak voor het weglichaam de hartlijn opgenomen. In onderstaande figuur wordt dit schematisch toegelicht.
 
-![](images/figuur4-2.png)
+![Schematisch overzicht waarin de verschillende geometrieën van wegdelen, in de vorm van punten lijnen en vlakken, weergegeven worden.](images/figuur4-2.png "De verschillende geometrieën van wegdelen")
 
-_Figuur 4.2: De geometrieën van wegdelen._
+_Figuur 4.2: De verschillende geometrieën van wegdelen._
 
 Behalve wegdelen hebben ook bepaalde reliëfobjecten een meervoudige geometrie. Het object wordt dan gevormd door twee lijnobjecten, één voor de hoge kant en één voor de lage kant.
 
@@ -672,17 +672,17 @@ In de regel gaat een geo-object over in een ander geo-object op het moment dat d
 
 In figuur 4.3 is een weg aangegeven die bestaat uit meerdere wegdelen. In dit voorbeeld ontstaat een ander wegdeel op het moment dat de weg overgaat van verhard naar onverhard of overgaat van een verbinding naar een kruising.
 
-![](images/figuur4-3.svg)
+![Schematische weergave waarin één straat opgedeeld wordt in drie geo-objecten op basis van zijn eigenschappen, in dit geval de straatnaam en het verhardingstype.](images/figuur4-3.svg "Voorbeeld objectvorming")
 
-_Figuur 4.3: voorbeeld object vorming_
+_Figuur 4.3: voorbeeld objectvorming_
 
 ### 4.5.2 Mutatie van geo-objecten
 
 Een mutatie doet zich voor als de geometrische vorm of een waarde van een attribuut zich wijzigt in de tijd. Als voorbeeld wordt in figuur 4.4 een verhard wegdeel gedeeltelijk half verhard en gedeeltelijk onverhard.
 
-![](images/figuur4-4.svg)
+![Schematische weergave waarin veranderingen in het verhardingstype leiden tot een nieuw geo-object.](images/figuur4-4.svg "Voorbeeld objectmutatie")
 
-_Figuur 4.4: voorbeeld object mutatie_
+_Figuur 4.4: voorbeeld objectmutatie_
 
 Door opsplitsing van het wegdeel ontstaan er twee nieuwe wegdelen, elk met een nieuwe identificatie. Het oude wegdeel krijgt een objectEindTijd, maar blijft in de database aanwezig.
 
@@ -706,9 +706,9 @@ Met het hoogteniveau wordt de relatieve hoogte van het geo-object weergegeven. Z
 
 In figuur 4.5 is een kruisend wegdeel aangegeven met hoogteniveau –1. Het kruisend spoorbaandeel heeft een hoogteniveau 0. Het wegdeel bevindt zich dus onder het spoorbaandeel.
 
-![](images/figuur4-5.svg)
+![Schematische weergave waarin een wegdeel en een spoorbaandeel elkaar kruisen op een verschillend hoogteniveau.](images/figuur4-5.svg "Het gebruik van het hoogteniveau-attribuut")
 
-_Figuur 4.5: Het gebruik van het hoogteniveau attribuut._
+_Figuur 4.5: Het gebruik van het hoogteniveau-attribuut._
 
 Bij alle objectklassen met het attribuut 'hoogteniveau' is 'hoogteniveau' een verplicht attribuut.
 
@@ -718,9 +718,9 @@ De verschillende gebieden (registratief gebied, geografisch gebied, plaats, func
 
 De vlakvormige wegdelen en waterdelen en het terrein zijn aanééngrenzend en volledig landsdekkend. Er zijn geen onbenoemde (zogenaamde "witte") gebieden. In figuur 4.6 is dit weergegeven.
 
-![aaneengrenzende vlakken weg](images/figuur4-6lb.png)![aaneengrenzende vlakken water](images/figuur4-6mb.png)![aaneengrenzende vlakken terrein](images/figuur4-6rb.png)
+![Kaartuitsnede waarin alleen de wegvlakken afgebeeld worden.](images/figuur4-6lb.png "Kaartuitsnede wegvlakken")![Kaartuitsnede waarin alleen de watervlakken afgebeeld worden.](images/figuur4-6mb.png "Kaartuitsnede watervlakken")![Kaartuitsnede waarin alleen de terreinvlakken afgebeeld worden.](images/figuur4-6rb.png "Kaartuitsnede terreinvlakken")
 
-![aaneengrenzende vlakken alles](images/figuur4-6o.png)
+![Kaartuitsnede waarin de wegvlakken, watervlakken en terreinvlakken gecombineerd afgebeeld worden tot een aanééngrenzend en volledig landsdekkend bestand.](images/figuur4-6o.png "Gecombineerde kaartuitsnede")
 
 _Figuur 4.6: vlakvormige wegdelen, waterdelen en terrein zijn aanééngrenzend en landsdekkend._
 
@@ -728,7 +728,7 @@ Gebouwen, spoorbaandelen, inrichtingselementen en reliëf liggen boven op deze g
 
 In figuur 4.7 is hetzelfde gebied te zien als in figuur 4.6, maar dit maal met gebouwen.
 
-![vlakken weg water terrein bebouwing](images/figuur4-7.png)
+![Kaartuitsnede waarin de wegvlakken, watervlakken en terreinvlakken gecombineerd afgebeeld worden tot een aanééngrenzend en volledig landsdekkend bestand en waarbij de gebouwvlakken bovenop de terreinen liggen.](images/figuur4-7.png "Gecombineerde kaartuitsnede inclusief gebouwen")
 
 _Figuur 4.7: gebouwen als losse laag boven wegdelen, waterdelen en terrein._
 
@@ -877,7 +877,7 @@ Een wegdeel kent meerdere geometrieën (zie figuur 4.2). Wegdelen komen voor als
 
 Gelijkvloerse kruisingen kunnen meerdere waarden hebben voor 'wegtype' en 'hoofdverkeersgebruik'. Zie figuur 5.1.
 
-![voorbeelden voor specificaties meer wegtypen genummerd](images/figuur5-1.png)
+![Kaartuitsnede van wegen waarin aangetoond wordt dat een kruising twee waarden voor de eigenschap type weg heeft.](images/figuur5-1.png "Voorbeeld van gelijkvloerse kruisingen")
 
 | identificatie | type infrastructuur | type weg | type weg |
 |:---:|:---:|:---:|:---:|
@@ -1637,9 +1637,9 @@ De GML specificatie van het Open Geospatial Consortium bestaat uit vele XML Sche
 
 Voor TOP10NL is een UML model opgesteld waarin de objectstructuur beschreven wordt. In onderstaande figuur is dit model weergegeven. Het model bestaat uit de 13 objectklassen zoals beschreven in [**paragraaf 4.2**](#42-objectklassen).
 
-![H:\\\_\_D\_BRT\_UML\_XSD\_Backup\\EnterpriseArchitect\\TOP10NL\_1.2\_UML.jpg](images/figuur6-1.jpeg)
+![UML model van TOP10NL.](images/figuur6-1.jpeg "UML model van TOP10NL")
 
-_Figuur 6.1: UML model TOP10NL_
+_Figuur 6.1: UML model van TOP10NL._
 
 Het UML model is omgezet naar een XSD voor het gebruik in diverse programma's. Deze XSD is de basis voor het produceren en valideren van de GML bestanden van TOP10NL.
 
@@ -8210,7 +8210,7 @@ Tijdens een herziening kan er met objecten in de werkelijkheid sprake zijn van:
 
 In figuur B1.1 is te zien wat er met de geo-objecten in de database kan gebeuren in geval van een nieuw object, een gewijzigd object, een verdwenen object of een onveranderd object. Voor elk van deze situaties wordt beschreven wat er in de database gebeurt.
 
-![](images/figuurb1-1.svg)
+![Stroomschema voor geo-objecten in het mutatieprotocol, waarin te zien is wat er met de geo-objecten in de database kan gebeuren in geval van een nieuw object, een gewijzigd object, een verdwenen object of een onveranderd object.](images/figuurb1-1.svg "Stroomschema voor geo-objecten in het mutatieprotocol")
 
 _Figuur B1.1: Stroomschema voor geo-objecten in het mutatieprotocol._
 
@@ -8262,13 +8262,13 @@ Het geometrie type is de vorm waarin een geo-object wordt opgeslagen: als punt, 
 
 Op elk geo-object met deze wijziging wordt de overlapregel toegepast. Indien het 'nieuwe' geo-object na toepassing van deze regel meerdere identificaties krijgt toegewezen, dan wordt de samenvoegregel toegepast.
 
-![](images/figuurb1-2.svg)
+![Stroomschema voor de overlapregel en de samenvoegregel.](images/figuurb1-2.svg "Stroomschema voor de overlapregel en de samenvoegregel")
 
-_Figuur B1.2: Stroomschema voor gewijzigde geo-objecten._
+_Figuur B1.2: Stroomschema voor de overlapregel en de samenvoegregel._
 
 Nadat alle gewijzigde geo-objecten op deze manier zijn behandeld, wordt er gecontroleerd of een identificatie aan meerdere geo-objecten is toegekend. Indien dit het geval is, dan wordt op deze geo-objecten de splitsregel toegepast.
 
-![](images/figuurb1-3.svg)
+![Stroomschema voor de splitsregel.](images/figuurb1-3.svg "Stroomschema voor de splitsregel")
 
 _Figuur B1.3: Stroomschema voor de splitsregel._
 
@@ -8276,7 +8276,7 @@ De verschillende regels worden hieronder beschreven. Bij deze regels is de opper
 
 De bufferbreedte is 3 meter en wordt gemeten van de lijn of het punt tot de buitenkant van de buffer. De totale breedte van de buffer is dus 6 meter. Er wordt gebruik gemaakt van een 'vierkante' buffer met afgekapt uiteinde.
 
-![](images/figuurb1-4.png)
+![Schematische weergave waarin puntvormige en lijnvormige geo-objecten van een buffer zijn voorzien.](images/figuurb1-4.png "Toepassing van buffers (lichtblauw) om puntvormige en lijnvormige geo-objecten")
 
 _Figuur B1.4: Toepassing van buffers (lichtblauw) om puntvormige en lijnvormige geo-objecten._
 
@@ -8284,7 +8284,7 @@ _Figuur B1.4: Toepassing van buffers (lichtblauw) om puntvormige en lijnvormige 
 
 Deze regel wordt voor elk 'nieuw' geo-object toegepast. Een 'nieuw' geo-object neemt de identificatie over van een 'oud' geo-object van dezelfde objectklasse en met hetzelfde hoogteniveau, als de oppervlakte van het overlappende gedeelte meer dan de helft is van de oppervlakte van het oorspronkelijke geo-object of van de oppervlakte van het nieuwe geo-object (zie figuur B1.5).
 
-![](images/figuurb1-5.png)
+![Schematische weergave van twee geo-objecten die worden samengevoegd. In de oorspronkelijke situatie zijn er twee geo-objecten, met de identificaties 1011 en 1012. In de nieuwe situatie is er nog slechts één geo-object dat gedeeltelijk overlapt met elk van de oorspronkelijke geo-objecten.](images/figuurb1-5.png "Toepassing van de overlapregel")
 
 | identificatie | objectBeginTijd | | tijdstipRegistratie | |
 |:---|:---|:---|:---|:---|
@@ -8304,7 +8304,7 @@ Als na toepassing van de overlapregel een 'nieuw' geo-object meerdere identifica
 
 Als de oppervlakte van het nieuwe geo-object minder dan 200% is van de oppervlakte van één van de oorspronkelijke geo-objecten, dan neemt het zijn identificatie over met een nieuwe tijdstipRegistratie. Als de oppervlakte van een nieuw geo-object 200% of meer is, vergeleken met het oorspronkelijke geo-object, dan neemt het niet de identificatie over (zie figuur B1.6).
 
-![](images/figuurb1-6.png)
+![Schematische weergave van twee geo-objecten die worden samengevoegd. In de oorspronkelijke situatie zijn er twee geo-objecten, met de identificaties 0011 en 0012. In de nieuwe situatie is er nog slechts één geo-object dat volledig overlapt met elk van de oorspronkelijke geo-objecten.](images/figuurb1-6.png "Toepassing van de samenvoegregel")
 
 | identificatie | objectBeginTijd | | versieBeginTijd | |
 |:---|:---|:---|:---|:---|
@@ -8322,7 +8322,7 @@ De oppervlakte is echter minder dan 200% van de oppervlakte van het oorspronkeli
 
 Soms kan, na toepassing van de samenvoegregel, een geo-object toch nog meerdere identificaties overnemen. In dit geval neemt het geo-object geen enkele identificatie over, maar krijgt het een nieuwe identificatie (zie figuur B1.7).
 
-![](images/figuurb1-7.png)
+![Schematische weergave van twee geo-objecten die worden samengevoegd. In de oorspronkelijke situatie zijn er twee geo-objecten, met de identificaties 0031 en 0032. In de nieuwe situatie is er nog slechts één geo-object dat volledig overlapt met elk van de oorspronkelijke geo-objecten.](images/figuurb1-7.png "Uitzonderingssituatie na het toepassen van de overlapregel en de samenvoegregel")
 
 | identificatie | objectBeginTijd | | versieBeginTijd | |
 |:---|:---|:---|:---|:---|
@@ -8340,7 +8340,7 @@ Nadat alle 'nieuwe' geo-objecten de overlapregel en eventueel de samenvoegregel 
 
 Is de oppervlakte van een nieuw geo-object meer dan 50% van de oppervlakte van het oorspronkelijke geo-object, dan neemt het zijn identificatie over met een nieuwe tijdstipRegistratie. De andere nieuw gevormde geo-objecten krijgen een nieuwe identificatie met een nieuwe objectBeginTijd en een zelfde tijdstipRegistratie (zie figuur B1.86).
 
-![](images/figuurb1-8.png)
+![Schematische weergave van een geo-object dat wordt gesplitst. In de oorspronkelijke situatie is er één geo-object, met de identificatie 0001. In de nieuwe situatie zijn er twee geo-objecten die samen het oude object afdekken.](images/figuurb1-8.png "Toepassing van de splitsregel")
 
 | identificatie | objectBeginTijd | | versieBeginTijd | |
 |:---|:---|:---|:---|:---|
@@ -8356,7 +8356,7 @@ De oppervlakte van het kleine nieuwe geo-object in figuur B1.8 is minder dan 50%
 
 Soms kunnen, na toepassing van deze regel, toch meerdere geo-objecten de identificatie van het oorspronkelijke geo-object overnemen. In dit geval neemt geen enkel geo-object de identificatie over, maar krijgen ze allemaal een nieuwe identificatie met een nieuwe objectBeginTijd en een zelfde tijdstipRegistratie (zie figuur B1.9).
 
-![](images/figuurb1-9.png)
+![Schematische weergave van een geo-object dat wordt gesplitst. In de oorspronkelijke situatie is er één geo-object, met de identificatie 0021. In de nieuwe situatie zijn er twee geo-objecten die samen het oude object afdekken.](images/figuurb1-9.png "Uitzonderingssituatie na het toepassen van de overlapregel en de splitsregel")
 
 | identificatie | objectBeginTijd | | VersieBeginTijd | |
 |:---|:---|:---|:---|:---|
