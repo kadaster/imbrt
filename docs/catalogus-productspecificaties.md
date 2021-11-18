@@ -20,6 +20,11 @@ Tijdens de ontwikkeling van TOP10NL zijn een groot aantal deelonderzoeken verric
 
 In 2014 heeft het Kadaster samen met gebruikers een nieuw datamodel voor TOP10NL gedefiniëerd: TOP10NL 1.2. Vanaf november 2015 wordt TOP10NL geleverd volgens dit nieuwe datamodel. Ook heeft het Kadaster in 2015 meerdere experimenten uitgevoerd met als doel het bereiken van een 1 jarige cyclus voor de bijhouding van de TOP10NL met behoud van kwaliteit. In deze experimenten lag de focus op het opsporen van topografische terreinmutaties. Het resultaat van deze experimenten is dat de actualiteit van TOP10NL is verhoogd en het aantal bijgewerkte gebieden is gestegen. Met het nieuwe proces is het mogelijk om per levering 1/5 van Nederland te actualiseren. Vanwege de goede resultaten van deze experimenten is dit nieuwe TOP10NL-proces in gebruik genomen. TOP10NL wordt nu dus bijgehouden in een 1 jarige cyclus.
 
+# Toegankelijkheid website
+
+Het Kadaster streeft ernaar om de eigen online informatie en dienstverlening toegankelijk te maken, overeenkomstig het Tijdelijk besluit digitale toegankelijkheid overheid.
+De toegankelijkheidsverklaring die is opgesteld voor de website van de BRT Catalogus en Productspecificaties is gepubliceerd op [**www.toegankelijkheidsverklaring.nl/register/6112**]( https://www.toegankelijkheidsverklaring.nl/register/6112)
+
 # Leeswijzer
 
 Dit document begint met een kort overzicht van het Stelsel van Basisregistraties. Hierna worden de belangrijkste kenmerken van TOP10NL beschreven. [**Hoofdstuk 3**](#3-opbouw-top10nl) behandelt een aantal algemene zaken over TOP10NL, zoals de gebiedsaanduiding, de actualiteit, het ruimtelijk referentiesysteem, een kwaliteitsbeschrijving, het productieproces en het gebruik van TOP10NL. [**Hoofdstuk 4**](#4-gegevensmodel-top10nl) beschrijft het gegevensmodel met de verschillende groepen kenmerken en het gedrag van geo-objecten. In [**hoofdstuk 5**](#5-de-objectcatalogus-in-het-kort) vindt u een compact overzicht van alle objectklassen, attributen en attribuutwaarden van TOP10NL inclusief de mogelijke geometrieën. [**Hoofdstuk 6**](#6-uitwisseling-van-topografische-gegevens) gaat in op de uitwisseling van gegevens. Daarbij komen o.a. GML, UML en de XSD aan bod. De complete uitgebreide objectcatalogus is opgenomen in [**hoofdstuk 7**](#7-catalogus-basisregistratie-topografie).
@@ -58,7 +63,7 @@ Het is ook mogelijk om alle wijzigingen ten opzichte van de vorige versie van de
 ## Belangrijkste verschillen
 De belangrijkste wijzigingen in versie 1.2.0.5 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
 - Wijzigingen n.a.v. Audit BRT 2020 doorgevoerd.
-- Toepassen webrichtlijnen bij hyperlinks en afbeeldingen
+- Toepassen webrichtlijnen bij hyperlinks en afbeeldingen, opnemen link naar toegankelijkheidsverklaring.
 
 ## Alle verschillen
 <!--
@@ -79,6 +84,7 @@ Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecif
 # Inhoudsopgave
 
 - [Inleiding](#inleiding)
+- [Toegankelijkheid website](#toegankelijkheid-website)
 - [Leeswijzer](#leeswijzer)
 - [Versiehistorie](#versiehistorie)
 - [Wijzigingen t.o.v. vorige versie](#Wijzigingen-t.o.v.-vorige-versie)
