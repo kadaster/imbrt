@@ -43,7 +43,7 @@ Belangrijk: om de tabel hieronder juist weer te geven, moet er een witregel na d
 
 | Versie | Datum | Auteur | Opmerking | Link naar historische versie |
 |:---|:---|:---|:---|:---|
-| 1.2.0.5 | 10 november 2021 | Kadaster | Wijzigingen n.a.v. Audit BRT 2020 doorgevoerd. <br> Toepassen webrichtlijnen. | - |
+| 1.2.0.5 | 14 december 2021 | Kadaster | Wijzigingen n.a.v. Audit BRT 2020 doorgevoerd. <br> Toepassen webrichtlijnen. | - |
 | 1.2.0.4 | 22 juli 2021 | Kadaster | Toevoeging hoofdstuk met wijzigingen t.o.v. vorige versie, toevoeging link naar historische versies BRT Catalogus. | [versie 1.2.0.4 (web)](https://github.com/kadaster/imbrt/blob/5639d20316bd183a59d27a41e44eb312f64d8286/docs/catalogus-productspecificaties.md) |
 | 1.2.0.3 | 11 december 2020 | Kadaster | Enkele URL’s geactualiseerd, catalogus nu ook in GIT, wijziging door gebruik BAG-panden verwerkt. | [versie 1.2.0.3 (web)](https://github.com/kadaster/imbrt/blob/3b193ec7da5ce23c4c486e2f021b491c3573fb01/docs/catalogus-productspecificaties.md) <br> [versie 1.2.0.3 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.3.pdf) |
 | 1.2.0.2 | 20 april 2020 | Kadaster | Enkele kleine tekstuele fouten verbeterd. | [versie 1.2.0.2 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.2.pdf) |
@@ -72,6 +72,7 @@ Eerste gedeelte van de URL achter "compare": hier staat de verwijzing naar de la
 Laatste gedeelte van de URL achter "compare": hier staat de "master", oftewel de actuele versie
 Deze link werkt alleen als de werk-branch is gepushed naar de master, gebruik tijdens het doorvoeren van wijzigingen het Pull-request om de verschillen te zien.
 -->
+
 Alle verschillen tussen versie 1.2.0.5 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie kunnen bekeken worden in GitHub.
 > [**Bekijk alle verschillen in GitHub**](https://github.com/kadaster/imbrt/compare/5639d20...master#files_bucket)
 
