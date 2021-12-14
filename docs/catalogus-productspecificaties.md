@@ -6582,7 +6582,7 @@ De provincies zijn een samenvoeging van de gemeenten die behoren tot deze provin
 
 Het land "Nederland" is een samenvoeging van alle provincies.
 
-Voor de twaalfmijlszone zijn de "Grenzen territoriale zee" van de Dienst der Hydrografie de bron. Ook deze begrenzing is gegeneraliseerd opgenomen in TOP10NL.
+Voor de twaalfmijlszone zijn de "Grenzen territoriale zee" van de Dienst der Hydrografie de bron. Ook deze begrenzing is gegeneraliseerd opgenomen in de BRT.
 
 ### Attribuut geometrieVlak
 
