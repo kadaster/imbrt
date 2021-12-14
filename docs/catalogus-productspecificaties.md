@@ -6576,8 +6576,10 @@ Op basis van wet- en regelgeving afgebakend gebied dat als eenheid geldt van pol
 
 _Inwinningscriteria:_
 
-De grenzen uit de BRK (Basisregistratie Kadaster) zijn de bron voor de objecten in de objectklasse Registratief gebied. Deze grenzen worden gegeneraliseerd opgenomen in TOP10NL, waarbij een gemeentegrens in TOP10NL zo veel mogelijk de objecten in TOP10NL volgt.
+De basis voor de grenzen in de BRT is het product TOPGrenzen geweest, dat tot 2014 is bijgehouden door de Topografische Dienst en Topografische Dienst Kadaster.
+Vanaf 2014 is het muteren van de registratieve gebieden in de BRT gebaseerd op mutaties in de Basisregistratie Kadaster (BRK). In 2014 zijn de grootste verschillen geanalyseerd (afwijking > 40 meter), besproken met de BRK en zo mogelijk gecorrigeerd in de BRT.
 
+De mutaties in de BRK worden in enigszins gegeneraliseerde vorm overgenomen in de BRT, waarbij een gemeentegrens in TOP10NL zo veel mogelijk de objecten in TOP10NL volgt.
 
 Voor de twaalfmijlszone zijn de "Grenzen territoriale zee" van de Dienst der Hydrografie de bron. Ook deze begrenzing is gegeneraliseerd opgenomen in de BRT.
 
