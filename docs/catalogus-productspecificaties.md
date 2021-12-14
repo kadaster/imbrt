@@ -5459,7 +5459,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 |:---|:---|
 | Domeinwaarde | **boom** |
 | Definitie | Houtachtig gewas met een enkele, stevige, houtige en overblijvende stam, die zich op een zekere hoogte boven de grond vertakt. |
-| Inwinningscriteria | Bomen binnen bebouwd gebied op of langs een straat, in een tuin of op een erf worden niet opgenomen tenzij gelegen in plantsoen of park.<br>Een permanent aanwezige boom op een kwekerij kan gegeven worden.<br><br>Een klein aantal bij elkaar staande bomen wordt als één boom opgenomen.<br>Een gewas met meerdere hoofdstammen vanuit hetzelfde wortelstelsel (geen struik) wordt gegeven als boom. |
+| Inwinningscriteria | Bomen worden gegeneraliseerd ingewonnen.<br>Bomen binnen bebouwd gebied op of langs een straat, in een tuin of op een erf worden niet opgenomen tenzij gelegen in plantsoen of park.<br>Een permanent aanwezige boom op een kwekerij kan gegeven worden.<br>Een klein aantal bij elkaar staande bomen wordt als één boom opgenomen.<br>Een gewas met meerdere hoofdstammen vanuit hetzelfde wortelstelsel (geen struik) wordt gegeven als boom. |
 | Volledigheid | Beperkt |
 | Punt | Ja |
 | Lijn | Nee |
