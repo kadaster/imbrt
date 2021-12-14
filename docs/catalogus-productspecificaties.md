@@ -6580,7 +6580,7 @@ De grenzen uit de BRK (Basisregistratie Kadaster) zijn de bron voor de objecten 
 
 De provincies zijn een samenvoeging van de gemeenten die behoren tot deze provincie.
 
-De mutaties in de BRK worden in enigszins gegeneraliseerde vorm overgenomen in TOP10NL, waarbij een gemeentegrens in TOP10NL zo veel mogelijk de objecten in TOP10NL volgt.
+Het land "Nederland" is een samenvoeging van alle provincies.
 
 Voor de twaalfmijlszone zijn de "Grenzen territoriale zee" van de Dienst der Hydrografie de bron. Ook deze begrenzing is gegeneraliseerd opgenomen in TOP10NL.
 
@@ -6612,7 +6612,7 @@ Voor de twaalfmijlszone zijn de "Grenzen territoriale zee" van de Dienst der Hyd
 |:---|:---|
 | Domeinwaarde | **land** |
 | Definitie | Begrenzing van Nederland, begrenst door België, Duitsland en de 12-mijls zone. |
-| Inwinningscriteria | Het land "Nederland" is een samenvoeging van alle provincies. |
+| Inwinningscriteria | - |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
@@ -6622,7 +6622,7 @@ Voor de twaalfmijlszone zijn de "Grenzen territoriale zee" van de Dienst der Hyd
 |:---|:---|
 | Domeinwaarde | **provincie** |
 | Definitie | Staatkundig onderdeel van Nederland. |
-| Inwinningscriteria | De provincies zijn een samenvoeging van de gemeenten die behoren tot deze provincie. |
+| Inwinningscriteria | - |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
