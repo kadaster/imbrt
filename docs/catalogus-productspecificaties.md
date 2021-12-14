@@ -425,7 +425,7 @@ Afhankelijk van het GIS-software pakket dat gebruikt wordt, kunnen vele GIS anal
 
 De TOP10NL database bevat geo-objecten met een beschrijving van de eigenschappen. Sinds september 2012 heeft ieder object een visualisatiecode gekregen. Hiermee is het visualiseren van TOP10NL eenvoudiger gemaakt. Het Kadaster levert standaard visualisatiemodules mee met de TOP10NL-data gebaseerd op de topografische kaart 1:25.000. Ook kan de gebruiker zelf visualisaties definiëren in de applicatiesoftware.
 
-![Standaardvisualisatie van TOP10NL.](images/figuur3-1.png "Standaardvisualisatie van TOP10NL")
+![Deze figuur laat de standaardvisualisatie van TOP10NL zien, afgebeeld in het GIS-pakket QGIS.](images/figuur3-1.png "Standaardvisualisatie van TOP10NL")
 
 _Figuur 3.1: Standaardvisualisatie van TOP10NL_
 
