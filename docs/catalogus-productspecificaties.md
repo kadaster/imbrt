@@ -6435,7 +6435,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **hoogtelijn** |
 | Definitie | Lijn die punten van gelijke hoogte met elkaar verbindt. |
-| Inwinningscriteria | - |
+| Inwinningscriteria | De hoogtelijnen zijn automatisch gegenereerd uit het hoogtemodel zonder rekening te houden met in het landschap aanwezige kunstmatige elementen, zoals wallen en dijken. Deze kunstmatige elementen met hoogte zijn ingewonnen als Reliëf-object. |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Ja |
