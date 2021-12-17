@@ -1667,21 +1667,19 @@ De waardelijsten van TOP10NL kunnen gevonden worden op:
 ## 6.4 Open data
 
 De basisregistratie Topografie is vanaf 1 januari 2012 als open data beschikbaar, in de vorm van bestandsleveringen en een aantal webservices via PDOK.
+Meer informatie over de Basisregistratie Topografie en de manieren om de producten van de BRT te verkrijgen vindt u op de productpagina's van de BRT:
 
 ### Bestandsleveringen
-
-Meer informatie over de basisregistratie Topografie en de wijze van bestellen vindt u op de productpagina's van de BRT en TOP10NL:
-
-[**www.kadaster.nl/zakelijk/registraties/basisregistraties/brt**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt)
-
-[**www.kadaster.nl/zakelijk/producten/geo-informatie/topnl**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl)
+[**Productpagina BRT: www.kadaster.nl/zakelijk/registraties/basisregistraties/brt**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt)
 
 ### Webservices
 
 Een webservice maakt het mogelijk een kaartbeeld in een webapplicatie te gebruiken, zonder dat de beheerder van de applicatie de geodata zelf in huis hoeft te hebben. Een webservice ontsluit dus de topografie "bij de bron". De webservices zijn beschikbaar via PDOK ( [**www.pdok.nl**](https://www.pdok.nl) ). Voor TOP10NL zijn op dit moment de volgende webservices beschikbaar:
+[**Productpagina TOPNL: www.kadaster.nl/zakelijk/producten/geo-informatie/topnl**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl)
 
 - TOP10NL wms (web map service)
 - TOP10NL wmts (web mab tile service)
+[**Productpagina TOPraster: www.kadaster.nl/zakelijk/producten/geo-informatie/topraster**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topraster)
 
 ### Gebruiksvoorwaarden BRT
 
