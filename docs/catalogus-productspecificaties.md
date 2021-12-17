@@ -1691,7 +1691,7 @@ Daarnaast moet u er rekening mee houden dat alleen de gegevens die rechtstreeks 
 ### Webservices
 
 Een webservice maakt het mogelijk een kaartbeeld in een webapplicatie te gebruiken, zonder dat de beheerder van de applicatie de geodata zelf in huis hoeft te hebben. Een webservice ontsluit dus de topografie "bij de bron". De webservices van de BRT zijn beschikbaar via PDOK ( [**www.pdok.nl**](https://www.pdok.nl) ). Voor de BRT zijn op dit moment diverse webservices beschikbaar.
-Een compleet overaicht van de verschillende webservices van de Basisregistratie Topografie vindt u op de productpagina's van de BRT op PDOK:
+Een compleet overzicht van de verschillende webservices van de Basisregistratie Topografie vindt u op de productpagina's van de BRT op PDOK:
 
 [**PDOK-pagina TOPNL: www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl)
 
