@@ -1670,11 +1670,11 @@ De basisregistratie Topografie is vanaf 1 januari 2012 als open data beschikbaar
 Meer informatie over de Basisregistratie Topografie en de manieren om de producten van de BRT te verkrijgen vindt u op de productpagina's van de BRT:
 
 ### Bestandsleveringen
-[**Productpagina BRT: www.kadaster.nl/zakelijk/registraties/basisregistraties/brt**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt)
+Productpagina BRT: [**www.kadaster.nl/zakelijk/registraties/basisregistraties/brt**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt)
 
-[**Productpagina TOPNL: www.kadaster.nl/zakelijk/producten/geo-informatie/topnl**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl)
+Productpagina TOPNL: [**www.kadaster.nl/zakelijk/producten/geo-informatie/topnl**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl)
 
-[**Productpagina TOPraster: www.kadaster.nl/zakelijk/producten/geo-informatie/topraster**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topraster)
+Productpagina TOPraster: [**www.kadaster.nl/zakelijk/producten/geo-informatie/topraster**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topraster)
 
 ### Gebruiksvoorwaarden BRT
 
@@ -1693,11 +1693,11 @@ Daarnaast moet u er rekening mee houden dat alleen de gegevens die rechtstreeks 
 Een webservice maakt het mogelijk een kaartbeeld in een webapplicatie te gebruiken, zonder dat de beheerder van de applicatie de geodata zelf in huis hoeft te hebben. Een webservice ontsluit dus de topografie "bij de bron". De webservices van de BRT zijn beschikbaar via PDOK ( [**www.pdok.nl**](https://www.pdok.nl) ). Voor de BRT zijn op dit moment diverse webservices beschikbaar.
 Een compleet overzicht van de verschillende webservices van de Basisregistratie Topografie vindt u op de productpagina's van de BRT op PDOK:
 
-[**PDOK-pagina TOPNL: www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl)
+PDOK-pagina TOPNL: [**www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl)
 
-[**PDOK-pagina TOPraster: www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster**](https://www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster)
+PDOK-pagina TOPraster: [**www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster**](https://www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster)
 
-[**PDOK-pagina  BRT-Achtergrondkaart: www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-)
+PDOK-pagina  BRT-Achtergrondkaart: [**www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-)
 
 # 7 Catalogus Basisregistratie Topografie
 
