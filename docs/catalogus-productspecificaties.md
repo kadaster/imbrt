@@ -22,7 +22,7 @@ In 2014 heeft het Kadaster samen met gebruikers een nieuw datamodel voor TOP10NL
 
 # Toegankelijkheid website
 
-Het Kadaster streeft ernaar om de eigen online informatie en dienstverlening toegankelijk te maken, overeenkomstig het "Tijdelijk besluit digitale toegankelijkheid overheid". Zie voor meer informatie het besluit op  [**wetten.overheid.nl/BWBR0040936/2018-07-01**](https://wetten.overheid.nl/BWBR0040936/2018-07-01) .
+Het Kadaster streeft ernaar om de eigen online informatie en dienstverlening toegankelijk te maken, overeenkomstig het "Tijdelijk besluit digitale toegankelijkheid overheid". Meer informatie over het besluit is te vinden op [**wetten.overheid.nl/BWBR0040936/2018-07-01**](https://wetten.overheid.nl/BWBR0040936/2018-07-01) .
 De toegankelijkheidsverklaring die is opgesteld voor de website van de BRT Catalogus en Productspecificaties is gepubliceerd op [**www.toegankelijkheidsverklaring.nl/register/6112**]( https://www.toegankelijkheidsverklaring.nl/register/6112) .
 
 # Leeswijzer
@@ -77,7 +77,7 @@ Laatste gedeelte van de URL achter "compare": hier staat de "master", oftewel de
 Deze link werkt alleen als de werk-branch is gepushed naar de master, gebruik tijdens het doorvoeren van wijzigingen het Pull-request om de verschillen te zien.
 -->
 
-Alle verschillen tussen versie 1.2.0.5 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie kunnen bekeken worden in GitHub.
+Alle verschillen tussen versie 1.2.0.5 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie kunnen bekeken worden in GitHub:
 > [**Bekijk alle verschillen in GitHub**](https://github.com/kadaster/imbrt/compare/5639d20...master#files_bucket)
 
 Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecificaties weergegeven, aan de linkerzijde de vorige versie en aan de rechterzijde de huidige versie. Alleen de gedeelten van de BRT Catalogus en Productspecificaties waar wijzigingen hebben plaatsgevonden, worden weergegeven. Door middel van de kleuren roze en groen worden de verschillen tussen beide versies gemarkeerd. De betekenis van de kleuren is als volgt:
@@ -332,7 +332,7 @@ De ISO-norm is dermate uitgebreid, dat de opstellende werkgroep TC211 een aantal
 
 Om een aantal praktische problemen, o.a. wat betreft uitwisselbaarheid, met de 'core-metadata' op te lossen is besloten een Nederlands profiel op ISO 19115:2003 op te stellen.
 
-Dit profiel bestaat uit een kernset en een optionele set. De kernset bevat de verplichte metadataelementen op basis waarvan gebruikers geografische datasets en –series kunnen zoeken ("metadata for discovery"). Deze kernset is zo beperkt mogelijk gehouden. Dankzij deze kernset kunnen gebruikers gevonden datasets en –series op dezelfde elementen met elkaar vergelijken en weten gebruikers dat ze alle beschikbare data gevonden hebben. De optionele set bevat metadataelementen voor het beheer van geografische datasets en –series. Het is een aanvulling op de minimale kernset en voorziet in de behoefte van het geo-werkveld aan een brede gemeenschappelijke basis van metadata-elementen, in het bijzonder voor het beheer. De verplichte kernset en optionele set maken dit profiel breed en praktisch toepasbaar voor het geo-werkveld. De metadata van TOP10NL is te vinden in het Nationaal Georegister ( [**www.nationaalgeoregister.nl**](https://www.nationaalgeoregister.nl) ).
+Dit profiel bestaat uit een kernset en een optionele set. De kernset bevat de verplichte metadata-elementen op basis waarvan gebruikers geografische datasets en –series kunnen zoeken ("metadata for discovery"). Deze kernset is zo beperkt mogelijk gehouden. Dankzij deze kernset kunnen gebruikers gevonden datasets en –series op dezelfde elementen met elkaar vergelijken en weten gebruikers dat ze alle beschikbare data gevonden hebben. De optionele set bevat metadata-elementen voor het beheer van geografische datasets en –series. Het is een aanvulling op de minimale kernset en voorziet in de behoefte van het geo-werkveld aan een brede gemeenschappelijke basis van metadata-elementen, in het bijzonder voor het beheer. De verplichte kernset en optionele set maken dit profiel breed en praktisch toepasbaar voor het geo-werkveld. De metadata van TOP10NL is te vinden in het Nationaal Georegister ( [**www.nationaalgeoregister.nl**](https://www.nationaalgeoregister.nl) ).
 
 ### 3.4.4 Metadata per object
 
@@ -565,7 +565,7 @@ De positie van een geo-object wordt weergegeven door middel van x en y- coördin
 
 Wegdelen hebben vrijwel altijd een meervoudige geometrie. Voor de meeste wegdelen wordt naast het vlak voor het weglichaam de hartlijn opgenomen. In onderstaande figuur wordt dit schematisch toegelicht.
 
-![Schematisch overzicht waarin de verschillende geometrieën van wegdelen, in de vorm van punten lijnen en vlakken, weergegeven worden.](images/figuur4-2.png "De verschillende geometrieën van wegdelen")
+![Schematisch overzicht waarin de verschillende geometrieën van wegdelen, in de vorm van punten, lijnen en vlakken, weergegeven worden.](images/figuur4-2.png "De verschillende geometrieën van wegdelen")
 
 _Figuur 4.2: De verschillende geometrieën van wegdelen._
 
@@ -1700,7 +1700,7 @@ Een webservice maakt het mogelijk een kaartbeeld in een webapplicatie te gebruik
 
 ## 6.6 Andere BRT-producten
 
-Naast TOP10NL bestaat de BRT uit andere topografische bestanden. In onderstaande tabel wordt daarvan een overzicht gegeven en wordt verwezen naar de productpagina's en de PDOK-pagina's waar deze bestanden gedownload kunnen worden. Een compleet overzicht wordt gegeven op de pagina met BRT-producten ( [**www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-producten**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-producten) ).
+Naast TOP10NL bestaat de BRT uit andere topografische bestanden. In onderstaande tabel wordt daarvan een overzicht gegeven en wordt verwezen naar de productpagina's en de PDOK-pagina's waar deze bestanden gedownload kunnen worden. Een compleet overzicht van de BRT-producten wordt gegeven op de pagina met BRT-producten ( [**www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-producten**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-producten) ).
 
 | Product | Productpagina |
 |:---|:---|
@@ -6596,7 +6596,7 @@ Op basis van wet- en regelgeving afgebakend gebied dat als eenheid geldt van pol
 _Inwinningscriteria:_
 
 De basis voor de grenzen in de BRT is het product TOPGrenzen geweest, dat tot 2014 is bijgehouden door de Topografische Dienst en Topografische Dienst Kadaster.
-Vanaf 2014 is het muteren van de registratieve gebieden in de BRT gebaseerd op mutaties in de Basisregistratie Kadaster (BRK). In 2014 zijn de grootste verschillen geanalyseerd (afwijking > 40 meter), besproken met de BRK en zo mogelijk gecorrigeerd in de BRT.
+Vanaf 2014 is het muteren van de registratieve gebieden in de BRT gebaseerd op mutaties in de Basisregistratie Kadaster (BRK). In 2014 zijn de grootste verschillen geanalyseerd (afwijking > 40 meter), besproken met de BRK en zo nodig gecorrigeerd in de BRT.
 
 De mutaties in de BRK worden in enigszins gegeneraliseerde vorm overgenomen in de BRT, waarbij een gemeentegrens in TOP10NL zo veel mogelijk de objecten in TOP10NL volgt.
 
