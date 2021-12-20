@@ -1700,7 +1700,7 @@ Een webservice maakt het mogelijk een kaartbeeld in een webapplicatie te gebruik
 
 ## 6.6 Andere BRT-producten
 
-Naast TOP10NL bestaat de BRT uit andere topografische bestanden. In onderstaande tabel wordt daarvan een overzicht gegeven en wordt verweren naar de prioductpagina's en de PDOK-pagina's waar deze bestanden gedownload kunnen worden. Een compleet overzicht wordt gegeven op de pagina met BRT-producten ( [**www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-producten**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-producten) ).
+Naast TOP10NL bestaat de BRT uit andere topografische bestanden. In onderstaande tabel wordt daarvan een overzicht gegeven en wordt verwezen naar de productpagina's en de PDOK-pagina's waar deze bestanden gedownload kunnen worden. Een compleet overzicht wordt gegeven op de pagina met BRT-producten ( [**www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-producten**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-producten) ).
 
 | Product | Productpagina |
 |:---|:---|
