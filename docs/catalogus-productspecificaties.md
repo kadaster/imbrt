@@ -18,7 +18,7 @@ Vanaf 1 januari 2008 fungeert TOP10NL als Basisregistratie Topografie (BRT). Daa
 
 Tijdens de ontwikkeling van TOP10NL zijn een groot aantal deelonderzoeken verricht. Het product TOP10NL is ontwikkeld in samenspraak met de gebruikers. Deelonderzoeken zijn verricht door de universiteiten van Delft, Wageningen en het ITC te Enschede. Externe GIS-software ontwikkelbedrijven hebben een aanzienlijke bijdrage geleverd in de ontwikkeling van de database.
 
-In 2014 heeft het Kadaster samen met gebruikers een nieuw datamodel voor TOP10NL gedefiniëerd: TOP10NL 1.2. Vanaf november 2015 wordt TOP10NL geleverd volgens dit nieuwe datamodel. Ook heeft het Kadaster in 2015 meerdere experimenten uitgevoerd met als doel het bereiken van een 1 jarige cyclus voor de bijhouding van de TOP10NL met behoud van kwaliteit. In deze experimenten lag de focus op het opsporen van topografische terreinmutaties. Het resultaat van deze experimenten is dat de actualiteit van TOP10NL is verhoogd en het aantal bijgewerkte gebieden is gestegen. Met het nieuwe proces is het mogelijk om per levering 1/5 van Nederland te actualiseren. Vanwege de goede resultaten van deze experimenten is dit nieuwe TOP10NL-proces in gebruik genomen. TOP10NL wordt nu dus bijgehouden in een 1 jarige cyclus.
+In 2014 heeft het Kadaster samen met gebruikers een nieuw datamodel voor TOP10NL gedefinieerd: TOP10NL 1.2. Vanaf november 2015 wordt TOP10NL geleverd volgens dit nieuwe datamodel. Ook heeft het Kadaster in 2015 meerdere experimenten uitgevoerd met als doel het bereiken van een 1 jarige cyclus voor de bijhouding van de TOP10NL met behoud van kwaliteit. In deze experimenten lag de focus op het opsporen van topografische terreinmutaties. Het resultaat van deze experimenten is dat de actualiteit van TOP10NL is verhoogd en het aantal bijgewerkte gebieden is gestegen. Met het nieuwe proces is het mogelijk om per levering 1/5 van Nederland te actualiseren. Vanwege de goede resultaten van deze experimenten is dit nieuwe TOP10NL-proces in gebruik genomen. TOP10NL wordt nu dus bijgehouden in een 1 jarige cyclus.
 
 # Toegankelijkheid website
 
@@ -699,7 +699,7 @@ _Figuur 4.4: voorbeeld objectmutatie_
 
 Door opsplitsing van het wegdeel ontstaan er twee nieuwe wegdelen, elk met een nieuwe identificatie. Het oude wegdeel krijgt een objectEindTijd, maar blijft in de database aanwezig.
 
-De exacte regels voor het toekennen van identificaties, objectBegintijd, objectEindtijd, tijdstipRegistratie en eindRegistratie staan beschreven in het mutatieprotocol in [**Bijlage 1: Mutatieprotocol**](#bijlage-1-mutatieprotocol).
+De exacte regels voor het toekennen van identificaties, objectBeginTijd, objectEindTijd, tijdstipRegistratie en eindRegistratie staan beschreven in het mutatieprotocol in [**Bijlage 1: Mutatieprotocol**](#bijlage-1-mutatieprotocol).
 
 ### 4.5.3 Kruisende objecten
 
@@ -1622,7 +1622,7 @@ Tegenover de gebruikerswensen zijn de volgende beperkingen van de TOPvector-stru
 Bij de ontwikkeling van het objectgerichte gegevensmodel en de objectcatalogus van TOP10NL hebben de volgende overwegingen een rol gespeeld. Het model dient aan te sluiten op Nederlandse en buitenlandse standaarden en dient een open, uitbreidbaar karakter te dragen. In Nederland gold als norm het Terreinmodel Vastgoed, NEN3610, waarvan vanaf 2005 een nieuwe versie beschikbaar is: het Basismodel Geo-Informatie (NEN3610 _2005_). Internationaal wordt veel gebruik gemaakt van de DFDD standaard. Deze standaard is in eerste instantie voor militair gebruik ontwikkeld, maar wordt nu ook voor civiele internationale datasets gehanteerd (onder meer EuroGlobalMap en EuroRegionalMap). Ook zijn buitenlandse modellen van diverse Europese landen in ogenschouw genomen (Duitsland: ATKIS, Groot-Brittannië: Mastermap, Denemarken: TOP10DK).
 NEN3610 _2005_ (Basismodel Geo-Informatie) is vrijwel tegelijkertijd met TOP10NL ontwikkeld en er is voor gezorgd dat beide modellen goed op elkaar aansluiten. Zo gebruikt het Basismodel Geo-Informatie ook geen afkortingen en coderingen meer en wordt er voor de uitwisseling ook GML gebruikt.
 
-Het uitwisselingsformaat waarin de gegevens beschikbaar zijn, is meestal afhankelijk van het softwarepakket waarin de gegevens zijn geproduceerd. De ontwikkelingen van de laatste decennia hebben geleid tot een breed scala van uitwisselingsformaten. Voor gebruikers met een afwijkend softwarepakket dan de producent levert dit vaak onoverkomelijke problemen op. Gelukkig zijn er nationale en internationale organisaties die standaarden vaststellen waarmee, onafhankelijk van de gebruikte software, datasets kunnen worden uitgewisseld. Dit gaat echter soms gepaard met gegevensverlies. Zo zijn er NEN- (Nederlandse), CEN- (Europese) en ISO- (wereldwijde) standaarden. Voor TOP10NL is gekozen voor een internationale standaard, aangereikt door het Open Geospatial Consortium (OGC, voorheen OpenGIS Consortium). Dit consortium is een samenwerkings-verband van enkele honderden internationale bedrijven en instanties op het gebied van GIS-software en GIS-gebruikers. Het doel is open standaarden te ontwikkelen, zodat datasets zonder problemen kunnen worden uitgewisseld en worden gebruikt op diverse platforms binnen de gangbare GIS-software.
+Het uitwisselingsformaat waarin de gegevens beschikbaar zijn, is meestal afhankelijk van het softwarepakket waarin de gegevens zijn geproduceerd. De ontwikkelingen van de laatste decennia hebben geleid tot een breed scala van uitwisselingsformaten. Voor gebruikers met een afwijkend softwarepakket dan de producent levert dit vaak onoverkomelijke problemen op. Gelukkig zijn er nationale en internationale organisaties die standaarden vaststellen waarmee, onafhankelijk van de gebruikte software, datasets kunnen worden uitgewisseld. Dit gaat echter soms gepaard met gegevensverlies. Zo zijn er NEN- (Nederlandse), CEN- (Europese) en ISO- (wereldwijde) standaarden. Voor TOP10NL is gekozen voor een internationale standaard, aangereikt door het Open Geospatial Consortium (OGC, voorheen OpenGIS Consortium). Dit consortium is een samenwerkingsverband van enkele honderden internationale bedrijven en instanties op het gebied van GIS-software en GIS-gebruikers. Het doel is open standaarden te ontwikkelen, zodat datasets zonder problemen kunnen worden uitgewisseld en worden gebruikt op diverse platforms binnen de gangbare GIS-software.
 
 Voor de uitwisseling van de TOP10NL bestanden is gekozen voor de standaardtaal GML (Geography Markup Language). Het voordeel van GML is dat zowel de inhoud als de structuur van de gegevens meegeleverd wordt. De structuur wordt via het internet door de bronhouder(s) bijgehouden, zodat dataconversie problemen tot het verleden behoren. GML is in beginsel een uitwisselingsformaat dat onafhankelijk is van specifieke GIS-software. Het is wereldwijd bruikbaar in een GIS systeem dat compatibel is met XML (eXtensible Markup Language), een internationale standaard op ICT gebied.
 
@@ -1694,7 +1694,7 @@ De BRT is als bestandslevering beschikbaar in het formaat GML en Geopackage. Een
 De GML-bestanden kunnen gedownload worden via een een download-viewer en via een API. Met de download-viewer kunt u de GML van heel Nederland in één keer downloaden. Ook kunt u zelf met de muis op de kaart van Nederland een gebied tekenen. Vervolgens kunt u de gewenste objectklassen selecteren en deze voor het geselecteerde gebied downloaden. 
 Voor afnemers die elke levering hetzelfde gebied willen selecteren, heeft PDOK een API ontwikkeld die dit proces automatiseert. Hiermee is het ook mogelijk om de GML's per kaartblad te downloaden. Op het Geoforum heeft PDOK een instructie geplaatst over het het downloaden van GML's met deze API: [**geoforum.nl/t/handleiding-pdok-download-apis-voor-de-bgt-dkk-en-brt-topnl/6578**](https://geoforum.nl/t/handleiding-pdok-download-apis-voor-de-bgt-dkk-en-brt-topnl/6578)
 
-De BRT geopackages kunnen gedownlaod worden via de productpagina's van de BRT op PDOK. Een Geopackage bevat altijd alle objecten in heel Nederland. Meer informatie over Geopackage is te vinden op de website van Geonovum ( [**www.geonovum.nl/geo-standaarden/geopackage**](https://www.geonovum.nl/geo-standaarden/geopackage) ).
+De BRT geopackages kunnen gedownload worden via de productpagina's van de BRT op PDOK. Een Geopackage bevat altijd alle objecten in heel Nederland. Meer informatie over Geopackage is te vinden op de website van Geonovum ( [**www.geonovum.nl/geo-standaarden/geopackage**](https://www.geonovum.nl/geo-standaarden/geopackage) ).
 
 Een webservice maakt het mogelijk een kaartbeeld in een webapplicatie te gebruiken, zonder dat de beheerder van de applicatie de geodata zelf in huis hoeft te hebben. Een webservice ontsluit dus de topografie "bij de bron". De webservices van de BRT zijn beschikbaar via PDOK ( [**www.pdok.nl**](https://www.pdok.nl) ). Voor de BRT zijn op dit moment diverse webservices beschikbaar.
 
@@ -2086,7 +2086,7 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 | Attribuut | type weg |
 |:---|:---|
 | Definitie | Het soort weg. |
-| Inwinningscriteria | Wegen worden hierarchisch opgedeeld in een aantal categorieën, welke met dit attribuut worden aangeduid.<br>Een op- of afrit en een rotonde wordt aangegeven als een wegdeel van de hoogst geclassificeerde route (Volgorde van classificatie van hoog naar laag: 1 autosnelweg, 2 hoofdweg, 3 regionale weg, 4 lokale weg, 5 alle andere). Echter, als van een autosnelweg of hoofdweg voor snelverkeer een op/afrit op een rotonde uitkomt, dan vervalt de regel van hoogst geclassificeerde route, en krijgt de rotonde de code van de doorgaande route.<br>Autosnelwegen en hoofdwegen vormen samen een gesloten netwerk. Autosnelwegen, hoofdwegen en regionale wegen vormen ook een gesloten netwerk. |
+| Inwinningscriteria | Wegen worden hiërarchisch opgedeeld in een aantal categorieën, welke met dit attribuut worden aangeduid.<br>Een op- of afrit en een rotonde wordt aangegeven als een wegdeel van de hoogst geclassificeerde route (Volgorde van classificatie van hoog naar laag: 1 autosnelweg, 2 hoofdweg, 3 regionale weg, 4 lokale weg, 5 alle andere). Echter, als van een autosnelweg of hoofdweg voor snelverkeer een op/afrit op een rotonde uitkomt, dan vervalt de regel van hoogst geclassificeerde route, en krijgt de rotonde de code van de doorgaande route.<br>Autosnelwegen en hoofdwegen vormen samen een gesloten netwerk. Autosnelwegen, hoofdwegen en regionale wegen vormen ook een gesloten netwerk. |
 | Multipliciteit | Veelvoudig (type infrastructuur = "kruising") / Enkelvoudig (type infrastructuur = "verbinding" of type infrastructuur = "overig verkeersgebied") |
 | Optionaliteit | Verplicht |
 | Formaat | Tekst |
@@ -2178,7 +2178,7 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 |:---|:---|
 | Domeinwaarde | **parkeerplaats** |
 | Definitie | Parkeergelegenheid voor meerdere voertuigen in de openlucht. |
-| Inwinningscriteria | Parkeerplaatsen worden gegeven als deze openbaar zijn en groter zijn dan 1000m². Parkeerterreinen kleinder dan 1000 m² in een bosrijk natuurgebied én van oriënterende waarde worden ook ingewonnen. |
+| Inwinningscriteria | Parkeerplaatsen worden gegeven als deze openbaar zijn en groter zijn dan 1000m². Parkeerterreinen kleiner dan 1000 m² in een bosrijk natuurgebied én van oriënterende waarde worden ook ingewonnen. |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
@@ -3266,7 +3266,7 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 | Domein | WA\_typeWater |
 |:---|:---|
 | Domeinwaarde | **droogvallend (LAT)** |
-| Definitie | Geheel of gedeeltelijk droogvallende gronden, buitendijks gelegen, begrensd door de lijnen gemiddeld laag water en laagste astromnomisch getij (LAT). |
+| Definitie | Geheel of gedeeltelijk droogvallende gronden, buitendijks gelegen, begrensd door de lijnen gemiddeld laag water en laagste astronomisch getij (LAT). |
 | Inwinningscriteria | Ingewonnen op basis van gegevens van de Dienst der Hydrografie. |
 | Volledigheid | Volledig |
 | Punt | Nee |
@@ -3436,7 +3436,7 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 |:---|:---|
 | Domeinwaarde | **in duiker** |
 | Definitie | Gelegen in een niet afsluitbare koker die dient voor de instandhouding van de verbinding tussen wederzijds gelegen wateren of voor de afwatering van aangrenzende landerijen, niet zijnde een grondduiker. |
-| Inwinningscriteria | Elke duiker in het hoofafwateringspatroon wordt aangegeven en elke duiker onder een dijk of (spoor)weg met een minimale diameter van 60 centimeter. Een duiker in open terrein, niet gelegen in het hoofdafwateringspatroon, wordt aangegeven als (koe)dam. (Koe)dammen gelegen in waterlopen smaller dan 6 meter die onderdeel uitmaken van het hoofdafwateringspatroon worden opgenomen als duiker.<br>Een buis voor het lozen van industrieel water op oppervlaktewater wordt niet opgenomen. |
+| Inwinningscriteria | Elke duiker in het hoofdafwateringspatroon wordt aangegeven en elke duiker onder een dijk of (spoor)weg met een minimale diameter van 60 centimeter. Een duiker in open terrein, niet gelegen in het hoofdafwateringspatroon, wordt aangegeven als (koe)dam. (Koe)dammen gelegen in waterlopen smaller dan 6 meter die onderdeel uitmaken van het hoofdafwateringspatroon worden opgenomen als duiker.<br>Een buis voor het lozen van industrieel water op oppervlaktewater wordt niet opgenomen. |
 | Volledigheid | Beperkt |
 | Punt | Nee |
 | Lijn | Ja |
@@ -3964,7 +3964,7 @@ _Inwinningscriteria:_
 | Attribuut | type gebouw |
 |:---|:---|
 | Definitie | Het type gebouw, het doel waarvoor de bebouwing gebruikt wordt (gaat worden / werd). |
-| Inwinningscriteria | Indien de betreffende bebouwing onderdeel uitmaakt van een groter geheel, wordt het gebouwdeel "uitgesneden" uit de omliggende bebouwing en voorzien van de bijbehorende attribuutwaarde. Indien het gebouwdeel niet exact is aan te geven, wordt een op zich zelf staand gebouw aangebracht aan de rand van het complete gebouw (op de ware plek of bij de dichtsbij gelegen ingang van het gebouw). |
+| Inwinningscriteria | Indien de betreffende bebouwing onderdeel uitmaakt van een groter geheel, wordt het gebouwdeel "uitgesneden" uit de omliggende bebouwing en voorzien van de bijbehorende attribuutwaarde. Indien het gebouwdeel niet exact is aan te geven, wordt een op zich zelf staand gebouw aangebracht aan de rand van het complete gebouw (op de ware plek of bij de dichtstbij gelegen ingang van het gebouw). |
 | Multipliciteit | Veelvoudig |
 | Optionaliteit | Verplicht |
 | Formaat | Tekst |
@@ -4116,7 +4116,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **huizenblok** |
 | Definitie | Terrein, volledig of nagenoeg volledig bedekt met bebouwing (niet zijnde lintbebouwing of grote boerderijen met bijbehorende stallen), gelegen in stedelijk/verstedelijkt gebied, waarbij de bebouwing naar alle zijden aaneengesloten is en waar men vanaf de openbare weg van eventuele binnenplaatsen en -tuinen weinig of niets kan zien. |
-| Inwinningscriteria | Bij de beoordeling of een zijde aaneengesloten is wordt alle bebouwing meegerekend, plus muren. Kleine openingen tot plm. 3 meter en poorten worden als bebouwd beschouwd. Grotere inspringingen welke niet voor het publiek vanaf de openbare weg toegankelijk zijn, worden bij het bebouwd gebied getrokken. Kleine en smalle inspringingen (tot plm. 3 meter) in de begrenzinglijn worden niet aangegeven. Ingeval het bebouwd gebied slechts uit één of enkele gebouwen bestaat, mogen binnenplaatsen gegeven worden indien deze groter zijn dan plm. 1000m². |
+| Inwinningscriteria | Bij de beoordeling of een zijde aaneengesloten is wordt alle bebouwing meegerekend, plus muren. Kleine openingen tot plm. 3 meter en poorten worden als bebouwd beschouwd. Grotere inspringingen welke niet voor het publiek vanaf de openbare weg toegankelijk zijn, worden bij het bebouwd gebied getrokken. Kleine en smalle inspringingen (tot plm. 3 meter) in de begrenzingslijn worden niet aangegeven. Ingeval het bebouwd gebied slechts uit één of enkele gebouwen bestaat, mogen binnenplaatsen gegeven worden indien deze groter zijn dan plm. 1000m². |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
@@ -4325,7 +4325,7 @@ _Inwinningscriteria:_
 | Domein | GB\_typeGebouw |
 |:---|:---|
 | Domeinwaarde | **paleis** |
-| Definitie | Gebouw met een openbare of cermoniële functie heeft voor gebruik door de koninkljke familie. |
+| Definitie | Gebouw met een openbare of ceremoniële functie heeft voor gebruik door de koninklijke familie. |
 | Inwinningscriteria | - |
 | Volledigheid | Beperkt |
 | Punt | Ja |
@@ -5139,7 +5139,7 @@ Voor het bijhouden van het attribuut type_landgebruik wordt gebruik gemaakt van 
 |:---|:---|
 | Domeinwaarde | **bos: gemengd bos** |
 | Definitie | Oppervlak begroeid met een dusdanige aantal naald- en loofbomen dat de kruinen een min of meer gesloten geheel vormen of, na volgroeiing van de bomen, zullen vormen. |
-| Inwinningscriteria | Maximum percentage naalbomen: 90%. Maximumpercentage loofbomen: 90%. Bij deze percentages worden het eventueel aanwezige onderhout en smalle stroken loof- en of naaldbos gelegen naast of als uitloper van het bos buiten beschouwing gelaten.<br>Minimumoppervlakte voor het logisch geheel van bospartijen op erven en in bebouwd gebied: 1000 m².<br>Minimumlengte en -breedte voor een brede houtrand: 50 meter resp. 3 meter.<br>Minimumoppervlakte in overige gevallen: 50 m².<br>Een afgebrand bos, kapvlakte, jonge aanplant of bosopslag (spontaan groeiend bos waarvan de begrenzing niet duidelijk kan worden onderscheiden) wordt behandeld als bos.<br>Een smalle strook loof- en/of naaldhout gelegen naast of als uitloper van een bos wordt geacht tot dit bos te behoren.<br>In een groot deel van de bossen worden bospaden ontoegankelijk gemaakt t.b.v. het wild door er greppels te graven, er bomen/takken neer te leggen of zandbergen op te werpen. Deze paden worden bij het bos getrokken.<br>Een heg op een wal (houtwal) wordt niet als inrichtingselement van het type 'heg, haag' ingewonnen, maar als bos (geen griend). |
+| Inwinningscriteria | Maximum percentage naaldbomen: 90%. Maximumpercentage loofbomen: 90%. Bij deze percentages worden het eventueel aanwezige onderhout en smalle stroken loof- en of naaldbos gelegen naast of als uitloper van het bos buiten beschouwing gelaten.<br>Minimumoppervlakte voor het logisch geheel van bospartijen op erven en in bebouwd gebied: 1000 m².<br>Minimumlengte en -breedte voor een brede houtrand: 50 meter resp. 3 meter.<br>Minimumoppervlakte in overige gevallen: 50 m².<br>Een afgebrand bos, kapvlakte, jonge aanplant of bosopslag (spontaan groeiend bos waarvan de begrenzing niet duidelijk kan worden onderscheiden) wordt behandeld als bos.<br>Een smalle strook loof- en/of naaldhout gelegen naast of als uitloper van een bos wordt geacht tot dit bos te behoren.<br>In een groot deel van de bossen worden bospaden ontoegankelijk gemaakt t.b.v. het wild door er greppels te graven, er bomen/takken neer te leggen of zandbergen op te werpen. Deze paden worden bij het bos getrokken.<br>Een heg op een wal (houtwal) wordt niet als inrichtingselement van het type 'heg, haag' ingewonnen, maar als bos (geen griend). |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
@@ -5169,7 +5169,7 @@ Voor het bijhouden van het attribuut type_landgebruik wordt gebruik gemaakt van 
 |:---|:---|
 | Domeinwaarde | **bos: naaldbos** |
 | Definitie | Oppervlak begroeid met een dusdanige aantal naaldbomen dat de kruinen een min of meer gesloten geheel vormen of, na volgroeiing van de bomen, zullen vormen |
-| Inwinningscriteria | Minimum percentage naalbomen: 90%. Bij dit percentage worden het eventueel aanwezige onderhout en smalle stroken loof- en of naaldbos gelegen naast of als uitloper van het bos buiten beschouwing gelaten.<br>Minimumoppervlakte voor het logisch geheel van bospartijen op erven en in bebouwd gebied: 1000 m².<br>Minimumlengte en -breedte voor een brede houtrand: 50 meter resp. 3 meter.<br>Minimumoppervlakte in overige gevallen: 50 m².<br>Een afgebrand bos, kapvlakte, jonge aanplant of bosopslag (spontaan groeiend bos waarvan de begrenzing niet duidelijk kan worden onderscheiden) wordt behandeld als bos.<br>Een smalle strook loof- en/of naaldhout gelegen naast of als uitloper van een bos wordt geacht tot dit bos te behoren.<br>In een groot deel van de bossen worden bospaden ontoegankelijk gemaakt t.b.v. het wild door er greppels te graven, er bomen/takken neer te leggen of zandbergen op te werpen. Deze paden worden bij het bos getrokken.<br>Een heg op een wal (houtwal) wordt niet als inrichtingselement van het type 'heg, haag' ingewonnen, maar als bos (geen griend). |
+| Inwinningscriteria | Minimum percentage naaldbomen: 90%. Bij dit percentage worden het eventueel aanwezige onderhout en smalle stroken loof- en of naaldbos gelegen naast of als uitloper van het bos buiten beschouwing gelaten.<br>Minimumoppervlakte voor het logisch geheel van bospartijen op erven en in bebouwd gebied: 1000 m².<br>Minimumlengte en -breedte voor een brede houtrand: 50 meter resp. 3 meter.<br>Minimumoppervlakte in overige gevallen: 50 m².<br>Een afgebrand bos, kapvlakte, jonge aanplant of bosopslag (spontaan groeiend bos waarvan de begrenzing niet duidelijk kan worden onderscheiden) wordt behandeld als bos.<br>Een smalle strook loof- en/of naaldhout gelegen naast of als uitloper van een bos wordt geacht tot dit bos te behoren.<br>In een groot deel van de bossen worden bospaden ontoegankelijk gemaakt t.b.v. het wild door er greppels te graven, er bomen/takken neer te leggen of zandbergen op te werpen. Deze paden worden bij het bos getrokken.<br>Een heg op een wal (houtwal) wordt niet als inrichtingselement van het type 'heg, haag' ingewonnen, maar als bos (geen griend). |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
@@ -5748,7 +5748,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 |:---|:---|
 | Domeinwaarde | **koedam** |
 | Definitie | Onderbreking van een waterloop, door middel van demping, al dan niet met een doorlaatbuis. |
-| Inwinningscriteria | Een duiker in open terrein, niet gelegen in het hoofdafwateringspatroon, wordt aangegeven als koedam.<br>Koedammen gelegen in waterlopen smaller dan 6 meter die onderdeel uitmaken van het hoofdafwateringspatroon worden opgenomen als duiker.<br>Een bredere koedam (breder dan 12 meter) wordt aangegeven met een onderbreking van het waterdeel.<br>Een onderbreking van een waterloop wordt altijd aangegeven tenzij gelegen in een wegcontour. Of er ook een inrichtingselement van het type koedam gegeven wordt is afhankelijk van een aantal randvoorwaarden. Er wordt geen inrichtingselement van het type koedam gegeven indien:<br>- de koedam is gelegen in of langs een bosperceel<br>- over de koedam een wegvlak, weglijn of dijk (reliëflijn) ligt.<br>- er geen sprake is van de mogelijkheid tot passage van de onderbreking (bv ihgv. aanwezigheid van een mast, windturbine, lantaarnpaal ed. op de dam).<br>- de te overbruggen afstand meer dan 12 m bedraagt.<br>- de waterdelen aan beide zijden van de dam breder zijn dan 6 meter. |
+| Inwinningscriteria | Een duiker in open terrein, niet gelegen in het hoofdafwateringspatroon, wordt aangegeven als koedam.<br>Koedammen gelegen in waterlopen smaller dan 6 meter die onderdeel uitmaken van het hoofdafwateringspatroon worden opgenomen als duiker.<br>Een bredere koedam (breder dan 12 meter) wordt aangegeven met een onderbreking van het waterdeel.<br>Een onderbreking van een waterloop wordt altijd aangegeven tenzij gelegen in een wegcontour. Of er ook een inrichtingselement van het type koedam gegeven wordt is afhankelijk van een aantal randvoorwaarden. Er wordt geen inrichtingselement van het type koedam gegeven indien:<br>- de koedam is gelegen in of langs een bosperceel<br>- over de koedam een wegvlak, weglijn of dijk (reliëflijn) ligt.<br>- er geen sprake is van de mogelijkheid tot passage van de onderbreking (bv. i.h.g.v. aanwezigheid van een mast, windturbine, lantaarnpaal ed. op de dam).<br>- de te overbruggen afstand meer dan 12 m bedraagt.<br>- de waterdelen aan beide zijden van de dam breder zijn dan 6 meter. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Ja |
@@ -5847,7 +5847,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 | Domein | IE\_typeInrichtingselement |
 |:---|:---|
 | Domeinwaarde | **paal** |
-| Definitie | Stevig, langwerpig, rechtop in de grond geplaatst merkteken ter afbakening. / Kilometrering van een dijklichaaam. |
+| Definitie | Stevig, langwerpig, rechtop in de grond geplaatst merkteken ter afbakening. / Kilometrering van een dijklichaam. |
 | Inwinningscriteria | Voor de kilometrering van een dijklichaam geldt: Alleen de palen met een gehele kilometeraanduiding worden aangegeven. Indien er alleen hectometerpalen aanwezig zijn, worden alleen de tientallen opgenomen. |
 | Volledigheid | Beperkt |
 | Punt | Ja |
@@ -6660,7 +6660,7 @@ Voor de twaalfmijlszone zijn de "Grenzen territoriale zee" van de Dienst der Hyd
 |:---|:---|
 | Domeinwaarde | **territoriale zee** |
 | Definitie | Een zeestrook, grenzend aan het landgebied van Nederland waarover de soevereiniteit van Nederland zich uitstrekt. |
-| Inwinningscriteria | De territoriale zee is gebaseerd op de laagwaterlijn en de 12 mjils zone. |
+| Inwinningscriteria | De territoriale zee is gebaseerd op de laagwaterlijn en de 12 mijls zone. |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
@@ -7640,7 +7640,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **milieustraat** |
 | Definitie | Een locatie die specifiek bestemd is voor het brengen van gescheiden huishoudelijk afval en grofvuil. |
-| Inwinningscriteria | De in de wijken gelegen milieuinzamelpunten worden niet gegeven. |
+| Inwinningscriteria | De in de wijken gelegen milieu-inzamelpunten worden niet gegeven. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
