@@ -1,8 +1,8 @@
-﻿![Kadaster](images/logo.jpeg)
+﻿![Kadaster logo.](images/logo.jpeg "Kadaster logo")
 
 # Basisregistratie Topografie: Catalogus en Productspecificaties
 
-Versie: 1.2.0.4
+Versie: 1.2.0.5
 
 # Inleiding
 
@@ -14,23 +14,37 @@ TOP10NL geeft de topografische werkelijkheid binnen de grenzen van het schaalber
 
 Het Kadaster produceert vanaf 2007 dit nieuwe objectgerichte vectorbestand op de schaal 1:10.000. Het is de opvolger van TOP10vector dat sinds 1992 is vervaardigd. Bij de ontwikkeling van TOP10NL spelen standaarden een belangrijke rol. Eén van de belangrijkste doeleinden van het nieuwe bestand is een optimale uitwisseling mogelijk te maken tussen dit topografisch basisbestand en vele andere topografische en thematische bestanden die in Nederland worden geproduceerd. Aansluiten bij internationale standaarden is van essentieel belang om uitwisseling mogelijk te maken met geografische basisbestanden welke binnen Europa geproduceerd worden.
 
-Vanaf 1 januari 2008 fungeert TOP10NL als Basisregistratie Topografie (BRT). Daarmee is TOP10NL het standaard topografische basisbestand voor gebruik binnen de overheid op het betreffende schaalgebied. Voor meer informatie zie [www.rijksoverheid.nl](https://www.rijksoverheid.nl) en [www.kadaster.nl/zakelijk/registraties/basisregistraties/brt](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt)
+Vanaf 1 januari 2008 fungeert TOP10NL als Basisregistratie Topografie (BRT). Daarmee is TOP10NL het standaard topografische basisbestand voor gebruik binnen de overheid op het betreffende schaalgebied. Voor meer informatie zie [**www.rijksoverheid.nl**](https://www.rijksoverheid.nl) en [**www.kadaster.nl/zakelijk/registraties/basisregistraties/brt**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt) .
 
 Tijdens de ontwikkeling van TOP10NL zijn een groot aantal deelonderzoeken verricht. Het product TOP10NL is ontwikkeld in samenspraak met de gebruikers. Deelonderzoeken zijn verricht door de universiteiten van Delft, Wageningen en het ITC te Enschede. Externe GIS-software ontwikkelbedrijven hebben een aanzienlijke bijdrage geleverd in de ontwikkeling van de database.
 
 In 2014 heeft het Kadaster samen met gebruikers een nieuw datamodel voor TOP10NL gedefiniëerd: TOP10NL 1.2. Vanaf november 2015 wordt TOP10NL geleverd volgens dit nieuwe datamodel. Ook heeft het Kadaster in 2015 meerdere experimenten uitgevoerd met als doel het bereiken van een 1 jarige cyclus voor de bijhouding van de TOP10NL met behoud van kwaliteit. In deze experimenten lag de focus op het opsporen van topografische terreinmutaties. Het resultaat van deze experimenten is dat de actualiteit van TOP10NL is verhoogd en het aantal bijgewerkte gebieden is gestegen. Met het nieuwe proces is het mogelijk om per levering 1/5 van Nederland te actualiseren. Vanwege de goede resultaten van deze experimenten is dit nieuwe TOP10NL-proces in gebruik genomen. TOP10NL wordt nu dus bijgehouden in een 1 jarige cyclus.
 
+# Toegankelijkheid website
+
+Het Kadaster streeft ernaar om de eigen online informatie en dienstverlening toegankelijk te maken, overeenkomstig het "Tijdelijk besluit digitale toegankelijkheid overheid". Meer informatie over het besluit is te vinden op [**wetten.overheid.nl/BWBR0040936/2018-07-01**](https://wetten.overheid.nl/BWBR0040936/2018-07-01) .
+De toegankelijkheidsverklaring die is opgesteld voor de website van de BRT Catalogus en Productspecificaties is gepubliceerd op [**www.toegankelijkheidsverklaring.nl/register/6112**]( https://www.toegankelijkheidsverklaring.nl/register/6112) .
+
 # Leeswijzer
 
-Dit document begint met een kort overzicht van het Stelsel van Basisregistraties. Hierna worden de belangrijkste kenmerken van TOP10NL beschreven. [Hoofdstuk 3](#3-opbouw-top10nl) behandelt een aantal algemene zaken over TOP10NL, zoals de gebiedsaanduiding, de actualiteit, het ruimtelijk referentiesysteem, een kwaliteitsbeschrijving, het productieproces en het gebruik van TOP10NL. [Hoofdstuk 4](#4-gegevensmodel-top10nl) beschrijft het gegevensmodel met de verschillende groepen kenmerken en het gedrag van geo-objecten. In [hoofdstuk 5](#5-de-objectcatalogus-in-het-kort) vindt u een compact overzicht van alle objectklassen, attributen en attribuutwaarden van TOP10NL inclusief de mogelijke geometrieën. [Hoofdstuk 6](#6-uitwisseling-van-topografische-gegevens) gaat in op de uitwisseling van gegevens. Daarbij komen o.a. GML, UML en de XSD aan bod. De complete uitgebreide objectcatalogus is opgenomen in [hoofdstuk 7](#7-catalogus-basisregistratie-topografie).
+Dit document begint met een kort overzicht van het Stelsel van Basisregistraties. Hierna worden de belangrijkste kenmerken van TOP10NL beschreven. [**Hoofdstuk 3**](#3-opbouw-top10nl) behandelt een aantal algemene zaken over TOP10NL, zoals de gebiedsaanduiding, de actualiteit, het ruimtelijk referentiesysteem, een kwaliteitsbeschrijving, het productieproces en het gebruik van TOP10NL. [**Hoofdstuk 4**](#4-gegevensmodel-top10nl) beschrijft het gegevensmodel met de verschillende groepen kenmerken en het gedrag van geo-objecten. In [**hoofdstuk 5**](#5-de-objectcatalogus-in-het-kort) vindt u een compact overzicht van alle objectklassen, attributen en attribuutwaarden van TOP10NL inclusief de mogelijke geometrieën. [**Hoofdstuk 6**](#6-uitwisseling-van-topografische-gegevens) gaat in op de uitwisseling van gegevens. Daarbij komen o.a. GML, UML en de XSD aan bod. De complete uitgebreide objectcatalogus is opgenomen in [**hoofdstuk 7**](#7-catalogus-basisregistratie-topografie).
 
-[Bijlage 1: Mutatieprotocol](#bijlage-1-mutatieprotocol) beschrijft het mutatieprotocol dat gebruikt wordt om te bepalen wanneer er sprake is van een nieuw object of een nieuwe versie van een object. Dit is van belang bij het toekennen van unieke identificatiecodes.
+[**Bijlage 1: Mutatieprotocol**](#bijlage-1-mutatieprotocol) beschrijft het mutatieprotocol dat gebruikt wordt om te bepalen wanneer er sprake is van een nieuw object of een nieuwe versie van een object. Dit is van belang bij het toekennen van unieke identificatiecodes.
 
 # Versiehistorie
+<!--
+Hoe wordt de URL naar de oude versie van de Catalogus, die hieronder in de laatste kolom staat, bepaald:
+Ga op github.com naar de commits in deze repository
+Bepaal de laatste commit van die versie van de Catalogus en kies voor de knop "<>" (Browse the repository at this point in the history)
+Blader vervolgens naar dit bestand en klik er op om het te openen
+De URL die nu geopend wordt is de URL van de oude versie van de Catalogus
+Belangrijk: om de tabel hieronder juist weer te geven, moet er een witregel na de volgende pijl komen!!
+-->
 
-| Versie | Datum | Auteur | Opmerking | Link naar historische versies |
+| Versie | Datum | Auteur | Opmerking | Link naar historische versie |
 |:---|:---|:---|:---|:---|
-| 1.2.0.4 | 22 juli 2021 | Kadaster | Toevoeging hoofdstuk met wijzigingen t.o.v. vorige versie, toevoeging link naar historische versies BRT Catalogus. | - |
+| 1.2.0.5 | 20 december 2021 | Kadaster | Wijzigingen n.a.v. Audit BRT 2020 doorgevoerd. <br> Toepassen webrichtlijnen. <br> Actualiseren bestandsleveringen en webservices. | - |
+| 1.2.0.4 | 22 juli 2021 | Kadaster | Toevoeging hoofdstuk met wijzigingen t.o.v. vorige versie, toevoeging link naar historische versies BRT Catalogus. | [versie 1.2.0.4 (web)](https://github.com/kadaster/imbrt/blob/5639d20316bd183a59d27a41e44eb312f64d8286/docs/catalogus-productspecificaties.md) |
 | 1.2.0.3 | 11 december 2020 | Kadaster | Enkele URL’s geactualiseerd, catalogus nu ook in GIT, wijziging door gebruik BAG-panden verwerkt. | [versie 1.2.0.3 (web)](https://github.com/kadaster/imbrt/blob/3b193ec7da5ce23c4c486e2f021b491c3573fb01/docs/catalogus-productspecificaties.md) <br> [versie 1.2.0.3 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.3.pdf) |
 | 1.2.0.2 | 20 april 2020 | Kadaster | Enkele kleine tekstuele fouten verbeterd. | [versie 1.2.0.2 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.2.pdf) |
 | 1.2.0.1 | 8 juli 2019 | Kadaster | Wijzigingen n.a.v. Audit BRT 2017 doorgevoerd. <br> Wijzigingen datamodel inrichtingselement en functioneel gebied verwerkt. <br> Diverse verduidelijkingen verwerkt. | [versie 1.2.0.1 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.1.pdf) |
@@ -47,18 +61,24 @@ In deze paragraaf worden de belangrijkste wijzigingen ten opzichte van de vorige
 Het is ook mogelijk om alle wijzigingen ten opzichte van de vorige versie van de BRT Catalogus en Productspecificaties te bekijken. Dit wordt mogelijk gemaakt door het versiebeheersysteem GitHub, het systeem waar de online BRT Catalogus en Productspecificaties in gemaakt is.
 
 ## Belangrijkste verschillen
-De belangrijkste wijzigingen in versie 1.2.0.4 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
-- Toevoeging hoofdstuk met wijzigingen t.o.v. de vorige versie: [wijzigingen t.o.v. vorige versie](#Wijzigingen-t.o.v.-vorige-versie)
-- Toevoeging links aan versiehistorie naar historische versies catalogus: [versiehistorie](#versiehistorie)
+De belangrijkste wijzigingen in versie 1.2.0.5 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
+- Wijzigingen n.a.v. Audit BRT 2020 doorgevoerd:
+  - Verduidelijking inwinning boom
+  - Verduidelijking inwinning hoogtelijn
+  - Verduidelijking herkomst grenzen
+- Toepassen webrichtlijnen bij hyperlinks en afbeeldingen, opnemen link naar toegankelijkheidsverklaring.
+- Actualiseren bestandsleveringen en webservices.
 
 ## Alle verschillen
 <!--
 Hoe werkt de URL naar de vergelijking die hieronder staat:
-Eerste gedeelte van de URL: hier staat de verwijzing naar de laatste commit van de vorige versie van de catalogus
-Laatste gedeelte van de URL: hier staat de "master", oftewel de actuele versie
+Eerste gedeelte van de URL achter "compare": hier staat de verwijzing naar de laatste commit van de vorige versie van de catalogus (dit zijn de eerste 7 karakters van het complete commit-id)
+Laatste gedeelte van de URL achter "compare": hier staat de "master", oftewel de actuele versie
+Deze link werkt alleen als de werk-branch is gepushed naar de master, gebruik tijdens het doorvoeren van wijzigingen het Pull-request om de verschillen te zien.
 -->
-Alle verschillen tussen versie 1.2.0.4 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie kunnen bekeken worden in GitHub.
-> [Bekijk alle verschillen in GitHub](https://github.com/kadaster/imbrt/compare/93e4a27...master#files_bucket)
+
+Alle verschillen tussen versie 1.2.0.5 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie kunnen bekeken worden in GitHub:
+> [**Bekijk alle verschillen in GitHub**](https://github.com/kadaster/imbrt/compare/5639d20...master#files_bucket)
 
 Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecificaties weergegeven, aan de linkerzijde de vorige versie en aan de rechterzijde de huidige versie. Alleen de gedeelten van de BRT Catalogus en Productspecificaties waar wijzigingen hebben plaatsgevonden, worden weergegeven. Door middel van de kleuren roze en groen worden de verschillen tussen beide versies gemarkeerd. De betekenis van de kleuren is als volgt:
 > - een licht roze kleur markeert de vorige versie van de desbetreffende regel
@@ -69,6 +89,7 @@ Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecif
 # Inhoudsopgave
 
 - [Inleiding](#inleiding)
+- [Toegankelijkheid website](#toegankelijkheid-website)
 - [Leeswijzer](#leeswijzer)
 - [Versiehistorie](#versiehistorie)
 - [Wijzigingen t.o.v. vorige versie](#Wijzigingen-t.o.v.-vorige-versie)
@@ -140,6 +161,8 @@ Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecif
   - [6.2 UML-model en XSD TOP10NL](#62-uml-model-en-xsd-top10nl)
   - [6.3 Waardelijsten TOP10NL](#63-waardelijsten-top10nl)
   - [6.4 Open data](#64-open-data)
+  - [6.5 Bestandsleveringen en Webservices](#65-bestandsleveringen-en-webservices)
+  - [6.6 Andere BRT-producten](#65-andere-brt-producten)
 - [7 Catalogus Basisregistratie Topografie](#7-catalogus-basisregistratie-topografie)
   - [7.1 Objectklasse onafhankelijke attributen en domeinen](#71-objectklasse-onafhankelijke-attributen-en-domeinen)
     - [7.1.1 Attributen](#711-attributen)
@@ -163,7 +186,7 @@ Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecif
 
 De overheid beschikt over 30.000 verschillende systemen om gegevens vast te leggen. Bepaalde gegevens worden daardoor in meerdere systemen geregistreerd én bijgehouden. Om dit proces te vereenvoudigen en de dienstverlening te verbeteren is door de overheid besloten een stelsel van basisregistraties te implementeren. Dit stelsel zorgt ervoor dat elk (basis)gegeven één bron kent. Gegevens zullen daardoor betrouwbaarder, actueler en uitwisselbaar zijn.
 
-Een basisregistratie is een door de overheid officieel aangewezen registratie met daarin gegevens van hoogwaardige kwaliteit, die door alle overheidsinstellingen verplicht en zonder nader onderzoek, worden gebruikt bij de uitvoering van publiekrechtelijke taken. De kenmerken van een basisregistratie zijn verwoord in 12 eisen waaraan een basisregistratie moet voldoen (bron: [www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties) ):
+Een basisregistratie is een door de overheid officieel aangewezen registratie met daarin gegevens van hoogwaardige kwaliteit, die door alle overheidsinstellingen verplicht en zonder nader onderzoek, worden gebruikt bij de uitvoering van publiekrechtelijke taken. De kenmerken van een basisregistratie zijn verwoord in 12 eisen waaraan een basisregistratie moet voldoen (bron: [**www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties**](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties) ):
 
 1. De registratie is bij wet geregeld
 2. De afnemers hebben een terugmeldplicht
@@ -182,9 +205,9 @@ De Basisregistratie Topografie (BRT) is dé unieke bron voor alle topografische 
 
 In onderstaande figuur is de plaats van de Basisregistratie Topografie (BRT) in het stelsel van basisregistraties te zien. Op dit moment zijn er relaties met de Basisregistraties Adressen en Gebouwen en de Basisregistratie Kadaster.
 
-![](images/figuur1-1.png)
+![Stelselplaat van het stelsel van basisregistraties, waarin te zien is hoe de verschillende basisregistraties zicht tot elkaar verhouden en verbonden zijn.](images/figuur1-1.png "Stelselplaat Stelsel van Basisregistraties")
 
-_Figuur 1.1: Stelselplaat Stelsel van Basisregistraties, status 31 december 2019. [www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties/stelselplaat](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties/stelselplaat)_
+_Figuur 1.1: Stelselplaat Stelsel van Basisregistraties, status 31 december 2019. [**www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties/stelselplaat**](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties/stelselplaat)_
 
 # 2 Kenmerken van TOP10NL
 
@@ -252,7 +275,7 @@ Het bestand TOP10NL beslaat het gehele Nederlandse grondgebied. Langs de grenzen
 
 ## 3.2 Actualiteit
 
-TOP10NL is gebaseerd op luchtfotografie, ondersteund door 360 graden beelden en eventueel een terreinverkenning. De datum van de luchtopname, meestal in de periode januari – april, is bepalend voor de actualiteitsdatum van TOP10NL. De bijhoudingscyclus van TOP10NL is één jaar voor heel Nederland. Een overzicht van de actualiteit van TOP10NL wordt weergegeven in de "BRT Actualiteitskaart: TOP10NL" (te vinden op [www.kadaster.nl/zakelijk/producten/geo-informatie/topnl](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl)).
+TOP10NL is gebaseerd op luchtfotografie, ondersteund door 360 graden beelden en eventueel een terreinverkenning. De datum van de luchtopname, meestal in de periode januari – april, is bepalend voor de actualiteitsdatum van TOP10NL. De bijhoudingscyclus van TOP10NL is één jaar voor heel Nederland. Een overzicht van de actualiteit van TOP10NL wordt weergegeven in de "BRT Actualiteitskaart: TOP10NL" (te vinden op [**www.kadaster.nl/zakelijk/producten/geo-informatie/topnl**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl) ).
 
 ## 3.3 Ruimtelijk referentiesysteem
 
@@ -281,13 +304,13 @@ In GIS-applicaties worden EPSG (European Petroleum Survey Group) codes gebruik o
 
 ### 3.4.1 Kwaliteitscontrole
 
-De interne kwaliteitscontrole wordt uitgevoerd met behulp van het interne document "Controleprotocol TOP10NL" ( [www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-documentatie](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-documentatie) ). In het controleprotocol vinden de controleaspecten plaats zoals genoemd in ISO 19113. Deze controleaspecten zijn: logische consistentie, positionele nauwkeurigheid, actualiteit, volledigheid, thematische nauwkeurigheid en de terugmeldingen.
+De interne kwaliteitscontrole wordt uitgevoerd met behulp van het interne document "Controleprotocol TOP10NL" ( [**www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-documentatie**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-documentatie) ). In het controleprotocol vinden de controleaspecten plaats zoals genoemd in ISO 19113. Deze controleaspecten zijn: logische consistentie, positionele nauwkeurigheid, actualiteit, volledigheid, thematische nauwkeurigheid en de terugmeldingen.
 
 De in de wet bedoelde externe kwaliteitscontrole wordt eens in de drie jaar uitgevoerd door een externe expert. De kwaliteitsbeoordeling moet worden gemaakt volgens de ISO 19114 standaard. In 2011 en 2015 zijn deze controles uitgevoerd door Wageningen Environmental Research (Alterra). De uitkomsten van deze controle heeft het Kadaster aan het Ministerie van Infrastructuur en Milieu gerapporteerd.
 
 ### 3.4.2 Verkenningsvoorschriften
 
-In de interne verkenningsvoorschriften wordt in detail beschreven welke objecten in TOP10NL als geo-object worden opgenomen. Deze elementen worden altijd beschreven door een geometrisch type, coördinaten, hun betekenis en temporele kenmerken. Het gaat hierbij niet alleen om beschrijvingen, maar ook om afmetingen en relaties met andere objecten. In de voorschriften wordt bijvoorbeeld bepaald dat lantaarnpalen niet worden opgenomen, maar dat steenglooiingen wel worden opgenomen, uitgezonderd steenglooiingen langs een kanaal. In de Objectcatalogus TOP10NL (zie [hoofdstuk 7](#7-catalogus-basisregistratie-topografie)) zijn de inwinningscriteria uit de verkenningsvoorschriften te vinden.
+In de interne verkenningsvoorschriften wordt in detail beschreven welke objecten in TOP10NL als geo-object worden opgenomen. Deze elementen worden altijd beschreven door een geometrisch type, coördinaten, hun betekenis en temporele kenmerken. Het gaat hierbij niet alleen om beschrijvingen, maar ook om afmetingen en relaties met andere objecten. In de voorschriften wordt bijvoorbeeld bepaald dat lantaarnpalen niet worden opgenomen, maar dat steenglooiingen wel worden opgenomen, uitgezonderd steenglooiingen langs een kanaal. In de Objectcatalogus TOP10NL (zie [**hoofdstuk 7**](#7-catalogus-basisregistratie-topografie)) zijn de inwinningscriteria uit de verkenningsvoorschriften te vinden.
 
 De verkenningsvoorschriften zijn in grote lijnen ongewijzigd gebleven ten opzichte van TOP10vector. Jaarlijks worden ze aangepast indien nieuwe of vervallen relevante categorieën worden geconstateerd of indien gebruikerswensen en verbeteringen in de productiemethodiek daartoe aanleiding geven.
 
@@ -309,7 +332,7 @@ De ISO-norm is dermate uitgebreid, dat de opstellende werkgroep TC211 een aantal
 
 Om een aantal praktische problemen, o.a. wat betreft uitwisselbaarheid, met de 'core-metadata' op te lossen is besloten een Nederlands profiel op ISO 19115:2003 op te stellen.
 
-Dit profiel bestaat uit een kernset en een optionele set. De kernset bevat de verplichte metadataelementen op basis waarvan gebruikers geografische datasets en –series kunnen zoeken ("metadata for discovery"). Deze kernset is zo beperkt mogelijk gehouden. Dankzij deze kernset kunnen gebruikers gevonden datasets en –series op dezelfde elementen met elkaar vergelijken en weten gebruikers dat ze alle beschikbare data gevonden hebben. De optionele set bevat metadataelementen voor het beheer van geografische datasets en –series. Het is een aanvulling op de minimale kernset en voorziet in de behoefte van het geo-werkveld aan een brede gemeenschappelijke basis van metadata-elementen, in het bijzonder voor het beheer. De verplichte kernset en optionele set maken dit profiel breed en praktisch toepasbaar voor het geo-werkveld. De metadata van TOP10NL is te vinden in het Nationaal Georegister ( [www.nationaalgeoregister.nl](https://www.nationaalgeoregister.nl) ).
+Dit profiel bestaat uit een kernset en een optionele set. De kernset bevat de verplichte metadata-elementen op basis waarvan gebruikers geografische datasets en –series kunnen zoeken ("metadata for discovery"). Deze kernset is zo beperkt mogelijk gehouden. Dankzij deze kernset kunnen gebruikers gevonden datasets en –series op dezelfde elementen met elkaar vergelijken en weten gebruikers dat ze alle beschikbare data gevonden hebben. De optionele set bevat metadata-elementen voor het beheer van geografische datasets en –series. Het is een aanvulling op de minimale kernset en voorziet in de behoefte van het geo-werkveld aan een brede gemeenschappelijke basis van metadata-elementen, in het bijzonder voor het beheer. De verplichte kernset en optionele set maken dit profiel breed en praktisch toepasbaar voor het geo-werkveld. De metadata van TOP10NL is te vinden in het Nationaal Georegister ( [**www.nationaalgeoregister.nl**](https://www.nationaalgeoregister.nl) ).
 
 ### 3.4.4 Metadata per object
 
@@ -347,7 +370,7 @@ De productie van digitale topografische bestanden valt uiteen in een aantal stap
 
 In deze processtap worden de mutaties gedetecteerd door het vergelijken van 2 jaargangen luchtfoto's. Daar waar verschillen waarneembaar zijn tussen de beide luchtfoto's wordt een trigger aangebracht. Deze triggers geven aan waar in het vervolgproces de wijzigingen in TOP10NL kunnen worden aangebracht.
 
-De gebruikte luchtfoto's zijn afkomstig uit de Landelijke Voorziening Beeldmateriaal ( [www.beeldmateriaal.nl](https://www.beeldmateriaal.nl) )
+De gebruikte luchtfoto's zijn afkomstig uit de Landelijke Voorziening Beeldmateriaal ( [**www.beeldmateriaal.nl**](https://www.beeldmateriaal.nl) ).
 
 ### 3.5.2 Interpretatie luchtfoto's en muteren TOP10NL
 
@@ -373,13 +396,13 @@ De bijgewerkte TOP10NL is vervolgens de bron voor het maken van de vervolgproduc
 - TOPgrenzen
 - TOPnamen
 
-Net zoals TOP10NL worden deze producten 5 keer per jaar ontsloten via PDOK ( [www.pdok.nl](https://www.pdok.nl) ).
+Net zoals TOP10NL worden deze producten 5 keer per jaar ontsloten via PDOK ( [**www.pdok.nl**](https://www.pdok.nl) ).
 
 # 3.6 Volledigheid TOP10NL
 
 Met betrekking tot de compleetheid van de objectgegevens zijn ook een aantal beperkingen van kracht. Voor de opbouw van TOP10NL is gebruik gemaakt van de gegevens van TOP10vector. Het gegevensmodel van TOP10NL is ruimer opgezet dan de voorhanden zijnde inhoud van TOP10vector. Dit betekent dat er meer kenmerken (attributen en attribuutwaarden) in de TOP10NL structuur kunnen worden opgenomen dan in de TOP10vector bestanden aanwezig waren. TOP10vector kende in zekere zin beperkingen omdat bij de inwinning van gegevens sterk rekening is gehouden met de hoeveelheid gegevens die op een topografische kaart op de schaal 1:10.000 en 1:25.000 kan worden afgebeeld. Dat betekent onder meer dat er beperkingen zijn opgelegd ten aanzien van het inwinnen van bepaalde topografische gegevens.
 
-Omdat de topografische gegevens nu als objecten zijn opgeslagen, met een aantal beschrijvende kenmerken blijkt expliciet welke attribuutwaarden niet gevuld zijn. In de uitgebreide Objectcatalogus TOP10NL (zie [hoofdstuk 7](#7-catalogus-basisregistratie-topografie)) is aangegeven welke gegevens "volledig", "beperkt" en "niet" worden ingewonnen. Met "volledig" bij een attribuutwaarde wordt bedoeld, dat minimaal 95 % van de objecten, die voldoen aan de criteria van deze attribuutwaarde, voorkomen in TOP10NL.
+Omdat de topografische gegevens nu als objecten zijn opgeslagen, met een aantal beschrijvende kenmerken blijkt expliciet welke attribuutwaarden niet gevuld zijn. In de uitgebreide Objectcatalogus TOP10NL (zie [**hoofdstuk 7**](#7-catalogus-basisregistratie-topografie)) is aangegeven welke gegevens "volledig", "beperkt" en "niet" worden ingewonnen. Met "volledig" bij een attribuutwaarde wordt bedoeld, dat minimaal 95 % van de objecten, die voldoen aan de criteria van deze attribuutwaarde, voorkomen in TOP10NL.
 
 ## 3.7 TDN-codes uit TOP10vector
 
@@ -409,9 +432,9 @@ Afhankelijk van het GIS-software pakket dat gebruikt wordt, kunnen vele GIS anal
 
 De TOP10NL database bevat geo-objecten met een beschrijving van de eigenschappen. Sinds september 2012 heeft ieder object een visualisatiecode gekregen. Hiermee is het visualiseren van TOP10NL eenvoudiger gemaakt. Het Kadaster levert standaard visualisatiemodules mee met de TOP10NL-data gebaseerd op de topografische kaart 1:25.000. Ook kan de gebruiker zelf visualisaties definiëren in de applicatiesoftware.
 
-![](images/figuur3-1.png)
+![Deze figuur laat de standaardvisualisatie van TOP10NL zien, afgebeeld in het GIS-pakket QGIS.](images/figuur3-1.png "Standaardvisualisatie van TOP10NL")
 
-_Figuur 3.1: Standaard visualisatie van TOP10NL_
+_Figuur 3.1: Standaardvisualisatie van TOP10NL_
 
 ### 3.8.3 Webapplicaties
 
@@ -471,13 +494,13 @@ De geo-objecten in TOP10NL kunnen gebruikt worden als bouwstenen voor de vorming
 
 Ook voor generalisatiedoeleinden kunnen op basis van gemeenschappelijke kenmerkwaarden, samengestelde objecten op een hoger abstractieniveau worden afgeleid. Bijvoorbeeld een bosgebied is een verzameling terreinobjecten die gekenmerkt wordt door het landgebruik loofbos, naaldbos of gemengd bos.
 
-![](images/figuur4-1.png)
+![Kaartvisualisatie waarin alle objecten met het objectkenmerk wegnummer gelijk aan A12 in lichtblauw afgebeeld zijn, waardoor ze gezamenlijk de snelweg A12 weergeven.](images/figuur4-1.png "Een selectie (lichtblauw gemarkeerd) op basis van het objectkenmerk 'wegnummer': de A12 als samengesteld geo-object")
 
 _Figuur 4.1: Een selectie (lichtblauw gemarkeerd) op basis van het objectkenmerk 'wegnummer': de A12 als samengesteld geo-object._
 
 ## 4.3 Objectkenmerken
 
-De geo-objecten hebben identificerende, geometrische, temporele, meta en beschrijvende kenmerken, die als attributen in het gegevensmodel zijn opgenomen. De relatiematrix in [paragraaf 4.4](#44-relatiematrix) geeft een overzicht van de objectklassen met bijbehorende attributen.
+De geo-objecten hebben identificerende, geometrische, temporele, meta en beschrijvende kenmerken, die als attributen in het gegevensmodel zijn opgenomen. De relatiematrix in [**paragraaf 4.4**](#44-relatiematrix) geeft een overzicht van de objectklassen met bijbehorende attributen.
 
 ### 4.3.1 Identificerende kenmerken
 
@@ -536,15 +559,15 @@ _Tabel 4.2: De geometrische kenmerken_
 
 Registratief gebied, geografisch gebied en functioneel gebied bestaan voorlopig (ook) als puntobject, omdat deze gebieden in TOP10vector alleen als naam bekend waren zonder bijbehorend gebied.
 
-De positie van een geo-object wordt weergegeven door middel van x en y- coördinaten in het Rijksdriehoeksstelsel (gegeven in meters, met 3 decimalen) en de hoogte ten opzichte van Normaal Amsterdams Peil (NAP). Indien de hoogtewaarde niet beschikbaar is blijft deze ongevuld. (zie ook hoogteniveau in [paragraaf 4.5.3](#453-kruisende-objecten)). Bij de objectklasse hoogte wordt middels het attribuut "Referentievlak" aangegeven ten opzichte van welk referentievlak de hoogte gegeven wordt.
+De positie van een geo-object wordt weergegeven door middel van x en y- coördinaten in het Rijksdriehoeksstelsel (gegeven in meters, met 3 decimalen) en de hoogte ten opzichte van Normaal Amsterdams Peil (NAP). Indien de hoogtewaarde niet beschikbaar is blijft deze ongevuld. (zie ook hoogteniveau in [**paragraaf 4.5.3**](#453-kruisende-objecten)). Bij de objectklasse hoogte wordt middels het attribuut "Referentievlak" aangegeven ten opzichte van welk referentievlak de hoogte gegeven wordt.
 
 ### 4.3.6 Geo-objecten met meervoudige geometrie
 
 Wegdelen hebben vrijwel altijd een meervoudige geometrie. Voor de meeste wegdelen wordt naast het vlak voor het weglichaam de hartlijn opgenomen. In onderstaande figuur wordt dit schematisch toegelicht.
 
-![](images/figuur4-2.png)
+![Schematisch overzicht waarin de verschillende geometrieën van wegdelen, in de vorm van punten, lijnen en vlakken, weergegeven worden.](images/figuur4-2.png "De verschillende geometrieën van wegdelen")
 
-_Figuur 4.2: De geometrieën van wegdelen._
+_Figuur 4.2: De verschillende geometrieën van wegdelen._
 
 Behalve wegdelen hebben ook bepaalde reliëfobjecten een meervoudige geometrie. Het object wordt dan gevormd door twee lijnobjecten, één voor de hoge kant en één voor de lage kant.
 
@@ -569,7 +592,7 @@ De tijdstipRegistratie en eindRegistratie zorgen ervoor dat iedere mutatie van e
 
 Voor het volgen van geo-objecten in de tijd heeft elk geo-object een relatie met zijn voorganger en opvolger. Een geo-object kan ontstaan uit één of meer geo-objecten en kan overgaan in één of meer geo-objecten.
 
-Het mutatieprotocol (zie [Bijlage 1: Mutatieprotocol](#bijlage-1-mutatieprotocol)) bepaald wat er met bovenstaande attributen van een geo-object gebeurt bij bepaalde wijzigingen.
+Het mutatieprotocol (zie [**Bijlage 1: Mutatieprotocol**](#bijlage-1-mutatieprotocol)) bepaald wat er met bovenstaande attributen van een geo-object gebeurt bij bepaalde wijzigingen.
 
 ## 4.4 Relatiematrix
 
@@ -662,21 +685,21 @@ In de regel gaat een geo-object over in een ander geo-object op het moment dat d
 
 In figuur 4.3 is een weg aangegeven die bestaat uit meerdere wegdelen. In dit voorbeeld ontstaat een ander wegdeel op het moment dat de weg overgaat van verhard naar onverhard of overgaat van een verbinding naar een kruising.
 
-![](images/figuur4-3.svg)
+![Schematische weergave waarin één straat opgedeeld wordt in drie geo-objecten op basis van zijn eigenschappen, in dit geval de straatnaam en het verhardingstype.](images/figuur4-3.svg "Voorbeeld objectvorming")
 
-_Figuur 4.3: voorbeeld object vorming_
+_Figuur 4.3: voorbeeld objectvorming_
 
 ### 4.5.2 Mutatie van geo-objecten
 
 Een mutatie doet zich voor als de geometrische vorm of een waarde van een attribuut zich wijzigt in de tijd. Als voorbeeld wordt in figuur 4.4 een verhard wegdeel gedeeltelijk half verhard en gedeeltelijk onverhard.
 
-![](images/figuur4-4.svg)
+![Schematische weergave waarin veranderingen in het verhardingstype leiden tot een nieuw geo-object.](images/figuur4-4.svg "Voorbeeld objectmutatie")
 
-_Figuur 4.4: voorbeeld object mutatie_
+_Figuur 4.4: voorbeeld objectmutatie_
 
 Door opsplitsing van het wegdeel ontstaan er twee nieuwe wegdelen, elk met een nieuwe identificatie. Het oude wegdeel krijgt een objectEindTijd, maar blijft in de database aanwezig.
 
-De exacte regels voor het toekennen van identificaties, objectBegintijd, objectEindtijd, tijdstipRegistratie en eindRegistratie staan beschreven in het mutatieprotocol in [Bijlage 1: Mutatieprotocol](#bijlage-1-mutatieprotocol).
+De exacte regels voor het toekennen van identificaties, objectBegintijd, objectEindtijd, tijdstipRegistratie en eindRegistratie staan beschreven in het mutatieprotocol in [**Bijlage 1: Mutatieprotocol**](#bijlage-1-mutatieprotocol).
 
 ### 4.5.3 Kruisende objecten
 
@@ -696,9 +719,9 @@ Met het hoogteniveau wordt de relatieve hoogte van het geo-object weergegeven. Z
 
 In figuur 4.5 is een kruisend wegdeel aangegeven met hoogteniveau –1. Het kruisend spoorbaandeel heeft een hoogteniveau 0. Het wegdeel bevindt zich dus onder het spoorbaandeel.
 
-![](images/figuur4-5.svg)
+![Schematische weergave waarin een wegdeel en een spoorbaandeel elkaar kruisen op een verschillend hoogteniveau.](images/figuur4-5.svg "Het gebruik van het hoogteniveau-attribuut")
 
-_Figuur 4.5: Het gebruik van het hoogteniveau attribuut._
+_Figuur 4.5: Het gebruik van het hoogteniveau-attribuut._
 
 Bij alle objectklassen met het attribuut 'hoogteniveau' is 'hoogteniveau' een verplicht attribuut.
 
@@ -708,9 +731,9 @@ De verschillende gebieden (registratief gebied, geografisch gebied, plaats, func
 
 De vlakvormige wegdelen en waterdelen en het terrein zijn aanééngrenzend en volledig landsdekkend. Er zijn geen onbenoemde (zogenaamde "witte") gebieden. In figuur 4.6 is dit weergegeven.
 
-![aaneengrenzende vlakken weg](images/figuur4-6lb.png)![aaneengrenzende vlakken water](images/figuur4-6mb.png)![aaneengrenzende vlakken terein](images/figuur4-6rb.png)
+![Kaartuitsnede waarin alleen de wegvlakken afgebeeld worden.](images/figuur4-6lb.png "Kaartuitsnede wegvlakken")![Kaartuitsnede waarin alleen de watervlakken afgebeeld worden.](images/figuur4-6mb.png "Kaartuitsnede watervlakken")![Kaartuitsnede waarin alleen de terreinvlakken afgebeeld worden.](images/figuur4-6rb.png "Kaartuitsnede terreinvlakken")
 
-![aaneengrenzende vlakken alles](images/figuur4-6o.png)
+![Kaartuitsnede waarin de wegvlakken, watervlakken en terreinvlakken gecombineerd afgebeeld worden tot een aanééngrenzend en volledig landsdekkend bestand.](images/figuur4-6o.png "Gecombineerde kaartuitsnede")
 
 _Figuur 4.6: vlakvormige wegdelen, waterdelen en terrein zijn aanééngrenzend en landsdekkend._
 
@@ -718,7 +741,7 @@ Gebouwen, spoorbaandelen, inrichtingselementen en reliëf liggen boven op deze g
 
 In figuur 4.7 is hetzelfde gebied te zien als in figuur 4.6, maar dit maal met gebouwen.
 
-![vlakken weg water terrein bebouwing](images/figuur4-7.png)
+![Kaartuitsnede waarin de wegvlakken, watervlakken en terreinvlakken gecombineerd afgebeeld worden tot een aanééngrenzend en volledig landsdekkend bestand en waarbij de gebouwvlakken bovenop de terreinen liggen.](images/figuur4-7.png "Gecombineerde kaartuitsnede inclusief gebouwen")
 
 _Figuur 4.7: gebouwen als losse laag boven wegdelen, waterdelen en terrein._
 
@@ -755,7 +778,7 @@ Lijnobjecten binnen eenzelfde objectklasse met dezelfde attribuutwaarden (incl. 
 
 # 5 De objectcatalogus in het kort
 
-In dit hoofdstuk wordt een algemene toelichting gegeven op de objectklassen. Voor uitgebreide informatie betreffende de objecten wordt verwezen naar de Objectcatalogus TOP10NL ([hoofdstuk 7](#7-catalogus-basisregistratie-topografie)).
+In dit hoofdstuk wordt een algemene toelichting gegeven op de objectklassen. Voor uitgebreide informatie betreffende de objecten wordt verwezen naar de Objectcatalogus TOP10NL ([**hoofdstuk 7**](#7-catalogus-basisregistratie-topografie)).
 
 Per objectklasse worden in een tabel de attributen weergegeven met de bijbehorende waarden. Ook wordt daar per attribuut aangegeven of het één of meer keer mag voorkomen en of het attribuut verplicht of optioneel is. Eventueel wordt extra informatie over de objectklasse gegeven.
 
@@ -867,7 +890,7 @@ Een wegdeel kent meerdere geometrieën (zie figuur 4.2). Wegdelen komen voor als
 
 Gelijkvloerse kruisingen kunnen meerdere waarden hebben voor 'wegtype' en 'hoofdverkeersgebruik'. Zie figuur 5.1.
 
-![voorbeelden voor specificaties meer wegtypen genummerd](images/figuur5-1.png)
+![Kaartuitsnede van wegen waarin aangetoond wordt dat een kruising twee waarden voor de eigenschap type weg heeft.](images/figuur5-1.png "Voorbeeld van gelijkvloerse kruisingen")
 
 | identificatie | type infrastructuur | type weg | type weg |
 |:---:|:---:|:---:|:---:|
@@ -1593,19 +1616,17 @@ _Tabel 5.13 Attributen, attribuutwaarden en geometrieën van plantopografie._
 
 De oorspronkelijke niet objectgerichte TOP10vector bestanden zijn eind jaren tachtig ontwikkeld met een CAD structuur en zijn geproduceerd als Microstation dgn-files. In de zogenaamde userdata is de TDN-codering opgeslagen en deze vormen in feite een rechtstreekse vertaling van de legenda's van de topografische kaartseries.
 
-Als gevolg van de technische ontwikkelingen op het gebied van hardware en software namen het afgelopen decennium de gebruiksmogelijkheden van de geografische gegevens sterk toe. Dit leidde ook tot andere gebruikerswensen als complexere analyse, koppeling met andere bestanden, snellere levering van data en internet toepassingen. Deze wensen zijn onder meer vastgelegd in de aanzet tot het _Geografisch Kernbestand._
-
-**Tegenover de gebruikerswensen zijn de volgende beperkingen van de TOPvector-structuur op te merken:** kaartgerichte data (vermenging terreinmodel met kartografisch model), bewerkelijke conversies van CAD naar GIS, interpretatie problemen van gebruikte TDN-coderingen, beperkte thematische inhoud, moeilijk koppelbaar met andere gegevens en leveren van mutaties is problematisch.
+Als gevolg van de technische ontwikkelingen op het gebied van hardware en software namen het afgelopen decennium de gebruiksmogelijkheden van de geografische gegevens sterk toe. Dit leidde ook tot andere gebruikerswensen als complexere analyse, koppeling met andere bestanden, snellere levering van data en internet toepassingen. Deze wensen zijn onder meer vastgelegd in de aanzet tot het Geografisch Kernbestand.
+Tegenover de gebruikerswensen zijn de volgende beperkingen van de TOPvector-structuur op te merken: kaartgerichte data (vermenging terreinmodel met kartografisch model), bewerkelijke conversies van CAD naar GIS, interpretatie problemen van gebruikte TDN-coderingen, beperkte thematische inhoud, moeilijk koppelbaar met andere gegevens en leveren van mutaties is problematisch.
 
 Bij de ontwikkeling van het objectgerichte gegevensmodel en de objectcatalogus van TOP10NL hebben de volgende overwegingen een rol gespeeld. Het model dient aan te sluiten op Nederlandse en buitenlandse standaarden en dient een open, uitbreidbaar karakter te dragen. In Nederland gold als norm het Terreinmodel Vastgoed, NEN3610, waarvan vanaf 2005 een nieuwe versie beschikbaar is: het Basismodel Geo-Informatie (NEN3610 _2005_). Internationaal wordt veel gebruik gemaakt van de DFDD standaard. Deze standaard is in eerste instantie voor militair gebruik ontwikkeld, maar wordt nu ook voor civiele internationale datasets gehanteerd (onder meer EuroGlobalMap en EuroRegionalMap). Ook zijn buitenlandse modellen van diverse Europese landen in ogenschouw genomen (Duitsland: ATKIS, Groot-Brittannië: Mastermap, Denemarken: TOP10DK).
-
 NEN3610 _2005_ (Basismodel Geo-Informatie) is vrijwel tegelijkertijd met TOP10NL ontwikkeld en er is voor gezorgd dat beide modellen goed op elkaar aansluiten. Zo gebruikt het Basismodel Geo-Informatie ook geen afkortingen en coderingen meer en wordt er voor de uitwisseling ook GML gebruikt.
 
 Het uitwisselingsformaat waarin de gegevens beschikbaar zijn, is meestal afhankelijk van het softwarepakket waarin de gegevens zijn geproduceerd. De ontwikkelingen van de laatste decennia hebben geleid tot een breed scala van uitwisselingsformaten. Voor gebruikers met een afwijkend softwarepakket dan de producent levert dit vaak onoverkomelijke problemen op. Gelukkig zijn er nationale en internationale organisaties die standaarden vaststellen waarmee, onafhankelijk van de gebruikte software, datasets kunnen worden uitgewisseld. Dit gaat echter soms gepaard met gegevensverlies. Zo zijn er NEN- (Nederlandse), CEN- (Europese) en ISO- (wereldwijde) standaarden. Voor TOP10NL is gekozen voor een internationale standaard, aangereikt door het Open Geospatial Consortium (OGC, voorheen OpenGIS Consortium). Dit consortium is een samenwerkings-verband van enkele honderden internationale bedrijven en instanties op het gebied van GIS-software en GIS-gebruikers. Het doel is open standaarden te ontwikkelen, zodat datasets zonder problemen kunnen worden uitgewisseld en worden gebruikt op diverse platforms binnen de gangbare GIS-software.
 
 Voor de uitwisseling van de TOP10NL bestanden is gekozen voor de standaardtaal GML (Geography Markup Language). Het voordeel van GML is dat zowel de inhoud als de structuur van de gegevens meegeleverd wordt. De structuur wordt via het internet door de bronhouder(s) bijgehouden, zodat dataconversie problemen tot het verleden behoren. GML is in beginsel een uitwisselingsformaat dat onafhankelijk is van specifieke GIS-software. Het is wereldwijd bruikbaar in een GIS systeem dat compatibel is met XML (eXtensible Markup Language), een internationale standaard op ICT gebied.
 
-Vanaf de BRT-levering van september 2020 wordt TOP10NL ook ontsloten als Geopackage. Meer informatie over Geopackage is te vinden op de website van Geonovum ( [www.geonovum.nl/geo-standaarden/geopackage](https://www.geonovum.nl/geo-standaarden/geopackage) ).
+Vanaf de BRT-levering van september 2020 wordt TOP10NL ook ontsloten als Geopackage. Meer informatie over Geopackage is te vinden op de website van Geonovum ( [**www.geonovum.nl/geo-standaarden/geopackage**](https://www.geonovum.nl/geo-standaarden/geopackage) ).
 
 ## 6.1 GML
 
@@ -1625,17 +1646,17 @@ De GML specificatie van het Open Geospatial Consortium bestaat uit vele XML Sche
 
 ## 6.2 UML-model en XSD TOP10NL
 
-Voor TOP10NL is een UML model opgesteld waarin de objectstructuur beschreven wordt. In onderstaande figuur is dit model weergegeven. Het model bestaat uit de 13 objectklassen zoals beschreven in [paragraaf 4.2](#42-objectklassen).
+Voor TOP10NL is een UML model opgesteld waarin de objectstructuur beschreven wordt. In onderstaande figuur is dit model weergegeven. Het model bestaat uit de 13 objectklassen zoals beschreven in [**paragraaf 4.2**](#42-objectklassen).
 
-![H:\\\_\_D\_BRT\_UML\_XSD\_Backup\\EnterpriseArchitect\\TOP10NL\_1.2\_UML.jpg](images/figuur6-1.jpeg)
+![UML model van TOP10NL.](images/figuur6-1.jpeg "UML model van TOP10NL")
 
-_Figuur 6.1: UML model TOP10NL_
+_Figuur 6.1: UML model van TOP10NL._
 
 Het UML model is omgezet naar een XSD voor het gebruik in diverse programma's. Deze XSD is de basis voor het produceren en valideren van de GML bestanden van TOP10NL.
 
 Het UML model en de XSD van TOP10NL kunnen gevonden worden op:
 
-[register.geostandaarden.nl/?url=brt/top10nl](https://register.geostandaarden.nl/?url=brt/top10nl)
+[**register.geostandaarden.nl/?url=brt/top10nl**](https://register.geostandaarden.nl/?url=brt/top10nl)
 
 ## 6.3 Waardelijsten TOP10NL
 
@@ -1643,26 +1664,16 @@ De mogelijke attribuutwaarden voor attributen van TOP10NL zijn opgeslagen in waa
 
 De waardelijsten van TOP10NL kunnen gevonden worden op:
 
-[register.geostandaarden.nl/?url=brt/top10nl](https://register.geostandaarden.nl/?url=brt/top10nl)
+[**register.geostandaarden.nl/?url=brt/top10nl**](https://register.geostandaarden.nl/?url=brt/top10nl)
 
 ## 6.4 Open data
 
 De basisregistratie Topografie is vanaf 1 januari 2012 als open data beschikbaar, in de vorm van bestandsleveringen en een aantal webservices via PDOK.
+Meer informatie over de Basisregistratie Topografie en de manieren om de producten van de BRT te verkrijgen vindt u op de productpagina's van de BRT:
 
-### Bestandsleveringen
+Productpagina BRT: [**www.kadaster.nl/zakelijk/registraties/basisregistraties/brt**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt)
 
-Meer informatie over de basisregistratie Topografie en de wijze van bestellen vindt u op de productpagina's van de BRT en TOP10NL:
-
-[www.kadaster.nl/zakelijk/registraties/basisregistraties/brt](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt)
-
-[www.kadaster.nl/zakelijk/producten/geo-informatie/topnl](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl)
-
-### Webservices
-
-Een webservice maakt het mogelijk een kaartbeeld in een webapplicatie te gebruiken, zonder dat de beheerder van de applicatie de geodata zelf in huis hoeft te hebben. Een webservice ontsluit dus de topografie "bij de bron". De webservices zijn beschikbaar via PDOK ( [www.pdok.nl](https://www.pdok.nl) ). Voor TOP10NL zijn op dit moment de volgende webservices beschikbaar:
-
-- TOP10NL wms (web map service)
-- TOP10NL wmts (web mab tile service)
+Productpagina TOPNL: [**www.kadaster.nl/zakelijk/producten/geo-informatie/topnl**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl)
 
 ### Gebruiksvoorwaarden BRT
 
@@ -1676,11 +1687,36 @@ De topografische gegevens worden beschikbaar gesteld onder een CC-BY licentie. D
 
 Daarnaast moet u er rekening mee houden dat alleen de gegevens die rechtstreeks uit de Basisregistratie afkomstig zijn, gelden als authentieke gegevens in de zin van de Kadasterwet.
 
+## 6.5 Bestandsleveringen en Webservices
+
+De BRT is als bestandslevering beschikbaar in het formaat GML en Geopackage. Een compleet overzicht van de verschillende bestandsleveringen en webservices van de Basisregistratie Topografie vindt u op de productpagina's van de BRT op PDOK: [**www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl)
+
+De GML-bestanden kunnen gedownload worden via een een download-viewer en via een API. Met de download-viewer kunt u de GML van heel Nederland in één keer downloaden. Ook kunt u zelf met de muis op de kaart van Nederland een gebied tekenen. Vervolgens kunt u de gewenste objectklassen selecteren en deze voor het geselecteerde gebied downloaden. 
+Voor afnemers die elke levering hetzelfde gebied willen selecteren, heeft PDOK een API ontwikkeld die dit proces automatiseert. Hiermee is het ook mogelijk om de GML's per kaartblad te downloaden. Op het Geoforum heeft PDOK een instructie geplaatst over het het downloaden van GML's met deze API: [**geoforum.nl/t/handleiding-pdok-download-apis-voor-de-bgt-dkk-en-brt-topnl/6578**](https://geoforum.nl/t/handleiding-pdok-download-apis-voor-de-bgt-dkk-en-brt-topnl/6578)
+
+De BRT geopackages kunnen gedownlaod worden via de productpagina's van de BRT op PDOK. Een Geopackage bevat altijd alle objecten in heel Nederland. Meer informatie over Geopackage is te vinden op de website van Geonovum ( [**www.geonovum.nl/geo-standaarden/geopackage**](https://www.geonovum.nl/geo-standaarden/geopackage) ).
+
+Een webservice maakt het mogelijk een kaartbeeld in een webapplicatie te gebruiken, zonder dat de beheerder van de applicatie de geodata zelf in huis hoeft te hebben. Een webservice ontsluit dus de topografie "bij de bron". De webservices van de BRT zijn beschikbaar via PDOK ( [**www.pdok.nl**](https://www.pdok.nl) ). Voor de BRT zijn op dit moment diverse webservices beschikbaar.
+
+## 6.6 Andere BRT-producten
+
+Naast TOP10NL bestaat de BRT uit andere topografische bestanden. In onderstaande tabel wordt daarvan een overzicht gegeven en wordt verwezen naar de productpagina's en de PDOK-pagina's waar deze bestanden gedownload kunnen worden. Een compleet overzicht van de BRT-producten wordt gegeven op de pagina met BRT-producten ( [**www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-producten**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-producten) ).
+
+| Product | Productpagina |
+|:---|:---|
+| TOPNL | [**www.kadaster.nl/zakelijk/producten/geo-informatie/topnl**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl) <br> PDOK: [**www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl) |
+| TOPraster | [**www.kadaster.nl/zakelijk/producten/geo-informatie/topraster**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topraster) <br> PDOK: [**www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster**](https://www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster) |
+| BRT Achtergrondkaart | [**https://www.kadaster.nl/zakelijk/producten/geo-informatie/brt-achtergrondkaart**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/brt-achtergrondkaart) <br> PDOK: [**www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-) |
+| TOPnamen | [**www.kadaster.nl/zakelijk/producten/geo-informatie/topnamen**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnamen) |
+| NLmaps | [**www.kadaster.nl/zakelijk/producten/geo-informatie/nl-maps**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/nl-maps) |
+
+_Tabel 6.1: Tabel met verwijzigingen naar productpagina's._
+
 # 7 Catalogus Basisregistratie Topografie
 
-In de catalogus van de Basisregistratie Topografie worden objecten en hun attributen in detail beschreven. Dit wordt gedaan door voor de objecten de attributen en attribuutwaarden te beschrijven. Onder andere worden de definitie, inwinningscriteria, multipliciteit en optionaliteit van de attributen en attribuutwaarden gegeven. Meer informatie over deze attributen is te vinden in de paragrafen [3.6](#36-volledigheid-top10nl), [4.3.3](#433-multipliciteit-van-een-kenmerk) en [4.3.4](#434-optionaliteit-van-een-kenmerk). Ook wordt aangegeven als welk geometrietype het object kan voorkomen.
+In de catalogus van de Basisregistratie Topografie worden objecten en hun attributen in detail beschreven. Dit wordt gedaan door voor de objecten de attributen en attribuutwaarden te beschrijven. Onder andere worden de definitie, inwinningscriteria, multipliciteit en optionaliteit van de attributen en attribuutwaarden gegeven. Meer informatie over deze attributen is te vinden in de paragrafen [**3.6**](#36-volledigheid-top10nl), [**4.3.3**](#433-multipliciteit-van-een-kenmerk) en [**4.3.4**](#434-optionaliteit-van-een-kenmerk). Ook wordt aangegeven als welk geometrietype het object kan voorkomen.
 
-De attributen, domeinen en attribuutwaarden die in alle objectklassen gebruikt worden, zoals identificatie, brontype, etc., zijn beschreven in [paragraaf 7.1](#71-objectklasse-onafhankelijke-attributen-en-domeinen). De overige attributen, domeinen en attribuutwaarden zijn beschreven in de [paragraaf 7.2](#72-objectklasse-wegdeel) tot en met paragraaf 7.13.
+De attributen, domeinen en attribuutwaarden die in alle objectklassen gebruikt worden, zoals identificatie, brontype, etc., zijn beschreven in [**paragraaf 7.1**](#71-objectklasse-onafhankelijke-attributen-en-domeinen). De overige attributen, domeinen en attribuutwaarden zijn beschreven in de [**paragraaf 7.2**](#72-objectklasse-wegdeel) tot en met paragraaf 7.13.
 
 Volgens de Kadasterwet zijn alle gegevens in de Basisregistratie Topografie (TOP10NL) authentiek. In deze catalogus zal niet per gegeven worden aangegeven of het authentiek is of niet.
 
@@ -3861,7 +3897,7 @@ Vrijstaande, overdekte en geheel of gedeeltelijk met wanden omsloten toegankelij
 
 _Inwinningscriteria:_
 
-- Met ingang van april 2020 is het muteren van gebouwen in de BRT gebaseerd op mutaties in de Basisregistraties Adressen en Gebouwen (BAG). Alle mutaties die in de BAG plaatsvinden worden in enigszins gegeneraliseerde vorm overgenomen in de BRT. Als peildatum voor de BAG-mutaties is hierbij 1 juni gebruikt, omdat dit het beste aansluit bij de luchtfoto’s waarmee de andere elementen in de BRT worden bijgewerkt. 
+- Met ingang van april 2020 is het muteren van gebouwen in de BRT gebaseerd op mutaties in de Basisregistraties Adressen en Gebouwen (BAG). Alle mutaties die in de BAG plaatsvinden worden in enigszins gegeneraliseerde vorm overgenomen in de BRT. Als peildatum voor de BAG-mutaties is hierbij 1 juni gebruikt, omdat dit het beste aansluit bij de luchtfoto’s waarmee de andere elementen in de BRT worden bijgewerkt. Omwille van de actualiteit worden ook BAG-panden met een voorlopige geometrie (status: "bouw gestart" en "pand in gebruik (niet ingemeten)") in dit proces meegenomen. 
 
 - Een gebouw moet een permanent karakter hebben en bedoeld zijn voor verblijf, handel, verkeer en/of arbeid.
 
@@ -4470,7 +4506,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **sporthal** |
 | Definitie | Hal waarin kan worden gesport. |
-| Inwinningscriteria | Grootschalige voorziening met een meer regionale uitstraling en meerdere velden tbv verschillende of een specifieke tak van sport. |
+| Inwinningscriteria | Grootschalige voorziening met een meer regionale uitstraling en meerdere velden t.b.v. verschillende of een specifieke tak van sport. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
@@ -4879,7 +4915,7 @@ _Inwinningscriteria:_
 | Domein | **GE\_gebruiksdoel** |
 |:---|:---|
 | Domeinwaarde | bijeenkomstfunctie |
-| Definitie | Gebouw waar bijeenkomsten voor personen kunnnen worden georganiseerd. |
+| Definitie | Gebouw waar bijeenkomsten voor personen kunnen worden georganiseerd. |
 | Inwinningscriteria | - |
 | Volledigheid | Niet |
 | Punt | Ja |
@@ -5193,7 +5229,7 @@ Voor het bijhouden van het attribuut type_landgebruik wordt gebruik gemaakt van 
 |:---|:---|
 | Domeinwaarde | **grasland** |
 | Definitie | Terrein, overwegend begroeid met een grasachtige vegetatie. |
-| Inwinningscriteria | Een graszaadkwekerij en graszodenbedrijf worden ook als grasland ingewonnen. Een (sier)gazon, d.w.z. een goed onderhouden grasperk, op een erf wordt opgenomen als terrein met het type landgebruik 'overig'.<br>Indien het grasland tijdelijk onder water is gezet worden de wallen en het water genegeerd.<br>Ook een smalle strook grasland, niet zijnde een berm en begrensd door harde topografie, wordt ingewonnen.<br>Indien de strook gras gelegen is langs een waterdeel en begrensd wordt door een bosrand dan geldt er een minimum breedtemaat van 2 meter vanaf insteek sloot.<br>Indien de strook gras gelegen is langs een waterdeel en begrensd wordt door zachte topografie dan geldt er een minimum breedtemaat van 6 meter vanaf kant water.<br>Indien de strook gras niet gelegen is langs een waterdeel en permanent aanwezig, dan wordt deze gegeven indien breder dan 6 meter.<br>Een grasland met bomen kan op verschillende manieren ingewonnen worden in TOP10NL.<br>- Bij één enkele rij bomen: als terrein grasland met een inrichtingselement bomenrij<br>- Bij meerdere rijen populieren: als terrein populieren<br>- In alle overge gevallen: als terrein loofbos. |
+| Inwinningscriteria | Een graszaadkwekerij en graszodenbedrijf worden ook als grasland ingewonnen. Een (sier)gazon, d.w.z. een goed onderhouden grasperk, op een erf wordt opgenomen als terrein met het type landgebruik 'overig'.<br>Indien het grasland tijdelijk onder water is gezet worden de wallen en het water genegeerd.<br>Ook een smalle strook grasland, niet zijnde een berm en begrensd door harde topografie, wordt ingewonnen.<br>Indien de strook gras gelegen is langs een waterdeel en begrensd wordt door een bosrand dan geldt er een minimum breedtemaat van 2 meter vanaf insteek sloot.<br>Indien de strook gras gelegen is langs een waterdeel en begrensd wordt door zachte topografie dan geldt er een minimum breedtemaat van 6 meter vanaf kant water.<br>Indien de strook gras niet gelegen is langs een waterdeel en permanent aanwezig, dan wordt deze gegeven indien breder dan 6 meter.<br>Een grasland met bomen kan op verschillende manieren ingewonnen worden in TOP10NL.<br>- Bij één enkele rij bomen: als terrein grasland met een inrichtingselement bomenrij<br>- Bij meerdere rijen populieren: als terrein populieren<br>- In alle overige gevallen: als terrein loofbos. |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
@@ -5213,7 +5249,7 @@ Voor het bijhouden van het attribuut type_landgebruik wordt gebruik gemaakt van 
 |:---|:---|
 | Domeinwaarde | **populieren** |
 | Definitie | Terrein, volgens een regelmatig patroon beplant met populieren. |
-| Inwinningscriteria | Het perceel wordt aangegeven als terrein van het type landgebruik populieren, indien de ondergrond bestaat uit grasland en het perceel is beplant met meerdere rijen populieren. Betreft het een enkele rij populieren dan wordt het terein gegeven als grasland in combinatie met een inrichtingselement bomenrij.<br>In alle overige gevallen wordt het perceel aangegeven als "bos/ loofbos". |
+| Inwinningscriteria | Het perceel wordt aangegeven als terrein van het type landgebruik populieren, indien de ondergrond bestaat uit grasland en het perceel is beplant met meerdere rijen populieren. Betreft het een enkele rij populieren dan wordt het terrein gegeven als grasland in combinatie met een inrichtingselement bomenrij.<br>In alle overige gevallen wordt het perceel aangegeven als "bos/ loofbos". |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
@@ -5442,7 +5478,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 |:---|:---|
 | Domeinwaarde | **boom** |
 | Definitie | Houtachtig gewas met een enkele, stevige, houtige en overblijvende stam, die zich op een zekere hoogte boven de grond vertakt. |
-| Inwinningscriteria | Bomen binnen bebouwd gebied op of langs een straat, in een tuin of op een erf worden niet opgenomen tenzij gelegen in plantsoen of park.<br>Een permanent aanwezige boom op een kwekerij kan gegeven worden.<br><br>Een klein aantal bij elkaar staande bomen wordt als één boom opgenomen.<br>Een gewas met meerdere hoofdstammen vanuit hetzelfde wortelstelsel (geen struik) wordt gegeven als boom. |
+| Inwinningscriteria | Bomen worden gegeneraliseerd ingewonnen.<br>Bomen binnen bebouwd gebied op of langs een straat, in een tuin of op een erf worden niet opgenomen tenzij gelegen in plantsoen of park.<br>Een permanent aanwezige boom op een kwekerij kan gegeven worden.<br>Een klein aantal bij elkaar staande bomen wordt als één boom opgenomen.<br>Een gewas met meerdere hoofdstammen vanuit hetzelfde wortelstelsel (geen struik) wordt gegeven als boom. |
 | Volledigheid | Beperkt |
 | Punt | Ja |
 | Lijn | Nee |
@@ -6418,7 +6454,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **hoogtelijn** |
 | Definitie | Lijn die punten van gelijke hoogte met elkaar verbindt. |
-| Inwinningscriteria | - |
+| Inwinningscriteria | De hoogtelijnen zijn automatisch gegenereerd uit het hoogtemodel zonder rekening te houden met in het landschap aanwezige kunstmatige elementen, zoals wallen en dijken. Deze kunstmatige elementen met hoogte zijn ingewonnen als Reliëf-object. |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Ja |
@@ -6559,13 +6595,12 @@ Op basis van wet- en regelgeving afgebakend gebied dat als eenheid geldt van pol
 
 _Inwinningscriteria:_
 
-De grenzen uit de BRK (Basisregistratie Kadaster) zijn de bron voor de objecten in de objectklasse Registratief gebied. Deze grenzen worden gegeneraliseerd opgenomen in TOP10NL, waarbij een gemeentegrens in TOP10NL zo veel mogelijk de objecten in TOP10NL volgt.
+De basis voor de grenzen in de BRT is het product TOPGrenzen geweest, dat tot 2014 is bijgehouden door de Topografische Dienst en Topografische Dienst Kadaster.
+Vanaf 2014 is het muteren van de registratieve gebieden in de BRT gebaseerd op mutaties in de Basisregistratie Kadaster (BRK). In 2014 zijn de grootste verschillen geanalyseerd (afwijking > 40 meter), besproken met de BRK en zo nodig gecorrigeerd in de BRT.
 
-De provincies zijn een samenvoeging van de gemeenten die behoren tot deze provincie.
+De mutaties in de BRK worden in enigszins gegeneraliseerde vorm overgenomen in de BRT, waarbij een gemeentegrens in TOP10NL zo veel mogelijk de objecten in TOP10NL volgt.
 
-Het land "Nederland" is een samenvoeging van alle provincies.
-
-Voor de twaalfmijlszone zijn de "Grenzen territoriale zee" van de Dienst der Hydrografie de bron. Ook deze begrenzing is gegeneraliseerd opgenomen in TOP10NL.
+Voor de twaalfmijlszone zijn de "Grenzen territoriale zee" van de Dienst der Hydrografie de bron. Ook deze begrenzing is gegeneraliseerd opgenomen in de BRT.
 
 ### Attribuut geometrieVlak
 
@@ -6595,7 +6630,7 @@ Voor de twaalfmijlszone zijn de "Grenzen territoriale zee" van de Dienst der Hyd
 |:---|:---|
 | Domeinwaarde | **land** |
 | Definitie | Begrenzing van Nederland, begrenst door België, Duitsland en de 12-mijls zone. |
-| Inwinningscriteria | - |
+| Inwinningscriteria | Het land "Nederland" is een samenvoeging van alle provincies. |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
@@ -6605,7 +6640,7 @@ Voor de twaalfmijlszone zijn de "Grenzen territoriale zee" van de Dienst der Hyd
 |:---|:---|
 | Domeinwaarde | **provincie** |
 | Definitie | Staatkundig onderdeel van Nederland. |
-| Inwinningscriteria | - |
+| Inwinningscriteria | De provincies zijn een samenvoeging van de gemeenten die behoren tot deze provincie. |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
@@ -7864,7 +7899,7 @@ _Inwinningscriteria:_
 | Domein | FG\_typeFunctioneelGebied |
 |:---|:---|
 | Domeinwaarde | **vliegveld, luchthaven** |
-| Definitie | Vliegveld voor verkeersvliegtuigen met groot, effen terrein met al dan niet verharde banen, waar vliegtuigen kunnen opstijgen en landen, eventueel met accomodatie voor ontvangst en vertrek van passagiers en verzending van goederen. |
+| Definitie | Vliegveld voor verkeersvliegtuigen met groot, effen terrein met al dan niet verharde banen, waar vliegtuigen kunnen opstijgen en landen, eventueel met accommodatie voor ontvangst en vertrek van passagiers en verzending van goederen. |
 | Inwinningscriteria | - |
 | Volledigheid | Volledig |
 | Punt | Ja |
@@ -8200,7 +8235,7 @@ Tijdens een herziening kan er met objecten in de werkelijkheid sprake zijn van:
 
 In figuur B1.1 is te zien wat er met de geo-objecten in de database kan gebeuren in geval van een nieuw object, een gewijzigd object, een verdwenen object of een onveranderd object. Voor elk van deze situaties wordt beschreven wat er in de database gebeurt.
 
-![](images/figuurb1-1.svg)
+![Stroomschema voor geo-objecten in het mutatieprotocol, waarin te zien is wat er met de geo-objecten in de database kan gebeuren in geval van een nieuw object, een gewijzigd object, een verdwenen object of een onveranderd object.](images/figuurb1-1.svg "Stroomschema voor geo-objecten in het mutatieprotocol")
 
 _Figuur B1.1: Stroomschema voor geo-objecten in het mutatieprotocol._
 
@@ -8252,13 +8287,13 @@ Het geometrie type is de vorm waarin een geo-object wordt opgeslagen: als punt, 
 
 Op elk geo-object met deze wijziging wordt de overlapregel toegepast. Indien het 'nieuwe' geo-object na toepassing van deze regel meerdere identificaties krijgt toegewezen, dan wordt de samenvoegregel toegepast.
 
-![](images/figuurb1-2.svg)
+![Stroomschema voor de overlapregel en de samenvoegregel.](images/figuurb1-2.svg "Stroomschema voor de overlapregel en de samenvoegregel")
 
-_Figuur B1.2: Stroomschema voor gewijzigde geo-objecten._
+_Figuur B1.2: Stroomschema voor de overlapregel en de samenvoegregel._
 
 Nadat alle gewijzigde geo-objecten op deze manier zijn behandeld, wordt er gecontroleerd of een identificatie aan meerdere geo-objecten is toegekend. Indien dit het geval is, dan wordt op deze geo-objecten de splitsregel toegepast.
 
-![](images/figuurb1-3.svg)
+![Stroomschema voor de splitsregel.](images/figuurb1-3.svg "Stroomschema voor de splitsregel")
 
 _Figuur B1.3: Stroomschema voor de splitsregel._
 
@@ -8266,7 +8301,7 @@ De verschillende regels worden hieronder beschreven. Bij deze regels is de opper
 
 De bufferbreedte is 3 meter en wordt gemeten van de lijn of het punt tot de buitenkant van de buffer. De totale breedte van de buffer is dus 6 meter. Er wordt gebruik gemaakt van een 'vierkante' buffer met afgekapt uiteinde.
 
-![](images/figuurb1-4.png)
+![Schematische weergave waarin puntvormige en lijnvormige geo-objecten van een buffer zijn voorzien.](images/figuurb1-4.png "Toepassing van buffers (lichtblauw) om puntvormige en lijnvormige geo-objecten")
 
 _Figuur B1.4: Toepassing van buffers (lichtblauw) om puntvormige en lijnvormige geo-objecten._
 
@@ -8274,15 +8309,15 @@ _Figuur B1.4: Toepassing van buffers (lichtblauw) om puntvormige en lijnvormige 
 
 Deze regel wordt voor elk 'nieuw' geo-object toegepast. Een 'nieuw' geo-object neemt de identificatie over van een 'oud' geo-object van dezelfde objectklasse en met hetzelfde hoogteniveau, als de oppervlakte van het overlappende gedeelte meer dan de helft is van de oppervlakte van het oorspronkelijke geo-object of van de oppervlakte van het nieuwe geo-object (zie figuur B1.5).
 
-![](images/figuurb1-5.png)
+![Schematische weergave van twee geo-objecten die worden samengevoegd. In de oorspronkelijke situatie zijn er twee geo-objecten, met de identificaties 1011 en 1012. In de nieuwe situatie is er nog slechts één geo-object dat gedeeltelijk overlapt met elk van de oorspronkelijke geo-objecten.](images/figuurb1-5.png "Toepassing van de overlapregel")
 
-| identificatie | objectBeginTijd | | tijdstipRegistratie | |
-|:---|:---|:---|:---|:---|
-| 1011 | 01-01-2005 | | 01-01-2005 | |
-| 1012 | 01-01-2005 | | 01-01-2005 | |
-| 1012 | 01-01-2005 | | 01-01-2006 | |
+| identificatie | objectBeginTijd | tijdstipRegistratie |
+|:---|:---|:---|
+| 1011 | 01-01-2005 | 01-01-2005 |
+| 1012 | 01-01-2005 | 01-01-2005 |
+| _1012_ | _01-01-2005_ | _01-01-2006_ |
 
-_Figuur B1.5: Toepassing van de overlapregel. De blauwe tekst geeft de nieuwe attribuutwaarden t.o.v. de oorspronkelijke situatie._
+_Figuur B1.5: Toepassing van de overlapregel. De cursieve tekst geeft de nieuwe attribuutwaarden t.o.v. de oorspronkelijke situatie._
 
 In figuur B1.5 worden twee geo-objecten die ontstaan zijn op 01-01-2005 samengevoegd op de datum 01-01-2006. In de oorspronkelijke situatie zijn er twee geo-objecten, met de identificaties 1011 en 1012. In de nieuwe situatie is er nog slechts één geo-object dat overlapt met elk van de oorspronkelijke geo-objecten.
 
@@ -8294,15 +8329,15 @@ Als na toepassing van de overlapregel een 'nieuw' geo-object meerdere identifica
 
 Als de oppervlakte van het nieuwe geo-object minder dan 200% is van de oppervlakte van één van de oorspronkelijke geo-objecten, dan neemt het zijn identificatie over met een nieuwe tijdstipRegistratie. Als de oppervlakte van een nieuw geo-object 200% of meer is, vergeleken met het oorspronkelijke geo-object, dan neemt het niet de identificatie over (zie figuur B1.6).
 
-![](images/figuurb1-6.png)
+![Schematische weergave van twee geo-objecten die worden samengevoegd. In de oorspronkelijke situatie zijn er twee geo-objecten, met de identificaties 0011 en 0012. In de nieuwe situatie is er nog slechts één geo-object dat volledig overlapt met elk van de oorspronkelijke geo-objecten.](images/figuurb1-6.png "Toepassing van de samenvoegregel")
 
-| identificatie | objectBeginTijd | | versieBeginTijd | |
-|:---|:---|:---|:---|:---|
-| 0011 | 01-01-2005 | | 01-01-2005 | |
-| 0012 | 01-01-2005 | | 01-01-2005 | |
-| 0012 | 01-01-2005 | | 01-01-2006 | |
+| identificatie | objectBeginTijd | versieBeginTijd |
+|:---|:---|:---|
+| 0011 | 01-01-2005 | 01-01-2005 |
+| 0012 | 01-01-2005 | 01-01-2005 |
+| _0012_ | _01-01-2005_ | _01-01-2006_ |
 
-_Figuur B1.6: Toepassing van de samenvoegregel. De blauwe tekst geeft de nieuwe attribuutwaarden t.o.v. de oorspronkelijke situatie._
+_Figuur B1.6: Toepassing van de samenvoegregel. De cursieve tekst geeft de nieuwe attribuutwaarden t.o.v. de oorspronkelijke situatie._
 
 Volgens de overlapregel mag het nieuwe geo-object in figuur B1.6 de identificatie van beide geo-objecten overnemen dus wordt de samenvoegregel toegepast.
 
@@ -8312,15 +8347,15 @@ De oppervlakte is echter minder dan 200% van de oppervlakte van het oorspronkeli
 
 Soms kan, na toepassing van de samenvoegregel, een geo-object toch nog meerdere identificaties overnemen. In dit geval neemt het geo-object geen enkele identificatie over, maar krijgt het een nieuwe identificatie (zie figuur B1.7).
 
-![](images/figuurb1-7.png)
+![Schematische weergave van twee geo-objecten die worden samengevoegd. In de oorspronkelijke situatie zijn er twee geo-objecten, met de identificaties 0031 en 0032. In de nieuwe situatie is er nog slechts één geo-object dat volledig overlapt met elk van de oorspronkelijke geo-objecten.](images/figuurb1-7.png "Uitzonderingssituatie na het toepassen van de overlapregel en de samenvoegregel")
 
-| identificatie | objectBeginTijd | | versieBeginTijd | |
-|:---|:---|:---|:---|:---|
-| 0031 | 01-01-2005 | | 01-01-2005 | |
-| 0032 | 01-01-2005 | | 01-01-2005 | |
-| 0033 | 01-01-2006 | | 01-01-2006 | |
+| identificatie | objectBeginTijd | versieBeginTijd |
+|:---|:---|:---|
+| 0031 | 01-01-2005 | 01-01-2005 |
+| 0032 | 01-01-2005 | 01-01-2005 |
+| _0033_ | _01-01-2006_ | _01-01-2006_ |
 
-_Figuur B1.7: Uitzonderingssituatie na het toepassen van de overlapregel en de samenvoegregel. De blauwe tekst geeft de nieuwe attribuutwaarden t.o.v. de oorspronkelijke situatie._
+_Figuur B1.7: Uitzonderingssituatie na het toepassen van de overlapregel en de samenvoegregel. De cursieve tekst geeft de nieuwe attribuutwaarden t.o.v. de oorspronkelijke situatie._
 
 Na het toepassen van de overlapregel kan het nieuwe geo-object in figuur B1.7 beide oorspronkelijke identificaties (0031 en 0032) overnemen. Dus moet de samenvoegregel worden toegepast. Na het toepassen hiervan kan het nieuwe geo-object nog steeds beide identificaties overnemen. Dit kan niet, dus krijgt het een nieuwe identificatie (0033) met een nieuwe objectBeginTijd en een zelfde tijdstipRegistratie.
 
@@ -8330,15 +8365,15 @@ Nadat alle 'nieuwe' geo-objecten de overlapregel en eventueel de samenvoegregel 
 
 Is de oppervlakte van een nieuw geo-object meer dan 50% van de oppervlakte van het oorspronkelijke geo-object, dan neemt het zijn identificatie over met een nieuwe tijdstipRegistratie. De andere nieuw gevormde geo-objecten krijgen een nieuwe identificatie met een nieuwe objectBeginTijd en een zelfde tijdstipRegistratie (zie figuur B1.86).
 
-![](images/figuurb1-8.png)
+![Schematische weergave van een geo-object dat wordt gesplitst. In de oorspronkelijke situatie is er één geo-object, met de identificatie 0001. In de nieuwe situatie zijn er twee geo-objecten die samen het oude object afdekken.](images/figuurb1-8.png "Toepassing van de splitsregel")
 
-| identificatie | objectBeginTijd | | versieBeginTijd | |
-|:---|:---|:---|:---|:---|
-| 0001 | 01-01-2005 | | 01-01-2005 | |
-| 0002 | 01-01-2006 | | 01-01-2006 | |
-| 0001 | 01-01-2005 | | 01-01-2006 | |
+| identificatie | objectBeginTijd | versieBeginTijd |
+|:---|:---|:---|
+| 0001 | 01-01-2005 | 01-01-2005 |
+| _0002_ | _01-01-2006_ | _01-01-2006_ |
+| _0001_ | _01-01-2005_ | _01-01-2006_ |
 
-_Figuur B1.8: Toepassing van de splitsregel. De blauwe tekst geeft de nieuwe attribuutwaarden t.o.v. de oorspronkelijke situatie._
+_Figuur B1.8: Toepassing van de splitsregel. De cursieve tekst geeft de nieuwe attribuutwaarden t.o.v. de oorspronkelijke situatie._
 
 Na het toepassen van de overlapregel op beide 'nieuwe' geo-objecten blijken ze beide de identificatie 0001 te mogen krijgen. Dit mag niet en de splitsregel wordt toegepast.
 
@@ -8346,15 +8381,15 @@ De oppervlakte van het kleine nieuwe geo-object in figuur B1.8 is minder dan 50%
 
 Soms kunnen, na toepassing van deze regel, toch meerdere geo-objecten de identificatie van het oorspronkelijke geo-object overnemen. In dit geval neemt geen enkel geo-object de identificatie over, maar krijgen ze allemaal een nieuwe identificatie met een nieuwe objectBeginTijd en een zelfde tijdstipRegistratie (zie figuur B1.9).
 
-![](images/figuurb1-9.png)
+![Schematische weergave van een geo-object dat wordt gesplitst. In de oorspronkelijke situatie is er één geo-object, met de identificatie 0021. In de nieuwe situatie zijn er twee geo-objecten die samen het oude object afdekken.](images/figuurb1-9.png "Uitzonderingssituatie na het toepassen van de overlapregel en de splitsregel")
 
-| identificatie | objectBeginTijd | | VersieBeginTijd | |
-|:---|:---|:---|:---|:---|
-| 0021 | 01-01-2005 | | 01-01-2005 | |
-| 0022 | 01-01-2006 | | 01-01-2006 | |
-| 0023 | 01-01-2006 | | 01-01-2006 | |
+| identificatie | objectBeginTijd | VersieBeginTijd |
+|:---|:---|:---|
+| 0021 | 01-01-2005 | 01-01-2005 |
+| _0022_ | _01-01-2006_ | _01-01-2006_ |
+| _0023_ | _01-01-2006_ | _01-01-2006_ |
 
-_Figuur B1.9: Voorbeeld waarbij overlapregel en splitsregels nog geen uitsluitsel geven. De blauwe tekst geeft de nieuwe attribuutwaarden t.o.v. de oorspronkelijke situatie._
+_Figuur B1.9: Voorbeeld waarbij overlapregel en splitsregels nog geen uitsluitsel geven. De cursieve tekst geeft de nieuwe attribuutwaarden t.o.v. de oorspronkelijke situatie._
 
 Na het toepassen van de overlapregel in figuur B1.9 kunnen beide geo-objecten de identificatiecode 0021 overnemen. Dit is nog steeds het geval na het toepassen van de splitsregel, dus krijgen beide nieuwe geo-objecten een nieuwe identificatie (0022 en 0023).
 
