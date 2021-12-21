@@ -1710,7 +1710,7 @@ Naast TOP10NL bestaat de BRT uit andere topografische bestanden. In onderstaande
 | TOPnamen | [**www.kadaster.nl/zakelijk/producten/geo-informatie/topnamen**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnamen) |
 | NLmaps | [**www.kadaster.nl/zakelijk/producten/geo-informatie/nl-maps**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/nl-maps) |
 
-_Tabel 6.1: Tabel met verwijzigingen naar productpagina's._
+_Tabel 6.1: Tabel met verwijzingen naar productpagina's._
 
 # 7 Catalogus Basisregistratie Topografie
 
@@ -3446,7 +3446,7 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 |:---|:---|
 | Domeinwaarde | **in afsluitbare duiker** |
 | Definitie | Gelegen in een afsluitbare koker die dient voor de instandhouding van de verbinding tussen wederzijds gelegen wateren of voor de afwatering van aangrenzende landerijen, niet zijnde een grondduiker. |
-| Inwinningscriteria | Elke afsluitbare duiker in het hoofafwateringspatroon wordt aangegeven en elke afsluitbare duiker onder een dijk of (spoor)weg met een minimale diameter van 60 centimeter. Een afsluitbare duiker in open terrein, niet gelegen in het hoofdafwateringspatroon, wordt aangegeven als (koe)dam. (Koe)dammen gelegen in waterlopen smaller dan 6 meter die onderdeel uitmaken van het hoofdafwateringspatroon worden opgenomen als duiker. Ook een uitwateringssluis (sluis waarmee overtollig water gespuid wordt) wordt opgenomen als waterdeel in afsluitbare duiker, tenzij er een aantal uitwateringssluizen als complex naast elkaar voorkomen. Dan wordt het geheel als functioneel gebied van het type sluizencomplex opgenomen.<br>Een duiker gelegen onder een gemaal of onder een molen van het type windmolen: watermolen wordt altijd gegeven als afsluitbare duiker.<br>Een buis voor het lozen van industrieel water op oppervlaktewater wordt niet opgenomen. |
+| Inwinningscriteria | Elke afsluitbare duiker in het hoofdafwateringspatroon wordt aangegeven en elke afsluitbare duiker onder een dijk of (spoor)weg met een minimale diameter van 60 centimeter. Een afsluitbare duiker in open terrein, niet gelegen in het hoofdafwateringspatroon, wordt aangegeven als (koe)dam. (Koe)dammen gelegen in waterlopen smaller dan 6 meter die onderdeel uitmaken van het hoofdafwateringspatroon worden opgenomen als duiker. Ook een uitwateringssluis (sluis waarmee overtollig water gespuid wordt) wordt opgenomen als waterdeel in afsluitbare duiker, tenzij er een aantal uitwateringssluizen als complex naast elkaar voorkomen. Dan wordt het geheel als functioneel gebied van het type sluizencomplex opgenomen.<br>Een duiker gelegen onder een gemaal of onder een molen van het type windmolen: watermolen wordt altijd gegeven als afsluitbare duiker.<br>Een buis voor het lozen van industrieel water op oppervlaktewater wordt niet opgenomen. |
 | Volledigheid | Beperkt |
 | Punt | Nee |
 | Lijn | Ja |
@@ -3456,7 +3456,7 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 |:---|:---|
 | Domeinwaarde | **in grondduiker** |
 | Definitie | Gelegen in een onder een ander water doorlopende koker, die dient voor de instandhouding van de verbinding tussen wederzijds gelegen wateren of voor de afwatering van aangrenzende landerijen. |
-| Inwinningscriteria | Elke grondduiker gelegen in het hoofafwateringspatroon wordt aangegeven.<br>Een buis voor het lozen van industrieel water op oppervlaktewater wordt niet opgenomen. |
+| Inwinningscriteria | Elke grondduiker gelegen in het hoofdafwateringspatroon wordt aangegeven.<br>Een buis voor het lozen van industrieel water op oppervlaktewater wordt niet opgenomen. |
 | Volledigheid | Beperkt |
 | Punt | Nee |
 | Lijn | Ja |
@@ -3466,7 +3466,7 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 |:---|:---|
 | Domeinwaarde | **in afsluitbare grondduiker** |
 | Definitie | Gelegen in een onder een ander water doorlopende afsluitbare koker, die dient voor de instandhouding van de verbinding tussen wederzijds gelegen wateren of voor de afwatering van aangrenzende landerijen. |
-| Inwinningscriteria | Elke afsluitbare grondduiker in het hoofafwateringspatroon wordt aangegeven.<br>Een buis voor het lozen van industrieel water op oppervlaktewater wordt niet opgenomen. |
+| Inwinningscriteria | Elke afsluitbare grondduiker in het hoofdafwateringspatroon wordt aangegeven.<br>Een buis voor het lozen van industrieel water op oppervlaktewater wordt niet opgenomen. |
 | Volledigheid | Beperkt |
 | Punt | Nee |
 | Lijn | Ja |
@@ -6600,7 +6600,7 @@ Vanaf 2014 is het muteren van de registratieve gebieden in de BRT gebaseerd op m
 
 De mutaties in de BRK worden in enigszins gegeneraliseerde vorm overgenomen in de BRT, waarbij een gemeentegrens in TOP10NL zo veel mogelijk de objecten in TOP10NL volgt.
 
-Voor de twaalfmijlszone zijn de "Grenzen territoriale zee" van de Dienst der Hydrografie de bron. Ook deze begrenzing is gegeneraliseerd opgenomen in de BRT.
+Voor de 12-mijls zone zijn de "Grenzen territoriale zee" van de Dienst der Hydrografie de bron. Ook deze begrenzing is gegeneraliseerd opgenomen in de BRT.
 
 ### Attribuut geometrieVlak
 
@@ -6660,7 +6660,7 @@ Voor de twaalfmijlszone zijn de "Grenzen territoriale zee" van de Dienst der Hyd
 |:---|:---|
 | Domeinwaarde | **territoriale zee** |
 | Definitie | Een zeestrook, grenzend aan het landgebied van Nederland waarover de soevereiniteit van Nederland zich uitstrekt. |
-| Inwinningscriteria | De territoriale zee is gebaseerd op de laagwaterlijn en de 12 mijls zone. |
+| Inwinningscriteria | De territoriale zee is gebaseerd op de laagwaterlijn en de 12-mijls zone. |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
@@ -8383,7 +8383,7 @@ Soms kunnen, na toepassing van deze regel, toch meerdere geo-objecten de identif
 
 ![Schematische weergave van een geo-object dat wordt gesplitst. In de oorspronkelijke situatie is er één geo-object, met de identificatie 0021. In de nieuwe situatie zijn er twee geo-objecten die samen het oude object afdekken.](images/figuurb1-9.png "Uitzonderingssituatie na het toepassen van de overlapregel en de splitsregel")
 
-| identificatie | objectBeginTijd | VersieBeginTijd |
+| identificatie | objectBeginTijd | versieBeginTijd |
 |:---|:---|:---|
 | 0021 | 01-01-2005 | 01-01-2005 |
 | _0022_ | _01-01-2006_ | _01-01-2006_ |
