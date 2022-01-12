@@ -61,6 +61,7 @@ In deze paragraaf worden de belangrijkste wijzigingen ten opzichte van de vorige
 Het is ook mogelijk om alle wijzigingen ten opzichte van de vorige versie van de BRT Catalogus en Productspecificaties te bekijken. Dit wordt mogelijk gemaakt door het versiebeheersysteem GitHub, het systeem waar de online BRT Catalogus en Productspecificaties in gemaakt is.
 
 ## Belangrijkste verschillen
+
 De belangrijkste wijzigingen in versie 1.2.0.5 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
 - Wijzigingen n.a.v. Audit BRT 2020 doorgevoerd:
   - Verduidelijking inwinning boom
@@ -1326,7 +1327,7 @@ Definitie: Ruimtelijk object, punt of lijnvormig, al dan niet ter detaillering d
 | radiobaken | x | | |
 | radiotelescoop | x | | |
 | RD punt | x | | |
-| schaapvaartlicht | x | | |
+| scheepvaartlicht | x | | |
 | schietbaan | x | | |
 | seinmast | x | | |
 | sluisdeur | x | x | |
