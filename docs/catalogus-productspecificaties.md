@@ -4337,7 +4337,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **parkeerdak, parkeerdek, parkeergarage** |
 | Definitie | Al dan niet open bebouwing, geheel of gedeeltelijk (het dak of een van de onderliggende etages) in gebruik als openbare voorziening voor het parkeren van motorvoertuigen. |
-| Inwinningscriteria | - |
+| Inwinningscriteria | De toegang van een ondergrondse parkeergarage wordt aangegeven als een gebouwpunt. |
 | Volledigheid | Beperkt |
 | Punt | Ja |
 | Lijn | Nee |
@@ -6129,7 +6129,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 |:---|:---|
 | Domeinwaarde | **overig** |
 | Definitie | Het type inrichtingselement is bekend, maar anders dan de genoemde waarden. |
-| Inwinningscriteria | Bijvoorbeeld een belvédère (punt met fraai uitzicht), observatiepunt of toegang van ondergrondse parkeergarage, de ingang van een ondergronds metrostation of een doolhof. |
+| Inwinningscriteria | Bijvoorbeeld een belvédère (punt met fraai uitzicht), observatiepunt of een doolhof. |
 | Volledigheid | Beperkt |
 | Punt | Ja |
 | Lijn | Ja |
