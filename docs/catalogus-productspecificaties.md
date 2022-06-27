@@ -3205,7 +3205,7 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 
 | Attribuut | type water |
 |:---|:---|
-| Definitie | Aanduiding of het object een verbinding, een kruising of iets anders is. |
+| Definitie | Het type water. |
 | Inwinningscriteria | - |
 | Multipliciteit | Enkelvoudig |
 | Optionaliteit | Verplicht |
