@@ -69,6 +69,7 @@ De belangrijkste wijzigingen in versie 1.2.0.5 van de BRT Catalogus en Productsp
   - Verduidelijking herkomst grenzen
 - Toepassen webrichtlijnen bij hyperlinks en afbeeldingen, opnemen link naar toegankelijkheidsverklaring.
 - Actualiseren bestandsleveringen en webservices.
+- Verwijzing naar TOPNL UML en XSD's.
 
 ## Alle verschillen
 <!--
@@ -164,6 +165,7 @@ Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecif
   - [6.4 Open data](#64-open-data)
   - [6.5 Bestandsleveringen en Webservices](#65-bestandsleveringen-en-webservices)
   - [6.6 Andere BRT-producten](#65-andere-brt-producten)
+  - [6.7 Andere BRT UML-modellen en XSD's](#67-andere-brt-uml-modellen-en-xsds)
 - [7 Catalogus Basisregistratie Topografie](#7-catalogus-basisregistratie-topografie)
   - [7.1 Objectklasse onafhankelijke attributen en domeinen](#71-objectklasse-onafhankelijke-attributen-en-domeinen)
     - [7.1.1 Attributen](#711-attributen)
@@ -1712,6 +1714,11 @@ Naast TOP10NL bestaat de BRT uit andere topografische bestanden. In onderstaande
 | NLmaps | [**www.kadaster.nl/zakelijk/producten/geo-informatie/nl-maps**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/nl-maps) |
 
 _Tabel 6.1: Tabel met verwijzingen naar productpagina's._
+
+## 6.7 Andere BRT UML-modellen en XSD's
+
+In paragraaf [**6.2**](#62-uml-model-en-xsd-top10nl) is het UML-model en de XSD van TOP10NL beschreven. In het technisch register bij Geonovum kunnen de  UML-modellen en XSD's van de BRT in het algemeen en van de overige BRT producten gevonden worden: 
+[**register.geostandaarden.nl/brt/index.html**](https://register.geostandaarden.nl/brt/index.html)
 
 # 7 Catalogus Basisregistratie Topografie
 
