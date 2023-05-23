@@ -6481,7 +6481,7 @@ _Inwinningscriteria:_
 | Domein | HO\_typeHoogte |
 |:---|:---|
 | Domeinwaarde | **hoogwaterlijn** |
-| Definitie | Lijn die de grens van het water aangeeft als de waterstand op zijn hoogst. |
+| Definitie | Lijn die de grens van het water aangeeft als de waterstand op zijn hoogst is. |
 | Inwinningscriteria | De hoogwaterlijn is onderdeel van TOP10NL vanwege INSPIRE eisen en wordt ingewonnen in de 6 grote wateren in Nederland (Noordzee, Waddenzee, IJsselmeer, Markermeer, Oosterschelde en Westerschelde). |
 | Volledigheid | Volledig |
 | Punt | Nee |
