@@ -3264,7 +3264,7 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 | Domein | WA\_typeWater |
 |:---|:---|
 | Domeinwaarde | **droogvallend** |
-| Definitie | Geheel of gedeeltelijk droogvallende gronden, buitendijks gelegen, begrensd door de lijnen gemiddeld hoog water en gemiddeld laag water. |
+| Definitie | Geheel of gedeeltelijk droogvallende gronden, buitendijks gelegen, begrensd door de hoogwaterlijn op gemiddeld hoog water en de laagwaterlijn op gemiddeld laag water. |
 | Inwinningscriteria | Het terrein, gelegen tussen de hoogwaterlijn en de waterkering (dijk), wordt aangegeven volgens de aanwezige vegetatie. Het gedeelte tussen de hoogwaterlijn en de laagwaterlijn wordt aangegeven als een waterdeel van het type 'droogvallend'. |
 | Volledigheid | Volledig |
 | Punt | Nee |
@@ -3274,7 +3274,7 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 | Domein | WA\_typeWater |
 |:---|:---|
 | Domeinwaarde | **droogvallend (LAT)** |
-| Definitie | Geheel of gedeeltelijk droogvallende gronden, buitendijks gelegen, begrensd door de lijnen gemiddeld laag water en laagste astronomisch getij (LAT). |
+| Definitie | Geheel of gedeeltelijk droogvallende gronden, buitendijks gelegen, begrensd door de laagwaterlijnen op gemiddeld laag water en op laagste astronomisch getij (LAT). |
 | Inwinningscriteria | Ingewonnen op basis van gegevens van de Dienst der Hydrografie. |
 | Volledigheid | Volledig |
 | Punt | Nee |
@@ -6481,7 +6481,7 @@ _Inwinningscriteria:_
 | Domein | HO\_typeHoogte |
 |:---|:---|
 | Domeinwaarde | **hoogwaterlijn** |
-| Definitie | Lijn die de grens van het water aangeeft als de waterstand op zijn hoogst. |
+| Definitie | Lijn die de grens van het water aangeeft als de waterstand op zijn hoogst is. |
 | Inwinningscriteria | De hoogwaterlijn is onderdeel van TOP10NL vanwege INSPIRE eisen en wordt ingewonnen in de 6 grote wateren in Nederland (Noordzee, Waddenzee, IJsselmeer, Markermeer, Oosterschelde en Westerschelde). |
 | Volledigheid | Volledig |
 | Punt | Nee |
