@@ -4193,8 +4193,8 @@ _Inwinningscriteria:_
 | Domein | GB\_typeGebouw |
 |:---|:---|
 | Domeinwaarde | **klokkentoren** |
-| Definitie | Toren t.b.v. de ophanging van een uurwerk en/of klokkenspel. |
-| Inwinningscriteria | Een klokkentoren welke niet voldoet aan de opnamecriteria voor een gebouwvlak, wordt aangegeven als gebouwpunt. |
+| Definitie | Toren t.b.v. de ophanging van een klokkenspel (met tenminste 8 klokken). |
+| Inwinningscriteria | Torens met minder dan 8 klokken of alleen een uurwerk worden gegeven als toren en niet als klokkentoren. Een klokkentoren welke niet voldoet aan de opnamecriteria voor een gebouwvlak, wordt aangegeven als gebouwpunt. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
