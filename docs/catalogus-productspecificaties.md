@@ -2556,7 +2556,7 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 | Attribuut | naam |
 |:---|:---|
 | Definitie | De naam van het wegdeel. |
-| Inwinningscriteria | De naam van het wegdeel is gebaseerd op informatie uit de Basisregistraties Adressen en Gebouwen (BAG).<br>De tekst "Veerdienst … - …" mag opgenomen worden bij een wegdeel veerverbinding. De naam moet beide plaatsen bevatten. |
+| Inwinningscriteria | De naam van het wegdeel is gebaseerd op informatie uit de Basisregistratie Adressen en Gebouwen (BAG).<br>De tekst "Veerdienst … - …" mag opgenomen worden bij een wegdeel veerverbinding. De naam moet beide plaatsen bevatten. |
 | Volledigheid | Beperkt |
 | Multipliciteit | Veelvoudig |
 | Optionaliteit | Optioneel |
@@ -3905,7 +3905,7 @@ Vrijstaande, overdekte en geheel of gedeeltelijk met wanden omsloten toegankelij
 
 _Inwinningscriteria:_
 
-- Met ingang van april 2020 is het muteren van gebouwen in de BRT gebaseerd op mutaties in de Basisregistraties Adressen en Gebouwen (BAG). Alle mutaties die in de BAG plaatsvinden worden in enigszins gegeneraliseerde vorm overgenomen in de BRT. Als peildatum voor de BAG-mutaties is hierbij 1 juni gebruikt, omdat dit het beste aansluit bij de luchtfoto’s waarmee de andere elementen in de BRT worden bijgewerkt. Omwille van de actualiteit worden ook BAG-panden met een voorlopige geometrie (status: "bouw gestart" en "pand in gebruik (niet ingemeten)") in dit proces meegenomen. 
+- Met ingang van april 2020 is het muteren van gebouwen in de BRT gebaseerd op mutaties in de Basisregistratie Adressen en Gebouwen (BAG). Alle mutaties die in de BAG plaatsvinden worden in enigszins gegeneraliseerde vorm overgenomen in de BRT. Als peildatum voor de BAG-mutaties is hierbij 1 juni gebruikt, omdat dit het beste aansluit bij de luchtfoto’s waarmee de andere elementen in de BRT worden bijgewerkt. Omwille van de actualiteit worden ook BAG-panden met een voorlopige geometrie (status: "bouw gestart" en "pand in gebruik (niet ingemeten)") in dit proces meegenomen. 
 
 - Een gebouw moet een permanent karakter hebben en bedoeld zijn voor verblijf, handel, verkeer en/of arbeid.
 
@@ -6983,7 +6983,7 @@ _Inwinningscriteria:_
 
 De objectklasse plaats bestaat uit de topografische bebouwde kommen en hun onderverdelingen.
 
-Een topografische bebouwde kom is een plaatsvlak dat, gebaseerd op de locatie van de plaatsnaamborden langs de toegangswegen, de kern van de bebouwing van een plaats omvat, alsmede de daarbij behorende ruimtegebruiksfuncties (zoals wegen, volkstuinen, sportterreinen, begraafplaatsen en bedrijventerreinen), en is afgebakend volgens zichtbare topografische grenslijnen in het landschap (zoals een sloot, de bosrand of de berm van een weg). Het vlak is voorzien van een typering, de naam of namen van de plaats, het aantal inwoners binnen het vlak, en de status van de plaats als bebouwde kom voor de Wegenverkeerswet en als woonplaats in de Basisregistraties Adressen en Gebouwen (BAG).
+Een topografische bebouwde kom is een plaatsvlak dat, gebaseerd op de locatie van de plaatsnaamborden langs de toegangswegen, de kern van de bebouwing van een plaats omvat, alsmede de daarbij behorende ruimtegebruiksfuncties (zoals wegen, volkstuinen, sportterreinen, begraafplaatsen en bedrijventerreinen), en is afgebakend volgens zichtbare topografische grenslijnen in het landschap (zoals een sloot, de bosrand of de berm van een weg). Het vlak is voorzien van een typering, de naam of namen van de plaats, het aantal inwoners binnen het vlak, en de status van de plaats als bebouwde kom voor de Wegenverkeerswet en als woonplaats in de Basisregistratie Adressen en Gebouwen (BAG).
 
 De volgende topografische elementen maken deel uit van het vlak van een topografische bebouwde kom:
 
