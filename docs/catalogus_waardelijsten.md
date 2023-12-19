@@ -18,27 +18,32 @@ Domein "Brontype"
 | Domein | Brontype |
 |:---|:---|
 | Domeinwaarde | **TOP10vector** |
-| Definitie | Digitaal bestand, bestaande uit gecodeerde vectoren, die tezamen de topografie van Nederland weergeven op de schaal 1:10.000. Voorloper van TOP10NL. |
+| Omschrijving | Digitaal bestand, bestaande uit gecodeerde vectoren, die tezamen de topografie van Nederland weergeven op de schaal 1:10.000. Voorloper van TOP10NL. |
+| Inwinningscriteria | - |
 
 | Domein | Brontype |
 |:---|:---|
 | Domeinwaarde | **luchtfoto** |
-| Definitie | Een fotografische opname van een deel van het aardoppervlak, gemaakt vanuit een vliegtuig. |
+| Omschrijving | Een fotografische opname van een deel van het aardoppervlak, gemaakt vanuit een vliegtuig. |
+| Inwinningscriteria | - |
 
 | Domein | Brontype |
 |:---|:---|
 | Domeinwaarde | **RD** |
-| Definitie | Net van vaste punten in Nederland. Deze vaste punten zijn de referentiepunten waarnaar overige metingen en karteringen kunnen verwijzen. De referentiepunten maken deel uit van een netwerk dat is vastgelegd in het systeem van de Rijksdriehoeksmeting (RD). Dit netwerk wordt beheerd en onderhouden door het Kadaster. ( www.kadaster.nl ). |
+| Omschrijving | Net van vaste punten in Nederland. Deze vaste punten zijn de referentiepunten waarnaar overige metingen en karteringen kunnen verwijzen. De referentiepunten maken deel uit van een netwerk dat is vastgelegd in het systeem van de Rijksdriehoeksmeting (RD). Dit netwerk wordt beheerd en onderhouden door het Kadaster. ( www.kadaster.nl ). |
+| Inwinningscriteria | - |
 
 | Domein | Brontype |
 |:---|:---|
 | Domeinwaarde | **overig** |
-| Definitie | De waarde van het objectkenmerk is bekend, maar anders dan de genoemde waarden. |
+| Omschrijving | De waarde van het objectkenmerk is bekend, maar anders dan de genoemde waarden. |
+| Inwinningscriteria | - |
 
 | Domein | Brontype |
 |:---|:---|
 | Domeinwaarde | **externe data** |
-| Definitie | De data worden aangeleverd door externe leveranciers. |
+| Omschrijving | De data worden aangeleverd door externe leveranciers. |
+| Inwinningscriteria | - |
 
 ### Domein "Mutatietype"
 Product "T10"  
@@ -48,22 +53,26 @@ Domein "Mutatietype"
 | Domein | Mutatietype |
 |:---|:---|
 | Domeinwaarde | **kwaliteitsverbetering** |
-| Definitie | Aanpassing van het object als gevolg van een kwaliteitsactie |
+| Omschrijving | Aanpassing van het object als gevolg van een kwaliteitsactie |
+| Inwinningscriteria | - |
 
 | Domein | Mutatietype |
 |:---|:---|
 | Domeinwaarde | **werkelijke verandering** |
-| Definitie | Aanpassing van het object als gevolg van wijzigingen van het object in het terrein. |
+| Omschrijving | Aanpassing van het object als gevolg van wijzigingen van het object in het terrein. |
+| Inwinningscriteria | - |
 
 | Domein | Mutatietype |
 |:---|:---|
 | Domeinwaarde | **modelwijziging** |
-| Definitie | Aanpassing van het object als gevolg van wijzigingen in het datamodel. |
+| Omschrijving | Aanpassing van het object als gevolg van wijzigingen in het datamodel. |
+| Inwinningscriteria | - |
 
 | Domein | Mutatietype |
 |:---|:---|
 | Domeinwaarde | **andere bron** |
-| Definitie | Aanpassing van het object als gevolg van gebruik van andere bronnen. |
+| Omschrijving | Aanpassing van het object als gevolg van gebruik van andere bronnen. |
+| Inwinningscriteria | - |
 
 ### Domein "Status"
 Product "T10"  
@@ -73,17 +82,20 @@ Domein "Status"
 | Domein | Status |
 |:---|:---|
 | Domeinwaarde | **in uitvoering** |
-| Definitie | Het object is in aanleg. |
+| Omschrijving | Het object is in aanleg. |
+| Inwinningscriteria | - |
 
 | Domein | Status |
 |:---|:---|
 | Domeinwaarde | **in gebruik** |
-| Definitie | Het object wordt gebruikt. |
+| Omschrijving | Het object wordt gebruikt. |
+| Inwinningscriteria | - |
 
 | Domein | Status |
 |:---|:---|
 | Domeinwaarde | **buiten gebruik** |
-| Definitie | Het object wordt niet meer (als zodanig) gebruikt. |
+| Omschrijving | Het object wordt niet meer (als zodanig) gebruikt. |
+| Inwinningscriteria | - |
 
 ### Domein "Type Functioneel Gebied"
 Product "T10"  
@@ -93,397 +105,476 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **arboretum** |
-| Definitie | Verzameling van verschillende soorten bomen |
+| Omschrijving | Verzameling van verschillende soorten bomen |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **attractiepark** |
-| Definitie | Park ingericht voor vrijetijdsbesteding |
+| Omschrijving | Park ingericht voor vrijetijdsbesteding |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **bedrijventerrein** |
-| Definitie | Het geheel aan gebouwen en terreinen ten behoeve van bedrijven en industrie, inclusief toevoerwegen, tussengelegen water, etc. |
+| Omschrijving | Het geheel aan gebouwen en terreinen ten behoeve van bedrijven en industrie, inclusief toevoerwegen, tussengelegen water, etc. |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **begraafplaats** |
-| Definitie | Het geheel aan voorzieningen t.b.v. het begraven van overledenen |
+| Omschrijving | Het geheel aan voorzieningen t.b.v. het begraven van overledenen |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **boswachterij** |
-| Definitie | Deel van een houtvesterij onder een boswachter |
+| Omschrijving | Deel van een houtvesterij onder een boswachter |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **botanische tuin** |
-| Definitie | Verzameling van verschillende soorten planten en/of bomen |
+| Omschrijving | Verzameling van verschillende soorten planten en/of bomen |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **bungalowpark** |
-| Definitie | Oppervlak bebouwd met (luxe) vakantiehuisjes |
+| Omschrijving | Oppervlak bebouwd met (luxe) vakantiehuisjes |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **camping, kampeerterrein** |
-| Definitie | Terrein met voorzieningen t.b.v. verblijfsrecreatie voornamelijk voor tenten en caravans |
+| Omschrijving | Terrein met voorzieningen t.b.v. verblijfsrecreatie voornamelijk voor tenten en caravans |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **campus** |
-| Definitie | Een universiteitsterrein waarop gebouwen en voorzieningen voor zowel docenten als studenten aanwezig zijn |
+| Omschrijving | Een universiteitsterrein waarop gebouwen en voorzieningen voor zowel docenten als studenten aanwezig zijn |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **caravanpark** |
-| Definitie | Terrein met voorzieningen t.b.v. verblijfsrecreatie voornamelijk ingericht met stacaravans. |
+| Omschrijving | Terrein met voorzieningen t.b.v. verblijfsrecreatie voornamelijk ingericht met stacaravans. |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **circuit** |
-| Definitie | Verhard terrein voor snelheidswedstrijden |
+| Omschrijving | Verhard terrein voor snelheidswedstrijden |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **crossbaan** |
-| Definitie | Onverhard terrein voor snelheidswedstrijden en hiervoor uitgerust met de nodige voorzieningen |
+| Omschrijving | Onverhard terrein voor snelheidswedstrijden en hiervoor uitgerust met de nodige voorzieningen |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **dierentuin, safaripark** |
-| Definitie | Publieke tuin / park waarin een verzameling inheemse en uitheemse dieren is ondergebracht (dierentuin). / Groot park met wilde dieren, waar men met een auto kan rijden (safaripark) |
+| Omschrijving | Publieke tuin / park waarin een verzameling inheemse en uitheemse dieren is ondergebracht (dierentuin). / Groot park met wilde dieren, waar men met een auto kan rijden (safaripark) |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **eendenkooi** |
-| Definitie | Stuk land en water met een karakteristieke vorm, ingericht om wilde eenden te vangen |
+| Omschrijving | Stuk land en water met een karakteristieke vorm, ingericht om wilde eenden te vangen |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **emplacement** |
-| Definitie | Het totaal aan sporen op een terrein ten behoeve van het rangeren en stallen van treinen |
+| Omschrijving | Het totaal aan sporen op een terrein ten behoeve van het rangeren en stallen van treinen |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **erebegraafplaats** |
-| Definitie | Begraafplaats voor gesneuvelde militairen |
+| Omschrijving | Begraafplaats voor gesneuvelde militairen |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **gaswinning** |
-| Definitie | Gebied met installatie(s) t.b.v. de winning of transport van aardgas |
+| Omschrijving | Gebied met installatie(s) t.b.v. de winning of transport van aardgas |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **gebied met hoge objecten** |
-| Definitie | Gebied, waarbinnen zich meerdere hoge objecten bevinden |
+| Omschrijving | Gebied, waarbinnen zich meerdere hoge objecten bevinden |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **gebied voor radioastronomie** |
-| Definitie | Gebied waarin sensoren opgesteld zijn ten behoeven van radioastronomie |
+| Omschrijving | Gebied waarin sensoren opgesteld zijn ten behoeven van radioastronomie |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **gebouwencomplex** |
-| Definitie | Geheel van bij elkaar horende gebouwen |
+| Omschrijving | Geheel van bij elkaar horende gebouwen |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **golfterrein** |
-| Definitie | Terrein toegerust voor de uitoefening van de golfsport |
+| Omschrijving | Terrein toegerust voor de uitoefening van de golfsport |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **grafheuvel** |
-| Definitie | Voorhistorische begraafplaats in de vorm van een heuvel |
+| Omschrijving | Voorhistorische begraafplaats in de vorm van een heuvel |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **grindwinning** |
-| Definitie | Gebied waar winning van grind plaatsvind (in dagbouw of d.m.v. zuigen |
+| Omschrijving | Gebied waar winning van grind plaatsvind (in dagbouw of d.m.v. zuigen |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **groeve** |
-| Definitie | Opengegraven ruimte waaruit een delfstof gewonnen wordt |
+| Omschrijving | Opengegraven ruimte waaruit een delfstof gewonnen wordt |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **haven** |
-| Definitie | Lig- en bergplaats voor vaartuigen, inclusief het omliggende terrein |
+| Omschrijving | Lig- en bergplaats voor vaartuigen, inclusief het omliggende terrein |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **heemtuin** |
-| Definitie | Tuin waar de inheemse flora en fauna ter instructie te bezichtigen zijn |
+| Omschrijving | Tuin waar de inheemse flora en fauna ter instructie te bezichtigen zijn |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **helikopterlandingsterrein** |
-| Definitie | Terrein dat als landings- en vertrekplaats dient voor helikopters |
+| Omschrijving | Terrein dat als landings- en vertrekplaats dient voor helikopters |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **infiltratiegebied** |
-| Definitie | Gebied waar water wordt gezuiverd door infiltratie t.b.v. de drinkwatervoorziening. |
+| Omschrijving | Gebied waar water wordt gezuiverd door infiltratie t.b.v. de drinkwatervoorziening. |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **jachthaven** |
-| Definitie | Lig- en bergplaats voor pleziervaartuigen, tezamen met het omliggende terrein |
+| Omschrijving | Lig- en bergplaats voor pleziervaartuigen, tezamen met het omliggende terrein |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **kartingbaan** |
-| Definitie | Baan waarop met skelters of karts  gereden wordt |
+| Omschrijving | Baan waarop met skelters of karts  gereden wordt |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **kassengebied** |
-| Definitie | Gebied bestaande uit meerdere landbouwkassen |
+| Omschrijving | Gebied bestaande uit meerdere landbouwkassen |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **kazerne, legerplaats** |
-| Definitie | Gebouw(-encomplex) bestemd tot huisvesting van soldaten |
+| Omschrijving | Gebouw(-encomplex) bestemd tot huisvesting van soldaten |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **landgoed** |
-| Definitie | Buitenverblijf met omliggende landerijen |
+| Omschrijving | Buitenverblijf met omliggende landerijen |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **mijn** |
-| Definitie | Plaats waar ertsen, steenkool, enz. worden gedolven |
+| Omschrijving | Plaats waar ertsen, steenkool, enz. worden gedolven |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **milieustraat** |
-| Definitie | Een locatie die specifiek bestemd is voor het brengen van gescheiden huishoudelijk afval en grofvuil. |
+| Omschrijving | Een locatie die specifiek bestemd is voor het brengen van gescheiden huishoudelijk afval en grofvuil. |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **militair oefengebied, schietterrein** |
-| Definitie | Militair kamp voor het houden van schietoefeningen met zware vuurwapens (artillerie schietkamp). / Terrein ingericht voor het schieten op doelen (schietkamp). / Terrein waar militairen oefenen (militair oefenterrein). |
+| Omschrijving | Militair kamp voor het houden van schietoefeningen met zware vuurwapens (artillerie schietkamp). / Terrein ingericht voor het schieten op doelen (schietkamp). / Terrein waar militairen oefenen (militair oefenterrein). |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **mosselbank** |
-| Definitie | Plaats waar mosselen gekweekt worden. |
+| Omschrijving | Plaats waar mosselen gekweekt worden. |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **nationaal park** |
-| Definitie | Een door de rijksoverheid aangewezen terrein van nationale landschappelijke betekenis |
+| Omschrijving | Een door de rijksoverheid aangewezen terrein van nationale landschappelijke betekenis |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **natuurgebied, natuurreservaat** |
-| Definitie | Gebied dat waarde heeft uit een oogpunt van natuurschoon of natuurleven (natuurgebied). / Gebied waarin flora, fauna, enz. beschermd worden (natuurreservaat). |
+| Omschrijving | Gebied dat waarde heeft uit een oogpunt van natuurschoon of natuurleven (natuurgebied). / Gebied waarin flora, fauna, enz. beschermd worden (natuurreservaat). |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **natuurgebied** |
-| Definitie | Gebied dat waarde heeft uit een oogpunt van natuurschoon of natuurleven |
+| Omschrijving | Gebied dat waarde heeft uit een oogpunt van natuurschoon of natuurleven |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **oliewinning** |
-| Definitie | Installatie t.b.v. de winning of transport van aardolie. |
+| Omschrijving | Installatie t.b.v. de winning of transport van aardolie. |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **openluchtmuseum** |
-| Definitie | Historisch museum in de open lucht, waarin de vroegere woon- en werkomgeving van de mens is gereconstrueerd |
+| Omschrijving | Historisch museum in de open lucht, waarin de vroegere woon- en werkomgeving van de mens is gereconstrueerd |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **openluchttheater** |
-| Definitie | Plaats waar toneelvoorstellingen in de openlucht plaatsvinden |
+| Omschrijving | Plaats waar toneelvoorstellingen in de openlucht plaatsvinden |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **park** |
-| Definitie | Een op zichzelf staande groenvoorziening, dienend ter verfraaiing en/of verlevendiging van één of meerdere wijken, zonder hiervan direct deel uit te maken |
+| Omschrijving | Een op zichzelf staande groenvoorziening, dienend ter verfraaiing en/of verlevendiging van één of meerdere wijken, zonder hiervan direct deel uit te maken |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **plantsoen** |
-| Definitie | Kleinschalige groenvoorziening, soms met wandel- en speelmogelijkheden, temidden van bebouwing, ter verfraaiing en verlevendiging van deze bebouwing. |
+| Omschrijving | Kleinschalige groenvoorziening, soms met wandel- en speelmogelijkheden, temidden van bebouwing, ter verfraaiing en verlevendiging van deze bebouwing. |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **productie-installatie** |
-| Definitie | Het geheel van reactorvaten, kolommen, aan- en afvoerpijpen, bebouwing etc. t.b.v. de vervaardiging van chemische producten. |
+| Omschrijving | Het geheel van reactorvaten, kolommen, aan- en afvoerpijpen, bebouwing etc. t.b.v. de vervaardiging van chemische producten. |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **recreatiegebied** |
-| Definitie | Terrein bedoeld voor vrijetijdsbesteding |
+| Omschrijving | Terrein bedoeld voor vrijetijdsbesteding |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **renbaan** |
-| Definitie | Het geheel aan gebouwen en installaties bedoeld voor draf- of renwedstrijden |
+| Omschrijving | Het geheel aan gebouwen en installaties bedoeld voor draf- of renwedstrijden |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **skibaan** |
-| Definitie | Terrein ingericht voor het beoefenen van de skisport |
+| Omschrijving | Terrein ingericht voor het beoefenen van de skisport |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **slipschool** |
-| Definitie | Rijschool waar men een slippend voertuig leert beheersen |
+| Omschrijving | Rijschool waar men een slippend voertuig leert beheersen |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **sluizencomplex** |
-| Definitie | Het geheel aan voorzieningen, zoals gebouwen, terreinen, etc., behorende tot een sluizencomplex (ook schutsluizen en uitwateringssluizen |
+| Omschrijving | Het geheel aan voorzieningen, zoals gebouwen, terreinen, etc., behorende tot een sluizencomplex (ook schutsluizen en uitwateringssluizen |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **sportterrein, sportcomplex** |
-| Definitie | Het geheel aan voorzieningen (velden, kleedruimten, groenvoorziening, parkeerterrein, wegen, tribunes, etc.) t.b.v. de beoefening van sport |
+| Omschrijving | Het geheel aan voorzieningen (velden, kleedruimten, groenvoorziening, parkeerterrein, wegen, tribunes, etc.) t.b.v. de beoefening van sport |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **stortplaats** |
-| Definitie | Plaats waar afval gestort mag worden |
+| Omschrijving | Plaats waar afval gestort mag worden |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **tennispark** |
-| Definitie | Terrein ingericht voor de beoefening van de tennissport |
+| Omschrijving | Terrein ingericht voor de beoefening van de tennissport |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **transformatorstation** |
-| Definitie | Gebied met installatie(s) voor het transformeren van elektrische stroom |
+| Omschrijving | Gebied met installatie(s) voor het transformeren van elektrische stroom |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **tuincentrum** |
-| Definitie | Het geheel aan bebouwing en omliggend terrein t.b.v. de (particuliere) verkoop van artikelen voor tuinaanleg |
+| Omschrijving | Het geheel aan bebouwing en omliggend terrein t.b.v. de (particuliere) verkoop van artikelen voor tuinaanleg |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **vakantiepark** |
-| Definitie | Een terrein met voorzieningen t.b.v. verblijfsrecreatie, waarop een combinatie van bungalows en / of stacaravans en / of kampeerplaatsen voorkomt |
+| Omschrijving | Een terrein met voorzieningen t.b.v. verblijfsrecreatie, waarop een combinatie van bungalows en / of stacaravans en / of kampeerplaatsen voorkomt |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **verdedigingswerk** |
-| Definitie | Historisch verdedigingswerk, al dan niet voorzien van een of meer (door aarde bedekte) gebouwen of ruïnes |
+| Omschrijving | Historisch verdedigingswerk, al dan niet voorzien van een of meer (door aarde bedekte) gebouwen of ruïnes |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **verzorgingsplaats** |
-| Definitie | Locatie langs een autosnelweg  of hoofdweg met een parkeerfunctie, meestal in combinatie met een brandstofverkooppunt en soms aangevuld met een wegrestaurant |
+| Omschrijving | Locatie langs een autosnelweg  of hoofdweg met een parkeerfunctie, meestal in combinatie met een brandstofverkooppunt en soms aangevuld met een wegrestaurant |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **viskwekerij** |
-| Definitie | Terrein met bassins, aangelegd voor het kweken van vis. |
+| Omschrijving | Terrein met bassins, aangelegd voor het kweken van vis. |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **visvijvercomplex** |
-| Definitie | Het geheel aan voorzieningen t.b.v. sportvissen |
+| Omschrijving | Het geheel aan voorzieningen t.b.v. sportvissen |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **vliegveld, luchthaven** |
-| Definitie | Vliegveld voor verkeersvliegtuigen met groot, effen terrein met al dan niet verharde banen, waar vliegtuigen kunnen opstijgen en landen, eventueel met accomodatie voor ontvangst en vertrek van passagiers en verzending van goederen. |
+| Omschrijving | Vliegveld voor verkeersvliegtuigen met groot, effen terrein met al dan niet verharde banen, waar vliegtuigen kunnen opstijgen en landen, eventueel met accomodatie voor ontvangst en vertrek van passagiers en verzending van goederen. |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **volkstuinen** |
-| Definitie | Het geheel aan voorzieningen t.b.v. hobbytuinbouw |
+| Omschrijving | Het geheel aan voorzieningen t.b.v. hobbytuinbouw |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **waterkering** |
-| Definitie | Geheel van een dijk of dam, inclusief talud |
+| Omschrijving | Geheel van een dijk of dam, inclusief talud |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **werf** |
-| Definitie | Werkplaats waar schepen worden gebouwd of hersteld. |
+| Omschrijving | Werkplaats waar schepen worden gebouwd of hersteld. |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **wildwissel** |
-| Definitie | Civieltechnisch kunstwerk om dieren een veilige oversteek te bieden over of onder een weg. |
+| Omschrijving | Civieltechnisch kunstwerk om dieren een veilige oversteek te bieden over of onder een weg. |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **windturbinepark** |
-| Definitie | Concentratie van windturbines |
+| Omschrijving | Concentratie van windturbines |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **woonwagencentrum** |
-| Definitie | Plaats waar gewoond wordt in woonwagens. |
+| Omschrijving | Plaats waar gewoond wordt in woonwagens. |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **ijsbaan** |
-| Definitie | Voorziening in de open lucht waar in de winter geschaatst kan worden |
+| Omschrijving | Voorziening in de open lucht waar in de winter geschaatst kan worden |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **zandwinning** |
-| Definitie | Gebied waar winning van zand plaatsvindt door middel van zuigen |
+| Omschrijving | Gebied waar winning van zand plaatsvindt door middel van zuigen |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **zenderpark** |
-| Definitie | Gebied waar meerdere zendmasten staan opgesteld |
+| Omschrijving | Gebied waar meerdere zendmasten staan opgesteld |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **ziekenhuiscomplex** |
-| Definitie | Het geheel van gebouwen die tesamen een ziekenhuis vormen |
+| Omschrijving | Het geheel van gebouwen die tesamen een ziekenhuis vormen |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **zonnepark** |
-| Definitie | Gebied ten behoeve van de opwekking van zonne-energie of zonnewarmte. |
+| Omschrijving | Gebied ten behoeve van de opwekking van zonne-energie of zonnewarmte. |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **zoutwinning** |
-| Definitie | Gebied waar zoutwinning plaatsvindt. |
+| Omschrijving | Gebied waar zoutwinning plaatsvindt. |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **zuiveringsinstallatie** |
-| Definitie | Het gebied omvattende het geheel aan voorzieningen t.b.v. de zuivering van afvalwater |
+| Omschrijving | Het gebied omvattende het geheel aan voorzieningen t.b.v. de zuivering van afvalwater |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **zweefvliegveldterrein** |
-| Definitie | Het geheel aan terreinen, gebouwen enz.  voor (de beoefening van) de zweefvliegsport |
+| Omschrijving | Het geheel aan terreinen, gebouwen enz.  voor (de beoefening van) de zweefvliegsport |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **zwembad complex** |
-| Definitie | Het geheel aan voorzieningen rond een openbaar zwembad |
+| Omschrijving | Het geheel aan voorzieningen rond een openbaar zwembad |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **zwembadcomplex** |
-| Definitie | Het geheel aan voorzieningen rond een openbaar zwembad |
+| Omschrijving | Het geheel aan voorzieningen rond een openbaar zwembad |
+| Inwinningscriteria | - |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **overig** |
-| Definitie | Het type functioneelgebied is bekend, maar anders dan de genoemde waarden |
+| Omschrijving | Het type functioneelgebied is bekend, maar anders dan de genoemde waarden |
+| Inwinningscriteria | - |
 
 ### Domein "Fysiek Voorkomen"
 Product "T10"  
@@ -493,12 +584,14 @@ Domein "Fysiek Voorkomen"
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **ondergronds** |
-| Definitie | Gebouw gelegen onder het maaiveld |
+| Omschrijving | Gebouw gelegen onder het maaiveld |
+| Inwinningscriteria | - |
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **overkluisd** |
-| Definitie | Gebouw overbouwd door andere bebouwing |
+| Omschrijving | Gebouw overbouwd door andere bebouwing |
+| Inwinningscriteria | - |
 
 ### Domein "Gebruiksdoel"
 Product "T10"  
@@ -508,57 +601,68 @@ Domein "Gebruiksdoel"
 | Domein | Gebruiksdoel |
 |:---|:---|
 | Domeinwaarde | **bijeenkomstfunctie** |
-| Definitie | Gebouw waar bijeenkomsten voor personen kunnnen worden georganiseerd. |
+| Omschrijving | Gebouw waar bijeenkomsten voor personen kunnnen worden georganiseerd. |
+| Inwinningscriteria | - |
 
 | Domein | Gebruiksdoel |
 |:---|:---|
 | Domeinwaarde | **celfunctie** |
-| Definitie | Gebouw waar personen in bewaring kunnen worden gesteld. |
+| Omschrijving | Gebouw waar personen in bewaring kunnen worden gesteld. |
+| Inwinningscriteria | - |
 
 | Domein | Gebruiksdoel |
 |:---|:---|
 | Domeinwaarde | **gezondheidszorgfunctie** |
-| Definitie | Gebouw waar lichamelijke of geestelijke gezondheidszorg kan worden verleend. |
+| Omschrijving | Gebouw waar lichamelijke of geestelijke gezondheidszorg kan worden verleend. |
+| Inwinningscriteria | - |
 
 | Domein | Gebruiksdoel |
 |:---|:---|
 | Domeinwaarde | **industriefunctie** |
-| Definitie | Gebouw waar industriële activiteiten plaatsvinden. |
+| Omschrijving | Gebouw waar industriële activiteiten plaatsvinden. |
+| Inwinningscriteria | - |
 
 | Domein | Gebruiksdoel |
 |:---|:---|
 | Domeinwaarde | **kantoorfunctie** |
-| Definitie | Gebouw waar administratieve handelingen plaatsvinden. |
+| Omschrijving | Gebouw waar administratieve handelingen plaatsvinden. |
+| Inwinningscriteria | - |
 
 | Domein | Gebruiksdoel |
 |:---|:---|
 | Domeinwaarde | **logiesfunctie** |
-| Definitie | Gebouw waar de mogelijkheid aanwezig is om overnachtingsmogelijkheden aan te bieden. |
+| Omschrijving | Gebouw waar de mogelijkheid aanwezig is om overnachtingsmogelijkheden aan te bieden. |
+| Inwinningscriteria | - |
 
 | Domein | Gebruiksdoel |
 |:---|:---|
 | Domeinwaarde | **onderwijsfunctie** |
-| Definitie | Gebouw waar onderwijsfaciliteiten worden aangeboden. |
+| Omschrijving | Gebouw waar onderwijsfaciliteiten worden aangeboden. |
+| Inwinningscriteria | - |
 
 | Domein | Gebruiksdoel |
 |:---|:---|
 | Domeinwaarde | **sportfunctie** |
-| Definitie | Gebouw waar sportieve activiteiten kunnen worden ontplooid. |
+| Omschrijving | Gebouw waar sportieve activiteiten kunnen worden ontplooid. |
+| Inwinningscriteria | - |
 
 | Domein | Gebruiksdoel |
 |:---|:---|
 | Domeinwaarde | **winkelfunctie** |
-| Definitie | Gebouw waar allerhanden roerende of onroerende goederen al dan niet tegen betaling worden aangeboden. |
+| Omschrijving | Gebouw waar allerhanden roerende of onroerende goederen al dan niet tegen betaling worden aangeboden. |
+| Inwinningscriteria | - |
 
 | Domein | Gebruiksdoel |
 |:---|:---|
 | Domeinwaarde | **woonfunctie** |
-| Definitie | Gebouw geschikt voor permanente bewoning |
+| Omschrijving | Gebouw geschikt voor permanente bewoning |
+| Inwinningscriteria | - |
 
 | Domein | Gebruiksdoel |
 |:---|:---|
 | Domeinwaarde | **overige gebruiksfunctie** |
-| Definitie | Indien geen van bovengenoemde functies van toepassing is. |
+| Omschrijving | Indien geen van bovengenoemde functies van toepassing is. |
+| Inwinningscriteria | - |
 
 ### Domein "Hoogteklasse"
 Product "T10"  
@@ -568,12 +672,14 @@ Domein "Hoogteklasse"
 | Domein | Hoogteklasse |
 |:---|:---|
 | Domeinwaarde | **laagbouw** |
-| Definitie | Bebouwing met een hoogte van 35 meter of lager en bestaande uit minder dan 10 woonlagen. |
+| Omschrijving | Bebouwing met een hoogte van 35 meter of lager en bestaande uit minder dan 10 woonlagen. |
+| Inwinningscriteria | - |
 
 | Domein | Hoogteklasse |
 |:---|:---|
 | Domeinwaarde | **hoogbouw** |
-| Definitie | Gebouwen (als zelfstandige eenheid of onderdeel van een groter gebouw) hoger dan 35  meter of bestaande uit 10 of meer woonlagen |
+| Omschrijving | Gebouwen (als zelfstandige eenheid of onderdeel van een groter gebouw) hoger dan 35  meter of bestaande uit 10 of meer woonlagen |
+| Inwinningscriteria | - |
 
 ### Domein "Type Gebouw"
 Product "T10"  
@@ -583,407 +689,488 @@ Domein "Type Gebouw"
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **bezoekerscentrum** |
-| Definitie | Informatiecentrum in een culturele instelling, een natuurpark, enz. |
+| Omschrijving | Informatiecentrum in een culturele instelling, een natuurpark, enz. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **boortoren** |
-| Definitie | Tijdelijke of permanente toren voor het verrichten van boorwerkzaamheden |
+| Omschrijving | Tijdelijke of permanente toren voor het verrichten van boorwerkzaamheden |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **brandtoren** |
-| Definitie | Toren t.b.v. het signaleren van een (bos)brand. |
+| Omschrijving | Toren t.b.v. het signaleren van een (bos)brand. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **brandweerkazerne** |
-| Definitie | Gebouw voor het stationeren van materieel en manschappen t.b.v. brandbestrijding |
+| Omschrijving | Gebouw voor het stationeren van materieel en manschappen t.b.v. brandbestrijding |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **bunker** |
-| Definitie | Versterkte (schuil)plaats te gebruiken in tijden van oorlog of ramp zowel voor burger- als militaire doeleinden. Kan ook (gedeeltelijk) ondergronds gelegen zijn. |
+| Omschrijving | Versterkte (schuil)plaats te gebruiken in tijden van oorlog of ramp zowel voor burger- als militaire doeleinden. Kan ook (gedeeltelijk) ondergronds gelegen zijn. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **crematorium** |
-| Definitie | Gebouw dat dient voor lijkverbranding. |
+| Omschrijving | Gebouw dat dient voor lijkverbranding. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **dok** |
-| Definitie | Installatie voor onderhoud en herstel van schepen. |
+| Omschrijving | Installatie voor onderhoud en herstel van schepen. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **elektriciteitscentrale** |
-| Definitie | Gebouw waarin elektriciteit wordt opgewekt |
+| Omschrijving | Gebouw waarin elektriciteit wordt opgewekt |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **fabriek** |
-| Definitie | Industriële onderneming waarin op grote schaal stoffen of goederen worden geproduceerd |
+| Omschrijving | Industriële onderneming waarin op grote schaal stoffen of goederen worden geproduceerd |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **fort** |
-| Definitie | Verdedigingswerk. |
+| Omschrijving | Verdedigingswerk. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **gemaal** |
-| Definitie | Installatie om water omhoog te pompen uit een polder of een kanaal. |
+| Omschrijving | Installatie om water omhoog te pompen uit een polder of een kanaal. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **gemeentehuis** |
-| Definitie | Gebouw waarin de gemeentelijke secretarie gevestigd is. |
+| Omschrijving | Gebouw waarin de gemeentelijke secretarie gevestigd is. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **gevangenis** |
-| Definitie | Gebouwen waarin personen in verzekerde bewaring worden gesteld |
+| Omschrijving | Gebouwen waarin personen in verzekerde bewaring worden gesteld |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **hotel** |
-| Definitie | Gebouw ten behoeve van de overnachting van reizigers. |
+| Omschrijving | Gebouw ten behoeve van de overnachting van reizigers. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **huizenblok** |
-| Definitie | Terrein, volledig of nagenoeg volledig bedekt met bebouwing (niet zijnde lintbebouwing of grote boerderijen met bijbehorende stallen), gelegen in stedelijk/verstedelijkt gebied, waarbij de bebouwing naar alle zijden aaneengesloten is en waar men vanaf de openbare weg van eventuele binnenplaatsen en -tuinen weinig of niets kan zien. |
+| Omschrijving | Terrein, volledig of nagenoeg volledig bedekt met bebouwing (niet zijnde lintbebouwing of grote boerderijen met bijbehorende stallen), gelegen in stedelijk/verstedelijkt gebied, waarbij de bebouwing naar alle zijden aaneengesloten is en waar men vanaf de openbare weg van eventuele binnenplaatsen en -tuinen weinig of niets kan zien. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **kapel** |
-| Definitie | Gebouwtje dat dient doet als bidruimte. |
+| Omschrijving | Gebouwtje dat dient doet als bidruimte. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **kas, warenhuis** |
-| Definitie | Voornamelijk uit glas opgebouwde overbouwing van de grond ten behoeve van landbouw |
+| Omschrijving | Voornamelijk uit glas opgebouwde overbouwing van de grond ten behoeve van landbouw |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **kasteel** |
-| Definitie | Versterkt gebouw ofburcht. |
+| Omschrijving | Versterkt gebouw ofburcht. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **kerk** |
-| Definitie | Bebouwing bedoeld voor christelijke erediensten |
+| Omschrijving | Bebouwing bedoeld voor christelijke erediensten |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **kerncentrale, kernreactor** |
-| Definitie | Centrale die met kernenergie elektriciteit opwekt (kerncentrale) / Installatie voor het splijten of fuseren van atoomkernen, atoomreactor (kernreactor). |
+| Omschrijving | Centrale die met kernenergie elektriciteit opwekt (kerncentrale) / Installatie voor het splijten of fuseren van atoomkernen, atoomreactor (kernreactor). |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **kliniek, inrichting, sanatorium** |
-| Definitie | Inrichting waar patiënten worden verpleegd (kliniek). / Herstellingsoord (sanatorium). |
+| Omschrijving | Inrichting waar patiënten worden verpleegd (kliniek). / Herstellingsoord (sanatorium). |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **klokkentoren** |
-| Definitie | Toren t.b.v. de ophanging van een uurwerk en/of klokkenspel. |
+| Omschrijving | Toren t.b.v. de ophanging van een uurwerk en/of klokkenspel. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **klooster, abdij** |
-| Definitie | Gebouw bedoeld voor de huisvesting en eventueel het voorzien in levensonderhoud van een geloofsgemeenschap. |
+| Omschrijving | Gebouw bedoeld voor de huisvesting en eventueel het voorzien in levensonderhoud van een geloofsgemeenschap. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **koeltoren** |
-| Definitie | Torenvormig bouwsel voor het afkoelen van gassen of dampen |
+| Omschrijving | Torenvormig bouwsel voor het afkoelen van gassen of dampen |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **koepel** |
-| Definitie | Bolvormige constructie als dak van een gebouw. |
+| Omschrijving | Bolvormige constructie als dak van een gebouw. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **kunstijsbaan** |
-| Definitie | Gebouw voorzien van een installatie waarmee een ijsvloer kan worden gelegd. |
+| Omschrijving | Gebouw voorzien van een installatie waarmee een ijsvloer kan worden gelegd. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **lichttoren** |
-| Definitie | Toren als drager van een ter oriëntatie dienend licht, met name langs de kust. Het lichtpatroon van een lichttoren is niet uniek t.o.v. andere lichttorens. |
+| Omschrijving | Toren als drager van een ter oriëntatie dienend licht, met name langs de kust. Het lichtpatroon van een lichttoren is niet uniek t.o.v. andere lichttorens. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **luchtwachttoren** |
-| Definitie | Toren vroeger gebruikt t.b.v. het bewaken van het luchtruim. |
+| Omschrijving | Toren vroeger gebruikt t.b.v. het bewaken van het luchtruim. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **manege** |
-| Definitie | Besloten plaats tot beoefening van het paardrijden. |
+| Omschrijving | Besloten plaats tot beoefening van het paardrijden. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **markant gebouw** |
-| Definitie | Gebouw dat sterk opvalt ten opzichte van zijn omgeving |
+| Omschrijving | Gebouw dat sterk opvalt ten opzichte van zijn omgeving |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **militair gebouw** |
-| Definitie | Gebouw in gebruik voor militaire doeleinden. |
+| Omschrijving | Gebouw in gebruik voor militaire doeleinden. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **moskee** |
-| Definitie | Bebouwing bedoeld voor islamitische geloofsuitoefening |
+| Omschrijving | Bebouwing bedoeld voor islamitische geloofsuitoefening |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **museum** |
-| Definitie | Gebouw waarin voorwerpen van kunst of wetenschap bijeen zijn gebracht en (ten minste voor een gedeelte) voortdurend uitgestald worden. |
+| Omschrijving | Gebouw waarin voorwerpen van kunst of wetenschap bijeen zijn gebracht en (ten minste voor een gedeelte) voortdurend uitgestald worden. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **observatorium** |
-| Definitie | Gebouw t.b.v. het doen van waarnemingen in de ruimte |
+| Omschrijving | Gebouw t.b.v. het doen van waarnemingen in de ruimte |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **overig religieus gebouw** |
-| Definitie | Bebouwing bedoeld voor geloofsuitoefening, niet zijnde een kerk, moskee en synagoge |
+| Omschrijving | Bebouwing bedoeld voor geloofsuitoefening, niet zijnde een kerk, moskee en synagoge |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **paleis** |
-| Definitie | Gebouw met een openbare of cermoniële functie heeft voor gebruik door de koninkljke familie |
+| Omschrijving | Gebouw met een openbare of cermoniële functie heeft voor gebruik door de koninkljke familie |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **parkeerdak, parkeerdek, parkeergarage** |
-| Definitie | Al dan niet open bebouwing, geheel of gedeeltelijk (het dak of een van de onderliggende etages) in gebruik als openbare voorziening voor het parkeren van motorvoertuigen. |
+| Omschrijving | Al dan niet open bebouwing, geheel of gedeeltelijk (het dak of een van de onderliggende etages) in gebruik als openbare voorziening voor het parkeren van motorvoertuigen. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **peilmeetstation** |
-| Definitie | Installatie die informatie geeft over de landelijke/regionale waterstanden via het Monitoring Systeem Water (MSW). De installatie is voorzien van een Digitaal Niveau Meter (DNM). |
+| Omschrijving | Installatie die informatie geeft over de landelijke/regionale waterstanden via het Monitoring Systeem Water (MSW). De installatie is voorzien van een Digitaal Niveau Meter (DNM). |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **politiebureau** |
-| Definitie | Gebouw waarin een kantoor of bezoeklocatie van de politie is gevestigd. |
+| Omschrijving | Gebouw waarin een kantoor of bezoeklocatie van de politie is gevestigd. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **pompstation** |
-| Definitie | Installatie waarmee een vloeistof op- of doorgepompt wordt. |
+| Omschrijving | Installatie waarmee een vloeistof op- of doorgepompt wordt. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **postkantoor** |
-| Definitie | Kantoor waar men administratieve handelingen kan verrichten ten behoeve van postverzending, giro e.d |
+| Omschrijving | Kantoor waar men administratieve handelingen kan verrichten ten behoeve van postverzending, giro e.d |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **psychiatrisch ziekenhuis, psychiatrisch centrum** |
-| Definitie | Verzorgingstehuis voor geesteszieken. |
+| Omschrijving | Verzorgingstehuis voor geesteszieken. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **radarpost** |
-| Definitie | Plaats waar waarnemingen worden gedaan met behulp van radar, m.n. om vliegtuigen en scheepsbewegingen te observeren. |
+| Omschrijving | Plaats waar waarnemingen worden gedaan met behulp van radar, m.n. om vliegtuigen en scheepsbewegingen te observeren. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **radartoren** |
-| Definitie | Toren t.b.v. radarsignalering c.q. radargeleiding. |
+| Omschrijving | Toren t.b.v. radarsignalering c.q. radargeleiding. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **radiotoren, televisietoren** |
-| Definitie | Toren t.b.v. het verspreiden van radio- en televisiesignalen. |
+| Omschrijving | Toren t.b.v. het verspreiden van radio- en televisiesignalen. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **recreatiecentrum** |
-| Definitie | Terrein van min of meer beperkte omvang, bedoeld voor vrijetijdsbesteding. |
+| Omschrijving | Terrein van min of meer beperkte omvang, bedoeld voor vrijetijdsbesteding. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **reddingboothuisje** |
-| Definitie | Plaats waar een reddingboot beschikbaar is. |
+| Omschrijving | Plaats waar een reddingboot beschikbaar is. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **remise** |
-| Definitie | Wagenloods voor openbare vervoermiddelen |
+| Omschrijving | Wagenloods voor openbare vervoermiddelen |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **ruïne** |
-| Definitie | Overblijfsel van een verwoest of door ouderdom vervallen gebouw |
+| Omschrijving | Overblijfsel van een verwoest of door ouderdom vervallen gebouw |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **schaapskooi** |
-| Definitie | Stal voor schapen |
+| Omschrijving | Stal voor schapen |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **school** |
-| Definitie | Gebouw in gebruik voor basis, middelbaar of hoger onderwijs |
+| Omschrijving | Gebouw in gebruik voor basis, middelbaar of hoger onderwijs |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **schoorsteen** |
-| Definitie | Pijp voor het afvoeren van verbrandingsgassen |
+| Omschrijving | Pijp voor het afvoeren van verbrandingsgassen |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **silo** |
-| Definitie | Gebouw in gebruik als opslagplaats voor stort- of bulkgoederen |
+| Omschrijving | Gebouw in gebruik als opslagplaats voor stort- of bulkgoederen |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **sporthal** |
-| Definitie | Grootschalige voorziening met een meer regionale uitstraling en meerdere velden tbv verschillende of een specifieke tak van sport. |
+| Omschrijving | Grootschalige voorziening met een meer regionale uitstraling en meerdere velden tbv verschillende of een specifieke tak van sport. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **stadion** |
-| Definitie | Gebouw met tribunes en een sportveld voor het beoefenen van sport, in het bijzonder voor het houden van grote wedstrijden. |
+| Omschrijving | Gebouw met tribunes en een sportveld voor het beoefenen van sport, in het bijzonder voor het houden van grote wedstrijden. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **stadskantoor, hulpsecretarie** |
-| Definitie | Bureau waar gemeentelijke instellingen, bijvoorbeeld de burgerlijke stand, gevestigd zijn. |
+| Omschrijving | Bureau waar gemeentelijke instellingen, bijvoorbeeld de burgerlijke stand, gevestigd zijn. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **stationsgebouw** |
-| Definitie | Een gebouw dat speciaal bedoeld is voor het bedienen van treinreizigers |
+| Omschrijving | Een gebouw dat speciaal bedoeld is voor het bedienen van treinreizigers |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **synagoge** |
-| Definitie | Bebouwing bedoeld voor joodse geloofsuitoefening |
+| Omschrijving | Bebouwing bedoeld voor joodse geloofsuitoefening |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **tank** |
-| Definitie | Rond bouwwerk t.b.v. opslag van vloeistof |
+| Omschrijving | Rond bouwwerk t.b.v. opslag van vloeistof |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **tankstation** |
-| Definitie | Inrichting waar motorbrandstof, olie, lucht en koelwater kunnen worden verkregen. |
+| Omschrijving | Inrichting waar motorbrandstof, olie, lucht en koelwater kunnen worden verkregen. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **telecommunicatietoren** |
-| Definitie | Toren t.b.v. datacommunicatie |
+| Omschrijving | Toren t.b.v. datacommunicatie |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **tol** |
-| Definitie | Een tol is een gebouw aan een verkeers- of waterweg waar tol wordt geheven |
+| Omschrijving | Een tol is een gebouw aan een verkeers- of waterweg waar tol wordt geheven |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **toren** |
-| Definitie | Vrijstaand bouwwerk van grote hoogte in verhouding tot de doorsnede |
+| Omschrijving | Vrijstaand bouwwerk van grote hoogte in verhouding tot de doorsnede |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **transformatorstation** |
-| Definitie | Installatie voor het transformeren van elektrische stroom. |
+| Omschrijving | Installatie voor het transformeren van elektrische stroom. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **uitzichttoren** |
-| Definitie | Toren t.b.v. de recreatie |
+| Omschrijving | Toren t.b.v. de recreatie |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **universiteit** |
-| Definitie | Instelling voor wetenschappelijk onderwijs |
+| Omschrijving | Instelling voor wetenschappelijk onderwijs |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **veiling** |
-| Definitie | Gebouw waar goederen openbaar worden geveild |
+| Omschrijving | Gebouw waar goederen openbaar worden geveild |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **verkeerstoren** |
-| Definitie | Toren t.b.v. verkeersregulatie te land, ter zee of in de lucht |
+| Omschrijving | Toren t.b.v. verkeersregulatie te land, ter zee of in de lucht |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **vuurtoren** |
-| Definitie | Toren als drager van een ter oriëntatie dienend licht, met name langs de kust. Het lichtpatroon van de vuurtoren is uniek t.o.v. elke andere vuurtoren of lichttoren. |
+| Omschrijving | Toren als drager van een ter oriëntatie dienend licht, met name langs de kust. Het lichtpatroon van de vuurtoren is uniek t.o.v. elke andere vuurtoren of lichttoren. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **waterradmolen** |
-| Definitie | Bebouwing t.b.v. het verrichten van arbeid, waarvoor de energie geleverd wordt door stromend water en opgenomen door middel van een schoepenrad. |
+| Omschrijving | Bebouwing t.b.v. het verrichten van arbeid, waarvoor de energie geleverd wordt door stromend water en opgenomen door middel van een schoepenrad. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **watertoren** |
-| Definitie | Toren (oorspronkelijk) bedoeld voor de opslag van drinkwater |
+| Omschrijving | Toren (oorspronkelijk) bedoeld voor de opslag van drinkwater |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **wegrestaurant** |
-| Definitie | Restaurant op verzorgingsplaats langs autosnelweg of hoofdweg |
+| Omschrijving | Restaurant op verzorgingsplaats langs autosnelweg of hoofdweg |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **werf** |
-| Definitie | Werkplaats waar schepen worden gebouwd of hersteld |
+| Omschrijving | Werkplaats waar schepen worden gebouwd of hersteld |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **windmolen** |
-| Definitie | Bebouwing t.b.v. het verrichten van arbeid (m.u.v. het opwekken van elektrische energie, het malen van granen en het opvijzelen van water), waarvoor de energie geleverd wordt door wind en opgenomen door middel van wieken |
+| Omschrijving | Bebouwing t.b.v. het verrichten van arbeid (m.u.v. het opwekken van elektrische energie, het malen van granen en het opvijzelen van water), waarvoor de energie geleverd wordt door wind en opgenomen door middel van wieken |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **windmolen: korenmolen** |
-| Definitie | Bebouwing t.b.v. het malen van granen, waarvoor de energie geleverd wordt door wind en opgenomen door middel van wieken. |
+| Omschrijving | Bebouwing t.b.v. het malen van granen, waarvoor de energie geleverd wordt door wind en opgenomen door middel van wieken. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **windmolen: watermolen** |
-| Definitie | Bebouwing t.b.v. het opvijzelen van water, waarvoor de energie geleverd wordt door wind en opgenomen door middel van wieken. |
+| Omschrijving | Bebouwing t.b.v. het opvijzelen van water, waarvoor de energie geleverd wordt door wind en opgenomen door middel van wieken. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **windturbine** |
-| Definitie | Bebouwing t.b.v. het opwekken van elektrische energie, waarvoor de energie geleverd wordt door wind en opgenomen door middel van wieken. |
+| Omschrijving | Bebouwing t.b.v. het opwekken van elektrische energie, waarvoor de energie geleverd wordt door wind en opgenomen door middel van wieken. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **zendtoren** |
-| Definitie | Toren met een zendantenne |
+| Omschrijving | Toren met een zendantenne |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **ziekenhuis** |
-| Definitie | Instelling voor onderzoek, behandeling en verpleging van patiënten. |
+| Omschrijving | Instelling voor onderzoek, behandeling en verpleging van patiënten. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **zwembad** |
-| Definitie | Gebouw met zwemfunctionaliteit of een zwembassin, openbaar toegankelijk. |
+| Omschrijving | Gebouw met zwemfunctionaliteit of een zwembassin, openbaar toegankelijk. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **overig** |
-| Definitie | De waarde van het objectkenmerk is bekend, maar anders dan de genoemde waarden. |
+| Omschrijving | De waarde van het objectkenmerk is bekend, maar anders dan de genoemde waarden. |
+| Inwinningscriteria | - |
 
 ### Domein "Type Geografisch Gebied"
 Product "T10"  
@@ -993,82 +1180,98 @@ Domein "Type Geografisch Gebied"
 | Domein | Type Geografisch Gebied |
 |:---|:---|
 | Domeinwaarde | **bank, ondiepte, plaat** |
-| Definitie | Geheel of gedeeltelijk droogvallende grond (bank). / Ondiepe plaats in een vaarwater (ondiepte). / Zandbank (plaat). |
+| Omschrijving | Geheel of gedeeltelijk droogvallende grond (bank). / Ondiepe plaats in een vaarwater (ondiepte). / Zandbank (plaat). |
+| Inwinningscriteria | - |
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
 | Domeinwaarde | **bosgebied** |
-| Definitie | Met bos begroeid gebied |
+| Omschrijving | Met bos begroeid gebied |
+| Inwinningscriteria | - |
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
 | Domeinwaarde | **duingebied** |
-| Definitie | Heuvels van fijn zand, al dan niet begroeid met helmgras en struiken |
+| Omschrijving | Heuvels van fijn zand, al dan niet begroeid met helmgras en struiken |
+| Inwinningscriteria | - |
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
 | Domeinwaarde | **eiland** |
-| Definitie | Land, omgeven door water |
+| Omschrijving | Land, omgeven door water |
+| Inwinningscriteria | - |
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
 | Domeinwaarde | **geul, vaargeul** |
-| Definitie | Smal, meestal diep water (geul). / Geul van voldoende diepte als vaarwater tussen ondiepten door (vaargeul). |
+| Omschrijving | Smal, meestal diep water (geul). / Geul van voldoende diepte als vaarwater tussen ondiepten door (vaargeul). |
+| Inwinningscriteria | - |
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
 | Domeinwaarde | **heidegebied** |
-| Definitie | Met heide begroeid gebied |
+| Omschrijving | Met heide begroeid gebied |
+| Inwinningscriteria | - |
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
 | Domeinwaarde | **heuvel, berg** |
-| Definitie | Verhoging van het terrein (heuvel). / Min of meer op zichzelf staande sterke verheffing van het aardoppervlak (berg). |
+| Omschrijving | Verhoging van het terrein (heuvel). / Min of meer op zichzelf staande sterke verheffing van het aardoppervlak (berg). |
+| Inwinningscriteria | - |
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
 | Domeinwaarde | **kaap, hoek** |
-| Definitie | In zee vooruitstekende landpunt (kaap). / In het water uitstekende landtong (hoek). |
+| Omschrijving | In zee vooruitstekende landpunt (kaap). / In het water uitstekende landtong (hoek). |
+| Inwinningscriteria | - |
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
 | Domeinwaarde | **polder** |
-| Definitie | Door waterscheidingen begrensd stuk land of gebied waarin de waterstand kan worden beheerst door bemaling. |
+| Omschrijving | Door waterscheidingen begrensd stuk land of gebied waarin de waterstand kan worden beheerst door bemaling. |
+| Inwinningscriteria | - |
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
 | Domeinwaarde | **streek, veld** |
-| Definitie | Landstreek, gebied dat cultureel of landschappelijk een eenheid vormt (streek). / Het open land buiten steden en dorpen (veld). |
+| Omschrijving | Landstreek, gebied dat cultureel of landschappelijk een eenheid vormt (streek). / Het open land buiten steden en dorpen (veld). |
+| Inwinningscriteria | - |
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
 | Domeinwaarde | **terp, wierde** |
-| Definitie | Verhoging in het landschap oorspronkelijk bedoelt om de daarop gevestigde bebouwing te beschermen tegen het water |
+| Omschrijving | Verhoging in het landschap oorspronkelijk bedoelt om de daarop gevestigde bebouwing te beschermen tegen het water |
+| Inwinningscriteria | - |
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
 | Domeinwaarde | **wad** |
-| Definitie | De buitendijkse gronden bij Friesland, Groningen en Noord-Duitsland die alleen bij vloed onder water komen |
+| Omschrijving | De buitendijkse gronden bij Friesland, Groningen en Noord-Duitsland die alleen bij vloed onder water komen |
+| Inwinningscriteria | - |
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
 | Domeinwaarde | **watergebied** |
-| Definitie | Een complex van meren en plassen |
+| Omschrijving | Een complex van meren en plassen |
+| Inwinningscriteria | - |
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
 | Domeinwaarde | **zee** |
-| Definitie | Uitgestrekt oppervlak zout water dat het grootste deel van de aarde bedekt. |
+| Omschrijving | Uitgestrekt oppervlak zout water dat het grootste deel van de aarde bedekt. |
+| Inwinningscriteria | - |
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
 | Domeinwaarde | **zeegat, zeearm** |
-| Definitie | Plaats waar een binnenzee in een zee uitmondt (zeegat). / Lange smalle inham van een zee/ zeearm |
+| Omschrijving | Plaats waar een binnenzee in een zee uitmondt (zeegat). / Lange smalle inham van een zee/ zeearm |
+| Inwinningscriteria | - |
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
 | Domeinwaarde | **overig** |
-| Definitie | De waarde van het objectkenmerk is niet bekend |
+| Omschrijving | De waarde van het objectkenmerk is niet bekend |
+| Inwinningscriteria | - |
 
 ### Domein "Referentievlak"
 Product "T10"  
@@ -1078,22 +1281,26 @@ Domein "Referentievlak"
 | Domein | Referentievlak |
 |:---|:---|
 | Domeinwaarde | **NAP** |
-| Definitie | Normaal Amsterdams Peil |
+| Omschrijving | Normaal Amsterdams Peil |
+| Inwinningscriteria | - |
 
 | Domein | Referentievlak |
 |:---|:---|
 | Domeinwaarde | **LAT** |
-| Definitie | Laagste Astronomisch Getij |
+| Omschrijving | Laagste Astronomisch Getij |
+| Inwinningscriteria | - |
 
 | Domein | Referentievlak |
 |:---|:---|
 | Domeinwaarde | **GHW** |
-| Definitie | Gemiddeld Hoog Water |
+| Omschrijving | Gemiddeld Hoog Water |
+| Inwinningscriteria | - |
 
 | Domein | Referentievlak |
 |:---|:---|
 | Domeinwaarde | **OLW** |
-| Definitie | Overeengekomen Laag Water |
+| Omschrijving | Overeengekomen Laag Water |
+| Inwinningscriteria | - |
 
 ### Domein "Type Hoogte"
 Product "T10"  
@@ -1103,47 +1310,56 @@ Domein "Type Hoogte"
 | Domein | Type Hoogte |
 |:---|:---|
 | Domeinwaarde | **dieptelijn** |
-| Definitie | Lijn gevormd door punten met gelijke waterdiepte |
+| Omschrijving | Lijn gevormd door punten met gelijke waterdiepte |
+| Inwinningscriteria | - |
 
 | Domein | Type Hoogte |
 |:---|:---|
 | Domeinwaarde | **dieptepunt** |
-| Definitie | Punt waarvan de waterdiepte bekend is t.o.v. NAP. |
+| Omschrijving | Punt waarvan de waterdiepte bekend is t.o.v. NAP. |
+| Inwinningscriteria | - |
 
 | Domein | Type Hoogte |
 |:---|:---|
 | Domeinwaarde | **hoogtelijn** |
-| Definitie | Lijn die punten van gelijke hoogte met elkaar verbindt. |
+| Omschrijving | Lijn die punten van gelijke hoogte met elkaar verbindt. |
+| Inwinningscriteria | - |
 
 | Domein | Type Hoogte |
 |:---|:---|
 | Domeinwaarde | **hoogtepunt** |
-| Definitie | Punt in de kaart, waarvan de hoogte bekend is ten opzichte van NAP. |
+| Omschrijving | Punt in de kaart, waarvan de hoogte bekend is ten opzichte van NAP. |
+| Inwinningscriteria | - |
 
 | Domein | Type Hoogte |
 |:---|:---|
 | Domeinwaarde | **hoogwaterlijn** |
-| Definitie | Lijn die de grens van het water aangeeft als de waterstand op zijn hoogst is |
+| Omschrijving | Lijn die de grens van het water aangeeft als de waterstand op zijn hoogst is |
+| Inwinningscriteria | - |
 
 | Domein | Type Hoogte |
 |:---|:---|
 | Domeinwaarde | **laagwaterlijn** |
-| Definitie | Lijn die de grens van het water aangeeft als de waterstand op zijn laagst is. |
+| Omschrijving | Lijn die de grens van het water aangeeft als de waterstand op zijn laagst is. |
+| Inwinningscriteria | - |
 
 | Domein | Type Hoogte |
 |:---|:---|
 | Domeinwaarde | **peil** |
-| Definitie | Geeft de streefhoogte aan van het waterniveau t.o.v. NAP in grotere waterplassen. |
+| Omschrijving | Geeft de streefhoogte aan van het waterniveau t.o.v. NAP in grotere waterplassen. |
+| Inwinningscriteria | - |
 
 | Domein | Type Hoogte |
 |:---|:---|
 | Domeinwaarde | **peil: winterpeil** |
-| Definitie | Geeft de streefhoogte aan van het waterniveau t.o.v. NAP in grotere waterplassen gedurende de wintermaanden. |
+| Omschrijving | Geeft de streefhoogte aan van het waterniveau t.o.v. NAP in grotere waterplassen gedurende de wintermaanden. |
+| Inwinningscriteria | - |
 
 | Domein | Type Hoogte |
 |:---|:---|
 | Domeinwaarde | **peil: zomerpeil** |
-| Definitie | Geeft de streefhoogte aan van het waterniveau t.o.v. NAP in grotere waterplassen gedurende de zomermaanden |
+| Omschrijving | Geeft de streefhoogte aan van het waterniveau t.o.v. NAP in grotere waterplassen gedurende de zomermaanden |
+| Inwinningscriteria | - |
 
 ### Domein "Type Inrichtingselement"
 Product "T10"  
@@ -1153,347 +1369,416 @@ Domein "Type Inrichtingselement"
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **aanlegsteiger** |
-| Definitie | In het water uitstekende brug of pier, smaller dan 2 meter, gebruikt om personen en goederen aan wal te brengen |
+| Omschrijving | In het water uitstekende brug of pier, smaller dan 2 meter, gebruikt om personen en goederen aan wal te brengen |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **baak** |
-| Definitie | Markering van de loop van de vaargeul. |
+| Omschrijving | Markering van de loop van de vaargeul. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **bomenrij** |
-| Definitie | Aantal bomen (minimaal 3) die in een rij staan, waarbij de onderlinge afstand tussen de bomen zodanig is dat de bomenrij tot manshoogte geen zichtbelemmering vormt |
+| Omschrijving | Aantal bomen (minimaal 3) die in een rij staan, waarbij de onderlinge afstand tussen de bomen zodanig is dat de bomenrij tot manshoogte geen zichtbelemmering vormt |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **boom** |
-| Definitie | Houtachtig gewas met een enkele, stevige, houtige en overblijvende stam, die zich op een zekere hoogte boven de grond vertakt. |
+| Omschrijving | Houtachtig gewas met een enkele, stevige, houtige en overblijvende stam, die zich op een zekere hoogte boven de grond vertakt. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **botenhelling** |
-| Definitie | Voorziening om boten uit of in het water te helpen |
+| Omschrijving | Voorziening om boten uit of in het water te helpen |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **busstation** |
-| Definitie | Een plaats waar verschillende buslijnen samenkomen en waar meerdere bushaltes aanwezig zijn, met het doel dat buspassagiers hier kunnen in-, uit- of overstappen. |
+| Omschrijving | Een plaats waar verschillende buslijnen samenkomen en waar meerdere bushaltes aanwezig zijn, met het doel dat buspassagiers hier kunnen in-, uit- of overstappen. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **calamiteitendoorgang** |
-| Definitie | Doorgang in de verkeersgeleider in de middenberm die hulpdiensten doorgang moet verlenen voor het bestrijden van calamiteiten |
+| Omschrijving | Doorgang in de verkeersgeleider in de middenberm die hulpdiensten doorgang moet verlenen voor het bestrijden van calamiteiten |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **dukdalf** |
-| Definitie | In het water geplaatste, zware al dan niet  metalen paal of constructie, dienend tot bescherming van bruggen en sluizen |
+| Omschrijving | In het water geplaatste, zware al dan niet  metalen paal of constructie, dienend tot bescherming van bruggen en sluizen |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **gaswinning** |
-| Definitie | Installatie t.b.v. de winning of transport van aardgas. |
+| Omschrijving | Installatie t.b.v. de winning of transport van aardgas. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **gedenkteken, monument** |
-| Definitie | Topografisch object ter nagedachtenis van een belangrijke persoon of gebeurtenis. |
+| Omschrijving | Topografisch object ter nagedachtenis van een belangrijke persoon of gebeurtenis. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **geluidswering** |
-| Definitie | Constructie ten behoeve van het terugdringen van geluidsoverlast. |
+| Omschrijving | Constructie ten behoeve van het terugdringen van geluidsoverlast. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **golfmeetpaal** |
-| Definitie | Paal uitgerust met instrumenten t.b.v. het doen van waarnemingen betreffende golfbewegingen. |
+| Omschrijving | Paal uitgerust met instrumenten t.b.v. het doen van waarnemingen betreffende golfbewegingen. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **GPS kernnetpunt** |
-| Definitie | Punt geschikt voor GPS metingen. (Kan een steen of bout zijn). |
+| Omschrijving | Punt geschikt voor GPS metingen. (Kan een steen of bout zijn). |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **grenspunt** |
-| Definitie | Aanduiding van een grensscheiding |
+| Omschrijving | Aanduiding van een grensscheiding |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **havenhoofd** |
-| Definitie | Zware, stenen of houten dam ter weerszijden van de mond van een haven |
+| Omschrijving | Zware, stenen of houten dam ter weerszijden van de mond van een haven |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **heg, haag** |
-| Definitie | Rij bomen, al of niet in combinatie met struiken, waarbij de onderlinge afstand of onderbegroeiing zodanig is dat tot minstens manshoogte het zicht belemmerd wordt. Maximale inplantbreedte van de stammen: 3 meter. / Een rij naast elkaar geplante struiken (liguster, haagdoorn, coniferen, haagbeuk, e.d.) die op gezette tijden worden geschoren. Minimale hoogte 1 meter,  minimumlengte: 100 meter. |
+| Omschrijving | Rij bomen, al of niet in combinatie met struiken, waarbij de onderlinge afstand of onderbegroeiing zodanig is dat tot minstens manshoogte het zicht belemmerd wordt. Maximale inplantbreedte van de stammen: 3 meter. / Een rij naast elkaar geplante struiken (liguster, haagdoorn, coniferen, haagbeuk, e.d.) die op gezette tijden worden geschoren. Minimale hoogte 1 meter,  minimumlengte: 100 meter. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **hekwerk** |
-| Definitie | Begrenzing van een terrein in de vorm van een afrastering |
+| Omschrijving | Begrenzing van een terrein in de vorm van een afrastering |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **helikopterlandingsplatform** |
-| Definitie | Platform dat als landings- en vertrekplaats dient voor helikopters |
+| Omschrijving | Platform dat als landings- en vertrekplaats dient voor helikopters |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **hoogspanningsleiding** |
-| Definitie | Leiding waarop elektrische spanning van meer dan 500 volt staat. |
+| Omschrijving | Leiding waarop elektrische spanning van meer dan 500 volt staat. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **hoogspanningsmast** |
-| Definitie | Mast van een hoogspanningsleiding |
+| Omschrijving | Mast van een hoogspanningsleiding |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **hunebed** |
-| Definitie | Voorhistorische begraafplaats, bestaande uit opgestapelde, reusachtige stenen |
+| Omschrijving | Voorhistorische begraafplaats, bestaande uit opgestapelde, reusachtige stenen |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **kaap** |
-| Definitie | Gestel van balken met een daartegen aangebracht scherm van latten of ribben, dat als baak op het land dienst doet voor de zeevaart. |
+| Omschrijving | Gestel van balken met een daartegen aangebracht scherm van latten of ribben, dat als baak op het land dienst doet voor de zeevaart. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **kabelbaan** |
-| Definitie | Kabel waaraan stoeltjes hangen |
+| Omschrijving | Kabel waaraan stoeltjes hangen |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **kabelbaanmast** |
-| Definitie | Mast van een kabelbaan |
+| Omschrijving | Mast van een kabelbaan |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **kilometerpaal** |
-| Definitie | Paal waarop de kilometrering van een weg wordt aangegeven |
+| Omschrijving | Paal waarop de kilometrering van een weg wordt aangegeven |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **kilometerpaal spoorweg** |
-| Definitie | Paal waarop de kilometrering van een spoorweg wordt aangegeven |
+| Omschrijving | Paal waarop de kilometrering van een spoorweg wordt aangegeven |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **kilometerpaal water** |
-| Definitie | Paal waarop de kilometrering van een water wordt aangegeven. |
+| Omschrijving | Paal waarop de kilometrering van een water wordt aangegeven. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **kilometerraaibord** |
-| Definitie | Bord op de oever van een rivier, met daarop vermeld het aantal gehele kilometers van de betreffende kilometerraai. Een kilometerraai is een lijn loodrecht op de lengteas van een rivier, gedacht op onderlinge afstand van 1 kilometer als indeling van het traject. |
+| Omschrijving | Bord op de oever van een rivier, met daarop vermeld het aantal gehele kilometers van de betreffende kilometerraai. Een kilometerraai is een lijn loodrecht op de lengteas van een rivier, gedacht op onderlinge afstand van 1 kilometer als indeling van het traject. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **kilometerraaipaal** |
-| Definitie | Paal, meestal geplaatst tegenover een kilometerraaibord, op de andere oever van de rivier. |
+| Omschrijving | Paal, meestal geplaatst tegenover een kilometerraaibord, op de andere oever van de rivier. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **klokkenstoel** |
-| Definitie | Stellage van balken (ongeacht het soort materiaal), meestal voorzien van een afdak, waarin een of meerdere klokken hangen |
+| Omschrijving | Stellage van balken (ongeacht het soort materiaal), meestal voorzien van een afdak, waarin een of meerdere klokken hangen |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **koedam** |
-| Definitie | Onderbreking van een waterloop, door middel van demping, al dan niet met een doorlaatbuis |
+| Omschrijving | Onderbreking van een waterloop, door middel van demping, al dan niet met een doorlaatbuis |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **kogelvanger schietbaan** |
-| Definitie | Zandheuvel of ander voorwerp achter de schietschijf op een schietbaan, die de afgevuurde kogels opvangt. |
+| Omschrijving | Zandheuvel of ander voorwerp achter de schietschijf op een schietbaan, die de afgevuurde kogels opvangt. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **kraan** |
-| Definitie | Hijswerktuig om zware voorwerpen op te tillen en te verplaatsen. |
+| Omschrijving | Hijswerktuig om zware voorwerpen op te tillen en te verplaatsen. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **kruis** |
-| Definitie | Object tot bezinning en/of verering in de vorm van een kruis of heiligenbeeld. |
+| Omschrijving | Object tot bezinning en/of verering in de vorm van een kruis of heiligenbeeld. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **leiding** |
-| Definitie | Koker, buis, draad enz. waardoor of waarlangs een stof of kracht geleid wordt |
+| Omschrijving | Koker, buis, draad enz. waardoor of waarlangs een stof of kracht geleid wordt |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **luchtvaartlicht** |
-| Definitie | Navigatielicht t.b.v. de luchtvaart |
+| Omschrijving | Navigatielicht t.b.v. de luchtvaart |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **markant object** |
-| Definitie | Een object dat vanuit de wijde omgeving zichtbaar is en/of een oriënterende waarde heeft |
+| Omschrijving | Een object dat vanuit de wijde omgeving zichtbaar is en/of een oriënterende waarde heeft |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **metrostation** |
-| Definitie | Halteplaats voor een onder- of bovengronds metronetwerk |
+| Omschrijving | Halteplaats voor een onder- of bovengronds metronetwerk |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **muur** |
-| Definitie | Relatief smal, rechtopstaand bouwwerk |
+| Omschrijving | Relatief smal, rechtopstaand bouwwerk |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **oliepompinstallatie** |
-| Definitie | Productie-installatie om olie uit de grond te pompen. |
+| Omschrijving | Productie-installatie om olie uit de grond te pompen. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **paal** |
-| Definitie | Stevig, langwerpig, rechtop in de grond geplaatst merkteken ter afbakening. / Kilometrering van een dijklichaam |
+| Omschrijving | Stevig, langwerpig, rechtop in de grond geplaatst merkteken ter afbakening. / Kilometrering van een dijklichaam |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **paalwerk** |
-| Definitie | Palissade, omheining van in de grond geslagen palen of staken ten behoeve van landaanwinning |
+| Omschrijving | Palissade, omheining van in de grond geslagen palen of staken ten behoeve van landaanwinning |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **peilschaal** |
-| Definitie | Lat met schaalverdeling voor het aflezen van de waterhoogte in een water. |
+| Omschrijving | Lat met schaalverdeling voor het aflezen van de waterhoogte in een water. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **pijler** |
-| Definitie | Zuil die een bouwconstructie ondersteunt. |
+| Omschrijving | Zuil die een bouwconstructie ondersteunt. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **plaatsnaambord** |
-| Definitie | Bord dat de naam weergeeft van een bewoond oord |
+| Omschrijving | Bord dat de naam weergeeft van een bewoond oord |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **radiobaken** |
-| Definitie | Radiozendstation op een vliegveld of langs een luchtroute, dat dient als hulpmiddel om de koers voor vliegtuigen te bepalen. |
+| Omschrijving | Radiozendstation op een vliegveld of langs een luchtroute, dat dient als hulpmiddel om de koers voor vliegtuigen te bepalen. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **radiotelescoop** |
-| Definitie | Instrument waarmee men radiogolven uit de kosmische ruimte kan opvangen. |
+| Omschrijving | Instrument waarmee men radiogolven uit de kosmische ruimte kan opvangen. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **RD punt** |
-| Definitie | Getrianguleerd punt. |
+| Omschrijving | Getrianguleerd punt. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **scheepvaartlicht** |
-| Definitie | Licht dat dient voor de ondersteuning bij het navigeren van schepen |
+| Omschrijving | Licht dat dient voor de ondersteuning bij het navigeren van schepen |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **schietbaan** |
-| Definitie | Baan ingericht voor het schieten naar een doel |
+| Omschrijving | Baan ingericht voor het schieten naar een doel |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **seinmast** |
-| Definitie | Mast waarin seinen worden gehesen. |
+| Omschrijving | Mast waarin seinen worden gehesen. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **sluisdeur** |
-| Definitie | Beweegbare waterkering van een (schut)sluis |
+| Omschrijving | Beweegbare waterkering van een (schut)sluis |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **sneltramhalte** |
-| Definitie | Halte aan een sneltramlijn |
+| Omschrijving | Halte aan een sneltramlijn |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **stormvloedkering** |
-| Definitie | Waterkering, bedoeld om bij extreem hoge waterstanden water af te sluiten ter bescherming van het achter de kering gelegen land |
+| Omschrijving | Waterkering, bedoeld om bij extreem hoge waterstanden water af te sluiten ter bescherming van het achter de kering gelegen land |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **strandpaal** |
-| Definitie | Paal op het strand of in de duinen, geplaatst als hulpmiddel bij het uitvoeren van metingen |
+| Omschrijving | Paal op het strand of in de duinen, geplaatst als hulpmiddel bij het uitvoeren van metingen |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **strekdam, krib, golfbreker** |
-| Definitie | Dam in de richting van de loop van de rivier of kanaal, ter beveiliging van de oevers of brugpijlers of tot beperking van de rivier tot een bepaalde breedte (strekdam). Golfslabreker of stroombreker langs de kust en in revieren, staat loodrecht op de oeverkust (krib). Een uit steenglooing of stortsteen betsaand object, bedoelt voor oeverbescherming (golfbrker) |
+| Omschrijving | Dam in de richting van de loop van de rivier of kanaal, ter beveiliging van de oevers of brugpijlers of tot beperking van de rivier tot een bepaalde breedte (strekdam). Golfslabreker of stroombreker langs de kust en in revieren, staat loodrecht op de oeverkust (krib). Een uit steenglooing of stortsteen betsaand object, bedoelt voor oeverbescherming (golfbrker) |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **stuw** |
-| Definitie | Vaste of beweegbare constructie die dient om de waterstand bovenstrooms van de constructie te regelen |
+| Omschrijving | Vaste of beweegbare constructie die dient om de waterstand bovenstrooms van de constructie te regelen |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **tol** |
-| Definitie | Plaats waar men tol moet betalen |
+| Omschrijving | Plaats waar men tol moet betalen |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **treinstation** |
-| Definitie | Halte aan een spoorlijn |
+| Omschrijving | Halte aan een spoorlijn |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **uitzichtpunt** |
-| Definitie | Punt met fraai uitzicht / bouwwerk permanent ingericht om te kunnen observeren |
+| Omschrijving | Punt met fraai uitzicht / bouwwerk permanent ingericht om te kunnen observeren |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **verkeersgeleider** |
-| Definitie | Obstakel op een weg om het verkeer in goede banen te leiden |
+| Omschrijving | Obstakel op een weg om het verkeer in goede banen te leiden |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **vlampijp** |
-| Definitie | Affakkelinstallatie. |
+| Omschrijving | Affakkelinstallatie. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **vliedberg** |
-| Definitie | Verhoging in het terrein ter bescherming van de daarop geplaatste bebouwing tegen hoogwater |
+| Omschrijving | Verhoging in het terrein ter bescherming van de daarop geplaatste bebouwing tegen hoogwater |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **wegafsluiting** |
-| Definitie | Een fysieke permanente of tijdelijke barrière in of dwars over een weg voor tenminste een gedeelte van de gebruikers van die weg. (b.v paaltjes, slagboom, toegangshek, etc.) |
+| Omschrijving | Een fysieke permanente of tijdelijke barrière in of dwars over een weg voor tenminste een gedeelte van de gebruikers van die weg. (b.v paaltjes, slagboom, toegangshek, etc.) |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **wegwijzer** |
-| Definitie | Richtingaanduiding. |
+| Omschrijving | Richtingaanduiding. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **windmolentje** |
-| Definitie | Een vrij op de wind draaiend molentje (met wieken of een rad van schoepen) van metaal en/of kuststof, bestemd voor het bemalen van een sloot. / Klein type molen, herkenbaar aan schuin op een stellage geplaatste wieken, bestemd voor het bemalen van het omliggende terrein (tjasker). |
+| Omschrijving | Een vrij op de wind draaiend molentje (met wieken of een rad van schoepen) van metaal en/of kuststof, bestemd voor het bemalen van een sloot. / Klein type molen, herkenbaar aan schuin op een stellage geplaatste wieken, bestemd voor het bemalen van het omliggende terrein (tjasker). |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **zendmast** |
-| Definitie | Telecommunicatietoren (toren t.b.v. datacommunicatie). / Zendtoren (toren met een zendantenne) / Zend- en/of ontvangstmast (hoge, open constructie t.b.v. het uitzenden en/of ontvangen van beeld- en/of geluidssignalen). |
+| Omschrijving | Telecommunicatietoren (toren t.b.v. datacommunicatie). / Zendtoren (toren met een zendantenne) / Zend- en/of ontvangstmast (hoge, open constructie t.b.v. het uitzenden en/of ontvangen van beeld- en/of geluidssignalen). |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **zichtbaar wrak** |
-| Definitie | Wrak van vergaan schip dat (deels) boven water uitsteekt. |
+| Omschrijving | Wrak van vergaan schip dat (deels) boven water uitsteekt. |
+| Inwinningscriteria | - |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **overig** |
-| Definitie | Het type inrichtingselement is bekend, maar anders dan de genoemde waarden |
+| Omschrijving | Het type inrichtingselement is bekend, maar anders dan de genoemde waarden |
+| Inwinningscriteria | - |
 
 ### Domein "Type Gebied"
 Product "T10"  
@@ -1503,47 +1788,56 @@ Domein "Type Gebied"
 | Domein | Type Gebied |
 |:---|:---|
 | Domeinwaarde | **woonkern** |
-| Definitie | Bebouwingskern met hoofdzakelijk een woonfunctie, die tevens een bebouwde kom voor de Wegenverkeerswet is. |
+| Omschrijving | Bebouwingskern met hoofdzakelijk een woonfunctie, die tevens een bebouwde kom voor de Wegenverkeerswet is. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebied |
 |:---|:---|
 | Domeinwaarde | **industriekern** |
-| Definitie | Bebouwingskern met hoofdzakelijk een bedrijfsmatige functie, zoals een bedrijventerrein, een haven of een vliegveld, voorzien van openbare wegen. |
+| Omschrijving | Bebouwingskern met hoofdzakelijk een bedrijfsmatige functie, zoals een bedrijventerrein, een haven of een vliegveld, voorzien van openbare wegen. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebied |
 |:---|:---|
 | Domeinwaarde | **recreatiekern** |
-| Definitie | Bungalowparken omsloten door plaatsnaamborden (zowel blauw als wit). |
+| Omschrijving | Bungalowparken omsloten door plaatsnaamborden (zowel blauw als wit). |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebied |
 |:---|:---|
 | Domeinwaarde | **deelkern** |
-| Definitie | Historische bebouwingskern, ruimtelijk te onderscheiden van de omliggende bebouwing, gelegen binnen een bebouwde kom voor de Wegenverkeerswet van een andere plaats., |
+| Omschrijving | Historische bebouwingskern, ruimtelijk te onderscheiden van de omliggende bebouwing, gelegen binnen een bebouwde kom voor de Wegenverkeerswet van een andere plaats. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebied |
 |:---|:---|
 | Domeinwaarde | **gehucht** |
-| Definitie | Kleine bebouwingskern of concentratie van aaneengesloten bebouwing, niet zijnde lintbebouwing, die geen bebouwde kom voor de Wegenverkeerswet vormt. |
+| Omschrijving | Kleine bebouwingskern of concentratie van aaneengesloten bebouwing, niet zijnde lintbebouwing, die geen bebouwde kom voor de Wegenverkeerswet vormt. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebied |
 |:---|:---|
 | Domeinwaarde | **buurtschap** |
-| Definitie | Lintbebouwing of verspreid staande bebouwing in landelijk gebied met een zekere mate van sociale samenhang, die geen bebouwde kom voor de Wegenverkeerswet vormt. |
+| Omschrijving | Lintbebouwing of verspreid staande bebouwing in landelijk gebied met een zekere mate van sociale samenhang, die geen bebouwde kom voor de Wegenverkeerswet vormt. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebied |
 |:---|:---|
 | Domeinwaarde | **stadsdeel** |
-| Definitie | Grote administratief-geografische eenheid binnen een stedelijke gemeente. |
+| Omschrijving | Grote administratief-geografische eenheid binnen een stedelijke gemeente. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebied |
 |:---|:---|
 | Domeinwaarde | **wijk** |
-| Definitie | Eenheid binnen een bebouwingskern die ruimtelijk min of meer een afgesloten geheel vormt. |
+| Omschrijving | Eenheid binnen een bebouwingskern die ruimtelijk min of meer een afgesloten geheel vormt. |
+| Inwinningscriteria | - |
 
 | Domein | Type Gebied |
 |:---|:---|
 | Domeinwaarde | **buurt** |
-| Definitie | Kleine eenheid binnen een plaats, doorgaans met een zekere mate van sociale samenhang. |
+| Omschrijving | Kleine eenheid binnen een plaats, doorgaans met een zekere mate van sociale samenhang. |
+| Inwinningscriteria | - |
 
 ### Domein "Type Object"
 Product "T10"  
@@ -1553,22 +1847,26 @@ Domein "Type Object"
 | Domein | Type Object |
 |:---|:---|
 | Domeinwaarde | **weg** |
-| Definitie | Plantopografie van wegdelen. |
+| Omschrijving | Plantopografie van wegdelen. |
+| Inwinningscriteria | - |
 
 | Domein | Type Object |
 |:---|:---|
 | Domeinwaarde | **spoor** |
-| Definitie | Plantopografie van spoorbaandelen. |
+| Omschrijving | Plantopografie van spoorbaandelen. |
+| Inwinningscriteria | - |
 
 | Domein | Type Object |
 |:---|:---|
 | Domeinwaarde | **water** |
-| Definitie | Plantopografie van waterdelen. |
+| Omschrijving | Plantopografie van waterdelen. |
+| Inwinningscriteria | - |
 
 | Domein | Type Object |
 |:---|:---|
 | Domeinwaarde | **overig** |
-| Definitie | Plantopografie van overiege objectklassen. |
+| Omschrijving | Plantopografie van overiege objectklassen. |
+| Inwinningscriteria | - |
 
 ### Domein "Type Registratief Gebied"
 Product "T10"  
@@ -1578,27 +1876,32 @@ Domein "Type Registratief Gebied"
 | Domein | Type Registratief Gebied |
 |:---|:---|
 | Domeinwaarde | **land** |
-| Definitie | Begrenzing van Nederland, begrenst door België, Duitsland en de 12-mijls zone. |
+| Omschrijving | Begrenzing van Nederland, begrenst door België, Duitsland en de 12-mijls zone. |
+| Inwinningscriteria | - |
 
 | Domein | Type Registratief Gebied |
 |:---|:---|
 | Domeinwaarde | **provincie** |
-| Definitie | Staatkundig onderdeel van Nederland. |
+| Omschrijving | Staatkundig onderdeel van Nederland. |
+| Inwinningscriteria | - |
 
 | Domein | Type Registratief Gebied |
 |:---|:---|
 | Domeinwaarde | **gemeente** |
-| Definitie | Zelfstandig, zelfbestuur en autonomie bezittend onderdeel van de staat Nederland, onder het bestuur van een raad, een burgemeester en wethouders. |
+| Omschrijving | Zelfstandig, zelfbestuur en autonomie bezittend onderdeel van de staat Nederland, onder het bestuur van een raad, een burgemeester en wethouders. |
+| Inwinningscriteria | - |
 
 | Domein | Type Registratief Gebied |
 |:---|:---|
 | Domeinwaarde | **territoriale zee** |
-| Definitie | Een zeestrook, grenzend aan het landgebied van Nederland waarover de soevereiniteit van Nederland zich uitstrekt. |
+| Omschrijving | Een zeestrook, grenzend aan het landgebied van Nederland waarover de soevereiniteit van Nederland zich uitstrekt. |
+| Inwinningscriteria | - |
 
 | Domein | Type Registratief Gebied |
 |:---|:---|
 | Domeinwaarde | **waterschap** |
-| Definitie | Lichaam dat, onder toezicht van de Provinciale Staten, in een bepaald gebied voor waterlozing en waterkering zorgt. |
+| Omschrijving | Lichaam dat, onder toezicht van de Provinciale Staten, in een bepaald gebied voor waterlozing en waterkering zorgt. |
+| Inwinningscriteria | - |
 
 ### Domein "Functie"
 Product "T10"  
@@ -1608,7 +1911,8 @@ Domein "Functie"
 | Domein | Functie |
 |:---|:---|
 | Domeinwaarde | **geluid weren** |
-| Definitie | Wal, talud of steile rand bedoeld om geluid te weren |
+| Omschrijving | Wal, talud of steile rand bedoeld om geluid te weren |
+| Inwinningscriteria | - |
 
 ### Domein "Hoogteklasse"
 Product "T10"  
@@ -1618,17 +1922,20 @@ Domein "Hoogteklasse"
 | Domein | Hoogteklasse |
 |:---|:---|
 | Domeinwaarde | **< 1 meter** |
-| Definitie | De hoogte van een wal, talud of steile rand is lager dan 1 meter |
+| Omschrijving | De hoogte van een wal, talud of steile rand is lager dan 1 meter |
+| Inwinningscriteria | - |
 
 | Domein | Hoogteklasse |
 |:---|:---|
 | Domeinwaarde | **1 - 2,5 meter** |
-| Definitie | De hoogte van een wal, talud of steile rand is tussen 1 en 2,5 meter |
+| Omschrijving | De hoogte van een wal, talud of steile rand is tussen 1 en 2,5 meter |
+| Inwinningscriteria | - |
 
 | Domein | Hoogteklasse |
 |:---|:---|
 | Domeinwaarde | **> 2,5 meter** |
-| Definitie | De hoogte van een wal, talud of steile rand is hoger dan 2,5 meter |
+| Omschrijving | De hoogte van een wal, talud of steile rand is hoger dan 2,5 meter |
+| Inwinningscriteria | - |
 
 ### Domein "Type Relief"
 Product "T10"  
@@ -1638,17 +1945,20 @@ Domein "Type Relief"
 | Domein | Type Relief |
 |:---|:---|
 | Domeinwaarde | **wal** |
-| Definitie | Langgerekte ophoging in het terrein met een hoogte tussen 0,50 en 1,00 meter. |
+| Omschrijving | Langgerekte ophoging in het terrein met een hoogte tussen 0,50 en 1,00 meter. |
+| Inwinningscriteria | - |
 
 | Domein | Type Relief |
 |:---|:---|
 | Domeinwaarde | **talud, hoogteverschil** |
-| Definitie | Plaatselijk glooiende terreinverheffing of -inzinking (hoogteverschil). / Schuinte van het zijvlak van aardwerken, dijken, spoorbanen, vestingwerke, etc (talud) |
+| Omschrijving | Plaatselijk glooiende terreinverheffing of -inzinking (hoogteverschil). / Schuinte van het zijvlak van aardwerken, dijken, spoorbanen, vestingwerke, etc (talud) |
+| Inwinningscriteria | - |
 
 | Domein | Type Relief |
 |:---|:---|
 | Domeinwaarde | **steile rand, aardrand** |
-| Definitie | Plotselinge terreinverheffing of inzinking. |
+| Omschrijving | Plotselinge terreinverheffing of inzinking. |
+| Inwinningscriteria | - |
 
 ### Domein "Aantal Sporen"
 Product "T10"  
@@ -1658,17 +1968,20 @@ Domein "Aantal Sporen"
 | Domein | Aantal Sporen |
 |:---|:---|
 | Domeinwaarde | **enkel** |
-| Definitie | Spoorbaan bestaande uit één spoor |
+| Omschrijving | Spoorbaan bestaande uit één spoor |
+| Inwinningscriteria | - |
 
 | Domein | Aantal Sporen |
 |:---|:---|
 | Domeinwaarde | **dubbel** |
-| Definitie | Spoorbaan bestaande uit twee sporen |
+| Omschrijving | Spoorbaan bestaande uit twee sporen |
+| Inwinningscriteria | - |
 
 | Domein | Aantal Sporen |
 |:---|:---|
 | Domeinwaarde | **meervoudig** |
-| Definitie | Spoorbaan bestaande uit meer dan twee sporen |
+| Omschrijving | Spoorbaan bestaande uit meer dan twee sporen |
+| Inwinningscriteria | - |
 
 ### Domein "Fysiek Voorkomen"
 Product "T10"  
@@ -1678,22 +1991,26 @@ Domein "Fysiek Voorkomen"
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **op vast deel van brug** |
-| Definitie | Spoorbaandeel gelegen op een niet beweegbaar deel van een kunstwerk dat een verbinding vormt door middel van een overspanning |
+| Omschrijving | Spoorbaandeel gelegen op een niet beweegbaar deel van een kunstwerk dat een verbinding vormt door middel van een overspanning |
+| Inwinningscriteria | - |
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **op beweegbaar deel van brug** |
-| Definitie | Spoorbaandeel gelegen op een beweegbaar deel van een kunstwerk dat een verbinding vormt door middel van een overspanning. |
+| Omschrijving | Spoorbaandeel gelegen op een beweegbaar deel van een kunstwerk dat een verbinding vormt door middel van een overspanning. |
+| Inwinningscriteria | - |
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **overkluisd** |
-| Definitie | Spoorbaandeel overbouwd door bebouwing of door een al dan niet licht doorlatend dak, zodanig dat de orthogonale projectie van de bebouwing of het dak op of over het object valt. |
+| Omschrijving | Spoorbaandeel overbouwd door bebouwing of door een al dan niet licht doorlatend dak, zodanig dat de orthogonale projectie van de bebouwing of het dak op of over het object valt. |
+| Inwinningscriteria | - |
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **in tunnel** |
-| Definitie | Spoorbaandeel gelegen in een kunstmatig aangelegde, onderaardse of door een berg geboorde kokervormige doorgang |
+| Omschrijving | Spoorbaandeel gelegen in een kunstmatig aangelegde, onderaardse of door een berg geboorde kokervormige doorgang |
+| Inwinningscriteria | - |
 
 ### Domein "Spoorbreedte"
 Product "T10"  
@@ -1703,12 +2020,14 @@ Domein "Spoorbreedte"
 | Domein | Spoorbreedte |
 |:---|:---|
 | Domeinwaarde | **normaalspoor** |
-| Definitie | Spoor met een normale breedte, namelijk 1,435 meter. |
+| Omschrijving | Spoor met een normale breedte, namelijk 1,435 meter. |
+| Inwinningscriteria | - |
 
 | Domein | Spoorbreedte |
 |:---|:---|
 | Domeinwaarde | **smalspoor** |
-| Definitie | Spoorbaandeel met een geringere breedte dan normaalspoor |
+| Omschrijving | Spoorbaandeel met een geringere breedte dan normaalspoor |
+| Inwinningscriteria | - |
 
 ### Domein "Type Infrastructuur"
 Product "T10"  
@@ -1718,12 +2037,14 @@ Domein "Type Infrastructuur"
 | Domein | Type Infrastructuur |
 |:---|:---|
 | Domeinwaarde | **verbinding** |
-| Definitie | Spoorlijn |
+| Omschrijving | Spoorlijn |
+| Inwinningscriteria | - |
 
 | Domein | Type Infrastructuur |
 |:---|:---|
 | Domeinwaarde | **kruising** |
-| Definitie | Punt waar drie of meer spoorlijnen op aansluiten |
+| Omschrijving | Punt waar drie of meer spoorlijnen op aansluiten |
+| Inwinningscriteria | - |
 
 ### Domein "Type Spoorbaan"
 Product "T10"  
@@ -1733,27 +2054,32 @@ Domein "Type Spoorbaan"
 | Domein | Type Spoorbaan |
 |:---|:---|
 | Domeinwaarde | **trein** |
-| Definitie | Spoorbaandeel bestemd voor railvoertuig voor de langere afstand dat sneller dan 45 km per uur kan, bestaande uit een enkele of een reeks van locomotieven, treinstellen en/of wagons |
+| Omschrijving | Spoorbaandeel bestemd voor railvoertuig voor de langere afstand dat sneller dan 45 km per uur kan, bestaande uit een enkele of een reeks van locomotieven, treinstellen en/of wagons |
+| Inwinningscriteria | - |
 
 | Domein | Type Spoorbaan |
 |:---|:---|
 | Domeinwaarde | **tram** |
-| Definitie | Spoorbaandeel bestemd voor railvoertuig ten behoeve van personenvervoer over korte afstand, niet harder rijdend dan 45 km per uur. |
+| Omschrijving | Spoorbaandeel bestemd voor railvoertuig ten behoeve van personenvervoer over korte afstand, niet harder rijdend dan 45 km per uur. |
+| Inwinningscriteria | - |
 
 | Domein | Type Spoorbaan |
 |:---|:---|
 | Domeinwaarde | **sneltram** |
-| Definitie | Spoorbaandeel bestemd voor railvervoer ten behoeve van personenevervoer over korte afstand sneller dan 45 km per uur. |
+| Omschrijving | Spoorbaandeel bestemd voor railvervoer ten behoeve van personenevervoer over korte afstand sneller dan 45 km per uur. |
+| Inwinningscriteria | - |
 
 | Domein | Type Spoorbaan |
 |:---|:---|
 | Domeinwaarde | **metro** |
-| Definitie | Spoorbaandeel bestemd voor al dan niet ondergrondse personentrein in een grote stad. |
+| Omschrijving | Spoorbaandeel bestemd voor al dan niet ondergrondse personentrein in een grote stad. |
+| Inwinningscriteria | - |
 
 | Domein | Type Spoorbaan |
 |:---|:---|
 | Domeinwaarde | **gemengd** |
-| Definitie | Spoorbaandeel bestemd voor een combinatie van zowel trein, metro, sneltram of tramverkeer |
+| Omschrijving | Spoorbaandeel bestemd voor een combinatie van zowel trein, metro, sneltram of tramverkeer |
+| Inwinningscriteria | - |
 
 ### Domein "Vervoer Functie"
 Product "T10"  
@@ -1763,22 +2089,26 @@ Domein "Vervoer Functie"
 | Domein | Vervoer Functie |
 |:---|:---|
 | Domeinwaarde | **gemengd gebruik** |
-| Definitie | Spoorbaan, zowel bestemd voor personen- als goederenvervoer |
+| Omschrijving | Spoorbaan, zowel bestemd voor personen- als goederenvervoer |
+| Inwinningscriteria | - |
 
 | Domein | Vervoer Functie |
 |:---|:---|
 | Domeinwaarde | **personenvervoer** |
-| Definitie | Spoorbaan, alleen bestemd voor personenvervoer |
+| Omschrijving | Spoorbaan, alleen bestemd voor personenvervoer |
+| Inwinningscriteria | - |
 
 | Domein | Vervoer Functie |
 |:---|:---|
 | Domeinwaarde | **goederenvervoer** |
-| Definitie | Spoorbaan, alleen bestemd voor goederenvervoer |
+| Omschrijving | Spoorbaan, alleen bestemd voor goederenvervoer |
+| Inwinningscriteria | - |
 
 | Domein | Vervoer Functie |
 |:---|:---|
 | Domeinwaarde | **museumlijn** |
-| Definitie | Spoorbaan, enkel in gebruik als toeristische attractie. |
+| Omschrijving | Spoorbaan, enkel in gebruik als toeristische attractie. |
+| Inwinningscriteria | - |
 
 ### Domein "Fysiek Voorkomen"
 Product "T10"  
@@ -1788,22 +2118,26 @@ Domein "Fysiek Voorkomen"
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **overkluisd** |
-| Definitie | Terrein overbouwd door bebouwing of door een al dan niet licht doorlatend dak, zodanig dat de orthogonale projectie van de bebouwing of het dak op of over het object valt. |
+| Omschrijving | Terrein overbouwd door bebouwing of door een al dan niet licht doorlatend dak, zodanig dat de orthogonale projectie van de bebouwing of het dak op of over het object valt. |
+| Inwinningscriteria | - |
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **in tunnel** |
-| Definitie | Terrein gelegen in een kunstmatig aangelegde, onderaardse of door een berg geboorde kokervormige doorgang. |
+| Omschrijving | Terrein gelegen in een kunstmatig aangelegde, onderaardse of door een berg geboorde kokervormige doorgang. |
+| Inwinningscriteria | - |
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **op vast deel van brug** |
-| Definitie | Terrein gelegen op een kunstwerk dat een vaste verbinding vormt door middel van een overspanning. |
+| Omschrijving | Terrein gelegen op een kunstwerk dat een vaste verbinding vormt door middel van een overspanning. |
+| Inwinningscriteria | - |
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **op beweegbaar deel van brug** |
-| Definitie | Terrein gelegen op een kunstwerk dat een beweegbare verbinding vormt door middel van een overspanning |
+| Omschrijving | Terrein gelegen op een kunstwerk dat een beweegbare verbinding vormt door middel van een overspanning |
+| Inwinningscriteria | - |
 
 ### Domein "Type Landgebruik"
 Product "T10"  
@@ -1813,107 +2147,128 @@ Domein "Type Landgebruik"
 | Domein | Type Landgebruik |
 |:---|:---|
 | Domeinwaarde | **aanlegsteiger** |
-| Definitie | In het water uitstekende brug of pier, breder dan 2 meter, gebruikt om personen en goederen aan wal te brengen. |
+| Omschrijving | In het water uitstekende brug of pier, breder dan 2 meter, gebruikt om personen en goederen aan wal te brengen. |
+| Inwinningscriteria | - |
 
 | Domein | Type Landgebruik |
 |:---|:---|
 | Domeinwaarde | **akkerland** |
-| Definitie | Terrein waar landbouwproducten worden verbouwd. |
+| Omschrijving | Terrein waar landbouwproducten worden verbouwd. |
+| Inwinningscriteria | - |
 
 | Domein | Type Landgebruik |
 |:---|:---|
 | Domeinwaarde | **basaltblokken, steenglooiing** |
-| Definitie | Dijkversteviging m.b.v. stenen, tegels, basaltblokken, stortsteen (geen asfalt of bitumen) of een golfslagbreker, stroombreker of strekdam langs de kust en in rivieren. |
+| Omschrijving | Dijkversteviging m.b.v. stenen, tegels, basaltblokken, stortsteen (geen asfalt of bitumen) of een golfslagbreker, stroombreker of strekdam langs de kust en in rivieren. |
+| Inwinningscriteria | - |
 
 | Domein | Type Landgebruik |
 |:---|:---|
 | Domeinwaarde | **bebouwd gebied** |
-| Definitie | Een oppervlak, (vrij) intensief gebruikt voor bewoning en/of productie en/of verhandeling van goederen en diensten, plus bijbehorend erf, wegen en openbaar groen (m.u.v. een plantsoen of park). |
+| Omschrijving | Een oppervlak, (vrij) intensief gebruikt voor bewoning en/of productie en/of verhandeling van goederen en diensten, plus bijbehorend erf, wegen en openbaar groen (m.u.v. een plantsoen of park). |
+| Inwinningscriteria | - |
 
 | Domein | Type Landgebruik |
 |:---|:---|
 | Domeinwaarde | **boomgaard** |
-| Definitie | Terrein met hoogstammige fruitbomen. |
+| Omschrijving | Terrein met hoogstammige fruitbomen. |
+| Inwinningscriteria | - |
 
 | Domein | Type Landgebruik |
 |:---|:---|
 | Domeinwaarde | **boomkwekerij** |
-| Definitie | Terrein, overwegend in gebruik t.b.v. het opkweken van bomen (inclusief coniferen en sparren) en struiken, waarbij de hoogte van de aanplant niet van belang is. |
+| Omschrijving | Terrein, overwegend in gebruik t.b.v. het opkweken van bomen (inclusief coniferen en sparren) en struiken, waarbij de hoogte van de aanplant niet van belang is. |
+| Inwinningscriteria | - |
 
 | Domein | Type Landgebruik |
 |:---|:---|
 | Domeinwaarde | **bos: gemengd bos** |
-| Definitie | Oppervlak begroeid met een dusdanige aantal naald- en loofbomen dat de kruinen een min of meer gesloten geheel vormen of, na volgroeiing van de bomen, zullen vormen. |
+| Omschrijving | Oppervlak begroeid met een dusdanige aantal naald- en loofbomen dat de kruinen een min of meer gesloten geheel vormen of, na volgroeiing van de bomen, zullen vormen. |
+| Inwinningscriteria | - |
 
 | Domein | Type Landgebruik |
 |:---|:---|
 | Domeinwaarde | **bos: griend** |
-| Definitie | In of aan het water gelegen terrein, begroeid met laagafgeknot wilgenhout t.b.v. de productie van rijshout. |
+| Omschrijving | In of aan het water gelegen terrein, begroeid met laagafgeknot wilgenhout t.b.v. de productie van rijshout. |
+| Inwinningscriteria | - |
 
 | Domein | Type Landgebruik |
 |:---|:---|
 | Domeinwaarde | **bos: loofbos** |
-| Definitie | Oppervlak begroeid met een dusdanige aantal loofbomen dat de kruinen een min of meer gesloten geheel vormen of, na volgroeiing van de bomen, zullen vormen. |
+| Omschrijving | Oppervlak begroeid met een dusdanige aantal loofbomen dat de kruinen een min of meer gesloten geheel vormen of, na volgroeiing van de bomen, zullen vormen. |
+| Inwinningscriteria | - |
 
 | Domein | Type Landgebruik |
 |:---|:---|
 | Domeinwaarde | **bos: naaldbos** |
-| Definitie | Oppervlak begroeid met een dusdanige aantal naaldbomen dat de kruinen een min of meer gesloten geheel vormen of, na volgroeiing van de bomen, zullen vormen. |
+| Omschrijving | Oppervlak begroeid met een dusdanige aantal naaldbomen dat de kruinen een min of meer gesloten geheel vormen of, na volgroeiing van de bomen, zullen vormen. |
+| Inwinningscriteria | - |
 
 | Domein | Type Landgebruik |
 |:---|:---|
 | Domeinwaarde | **braakliggend** |
-| Definitie | Een stuk grond dat geen functie vervuld en niet wordt onderhouden, met uitzondering van landbouwgrond. |
+| Omschrijving | Een stuk grond dat geen functie vervuld en niet wordt onderhouden, met uitzondering van landbouwgrond. |
+| Inwinningscriteria | - |
 
 | Domein | Type Landgebruik |
 |:---|:---|
 | Domeinwaarde | **dodenakker** |
-| Definitie | Terrein, gedeelte van een begraafplaats waar doden zijn of zullen worden begraven, niet gelegen in bos. |
+| Omschrijving | Terrein, gedeelte van een begraafplaats waar doden zijn of zullen worden begraven, niet gelegen in bos. |
+| Inwinningscriteria | - |
 
 | Domein | Type Landgebruik |
 |:---|:---|
 | Domeinwaarde | **dodenakker met bos** |
-| Definitie | Terrein, gedeelte van een begraafplaats waar doden zijn of zullen worden begraven,. |
+| Omschrijving | Terrein, gedeelte van een begraafplaats waar doden zijn of zullen worden begraven,. |
+| Inwinningscriteria | - |
 
 | Domein | Type Landgebruik |
 |:---|:---|
 | Domeinwaarde | **duin** |
-| Definitie | Terrein met grondsoort zand, langs de kust als natuurlijke kustverdediging, eventueel begroeid met helmgras of lage struiken. |
+| Omschrijving | Terrein met grondsoort zand, langs de kust als natuurlijke kustverdediging, eventueel begroeid met helmgras of lage struiken. |
+| Inwinningscriteria | - |
 
 | Domein | Type Landgebruik |
 |:---|:---|
 | Domeinwaarde | **fruitkwekerij** |
-| Definitie | Terrein met laagstammige fruitbomen en struiken waarvan de vruchten worden geoogst (zoals: rozenbottels, bessen, frambozen, druiven, etc.). |
+| Omschrijving | Terrein met laagstammige fruitbomen en struiken waarvan de vruchten worden geoogst (zoals: rozenbottels, bessen, frambozen, druiven, etc.). |
+| Inwinningscriteria | - |
 
 | Domein | Type Landgebruik |
 |:---|:---|
 | Domeinwaarde | **grasland** |
-| Definitie | Terrein, overwegend begroeid met een grasachtige vegetatie. |
+| Omschrijving | Terrein, overwegend begroeid met een grasachtige vegetatie. |
+| Inwinningscriteria | - |
 
 | Domein | Type Landgebruik |
 |:---|:---|
 | Domeinwaarde | **heide** |
-| Definitie | Terrein, overwegend begroeid met heidevegetatie en wilde grassoorten. |
+| Omschrijving | Terrein, overwegend begroeid met heidevegetatie en wilde grassoorten. |
+| Inwinningscriteria | - |
 
 | Domein | Type Landgebruik |
 |:---|:---|
 | Domeinwaarde | **populieren** |
-| Definitie | Terrein, volgens een regelmatig patroon beplant met populieren. |
+| Omschrijving | Terrein, volgens een regelmatig patroon beplant met populieren. |
+| Inwinningscriteria | - |
 
 | Domein | Type Landgebruik |
 |:---|:---|
 | Domeinwaarde | **spoorbaanlichaam** |
-| Definitie | Geheel van rails, dwarsliggers e.d. waarover de trein of metro rijdt. |
+| Omschrijving | Geheel van rails, dwarsliggers e.d. waarover de trein of metro rijdt. |
+| Inwinningscriteria | - |
 
 | Domein | Type Landgebruik |
 |:---|:---|
 | Domeinwaarde | **zand** |
-| Definitie | Terrein met grondsoort zand, van nature zonder enige begroeiing. |
+| Omschrijving | Terrein met grondsoort zand, van nature zonder enige begroeiing. |
+| Inwinningscriteria | - |
 
 | Domein | Type Landgebruik |
 |:---|:---|
 | Domeinwaarde | **overig** |
-| Definitie | De waarde van het objectkenmerk is bekend, maar anders dan de genoemde waarden. Een niet nader omschreven gebruiksbestemming. |
+| Omschrijving | De waarde van het objectkenmerk is bekend, maar anders dan de genoemde waarden. Een niet nader omschreven gebruiksbestemming. |
+| Inwinningscriteria | - |
 
 ### Domein "Voorkomen"
 Product "T10"  
@@ -1923,12 +2278,14 @@ Domein "Voorkomen"
 | Domein | Voorkomen |
 |:---|:---|
 | Domeinwaarde | **met riet** |
-| Definitie | Met riet bedekt terreinoppervlak |
+| Omschrijving | Met riet bedekt terreinoppervlak |
+| Inwinningscriteria | - |
 
 | Domein | Voorkomen |
 |:---|:---|
 | Domeinwaarde | **dras, moerassig** |
-| Definitie | Natte, moerassige grond. |
+| Omschrijving | Natte, moerassige grond. |
+| Inwinningscriteria | - |
 
 ### Domein "Breedteklasse"
 Product "T10"  
@@ -1938,32 +2295,38 @@ Domein "Breedteklasse"
 | Domein | Breedteklasse |
 |:---|:---|
 | Domeinwaarde | **0,5 - 3 meter** |
-| Definitie | De breedte van het water is groter dan of gelijk aan 0,5 meter en minder dan 3 meter |
+| Omschrijving | De breedte van het water is groter dan of gelijk aan 0,5 meter en minder dan 3 meter |
+| Inwinningscriteria | - |
 
 | Domein | Breedteklasse |
 |:---|:---|
 | Domeinwaarde | **3 - 6 meter** |
-| Definitie | De breedte van het water is groter dan of gelijk aan 3 meter en minder dan 6 meter |
+| Omschrijving | De breedte van het water is groter dan of gelijk aan 3 meter en minder dan 6 meter |
+| Inwinningscriteria | - |
 
 | Domein | Breedteklasse |
 |:---|:---|
 | Domeinwaarde | **6 - 12 meter** |
-| Definitie | De breedte van het water is groter dan of gelijk aan 6 meter en minder dan 12 meter. |
+| Omschrijving | De breedte van het water is groter dan of gelijk aan 6 meter en minder dan 12 meter. |
+| Inwinningscriteria | - |
 
 | Domein | Breedteklasse |
 |:---|:---|
 | Domeinwaarde | **12 - 50 meter** |
-| Definitie | De breedte van het water is groter dan of gelijk aan 12 meter en minder dan 50 meter |
+| Omschrijving | De breedte van het water is groter dan of gelijk aan 12 meter en minder dan 50 meter |
+| Inwinningscriteria | - |
 
 | Domein | Breedteklasse |
 |:---|:---|
 | Domeinwaarde | **50 - 125 meter** |
-| Definitie | De breedte van het water is groter dan of gelijk aan 50 meter en minder dan 125 meter |
+| Omschrijving | De breedte van het water is groter dan of gelijk aan 50 meter en minder dan 125 meter |
+| Inwinningscriteria | - |
 
 | Domein | Breedteklasse |
 |:---|:---|
 | Domeinwaarde | **> 125 meter** |
-| Definitie | De breedte van het water is groter dan 125 meter |
+| Omschrijving | De breedte van het water is groter dan 125 meter |
+| Inwinningscriteria | - |
 
 ### Domein "Functie"
 Product "T10"  
@@ -1973,52 +2336,62 @@ Domein "Functie"
 | Domein | Functie |
 |:---|:---|
 | Domeinwaarde | **drinkwaterbekken** |
-| Definitie | Bassin t.b.v. de drinkwatervoorziening |
+| Omschrijving | Bassin t.b.v. de drinkwatervoorziening |
+| Inwinningscriteria | - |
 
 | Domein | Functie |
 |:---|:---|
 | Domeinwaarde | **haven** |
-| Definitie | Lig- en bergplaats voor vaartuigen |
+| Omschrijving | Lig- en bergplaats voor vaartuigen |
+| Inwinningscriteria | - |
 
 | Domein | Functie |
 |:---|:---|
 | Domeinwaarde | **natuurbad** |
-| Definitie | Plas in de natuur, ingericht voor zwemmen en zonnebaden. |
+| Omschrijving | Plas in de natuur, ingericht voor zwemmen en zonnebaden. |
+| Inwinningscriteria | - |
 
 | Domein | Functie |
 |:---|:---|
 | Domeinwaarde | **viskwekerij** |
-| Definitie | Bassin, aangelegd voor het kweken van vis. |
+| Omschrijving | Bassin, aangelegd voor het kweken van vis. |
+| Inwinningscriteria | - |
 
 | Domein | Functie |
 |:---|:---|
 | Domeinwaarde | **vistrap** |
-| Definitie | Omleiding bij een stuw of een deel van een waterloop zodanig ingericht dat vissen stroomopwaarts kunnen passeren |
+| Omschrijving | Omleiding bij een stuw of een deel van een waterloop zodanig ingericht dat vissen stroomopwaarts kunnen passeren |
+| Inwinningscriteria | - |
 
 | Domein | Functie |
 |:---|:---|
 | Domeinwaarde | **vloeiveld** |
-| Definitie | Omdijkt stuk land, bestemd voor de bezinking van afvalwater. |
+| Omschrijving | Omdijkt stuk land, bestemd voor de bezinking van afvalwater. |
+| Inwinningscriteria | - |
 
 | Domein | Functie |
 |:---|:---|
 | Domeinwaarde | **waterval** |
-| Definitie | Plaats waar stromend water van een hoogte of helling naar beneden valt. |
+| Omschrijving | Plaats waar stromend water van een hoogte of helling naar beneden valt. |
+| Inwinningscriteria | - |
 
 | Domein | Functie |
 |:---|:---|
 | Domeinwaarde | **waterzuivering** |
-| Definitie | Zuivering van afvalwater. |
+| Omschrijving | Zuivering van afvalwater. |
+| Inwinningscriteria | - |
 
 | Domein | Functie |
 |:---|:---|
 | Domeinwaarde | **zwembad** |
-| Definitie | De waterbak bij een zwembad |
+| Omschrijving | De waterbak bij een zwembad |
+| Inwinningscriteria | - |
 
 | Domein | Functie |
 |:---|:---|
 | Domeinwaarde | **overig** |
-| Definitie | De waarde van het objectkenmerk is bekend, maar anders dan de genoemde waarden |
+| Omschrijving | De waarde van het objectkenmerk is bekend, maar anders dan de genoemde waarden |
+| Inwinningscriteria | - |
 
 ### Domein "Fysiek Voorkomen"
 Product "T10"  
@@ -2028,37 +2401,44 @@ Domein "Fysiek Voorkomen"
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **in sluis** |
-| Definitie | Gelegen in het deel tussen de sluisdeuren van een schutsluis/scheepvaartsluis (de schutkolk/sluiskolk). |
+| Omschrijving | Gelegen in het deel tussen de sluisdeuren van een schutsluis/scheepvaartsluis (de schutkolk/sluiskolk). |
+| Inwinningscriteria | - |
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **op brug** |
-| Definitie | Gelegen op een kunstwerk waarmee water over een weg of een ander water wordt gevoerd, zodanig geconstrueerd dat het dak van de onderdoorgang tevens de bodem van het bovengelegen water vormt (aquaduct). |
+| Omschrijving | Gelegen op een kunstwerk waarmee water over een weg of een ander water wordt gevoerd, zodanig geconstrueerd dat het dak van de onderdoorgang tevens de bodem van het bovengelegen water vormt (aquaduct). |
+| Inwinningscriteria | - |
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **in duiker** |
-| Definitie | Gelegen in een niet afsluitbare koker die dient voor de instandhouding van de verbinding tussen wederzijds gelegen wateren of voor de afwatering van aangrenzende landerijen, niet zijnde een grondduiker. |
+| Omschrijving | Gelegen in een niet afsluitbare koker die dient voor de instandhouding van de verbinding tussen wederzijds gelegen wateren of voor de afwatering van aangrenzende landerijen, niet zijnde een grondduiker. |
+| Inwinningscriteria | - |
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **in afsluitbare duiker** |
-| Definitie | Gelegen in een afsluitbare koker die dient voor de instandhouding van de verbinding tussen wederzijds gelegen wateren of voor de afwatering van aangrenzende landerijen, niet zijnde een grondduiker. |
+| Omschrijving | Gelegen in een afsluitbare koker die dient voor de instandhouding van de verbinding tussen wederzijds gelegen wateren of voor de afwatering van aangrenzende landerijen, niet zijnde een grondduiker. |
+| Inwinningscriteria | - |
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **in grondduiker** |
-| Definitie | Gelegen in een onder een ander water doorlopende koker, die dient voor de instandhouding van de verbinding tussen wederzijds gelegen wateren of voor de afwatering van aangrenzende landerijen. |
+| Omschrijving | Gelegen in een onder een ander water doorlopende koker, die dient voor de instandhouding van de verbinding tussen wederzijds gelegen wateren of voor de afwatering van aangrenzende landerijen. |
+| Inwinningscriteria | - |
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **in afsluitbare grondduiker** |
-| Definitie | Gelegen in een onder een ander water doorlopende afsluitbare koker, die dient voor de instandhouding van de verbinding tussen wederzijds gelegen wateren of voor de afwatering van aangrenzende landerijen |
+| Omschrijving | Gelegen in een onder een ander water doorlopende afsluitbare koker, die dient voor de instandhouding van de verbinding tussen wederzijds gelegen wateren of voor de afwatering van aangrenzende landerijen |
+| Inwinningscriteria | - |
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **overkluisd** |
-| Definitie | Water overbouwd door gebouwen. |
+| Omschrijving | Water overbouwd door gebouwen. |
+| Inwinningscriteria | - |
 
 ### Domein "Type Water"
 Product "T10"  
@@ -2068,42 +2448,50 @@ Domein "Type Water"
 | Domein | Type Water |
 |:---|:---|
 | Domeinwaarde | **waterloop** |
-| Definitie | Langgerekt waterdeel in de vorm van een sloot, rivier, kanaal, enz. |
+| Omschrijving | Langgerekt waterdeel in de vorm van een sloot, rivier, kanaal, enz. |
+| Inwinningscriteria | - |
 
 | Domein | Type Water |
 |:---|:---|
 | Domeinwaarde | **meer, plas** |
-| Definitie | Water (meestal) niet gelegen in een waterloop |
+| Omschrijving | Water (meestal) niet gelegen in een waterloop |
+| Inwinningscriteria | - |
 
 | Domein | Type Water |
 |:---|:---|
 | Domeinwaarde | **greppel, droge sloot** |
-| Definitie | Een in het algemeen niet watervoerende sloot. |
+| Omschrijving | Een in het algemeen niet watervoerende sloot. |
+| Inwinningscriteria | - |
 
 | Domein | Type Water |
 |:---|:---|
 | Domeinwaarde | **zee** |
-| Definitie | Uitgestrekt oppervlak zout water dat het grootste deel van de aarde bedekt |
+| Omschrijving | Uitgestrekt oppervlak zout water dat het grootste deel van de aarde bedekt |
+| Inwinningscriteria | - |
 
 | Domein | Type Water |
 |:---|:---|
 | Domeinwaarde | **droogvallend** |
-| Definitie | Geheel of gedeeltelijk droogvallende gronden, buitendijks gelegen |
+| Omschrijving | Geheel of gedeeltelijk droogvallende gronden, buitendijks gelegen |
+| Inwinningscriteria | - |
 
 | Domein | Type Water |
 |:---|:---|
 | Domeinwaarde | **droogvallend (LAT)** |
-| Definitie | Geheel of gedeeltelijk droogvallende gronden ten opzichte van het Laagste Astronomisch Getij, buitendijks gelegen |
+| Omschrijving | Geheel of gedeeltelijk droogvallende gronden ten opzichte van het Laagste Astronomisch Getij, buitendijks gelegen |
+| Inwinningscriteria | - |
 
 | Domein | Type Water |
 |:---|:---|
 | Domeinwaarde | **bron, wel** |
-| Definitie | Plaats waar op natuurlijke wijze water uit de grond opwelt |
+| Omschrijving | Plaats waar op natuurlijke wijze water uit de grond opwelt |
+| Inwinningscriteria | - |
 
 | Domein | Type Water |
 |:---|:---|
 | Domeinwaarde | **overig** |
-| Definitie | De waarde van het objectkenmerk is bekend, maar anders dan de genoemde waarden |
+| Omschrijving | De waarde van het objectkenmerk is bekend, maar anders dan de genoemde waarden |
+| Inwinningscriteria | - |
 
 ### Domein "Vaarwegklasse"
 Product "T10"  
@@ -2113,52 +2501,62 @@ Domein "Vaarwegklasse"
 | Domein | Vaarwegklasse |
 |:---|:---|
 | Domeinwaarde | **0** |
-| Definitie | Vaarweg geschikt voor kleinere vaartuigen en recreatievaart (laadvermogen < 250 ton) |
+| Omschrijving | Vaarweg geschikt voor kleinere vaartuigen en recreatievaart (laadvermogen < 250 ton) |
+| Inwinningscriteria | - |
 
 | Domein | Vaarwegklasse |
 |:---|:---|
 | Domeinwaarde | **I** |
-| Definitie | Vaarweg geschikt voor Spits (laadvermogen 250 - 400 ton) |
+| Omschrijving | Vaarweg geschikt voor Spits (laadvermogen 250 - 400 ton) |
+| Inwinningscriteria | - |
 
 | Domein | Vaarwegklasse |
 |:---|:---|
 | Domeinwaarde | **II** |
-| Definitie | Vaarweg geschikt voor Kempenaar (laadvermogen 400 - 650 ton ) |
+| Omschrijving | Vaarweg geschikt voor Kempenaar (laadvermogen 400 - 650 ton ) |
+| Inwinningscriteria | - |
 
 | Domein | Vaarwegklasse |
 |:---|:---|
 | Domeinwaarde | **III** |
-| Definitie | Vaarweg geschikt voor Dortmund-Eemskanaalschip (laadvermogen 650 - 1000 ton) |
+| Omschrijving | Vaarweg geschikt voor Dortmund-Eemskanaalschip (laadvermogen 650 - 1000 ton) |
+| Inwinningscriteria | - |
 
 | Domein | Vaarwegklasse |
 |:---|:---|
 | Domeinwaarde | **IV** |
-| Definitie | Vaarweg geschikt voor Rijn-Hernekanaalschip (laadvermogen 1000 - 1500 ton) en voor 1-baksduwstel (laadvermogen 1250-1450 ton) |
+| Omschrijving | Vaarweg geschikt voor Rijn-Hernekanaalschip (laadvermogen 1000 - 1500 ton) en voor 1-baksduwstel (laadvermogen 1250-1450 ton) |
+| Inwinningscriteria | - |
 
 | Domein | Vaarwegklasse |
 |:---|:---|
 | Domeinwaarde | **Va** |
-| Definitie | Vaarweg geschikt voor Groot Rijnschip (laadvermogen 1500 - 3000 ton) en voor  1-baksduwstel (laadvermogen 1600-3000 ton) |
+| Omschrijving | Vaarweg geschikt voor Groot Rijnschip (laadvermogen 1500 - 3000 ton) en voor  1-baksduwstel (laadvermogen 1600-3000 ton) |
+| Inwinningscriteria | - |
 
 | Domein | Vaarwegklasse |
 |:---|:---|
 | Domeinwaarde | **Vb** |
-| Definitie | Vaarweg geschikt voor 2-baksduwstel - achter elkaar (laadvermogen 3200  - 6000 ton) |
+| Omschrijving | Vaarweg geschikt voor 2-baksduwstel - achter elkaar (laadvermogen 3200  - 6000 ton) |
+| Inwinningscriteria | - |
 
 | Domein | Vaarwegklasse |
 |:---|:---|
 | Domeinwaarde | **VIa** |
-| Definitie | Vaarweg geschikt voor 2-baksduwstel - naast elkaar (laadvermogen 3200 - 6000 ton) |
+| Omschrijving | Vaarweg geschikt voor 2-baksduwstel - naast elkaar (laadvermogen 3200 - 6000 ton) |
+| Inwinningscriteria | - |
 
 | Domein | Vaarwegklasse |
 |:---|:---|
 | Domeinwaarde | **VIb** |
-| Definitie | Vaarweg geschikt voor 4-baksduwstel - 2 naast elkaar, 2 achter elkaar (laadvermogen 6000 - 12000 ton) |
+| Omschrijving | Vaarweg geschikt voor 4-baksduwstel - 2 naast elkaar, 2 achter elkaar (laadvermogen 6000 - 12000 ton) |
+| Inwinningscriteria | - |
 
 | Domein | Vaarwegklasse |
 |:---|:---|
 | Domeinwaarde | **VIc** |
-| Definitie | Vaarweg geschikt voor 6-baksduwstel - 2 naast elkaar, 3 achter elkaar (laadvermogen 9600 - 18000 ton) |
+| Omschrijving | Vaarweg geschikt voor 6-baksduwstel - 2 naast elkaar, 3 achter elkaar (laadvermogen 9600 - 18000 ton) |
+| Inwinningscriteria | - |
 
 ### Domein "Voorkomen"
 Product "T10"  
@@ -2168,7 +2566,8 @@ Domein "Voorkomen"
 | Domein | Voorkomen |
 |:---|:---|
 | Domeinwaarde | **met riet** |
-| Definitie | Een met riet bedekt wateroppervlak |
+| Omschrijving | Een met riet bedekt wateroppervlak |
+| Inwinningscriteria | - |
 
 ### Domein "Fysiek Voorkomen"
 Product "T10"  
@@ -2178,37 +2577,44 @@ Domein "Fysiek Voorkomen"
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **op vast deel van brug** |
-| Definitie | Gelegen op een niet beweegbaar deel van een kunstwerk dat een verbinding vormt door middel van een overspanning. |
+| Omschrijving | Gelegen op een niet beweegbaar deel van een kunstwerk dat een verbinding vormt door middel van een overspanning. |
+| Inwinningscriteria | - |
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **op beweegbaar deel van brug** |
-| Definitie | Gelegen op een beweegbaar deel van een kunstwerk dat een verbinding vormt door middel van een overspanning. |
+| Omschrijving | Gelegen op een beweegbaar deel van een kunstwerk dat een verbinding vormt door middel van een overspanning. |
+| Inwinningscriteria | - |
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **op rotonde** |
-| Definitie | Deel van weg onderdeel zijnde van een rotonde |
+| Omschrijving | Deel van weg onderdeel zijnde van een rotonde |
+| Inwinningscriteria | - |
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **op oprit / afrit** |
-| Definitie | Deel van weg onderdeel zijnde van een op- of afrit van een autosnelweg of hoofdweg |
+| Omschrijving | Deel van weg onderdeel zijnde van een op- of afrit van een autosnelweg of hoofdweg |
+| Inwinningscriteria | - |
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **op knooppuntverbinding** |
-| Definitie | Deel van een weg gelegen op een verkeersknooppunt van snelwegen |
+| Omschrijving | Deel van een weg gelegen op een verkeersknooppunt van snelwegen |
+| Inwinningscriteria | - |
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **overkluisd** |
-| Definitie | Wegdeel overbouwd door een gebouw. |
+| Omschrijving | Wegdeel overbouwd door een gebouw. |
+| Inwinningscriteria | - |
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
 | Domeinwaarde | **in tunnel** |
-| Definitie | Gelegen in een kunstmatig aangelegde, onderaardse of door een berg geboorde kokervormige doorgang |
+| Omschrijving | Gelegen in een kunstmatig aangelegde, onderaardse of door een berg geboorde kokervormige doorgang |
+| Inwinningscriteria | - |
 
 ### Domein "Hoofdverkeersgebruik"
 Product "T10"  
@@ -2218,42 +2624,50 @@ Domein "Hoofdverkeersgebruik"
 | Domein | Hoofdverkeersgebruik |
 |:---|:---|
 | Domeinwaarde | **snelverkeer** |
-| Definitie | Weg, bestemd voor motorvoertuigen |
+| Omschrijving | Weg, bestemd voor motorvoertuigen |
+| Inwinningscriteria | - |
 
 | Domein | Hoofdverkeersgebruik |
 |:---|:---|
 | Domeinwaarde | **gemengd verkeer** |
-| Definitie | Weg, bestemd voor allerlei soorten verkeer |
+| Omschrijving | Weg, bestemd voor allerlei soorten verkeer |
+| Inwinningscriteria | - |
 
 | Domein | Hoofdverkeersgebruik |
 |:---|:---|
 | Domeinwaarde | **busverkeer** |
-| Definitie | Weg speciaal bestemd voor openbaar vervoer |
+| Omschrijving | Weg speciaal bestemd voor openbaar vervoer |
+| Inwinningscriteria | Indien een busbaan is geïntegreerd in een bredere weg (dus als er op de grens tussen de busbaan en de rest van de weg geen fysieke barrière is om oneigenlijk gebruik te verhinderen), dan wordt de busbaan niet apart aangegeven |
 
 | Domein | Hoofdverkeersgebruik |
 |:---|:---|
 | Domeinwaarde | **fietsers, bromfietsers** |
-| Definitie | Weg uitsluitend bestemd voor fietsers en/of bromfietsers en daartoe aangeduid met een blauw bord met daarop een wit rijwiel, of een blauw of zwart bord met daarop de tekst 'FIETSPAD' of 'RIJWIELPAD'. Indien, in uitzonderlijke gevallen, met grote mate van zekerheid bepaald kan worden dat een weg/pad een rijwielpad is, mag afgeweken worden van de regel dat er een aanduiding moet zijn. |
+| Omschrijving | Weg uitsluitend bestemd voor fietsers en/of bromfietsers en daartoe aangeduid met een blauw bord met daarop een wit rijwiel, of een blauw of zwart bord met daarop de tekst 'FIETSPAD' of 'RIJWIELPAD'. Indien, in uitzonderlijke gevallen, met grote mate van zekerheid bepaald kan worden dat een weg/pad een rijwielpad is, mag afgeweken worden van de regel dat er een aanduiding moet zijn. |
+| Inwinningscriteria | Een vrijliggend rijwielpad (waar niet direct een ander wegdeel naast ligt) breder dan 2 meter wordt altijd aangegeven.Een parallel gelegen rijwielpad (direct gelegen naast een ander wegdeel, met een fysieke scheiding ertussen) breder dan 2 meter, buiten bebouwd gebied, wordt altijd aangegeven.Een parallel gelegen rijwielpad breder dan 2 meter, binnen bebouwd gebied, wordt alleen gegeven naast een autosnelweg, hoofdweg, regionale weg of lokale weg.etc..... |
 
 | Domein | Hoofdverkeersgebruik |
 |:---|:---|
 | Domeinwaarde | **voetgangers** |
-| Definitie | Weg, uitsluitend bestemd voor voetgangers |
+| Omschrijving | Weg, uitsluitend bestemd voor voetgangers |
+| Inwinningscriteria | Voetpaden smaller dan 2 meter worden alleen ingewonnen indien vrijliggend van andere wegdelen en langer dan 100 meter.Etc.... |
 
 | Domein | Hoofdverkeersgebruik |
 |:---|:---|
 | Domeinwaarde | **ruiters** |
-| Definitie | Weg bestemd voor paardrijders |
+| Omschrijving | Weg bestemd voor paardrijders |
+| Inwinningscriteria | - |
 
 | Domein | Hoofdverkeersgebruik |
 |:---|:---|
 | Domeinwaarde | **vliegverkeer** |
-| Definitie | Weg, bestemd voor luchtvaartuigen |
+| Omschrijving | Weg, bestemd voor luchtvaartuigen |
+| Inwinningscriteria | - |
 
 | Domein | Hoofdverkeersgebruik |
 |:---|:---|
 | Domeinwaarde | **overig** |
-| Definitie | De waarde van het objectkenmerk is bekend, maar anders dan de genoemde waarden |
+| Omschrijving | De waarde van het objectkenmerk is bekend, maar anders dan de genoemde waarden |
+| Inwinningscriteria | - |
 
 ### Domein "Type Infrastructuur"
 Product "T10"  
@@ -2263,17 +2677,20 @@ Domein "Type Infrastructuur"
 | Domein | Type Infrastructuur |
 |:---|:---|
 | Domeinwaarde | **verbinding** |
-| Definitie | Wegdeel waar maximaal twee hartlijnen van andere wegdelen op aansluiten. |
+| Omschrijving | Wegdeel waar maximaal twee hartlijnen van andere wegdelen op aansluiten. |
+| Inwinningscriteria | - |
 
 | Domein | Type Infrastructuur |
 |:---|:---|
 | Domeinwaarde | **kruising** |
-| Definitie | Gelijkvloerse kruising (wegdeel waar drie of meer hartlijnen van verbindingen op elkaar aansluiten). |
+| Omschrijving | Gelijkvloerse kruising (wegdeel waar drie of meer hartlijnen van verbindingen op elkaar aansluiten). |
+| Inwinningscriteria | - |
 
 | Domein | Type Infrastructuur |
 |:---|:---|
 | Domeinwaarde | **overig verkeersgebied** |
-| Definitie | Een wegdeel anders dan een verbinding of kruising. |
+| Omschrijving | Een wegdeel anders dan een verbinding of kruising. |
+| Inwinningscriteria | - |
 
 ### Domein "Type Weg"
 Product "T10"  
@@ -2283,62 +2700,74 @@ Domein "Type Weg"
 | Domein | Type Weg |
 |:---|:---|
 | Domeinwaarde | **startbaan, landingsbaan** |
-| Definitie | Strook grond waar vliegtuigen kunnen opstijgen en/of landen |
+| Omschrijving | Strook grond waar vliegtuigen kunnen opstijgen en/of landen |
+| Inwinningscriteria | - |
 
 | Domein | Type Weg |
 |:---|:---|
 | Domeinwaarde | **rolbaan, platform** |
-| Definitie | Afgebakende taxibaan op een vliegveld (rolbaan). / Terrein voor geparkeerd staande vliegtuigen (platform) |
+| Omschrijving | Afgebakende taxibaan op een vliegveld (rolbaan). / Terrein voor geparkeerd staande vliegtuigen (platform) |
+| Inwinningscriteria | - |
 
 | Domein | Type Weg |
 |:---|:---|
 | Domeinwaarde | **autosnelweg** |
-| Definitie | Weg met gescheiden rijbanen en ongelijkvloerse kruisingen, daartoe aangeduid met het betreffende verkeersbord. |
+| Omschrijving | Weg met gescheiden rijbanen en ongelijkvloerse kruisingen, daartoe aangeduid met het betreffende verkeersbord. |
+| Inwinningscriteria | - |
 
 | Domein | Type Weg |
 |:---|:---|
 | Domeinwaarde | **hoofdweg** |
-| Definitie | Verharde weg die is aangeduid met een E-nummer, maar niet met een A-nummer, of verharde weg die onderdeel is van een verbindingsroute tussen grotere plaatsen, wat blijkt uit blauwe ANWB-borden, dan wel onderdeel is van een route om eindigende A of E-routes tot een gesloten netwerk te completeren |
+| Omschrijving | Verharde weg die is aangeduid met een E-nummer, maar niet met een A-nummer, of verharde weg die onderdeel is van een verbindingsroute tussen grotere plaatsen, wat blijkt uit blauwe ANWB-borden, dan wel onderdeel is van een route om eindigende A of E-routes tot een gesloten netwerk te completeren |
+| Inwinningscriteria | - |
 
 | Domein | Type Weg |
 |:---|:---|
 | Domeinwaarde | **regionale weg** |
-| Definitie | Verharde weg die een verbinding vormt tussen bewoonde oorden of grote stadswijken, en daartoe van twee kanten bewegwijzerd zijn met blauwe ANWB-richtingsborden voor autoverkeer. |
+| Omschrijving | Verharde weg die een verbinding vormt tussen bewoonde oorden of grote stadswijken, en daartoe van twee kanten bewegwijzerd zijn met blauwe ANWB-richtingsborden voor autoverkeer. |
+| Inwinningscriteria | - |
 
 | Domein | Type Weg |
 |:---|:---|
 | Domeinwaarde | **lokale weg** |
-| Definitie | Weg van lokaal belang tussen bewegwijzerde routes. |
+| Omschrijving | Weg van lokaal belang tussen bewegwijzerde routes. |
+| Inwinningscriteria | - |
 
 | Domein | Type Weg |
 |:---|:---|
 | Domeinwaarde | **straat** |
-| Definitie | Weg van zeer plaatselijk belang, gelegen binnen bebouwd gebied. |
+| Omschrijving | Weg van zeer plaatselijk belang, gelegen binnen bebouwd gebied. |
+| Inwinningscriteria | - |
 
 | Domein | Type Weg |
 |:---|:---|
 | Domeinwaarde | **veerverbinding** |
-| Definitie | Vastgelegde route over water om voertuigen en personen over te zetten al dan niet op basis van een vaste dienstregeling |
+| Omschrijving | Vastgelegde route over water om voertuigen en personen over te zetten al dan niet op basis van een vaste dienstregeling |
+| Inwinningscriteria | - |
 
 | Domein | Type Weg |
 |:---|:---|
 | Domeinwaarde | **parkeerplaats** |
-| Definitie | Parkeergelegenheid voor meerdere voertuigen in de openlucht. |
+| Omschrijving | Parkeergelegenheid voor meerdere voertuigen in de openlucht. |
+| Inwinningscriteria | - |
 
 | Domein | Type Weg |
 |:---|:---|
 | Domeinwaarde | **parkeerplaats: carpool** |
-| Definitie | Parkeerplaats voor personenwagens langs doorgaande wegen t.b.v. carpoolers. |
+| Omschrijving | Parkeerplaats voor personenwagens langs doorgaande wegen t.b.v. carpoolers. |
+| Inwinningscriteria | - |
 
 | Domein | Type Weg |
 |:---|:---|
 | Domeinwaarde | **parkeerplaats: P+R** |
-| Definitie | Parkeergelegenheid ten behoeve van het overstappen op het openbaar vervoer. |
+| Omschrijving | Parkeergelegenheid ten behoeve van het overstappen op het openbaar vervoer. |
+| Inwinningscriteria | - |
 
 | Domein | Type Weg |
 |:---|:---|
 | Domeinwaarde | **overig** |
-| Definitie | De waarde van het objectkenmerk is bekend, maar anders dan de genoemde waarden. |
+| Omschrijving | De waarde van het objectkenmerk is bekend, maar anders dan de genoemde waarden. |
+| Inwinningscriteria | - |
 
 ### Domein "Verhardingsbreedteklasse"
 Product "T10"  
@@ -2348,22 +2777,26 @@ Domein "Verhardingsbreedteklasse"
 | Domein | Verhardingsbreedteklasse |
 |:---|:---|
 | Domeinwaarde | **> 7 meter** |
-| Definitie | De breedte van de verharding, inclusief beton- en klinkerrand op gelijk niveau als het wegdek, berijdbare goot, geintegreerde rijwielstrook en/of busbaan en parkeerstrook is 7 meter of meer. |
+| Omschrijving | De breedte van de verharding, inclusief beton- en klinkerrand op gelijk niveau als het wegdek, berijdbare goot, geintegreerde rijwielstrook en/of busbaan en parkeerstrook is 7 meter of meer. |
+| Inwinningscriteria | - |
 
 | Domein | Verhardingsbreedteklasse |
 |:---|:---|
 | Domeinwaarde | **4 - 7 meter** |
-| Definitie | De breedte van de verharding, inclusief beton- en klinkerrand op gelijk niveau als het wegdek, berijdbare goot, geintegreerde rijwielstrook en/of busbaan en parkeerstrook is 4 meter of breder en smaller dan 7 meter |
+| Omschrijving | De breedte van de verharding, inclusief beton- en klinkerrand op gelijk niveau als het wegdek, berijdbare goot, geintegreerde rijwielstrook en/of busbaan en parkeerstrook is 4 meter of breder en smaller dan 7 meter |
+| Inwinningscriteria | - |
 
 | Domein | Verhardingsbreedteklasse |
 |:---|:---|
 | Domeinwaarde | **2 - 4 meter** |
-| Definitie | De breedte van de verharding, inclusief beton- en klinkerrand op gelijk niveau als het wegdek, berijdbare goot, geintegreerde rijwielstrook en/of busbaan en parkeerstrook is 2 meter of breder en smaller dan 4 meter. |
+| Omschrijving | De breedte van de verharding, inclusief beton- en klinkerrand op gelijk niveau als het wegdek, berijdbare goot, geintegreerde rijwielstrook en/of busbaan en parkeerstrook is 2 meter of breder en smaller dan 4 meter. |
+| Inwinningscriteria | - |
 
 | Domein | Verhardingsbreedteklasse |
 |:---|:---|
 | Domeinwaarde | **< 2 meter** |
-| Definitie | De breedte van de verharding, inclusief beton- en klinkerrand op gelijk niveau als het wegdek, berijdbare goot is smaller dan 2 meter. |
+| Omschrijving | De breedte van de verharding, inclusief beton- en klinkerrand op gelijk niveau als het wegdek, berijdbare goot is smaller dan 2 meter. |
+| Inwinningscriteria | - |
 
 ### Domein "Verhardingstype"
 Product "T10"  
@@ -2373,20 +2806,24 @@ Domein "Verhardingstype"
 | Domein | Verhardingstype |
 |:---|:---|
 | Domeinwaarde | **verhard** |
-| Definitie | Een weg met een egale verharding (asfalt, beton, klinkers, tegels, keien, etc.). |
+| Omschrijving | Een weg met een egale verharding (asfalt, beton, klinkers, tegels, keien, etc.). |
+| Inwinningscriteria | - |
 
 | Domein | Verhardingstype |
 |:---|:---|
 | Domeinwaarde | **half verhard** |
-| Definitie | Een weg waarop de verharding slechts gedeeltelijk is aangebracht (als twee banen met klinkers, beton, tegels,etc.) of het rijvlak is verbeterd met grind of sintels. |
+| Omschrijving | Een weg waarop de verharding slechts gedeeltelijk is aangebracht (als twee banen met klinkers, beton, tegels,etc.) of het rijvlak is verbeterd met grind of sintels. |
+| Inwinningscriteria | - |
 
 | Domein | Verhardingstype |
 |:---|:---|
 | Domeinwaarde | **onverhard** |
-| Definitie | Een weg zonder enige vorm van kunstmatige verharding, dan wel een weg hier en daar opgevuld met puin. |
+| Omschrijving | Een weg zonder enige vorm van kunstmatige verharding, dan wel een weg hier en daar opgevuld met puin. |
+| Inwinningscriteria | - |
 
 | Domein | Verhardingstype |
 |:---|:---|
 | Domeinwaarde | **onbekend** |
-| Definitie | Het verhardingstype van de weg is onbekend |
+| Omschrijving | Het verhardingstype van de weg is onbekend |
+| Inwinningscriteria | - |
 
