@@ -308,7 +308,7 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **park** |
-| Definitie | Een op zichzelf staande groenvoorziening, dienend ter verfraaiing en/of verlevendiging van één of meerdere wijken, zonder hiervan direct deel uit te maken |
+| Definitie | Een op zichzelf staande groenvoorziening, dienend ter verfraaiing en/of verlevendiging van Ã©Ã©n of meerdere wijken, zonder hiervan direct deel uit te maken |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -378,7 +378,7 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **verdedigingswerk** |
-| Definitie | Historisch verdedigingswerk, al dan niet voorzien van een of meer (door aarde bedekte) gebouwen of ruïnes |
+| Definitie | Historisch verdedigingswerk, al dan niet voorzien van een of meer (door aarde bedekte) gebouwen of ruÃ¯nes |
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -523,7 +523,7 @@ Domein "Gebruiksdoel"
 | Domein | Gebruiksdoel |
 |:---|:---|
 | Domeinwaarde | **industriefunctie** |
-| Definitie | Gebouw waar industriële activiteiten plaatsvinden. |
+| Definitie | Gebouw waar industriÃ«le activiteiten plaatsvinden. |
 
 | Domein | Gebruiksdoel |
 |:---|:---|
@@ -623,7 +623,7 @@ Domein "Type Gebouw"
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **fabriek** |
-| Definitie | Industriële onderneming waarin op grote schaal stoffen of goederen worden geproduceerd |
+| Definitie | IndustriÃ«le onderneming waarin op grote schaal stoffen of goederen worden geproduceerd |
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -683,7 +683,7 @@ Domein "Type Gebouw"
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **kliniek, inrichting, sanatorium** |
-| Definitie | Inrichting waar patiënten worden verpleegd (kliniek). / Herstellingsoord (sanatorium). |
+| Definitie | Inrichting waar patiÃ«nten worden verpleegd (kliniek). / Herstellingsoord (sanatorium). |
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -713,7 +713,7 @@ Domein "Type Gebouw"
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **lichttoren** |
-| Definitie | Toren als drager van een ter oriëntatie dienend licht, met name langs de kust. Het lichtpatroon van een lichttoren is niet uniek t.o.v. andere lichttorens. |
+| Definitie | Toren als drager van een ter oriÃ«ntatie dienend licht, met name langs de kust. Het lichtpatroon van een lichttoren is niet uniek t.o.v. andere lichttorens. |
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -758,7 +758,7 @@ Domein "Type Gebouw"
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **paleis** |
-| Definitie | Gebouw met een openbare of cermoniële functie heeft voor gebruik door de koninkljke familie |
+| Definitie | Gebouw met een openbare of cermoniÃ«le functie heeft voor gebruik door de koninkljke familie |
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -822,7 +822,7 @@ Domein "Type Gebouw"
 
 | Domein | Type Gebouw |
 |:---|:---|
-| Domeinwaarde | **ruïne** |
+| Domeinwaarde | **ruÃ¯ne** |
 | Definitie | Overblijfsel van een verwoest of door ouderdom vervallen gebouw |
 
 | Domein | Type Gebouw |
@@ -923,7 +923,7 @@ Domein "Type Gebouw"
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **vuurtoren** |
-| Definitie | Toren als drager van een ter oriëntatie dienend licht, met name langs de kust. Het lichtpatroon van de vuurtoren is uniek t.o.v. elke andere vuurtoren of lichttoren. |
+| Definitie | Toren als drager van een ter oriÃ«ntatie dienend licht, met name langs de kust. Het lichtpatroon van de vuurtoren is uniek t.o.v. elke andere vuurtoren of lichttoren. |
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -973,7 +973,7 @@ Domein "Type Gebouw"
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **ziekenhuis** |
-| Definitie | Instelling voor onderzoek, behandeling en verpleging van patiënten. |
+| Definitie | Instelling voor onderzoek, behandeling en verpleging van patiÃ«nten. |
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1333,7 +1333,7 @@ Domein "Type Inrichtingselement"
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **markant object** |
-| Definitie | Een object dat vanuit de wijde omgeving zichtbaar is en/of een oriënterende waarde heeft |
+| Definitie | Een object dat vanuit de wijde omgeving zichtbaar is en/of een oriÃ«nterende waarde heeft |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -1468,7 +1468,7 @@ Domein "Type Inrichtingselement"
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **wegafsluiting** |
-| Definitie | Een fysieke permanente of tijdelijke barrière in of dwars over een weg voor tenminste een gedeelte van de gebruikers van die weg. (b.v paaltjes, slagboom, toegangshek, etc.) |
+| Definitie | Een fysieke permanente of tijdelijke barriÃ¨re in of dwars over een weg voor tenminste een gedeelte van de gebruikers van die weg. (b.v paaltjes, slagboom, toegangshek, etc.) |
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -1578,7 +1578,7 @@ Domein "Type Registratief Gebied"
 | Domein | Type Registratief Gebied |
 |:---|:---|
 | Domeinwaarde | **land** |
-| Definitie | Begrenzing van Nederland, begrenst door België, Duitsland en de 12-mijls zone. |
+| Definitie | Begrenzing van Nederland, begrenst door BelgiÃ«, Duitsland en de 12-mijls zone. |
 
 | Domein | Type Registratief Gebied |
 |:---|:---|
@@ -1658,7 +1658,7 @@ Domein "Aantal Sporen"
 | Domein | Aantal Sporen |
 |:---|:---|
 | Domeinwaarde | **enkel** |
-| Definitie | Spoorbaan bestaande uit één spoor |
+| Definitie | Spoorbaan bestaande uit Ã©Ã©n spoor |
 
 | Domein | Aantal Sporen |
 |:---|:---|
@@ -2233,7 +2233,7 @@ Domein "Hoofdverkeersgebruik"
 | Domein | Hoofdverkeersgebruik |
 |:---|:---|
 | Domeinwaarde | **fietsers, bromfietsers** |
-| Definitie | Weg uitsluitend bestemd voor fietsers en/of bromfietsers en daartoe aangeduid met een blauw bord met daarop een wit rijwiel, of een blauw of zwart bord met daarop de tekst “FIETSPAD” of “RIJWIELPAD”. Indien, in uitzonderlijke gevallen, met grote mate van zekerheid bepaald kan worden dat een weg/pad een rijwielpad is, mag afgeweken worden van de regel dat er een aanduiding moet zijn. |
+| Definitie | Weg uitsluitend bestemd voor fietsers en/of bromfietsers en daartoe aangeduid met een blauw bord met daarop een wit rijwiel, of een blauw of zwart bord met daarop de tekst "FIETSPAD" of "RIJWIELPAD". Indien, in uitzonderlijke gevallen, met grote mate van zekerheid bepaald kan worden dat een weg/pad een rijwielpad is, mag afgeweken worden van de regel dat er een aanduiding moet zijn. |
 
 | Domein | Hoofdverkeersgebruik |
 |:---|:---|
