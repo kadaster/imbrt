@@ -2233,7 +2233,7 @@ Domein "Hoofdverkeersgebruik"
 | Domein | Hoofdverkeersgebruik |
 |:---|:---|
 | Domeinwaarde | **fietsers, bromfietsers** |
-| Definitie | Weg uitsluitend bestemd voor fietsers en/of bromfietsers en daartoe aangeduid met een blauw bord met daarop een wit rijwiel, of een blauw of zwart bord met daarop de tekst "FIETSPAD" of "RIJWIELPAD". Indien, in uitzonderlijke gevallen, met grote mate van zekerheid bepaald kan worden dat een weg/pad een rijwielpad is, mag afgeweken worden van de regel dat er een aanduiding moet zijn. |
+| Definitie | Weg uitsluitend bestemd voor fietsers en/of bromfietsers en daartoe aangeduid met een blauw bord met daarop een wit rijwiel, of een blauw of zwart bord met daarop de tekst 'FIETSPAD' of 'RIJWIELPAD'. Indien, in uitzonderlijke gevallen, met grote mate van zekerheid bepaald kan worden dat een weg/pad een rijwielpad is, mag afgeweken worden van de regel dat er een aanduiding moet zijn. |
 
 | Domein | Hoofdverkeersgebruik |
 |:---|:---|
