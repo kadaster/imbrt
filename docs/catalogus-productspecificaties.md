@@ -184,6 +184,7 @@ Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecif
   - [7.13 Objectklasse: functioneel gebied](#713-objectklasse-functioneel-gebied)
   - [7.14 Objectklasse: plantopografie](#714-objectklasse-plantopografie)
 - [Bijlage 1: Mutatieprotocol](#bijlage-1-mutatieprotocol)
+- [Bijlage 2: Waardelijsten TOP10NL](#bijlage-2-waardelijsten-top10nl)
 
 # 1 Stelsel van Basisregistraties
 
