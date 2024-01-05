@@ -1,4 +1,4 @@
-# Bijlage 2: Waardelijsten TOP10NL
+# Bijlage: Waardelijsten TOP10NL
 
 In de catalogus van de Basisregistratie Topografie worden objecten en hun attributen in detail beschreven. In het vorige hoofdstuk over de **gegevensdefinitie** zijn de objecten en attributen gegeven. De attribuutwaarden zitten niet in het informatiemodel, maar zijn vastgelegd in waardelijsten. In dit hoofdstuk woden de waardelijsten gegeven, zodat er een volledig beeld van de Basisregistratie Topografie gegeven kan worden.
 
