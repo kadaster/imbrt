@@ -20,11 +20,6 @@ Domein "Brontype"
 | Domeinwaarde | **TOP10vector** |
 | Definitie | Digitaal bestand, bestaande uit gecodeerde vectoren, die tezamen de topografie van Nederland weergeven op de schaal 1:10.000. Voorloper van TOP10NL. |
 | Herkomst Definitie | - |
-| Inwinningscriteria | - |
-| Volledigheid | - |
-| Punt | - |
-| Lijn | - |
-| Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
 | Domein | Brontype |
@@ -32,11 +27,6 @@ Domein "Brontype"
 | Domeinwaarde | **luchtfoto** |
 | Definitie | Een fotografische opname van een deel van het aardoppervlak, gemaakt vanuit een vliegtuig. |
 | Herkomst Definitie | - |
-| Inwinningscriteria | - |
-| Volledigheid | - |
-| Punt | - |
-| Lijn | - |
-| Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
 | Domein | Brontype |
@@ -44,11 +34,6 @@ Domein "Brontype"
 | Domeinwaarde | **RD** |
 | Definitie | Net van vaste punten in Nederland. Deze vaste punten zijn de referentiepunten waarnaar overige metingen en karteringen kunnen verwijzen. De referentiepunten maken deel uit van een netwerk dat is vastgelegd in het systeem van de Rijksdriehoeksmeting (RD). Dit netwerk wordt beheerd en onderhouden door het Kadaster. ( www.kadaster.nl ). |
 | Herkomst Definitie | - |
-| Inwinningscriteria | - |
-| Volledigheid | - |
-| Punt | - |
-| Lijn | - |
-| Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
 | Domein | Brontype |
@@ -56,11 +41,6 @@ Domein "Brontype"
 | Domeinwaarde | **overig** |
 | Definitie | De waarde van het objectkenmerk is bekend, maar anders dan de genoemde waarden. |
 | Herkomst Definitie | - |
-| Inwinningscriteria | - |
-| Volledigheid | - |
-| Punt | - |
-| Lijn | - |
-| Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
 | Domein | Brontype |
@@ -68,11 +48,6 @@ Domein "Brontype"
 | Domeinwaarde | **externe data** |
 | Definitie | De data worden aangeleverd door externe leveranciers. |
 | Herkomst Definitie | - |
-| Inwinningscriteria | - |
-| Volledigheid | - |
-| Punt | - |
-| Lijn | - |
-| Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
 ### Domein "Algemeen - Mutatietype"
@@ -85,11 +60,6 @@ Domein "Mutatietype"
 | Domeinwaarde | **kwaliteitsverbetering** |
 | Definitie | Aanpassing van het object als gevolg van een kwaliteitsactie |
 | Herkomst Definitie | - |
-| Inwinningscriteria | - |
-| Volledigheid | - |
-| Punt | - |
-| Lijn | - |
-| Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
 | Domein | Mutatietype |
@@ -97,11 +67,6 @@ Domein "Mutatietype"
 | Domeinwaarde | **werkelijke verandering** |
 | Definitie | Aanpassing van het object als gevolg van wijzigingen van het object in het terrein. |
 | Herkomst Definitie | - |
-| Inwinningscriteria | - |
-| Volledigheid | - |
-| Punt | - |
-| Lijn | - |
-| Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
 | Domein | Mutatietype |
@@ -109,11 +74,6 @@ Domein "Mutatietype"
 | Domeinwaarde | **modelwijziging** |
 | Definitie | Aanpassing van het object als gevolg van wijzigingen in het datamodel. |
 | Herkomst Definitie | - |
-| Inwinningscriteria | - |
-| Volledigheid | - |
-| Punt | - |
-| Lijn | - |
-| Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
 | Domein | Mutatietype |
@@ -121,11 +81,6 @@ Domein "Mutatietype"
 | Domeinwaarde | **andere bron** |
 | Definitie | Aanpassing van het object als gevolg van gebruik van andere bronnen. |
 | Herkomst Definitie | - |
-| Inwinningscriteria | - |
-| Volledigheid | - |
-| Punt | - |
-| Lijn | - |
-| Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
 ### Domein "Algemeen - Status"
@@ -138,11 +93,6 @@ Domein "Status"
 | Domeinwaarde | **in uitvoering** |
 | Definitie | Het object is in aanleg. |
 | Herkomst Definitie | - |
-| Inwinningscriteria | - |
-| Volledigheid | - |
-| Punt | - |
-| Lijn | - |
-| Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
 | Domein | Status |
@@ -150,11 +100,6 @@ Domein "Status"
 | Domeinwaarde | **in gebruik** |
 | Definitie | Het object wordt gebruikt. |
 | Herkomst Definitie | - |
-| Inwinningscriteria | - |
-| Volledigheid | - |
-| Punt | - |
-| Lijn | - |
-| Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
 | Domein | Status |
@@ -162,11 +107,6 @@ Domein "Status"
 | Domeinwaarde | **buiten gebruik** |
 | Definitie | Het object wordt niet meer (als zodanig) gebruikt. |
 | Herkomst Definitie | - |
-| Inwinningscriteria | - |
-| Volledigheid | - |
-| Punt | - |
-| Lijn | - |
-| Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
 ### Domein "Functioneel Gebied - Type Functioneel Gebied"
