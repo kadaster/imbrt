@@ -7518,7 +7518,7 @@ _Inwinningscriteria:_
 | Domein | FG\_typeFunctioneelGebied |
 |:---|:---|
 | Domeinwaarde | **grindwinning** |
-| Definitie | Gebied waar winning van grind plaatsvind (in dagbouw of d.m.v. zuigen). |
+| Definitie | Gebied waar winning van grind plaatsvindt (in dagbouw of d.m.v. zuigen). |
 | Inwinningscriteria | - |
 | Volledigheid | Volledig |
 | Punt | Ja |
