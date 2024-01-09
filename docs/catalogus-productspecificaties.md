@@ -1943,7 +1943,7 @@ Definitie: De beschrijving van de ligging en de vorm van een object aan de hand 
 | Domein | Mutatietype |
 |:---|:---|
 | Domeinwaarde | **kwaliteitsverbetering** |
-| Definitie | Aanpassing van het object als gevolg van een kwaliteitsactie |
+| Definitie | Aanpassing van het object als gevolg van een kwaliteitsactie. |
 
 | Domein | Mutatietype |
 |:---|:---|
@@ -3984,7 +3984,7 @@ _Inwinningscriteria:_
 | Domein | GB\_typeGebouw |
 |:---|:---|
 | Domeinwaarde | **bezoekerscentrum** |
-| Definitie | Informatiecentrum in een culturele instelling, een natuurpark, enz. |
+| Definitie | Informatiecentrum in een culturele instelling, een natuurpark, enz.. |
 | Inwinningscriteria | - |
 | Volledigheid | Beperkt |
 | Punt | Ja |
@@ -4384,7 +4384,7 @@ _Inwinningscriteria:_
 | Domein | GB\_typeGebouw |
 |:---|:---|
 | Domeinwaarde | **postkantoor** |
-| Definitie | Kantoor waar men administratieve handelingen kan verrichten ten behoeve van postverzending, giro e.d. |
+| Definitie | Kantoor waar men administratieve handelingen kan verrichten ten behoeve van postverzending, giro e.d.. |
 | Inwinningscriteria | Alle locaties die PostNL als postkantoor aanduidt, worden als 'postkantoor' ingewonnen. Pakketpunten, businesspoints en andere locaties waar niet alle diensten van een postkantoor worden aangeboden, worden niet ingewonnen als 'postkantoor'. |
 | Volledigheid | Volledig |
 | Punt | Ja |
@@ -4674,7 +4674,7 @@ _Inwinningscriteria:_
 | Domein | GB\_typeGebouw |
 |:---|:---|
 | Domeinwaarde | **waterradmolen** |
-| Definitie | Bebouwing t.b.v. het verrichten van arbeid, waarvoor de energie geleverd wordt door stromend water en opgenomen door middel van een schoepenrad. |
+| Definitie | Bebouwing t.b.v. het verrichten van arbeid, waarvoor de energie geleverd wordt door stromend water en opgenomen wordt door middel van een schoepenrad. |
 | Inwinningscriteria | Een voormalige waterradmolen (zonder schoepenrad) wordt aangegeven als bebouwing zonder verdere toevoeging. |
 | Volledigheid | Volledig |
 | Punt | Ja |
@@ -4714,7 +4714,7 @@ _Inwinningscriteria:_
 | Domein | GB\_typeGebouw |
 |:---|:---|
 | Domeinwaarde | **windmolen** |
-| Definitie | Bebouwing t.b.v. het verrichten van arbeid (m.u.v. het opwekken van elektrische energie, het malen van granen en het opvijzelen van water), waarvoor de energie geleverd wordt door wind en opgenomen door middel van wieken. |
+| Definitie | Bebouwing t.b.v. het verrichten van arbeid (m.u.v. het opwekken van elektrische energie, het malen van granen en het opvijzelen van water), waarvoor de energie geleverd wordt door wind en opgenomen wordt door middel van wieken. |
 | Inwinningscriteria | Indien het object niet voldoet aan de criteria voor gebouwvlak, dan wordt deze opgenomen als gebouwpunt.<br>Een voormalige windmolen zonder wieken wordt niet aangegeven als windmolen. Wanneer de wieken vanwege restauratie tijdelijk afwezig zijn, dan wordt het object wel als windmolen gegeven. |
 | Volledigheid | Volledig |
 | Punt | Ja |
@@ -4724,7 +4724,7 @@ _Inwinningscriteria:_
 | Domein | GB\_typeGebouw |
 |:---|:---|
 | Domeinwaarde | **windmolen: korenmolen** |
-| Definitie | Bebouwing t.b.v. het malen van granen, waarvoor de energie geleverd wordt door wind en opgenomen door middel van wieken. |
+| Definitie | Bebouwing t.b.v. het malen van granen, waarvoor de energie geleverd wordt door wind en opgenomen wordt door middel van wieken. |
 | Inwinningscriteria | Indien het object niet voldoet aan de criteria voor gebouwvlak, dan wordt deze opgenomen als gebouwpunt.<br>Een voormalige windmolen zonder wieken wordt niet aangegeven als windmolen: korenmolen. Wanneer de wieken vanwege restauratie tijdelijk afwezig zijn, dan wordt het object wel als windmolen: korenmolen gegeven. |
 | Volledigheid | Volledig |
 | Punt | Ja |
@@ -4734,7 +4734,7 @@ _Inwinningscriteria:_
 | Domein | GB\_typeGebouw |
 |:---|:---|
 | Domeinwaarde | **windmolen: watermolen** |
-| Definitie | Bebouwing t.b.v. het opvijzelen van water, waarvoor de energie geleverd wordt door wind en opgenomen door middel van wieken. |
+| Definitie | Bebouwing t.b.v. het opvijzelen van water, waarvoor de energie geleverd wordt door wind en opgenomen wordt door middel van wieken. |
 | Inwinningscriteria | Indien het object niet voldoet aan de criteria voor gebouwvlak, dan wordt deze opgenomen als gebouwpunt.<br>Een voormalige windmolen zonder wieken wordt niet aangegeven als windmolen: watermolen. Wanneer de wieken vanwege restauratie tijdelijk afwezig zijn, dan wordt het object wel als windmolen: watermolen gegeven. |
 | Volledigheid | Volledig |
 | Punt | Ja |
