@@ -2289,7 +2289,7 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 | Domein | WE\_hoofdverkeersgebruik |
 |:---|:---|
 | Domeinwaarde | **ruiters** |
-| Definitie | Weg bestemd voor paardrijders |
+| Definitie | Weg bestemd voor paardrijders. |
 | Inwinningscriteria | -<br>Wordt niet ingewonnen. |
 | Volledigheid | Niet |
 | Punt | Ja |
@@ -2445,8 +2445,8 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 | Domein | WE\_verhardingsbreedteklasse |
 |:---|:---|
 | Domeinwaarde | **< 2 meter** |
-| Definitie | De breedte van de verharding, inclusief beton- en klinkerrand op gelijk niveau als het wegdek, berijdbare goot is smaller dan 2 meter.<br>Een verhardingsbreedteklasse "< 2 meter" geldt alleen voor weglijnen. |
-| Inwinningscriteria | - |
+| Definitie | De breedte van de verharding, inclusief beton- en klinkerrand op gelijk niveau als het wegdek, berijdbare goot is smaller dan 2 meter. |
+| Inwinningscriteria | Een verhardingsbreedteklasse "< 2 meter" geldt alleen voor weglijnen. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Ja |
@@ -3225,7 +3225,7 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 | Domein | WA\_typeWater |
 |:---|:---|
 | Domeinwaarde | **waterloop** |
-| Definitie | Langgerekt waterdeel in de vorm van een sloot, rivier, kanaal, enz. |
+| Definitie | Langgerekt waterdeel in de vorm van een sloot, rivier, kanaal, enz.. |
 | Inwinningscriteria | Als waterloop worden beschouwd:<br>- Beek (natuurlijke waterloop, ontstaan uit een bron).<br>- Boezem (het geheel aan stilstaande, gemeen liggende, doch van het buitenwater afgesloten plassen, kanalen, tochten en sloten, waarop het overtollige water uit lager gelegen polders wordt uitgeslagen. Karakteristiek hierbij is dat het waterniveau hoger is dan het naastliggende maaiveldniveau).<br>- Gracht (gegraven geul).<br>- Kanaal (een ten behoeve van de waterbeheersing of scheepvaart gegraven geul).<br>- Kreek (klein, smal, niet gegraven water, dikwijls een inham van een zee, ook wel een overblijfsel van een overstroming). Worden gegeneraliseerd aangegeven.<br>- Natte sloot (sloot waar het grootste gedeelte van het jaar water in staat).<br>- Rivier (natuurlijke waterloop).<br>- Sprang / Sprank / Spreng (sloot of kanaal in zandgrond tot verzameling van het in de bodem aanwezige water t.b.v. de drinkwatervoorziening).<br>- Vaart (kanaal, gegraven waterweg).<br>- Vistrap (omleiding bij een stuw of een deel van een waterloop zodanig ingericht dat vissen stroomopwaarts kunnen passeren).<br>- Wijk (sloot of kanaal in veenkoloniaal gebied). |
 | Volledigheid | Volledig |
 | Punt | Nee |
@@ -3484,7 +3484,7 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 | Domein | WA\_fysiekVoorkomen |
 |:---|:---|
 | Domeinwaarde | **overkluisd** |
-| Definitie | Overdekt door gebouwen. |
+| Definitie | Water overbouwd door gebouwen. |
 | Inwinningscriteria | - |
 | Volledigheid | Volledig |
 | Punt | Ja |
@@ -5177,7 +5177,7 @@ Voor het bijhouden van het attribuut type_landgebruik wordt gebruik gemaakt van 
 | Domein | TE\_typeIandgebruik |
 |:---|:---|
 | Domeinwaarde | **bos: naaldbos** |
-| Definitie | Oppervlak begroeid met een dusdanige aantal naaldbomen dat de kruinen een min of meer gesloten geheel vormen of, na volgroeiing van de bomen, zullen vormen |
+| Definitie | Oppervlak begroeid met een dusdanige aantal naaldbomen dat de kruinen een min of meer gesloten geheel vormen of, na volgroeiing van de bomen, zullen vormen. |
 | Inwinningscriteria | Minimum percentage naaldbomen: 90%. Bij dit percentage worden het eventueel aanwezige onderhout en smalle stroken loof- en of naaldbos gelegen naast of als uitloper van het bos buiten beschouwing gelaten.<br>Minimumoppervlakte voor het logisch geheel van bospartijen op erven en in bebouwd gebied: 1000 m².<br>Minimumlengte en -breedte voor een brede houtrand: 50 meter resp. 3 meter.<br>Minimumoppervlakte in overige gevallen: 50 m².<br>Een afgebrand bos, kapvlakte, jonge aanplant of bosopslag (spontaan groeiend bos waarvan de begrenzing niet duidelijk kan worden onderscheiden) wordt behandeld als bos.<br>Een smalle strook loof- en/of naaldhout gelegen naast of als uitloper van een bos wordt geacht tot dit bos te behoren.<br>In een groot deel van de bossen worden bospaden ontoegankelijk gemaakt t.b.v. het wild door er greppels te graven, er bomen/takken neer te leggen of zandbergen op te werpen. Deze paden worden bij het bos getrokken.<br>Een heg op een wal (houtwal) wordt niet als inrichtingselement van het type 'heg, haag' ingewonnen, maar als bos (geen griend). |
 | Volledigheid | Volledig |
 | Punt | Nee |
@@ -5576,7 +5576,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 | Domein | IE\_typeInrichtingselement |
 |:---|:---|
 | Attribuutwaarde | **GPS kernnetpunt** |
-| Definitie | Punt geschikt voor GPS metingen. (Kan een steen of bout zijn). |
+| Definitie | Punt geschikt voor GPS metingen (kan een steen of bout zijn). |
 | Inwinningscriteria | Alleen recent gecontroleerde GPS-kernnetpunten worden opgenomen in de BRT. |
 | Volledigheid | Volledig |
 | Punt | Ja |
@@ -6296,7 +6296,7 @@ _Inwinningscriteria:_
 | Domein | RE\_typeReliëf |
 |:---|:---|
 | Domeinwaarde | **talud, hoogteverschil** |
-| Definitie | Plaatselijk glooiende terreinverheffing of -inzinking (hoogteverschil). / Schuinte van het zijvlak van aardwerken, dijken, spoorbanen, vestingwerken, enz (talud). |
+| Definitie | Plaatselijk glooiende terreinverheffing of -inzinking (hoogteverschil). / Schuinte van het zijvlak van aardwerken, dijken, spoorbanen, vestingwerken, etc. (talud). |
 | Inwinningscriteria | Grotere terreinglooiingen worden opgenomen als hoogtelijnen.<br>Van een dijk wordt elke zijde opgenomen als een talud, hoogteverschil.<br>De onderzijde en de bovenzijde van het talud worden opgenomen.<br>Minimale lengte in geval van een dijk: 100 meter.<br>Minimale hoogteverschil tussen twee maaivelden: 1 meter (als geluidswering 2 meter).<br>Minimum hoogteverschil tussen maaiveld en water: 3 meter.<br>Wordt niet opgenomen in duingebieden en bij basaltblokken/steenglooiing.<br>Indien er een weg op een dijk loopt, dan worden hoge taludlijnen van deze dijk geplaatst op de kant van het wegdeel indien de afstand tussen de bovenzijde van het talud en de wegkant kleiner is dan 6 meter.<br>Een calamiteitenkering (dijk als kering van vloeistoffen om bijvoorbeeld een tankpark) wordt altijd als kade, wal opgenomen, ongeacht de hoogte. |
 | Volledigheid | Volledig |
 | Punt | Nee |
@@ -6452,7 +6452,7 @@ _Inwinningscriteria:_
 | Domein | HO\_typeHoogte |
 |:---|:---|
 | Domeinwaarde | **dieptepunt** |
-| Definitie | Punt waarvan de waterdiepte bekend is t.o.v. het referentievlak. |
+| Definitie | Punt waarvan de waterdiepte bekend is ten opzichte van het referentievlak. |
 | Inwinningscriteria | - |
 | Volledigheid | Volledig |
 | Punt | Ja |
@@ -8165,7 +8165,7 @@ _Inwinningscriteria:_
 
 | Domein | PT\_typeObject |
 |:---|:---|
-| Domeinwaarde | **spoorbaan** |
+| Domeinwaarde | **spoor** |
 | Definitie | Plantopografie van spoorbaandelen. |
 | Inwinningscriteria | - |
 | Volledigheid | Beperkt |
