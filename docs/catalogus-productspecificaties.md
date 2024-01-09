@@ -4923,7 +4923,7 @@ _Inwinningscriteria:_
 
 | Domein | **GE\_gebruiksdoel** |
 |:---|:---|
-| Domeinwaarde | bijeenkomstfunctie |
+| Domeinwaarde | **bijeenkomstfunctie** |
 | Definitie | Gebouw waar bijeenkomsten voor personen kunnen worden georganiseerd. |
 | Inwinningscriteria | - |
 | Volledigheid | Niet |
@@ -4933,7 +4933,7 @@ _Inwinningscriteria:_
 
 | Domein | **GE\_gebruiksdoel** |
 |:---|:---|
-| Domeinwaarde | celfunctie |
+| Domeinwaarde | **celfunctie** |
 | Definitie | Gebouw waar personen in bewaring kunnen worden gesteld. |
 | Inwinningscriteria | - |
 | Volledigheid | Niet |
@@ -4943,7 +4943,7 @@ _Inwinningscriteria:_
 
 | Domein | **GE\_gebruiksdoel** |
 |:---|:---|
-| Domeinwaarde | gezondheidszorgfunctie |
+| Domeinwaarde | **gezondheidszorgfunctie** |
 | Definitie | Gebouw waar lichamelijke of geestelijke gezondheidszorg kan worden verleend. |
 | Inwinningscriteria | - |
 | Volledigheid | Niet |
@@ -4953,7 +4953,7 @@ _Inwinningscriteria:_
 
 | Domein | **GE\_gebruiksdoel** |
 |:---|:---|
-| Domeinwaarde | industriefunctie |
+| Domeinwaarde | **industriefunctie** |
 | Definitie | Gebouw waar industriële activiteiten plaatsvinden. |
 | Inwinningscriteria | - |
 | Volledigheid | Niet |
@@ -4963,7 +4963,7 @@ _Inwinningscriteria:_
 
 | Domein | **GE\_gebruiksdoel** |
 |:---|:---|
-| Domeinwaarde | kantoorfunctie |
+| Domeinwaarde | **kantoorfunctie** |
 | Definitie | Gebouw waar administratieve handelingen plaatsvinden. |
 | Inwinningscriteria | - |
 | Volledigheid | Niet |
@@ -4973,7 +4973,7 @@ _Inwinningscriteria:_
 
 | Domein | **GE\_gebruiksdoel** |
 |:---|:---|
-| Domeinwaarde | logiesfunctie |
+| Domeinwaarde | **logiesfunctie** |
 | Definitie | Gebouw waar de mogelijkheid aanwezig is om overnachtingsmogelijkheden aan te bieden. |
 | Inwinningscriteria | - |
 | Volledigheid | Niet |
@@ -4983,7 +4983,7 @@ _Inwinningscriteria:_
 
 | Domein | **GE\_gebruiksdoel** |
 |:---|:---|
-| Domeinwaarde | onderwijsfunctie |
+| Domeinwaarde | **onderwijsfunctie** |
 | Definitie | Gebouw waar onderwijsfaciliteiten worden aangeboden. |
 | Inwinningscriteria | - |
 | Volledigheid | Niet |
@@ -4993,7 +4993,7 @@ _Inwinningscriteria:_
 
 | Domein | **GE\_gebruiksdoel** |
 |:---|:---|
-| Domeinwaarde | sportfunctie |
+| Domeinwaarde | **sportfunctie** |
 | Definitie | Gebouw waar sportieve activiteiten kunnen worden ontplooid. |
 | Inwinningscriteria | - |
 | Volledigheid | Niet |
@@ -5003,7 +5003,7 @@ _Inwinningscriteria:_
 
 | Domein | **GE\_gebruiksdoel** |
 |:---|:---|
-| Domeinwaarde | winkelfunctie |
+| Domeinwaarde | **winkelfunctie** |
 | Definitie | Gebouw waar allerhanden roerende of onroerende goederen al dan niet tegen betaling worden aangeboden. |
 | Inwinningscriteria | - |
 | Volledigheid | Niet |
@@ -5013,7 +5013,7 @@ _Inwinningscriteria:_
 
 | Domein | **GE\_gebruiksdoel** |
 |:---|:---|
-| Domeinwaarde | woonfunctie |
+| Domeinwaarde | **woonfunctie** |
 | Definitie | Gebouw geschikt voor permanente bewoning. |
 | Inwinningscriteria | - |
 | Volledigheid | Niet |
@@ -5023,7 +5023,7 @@ _Inwinningscriteria:_
 
 | Domein | **GE\_gebruiksdoel** |
 |:---|:---|
-| Domeinwaarde | overige gebruiksfunctie |
+| Domeinwaarde | **overige gebruiksfunctie** |
 | Definitie | Indien geen van bovengenoemde functies van toepassing is. |
 | Inwinningscriteria | - |
 | Volledigheid | Niet |
