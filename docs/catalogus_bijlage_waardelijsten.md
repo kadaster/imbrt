@@ -429,7 +429,7 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **ijsbaan** |
-| Definitie | Voorziening in de open lucht waar in de winter geschaatst kan worden |
+| Definitie | Terrein dat in de winter onder water wordt gezet om te dienen als schaatsgelegenheid of dat is voorzien van een installatie waarmee een ijsvloer kan worden gelegd. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -717,7 +717,7 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **sportterrein, sportcomplex** |
-| Definitie | Het geheel aan voorzieningen (velden, kleedruimten, groenvoorziening, parkeerterrein, wegen, tribunes, etc.) t.b.v. de beoefening van sport |
+| Definitie | Het geheel aan voorzieningen (velden, kleedruimten, groenvoorziening, parkeerterrein, wegen, tribunes, etc.) t.b.v. de beoefening van sport. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -729,7 +729,7 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **stortplaats** |
-| Definitie | Plaats waar afval gestort mag worden |
+| Definitie | Plaats waar afval gestort mag worden. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -741,7 +741,7 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **tennispark** |
-| Definitie | Terrein ingericht voor de beoefening van de tennissport |
+| Definitie | Terrein ingericht voor de beoefening van de tennissport. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -753,7 +753,7 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **transformatorstation** |
-| Definitie | Gebied met installatie(s) voor het transformeren van elektrische stroom |
+| Definitie | Gebied met installatie(s) voor het transformeren van elektrische stroom. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -765,7 +765,7 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **tuincentrum** |
-| Definitie | Het geheel aan bebouwing en omliggend terrein t.b.v. de (particuliere) verkoop van artikelen voor tuinaanleg |
+| Definitie | Het geheel aan bebouwing en omliggend terrein t.b.v. de (particuliere) verkoop van artikelen voor tuinaanleg. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -777,7 +777,7 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **vakantiepark** |
-| Definitie | Een terrein met voorzieningen t.b.v. verblijfsrecreatie, waarop een combinatie van bungalows en / of stacaravans en / of kampeerplaatsen voorkomt |
+| Definitie | Een terrein met voorzieningen t.b.v. verblijfsrecreatie, waarop een combinatie van bungalows en / of stacaravans en / of kampeerplaatsen voorkomt. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -789,7 +789,7 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **verdedigingswerk** |
-| Definitie | Historisch verdedigingswerk, al dan niet voorzien van een of meer (door aarde bedekte) gebouwen of ruïnes |
+| Definitie | Historisch verdedigingswerk, al dan niet voorzien van een of meer (door aarde bedekte) gebouwen of ruïnes. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -801,7 +801,7 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **verzorgingsplaats** |
-| Definitie | Locatie langs een autosnelweg of hoofdweg met een parkeerfunctie, meestal in combinatie met een brandstofverkooppunt en soms aangevuld met een wegrestaurant |
+| Definitie | Locatie langs een autosnelweg of hoofdweg met een parkeerfunctie, meestal in combinatie met een brandstofverkooppunt en soms aangevuld met een wegrestaurant. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -825,7 +825,7 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **visvijvercomplex** |
-| Definitie | Het geheel aan voorzieningen t.b.v. sportvissen |
+| Definitie | Het geheel aan voorzieningen t.b.v. sportvissen. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -849,7 +849,7 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **volkstuinen** |
-| Definitie | Het geheel aan voorzieningen t.b.v. hobbytuinbouw |
+| Definitie | Het geheel aan voorzieningen t.b.v. hobbytuinbouw. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -861,7 +861,7 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **waterkering** |
-| Definitie | Geheel van een dijk of dam, inclusief talud |
+| Definitie | Geheel van een dijk of dam, inclusief talud. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -897,7 +897,7 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **windturbinepark** |
-| Definitie | Concentratie van windturbines |
+| Definitie | Concentratie van windturbines. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -921,7 +921,7 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **zandwinning** |
-| Definitie | Gebied waar winning van zand plaatsvindt door middel van zuigen |
+| Definitie | Gebied waar winning van zand plaatsvindt door middel van zuigen. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -933,7 +933,7 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **zenderpark** |
-| Definitie | Gebied waar meerdere zendmasten staan opgesteld |
+| Definitie | Gebied waar meerdere zendmasten staan opgesteld. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -945,7 +945,7 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **ziekenhuiscomplex** |
-| Definitie | Het geheel van gebouwen die tezamen een ziekenhuis vormen |
+| Definitie | Het geheel van gebouwen die tezamen een ziekenhuis vormen. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -981,7 +981,7 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **zuiveringsinstallatie** |
-| Definitie | Het gebied omvattende het geheel aan voorzieningen t.b.v. de zuivering van afvalwater |
+| Definitie | Het gebied omvattende het geheel aan voorzieningen t.b.v. de zuivering van afvalwater. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -993,7 +993,7 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **zweefvliegveldterrein** |
-| Definitie | Het geheel aan terreinen, gebouwen enz. voor (de beoefening van) de zweefvliegsport |
+| Definitie | Het geheel aan terreinen, gebouwen enz. voor (de beoefening van) de zweefvliegsport. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -1005,7 +1005,7 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **zwembadcomplex** |
-| Definitie | Het geheel aan voorzieningen rond een openbaar zwembad |
+| Definitie | Het geheel aan voorzieningen rond een openbaar zwembad. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -1017,7 +1017,7 @@ Domein "Type Functioneel Gebied"
 | Domein | Type Functioneel Gebied |
 |:---|:---|
 | Domeinwaarde | **overig** |
-| Definitie | Het type functioneel gebied is bekend, maar anders dan de genoemde waarden |
+| Definitie | Het type functioneel gebied is bekend, maar anders dan de genoemde waarden. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -1171,7 +1171,7 @@ Domein "Gebruiksdoel"
 | Domein | Gebruiksdoel |
 |:---|:---|
 | Domeinwaarde | **woonfunctie** |
-| Definitie | Gebouw geschikt voor permanente bewoning |
+| Definitie | Gebouw geschikt voor permanente bewoning. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -1409,7 +1409,7 @@ Domein "Type Gebouw"
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **kapel** |
-| Definitie | Gebouwtje dat dient doet als bidruimte. |
+| Definitie | Gebouwtje dat dient als bidruimte. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -1421,7 +1421,7 @@ Domein "Type Gebouw"
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **kas, warenhuis** |
-| Definitie | Voornamelijk uit glas opgebouwde overbouwing van de grond ten behoeve van landbouw. |
+| Definitie | Voornamelijk uit glas opgebouwde overbouwing van de grond. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -1649,7 +1649,7 @@ Domein "Type Gebouw"
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **paleis** |
-| Definitie | Gebouw met een openbare of cermoniële functie heeft voor gebruik door de koninklijke familie. |
+| Definitie | Gebouw met een openbare of ceremoniële functie heeft voor gebruik door de koninklijke familie. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -1865,7 +1865,7 @@ Domein "Type Gebouw"
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **sporthal** |
-| Definitie | Grootschalige voorziening met een meer regionale uitstraling en meerdere velden t.b.v. verschillende of een specifieke tak van sport. |
+| Definitie | Hal waarin kan worden gesport. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -1925,7 +1925,7 @@ Domein "Type Gebouw"
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **tank** |
-| Definitie | Rond bouwwerk t.b.v. opslag van vloeistof. |
+| Definitie | Rond bouwwerk t.b.v. opslag. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -2105,7 +2105,7 @@ Domein "Type Gebouw"
 | Domein | Type Gebouw |
 |:---|:---|
 | Domeinwaarde | **windmolen** |
-| Definitie | Bebouwing t.b.v. het verrichten van arbeid (m.u.v. het opwekken van elektrische energie, het malen van granen en het opvijzelen van water), waarvoor de energie geleverd wordt door wind en opgenomen door middel van wieken. |
+| Definitie | Bebouwing t.b.v. het verrichten van arbeid (m.u.v. het opwekken van elektrische energie, het malen van granen en het opvijzelen van water), waarvoor de energie geleverd wordt door wind en opgenomen wordt door middel van wieken. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -2415,7 +2415,7 @@ Domein "Referentievlak"
 | Domein | Referentievlak |
 |:---|:---|
 | Domeinwaarde | **LAT** |
-| Definitie | Laagste Astronomisch Getij. |
+| Definitie | Lowest Astronomical Tide / Laagste Astronomisch Getij. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -2516,7 +2516,7 @@ Domein "Type Hoogte"
 | Domein | Type Hoogte |
 |:---|:---|
 | Domeinwaarde | **laagwaterlijn** |
-| Definitie | Lijn die de grens van het water aangeeft als de waterstand op zijn laagst is.. |
+| Definitie | Lijn die de grens van het water aangeeft als de waterstand op zijn laagst is. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -2641,7 +2641,7 @@ Domein "Type Inrichtingselement"
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **calamiteitendoorgang** |
-| Definitie | Doorgang in de verkeersgeleider in de middenberm die hulpdiensten doorgang moet verlenen voor het bestrijden van calamiteiten. |
+| Definitie | Doorgang in de verkeersgeleider of wegafsluiter die hulpdiensten doorgang moet verlenen voor het bestrijden van calamiteiten. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -2653,7 +2653,7 @@ Domein "Type Inrichtingselement"
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **dukdalf** |
-| Definitie | In het water geplaatste, zware al dan niet  metalen paal of constructie, dienend tot bescherming van bruggen en sluizen. |
+| Definitie | In het water geplaatste, zware al dan niet metalen paal of constructie, dienend tot bescherming van bruggen en sluizen. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -2785,7 +2785,7 @@ Domein "Type Inrichtingselement"
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **hoogspanningsleiding** |
-| Definitie | Leiding waarop elektrische spanning van meer dan 500 volt staat.. |
+| Definitie | Leiding waarop elektrische spanning van meer dan 500 volt staat. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -2869,7 +2869,7 @@ Domein "Type Inrichtingselement"
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **kilometerpaal spoorweg** |
-| Definitie | Paal waarop de kilometrering van een spoorweg wordt aangegeven |
+| Definitie | Paal waarop de kilometrering van een spoorweg wordt aangegeven. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -3001,7 +3001,7 @@ Domein "Type Inrichtingselement"
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **markant object** |
-| Definitie | Een object dat vanuit de wijde omgeving zichtbaar is en/of een oriënterende waarde heeft. |
+| Definitie | Een object dat vanuit de wijde omgeving zichtbaar is en een oriënterende waarde heeft. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -3145,7 +3145,7 @@ Domein "Type Inrichtingselement"
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **scheepvaartlicht** |
-| Definitie | Licht dat dient voor de ondersteuning bij het navigeren van schepen. |
+| Definitie | Stellage die een licht draagt t.b.v. de scheepvaart. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -3277,7 +3277,7 @@ Domein "Type Inrichtingselement"
 | Domein | Type Inrichtingselement |
 |:---|:---|
 | Domeinwaarde | **uitzichtpunt** |
-| Definitie | Punt met fraai uitzicht / Bouwwerk permanent ingericht om te kunnen observeren. |
+| Definitie | Punt met fraai uitzicht. / Bouwwerk permanent ingericht om te kunnen observeren. |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -4757,7 +4757,7 @@ Domein "Vaarwegklasse"
 | Domein | Vaarwegklasse |
 |:---|:---|
 | Domeinwaarde | **II** |
-| Definitie | Vaarweg geschikt voor Kempenaar (laadvermogen 400 - 650 ton ). |
+| Definitie | Vaarweg geschikt voor Kempenaar (laadvermogen 400 - 650 ton). |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -4793,7 +4793,7 @@ Domein "Vaarwegklasse"
 | Domein | Vaarwegklasse |
 |:---|:---|
 | Domeinwaarde | **Va** |
-| Definitie | Vaarweg geschikt voor Groot Rijnschip (laadvermogen 1500 - 3000 ton) en voor  1-baksduwstel (laadvermogen 1600-3000 ton). |
+| Definitie | Vaarweg geschikt voor Groot Rijnschip (laadvermogen 1500 - 3000 ton) en voor 1-baksduwstel (laadvermogen 1600-3000 ton). |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |
@@ -4805,7 +4805,7 @@ Domein "Vaarwegklasse"
 | Domein | Vaarwegklasse |
 |:---|:---|
 | Domeinwaarde | **Vb** |
-| Definitie | Vaarweg geschikt voor 2-baksduwstel - achter elkaar (laadvermogen 3200  - 6000 ton). |
+| Definitie | Vaarweg geschikt voor 2-baksduwstel - achter elkaar (laadvermogen 3200 - 6000 ton). |
 | Herkomst Definitie | - |
 | Inwinningscriteria | - |
 | Volledigheid | - |

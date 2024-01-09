@@ -4154,7 +4154,7 @@ _Inwinningscriteria:_
 | Domein | GB\_typeGebouw |
 |:---|:---|
 | Domeinwaarde | **kasteel** |
-| Definitie | Burcht. |
+| Definitie | Versterkt gebouw of burcht. |
 | Inwinningscriteria | - |
 | Volledigheid | Volledig |
 | Punt | Ja |
@@ -4484,7 +4484,7 @@ _Inwinningscriteria:_
 | Domein | GB\_typeGebouw |
 |:---|:---|
 | Domeinwaarde | **school** |
-| Definitie | Opleidingsinstituut. |
+| Definitie | Gebouw in gebruik voor basis, middelbaar of hoger onderwijs. |
 | Inwinningscriteria | - |
 | Volledigheid | Beperkt |
 | Punt | Ja |
@@ -4912,7 +4912,7 @@ _Inwinningscriteria:_
 
 | Attribuut | gebruiksdoel |
 |:---|:---|
-| Definitie | Huidig gebruiksdoel van een gebouw, conform de BAG classificatie voor panden |
+| Definitie | Huidig gebruiksdoel van een gebouw, conform de BAG classificatie voor panden. |
 | Inwinningscriteria | - |
 | Multipliciteit | Enkelvoudig |
 | Optionaliteit | Verplicht |
@@ -6086,7 +6086,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 | Domein | IE\_typeInrichtingselement |
 |:---|:---|
 | Domeinwaarde | **wegafsluiting** |
-| Definitie | Een fysieke permanente of tijdelijke barrière in of dwars over een weg voor tenminste een gedeelte van de gebruikers van die weg. (b.v paaltjes, slagboom, toegangshek, etc.) |
+| Definitie | Een fysieke permanente of tijdelijke barrière in of dwars over een weg voor tenminste een gedeelte van de gebruikers van die weg. (b.v paaltjes, slagboom, toegangshek, etc.). |
 | Inwinningscriteria | Een wegafsluiting in een bos wordt alleen opgenomen indien deze voorkomt op een verharde of halfverharde weg.<br>Paaltjes en zigzaghekken aan het begin, eind of in voet- en rijwielpaden worden niet opgenomen. |
 | Volledigheid | Beperkt |
 | Punt | Nee |
@@ -6569,7 +6569,7 @@ _Inwinningscriteria:_
 | Domein | HO\_referentievlak |
 |:---|:---|
 | Domeinwaarde | **LAT** |
-| Definitie | Lowest Astronomical Tide. |
+| Definitie | Lowest Astronomical Tide / Laagste Astronomisch Getij. |
 | Inwinningscriteria | - |
 | Volledigheid | Volledig |
 | Punt | Ja |
@@ -7318,7 +7318,7 @@ _Inwinningscriteria:_
 | Domein | FG\_typeFunctioneelGebied |
 |:---|:---|
 | Domeinwaarde | **bedrijventerrein** |
-| Definitie | Het geheel aan gebouwen en terreinen ten behoeve van bedrijven en industrie, inclusief toevoerwegen, tussengelegen water etc. |
+| Definitie | Het geheel aan gebouwen en terreinen ten behoeve van bedrijven en industrie, inclusief toevoerwegen, tussengelegen water, etc.. |
 | Inwinningscriteria | - |
 | Volledigheid | Volledig |
 | Punt | Ja |
@@ -7688,7 +7688,7 @@ _Inwinningscriteria:_
 | Domein | FG\_typeFunctioneelGebied |
 |:---|:---|
 | Domeinwaarde | **natuurgebied** |
-| Definitie | Gebied dat waarde heeft uit een oogpunt van natuurschoon of natuurleven |
+| Definitie | Gebied dat waarde heeft uit een oogpunt van natuurschoon of natuurleven. |
 | Inwinningscriteria | - |
 | Volledigheid | Volledig |
 | Punt | Ja |
