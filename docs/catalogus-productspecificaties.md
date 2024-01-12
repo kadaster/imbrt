@@ -3483,7 +3483,7 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 | Domein | WA\_fysiekVoorkomen |
 |:---|:---|
 | Domeinwaarde | **overkluisd** |
-| Definitie | Overdekt door gebouwen. |
+| Definitie | Water overbouwd door gebouwen. |
 | Inwinningscriteria | - |
 | Volledigheid | Volledig |
 | Punt | Ja |
@@ -4153,7 +4153,7 @@ _Inwinningscriteria:_
 | Domein | GB\_typeGebouw |
 |:---|:---|
 | Domeinwaarde | **kasteel** |
-| Definitie | Burcht. |
+| Definitie | Versterkt gebouw of burcht. |
 | Inwinningscriteria | - |
 | Volledigheid | Volledig |
 | Punt | Ja |
@@ -4483,7 +4483,7 @@ _Inwinningscriteria:_
 | Domein | GB\_typeGebouw |
 |:---|:---|
 | Domeinwaarde | **school** |
-| Definitie | Opleidingsinstituut. |
+| Definitie | Gebouw in gebruik voor basis, middelbaar of hoger onderwijs. |
 | Inwinningscriteria | - |
 | Volledigheid | Beperkt |
 | Punt | Ja |
@@ -6568,7 +6568,7 @@ _Inwinningscriteria:_
 | Domein | HO\_referentievlak |
 |:---|:---|
 | Domeinwaarde | **LAT** |
-| Definitie | Lowest Astronomical Tide. |
+| Definitie | Lowest Astronomical Tide / Laagste Astronomisch Getij. |
 | Inwinningscriteria | - |
 | Volledigheid | Volledig |
 | Punt | Ja |
