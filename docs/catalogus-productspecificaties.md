@@ -6867,16 +6867,6 @@ _Inwinningscriteria:_
 
 | Domein | GG\_typeGeografischGebied |
 |:---|:---|
-| Domeinwaarde | **overig** |
-| Definitie | De waarde van het objectkenmerk is bekend, maar anders dan de genoemde waarden. |
-| Inwinningscriteria | - |
-| Volledigheid | Beperkt |
-| Punt | Ja |
-| Lijn | Nee |
-| Vlak | Ja |
-
-| Domein | GG\_typeGeografischGebied |
-|:---|:---|
 | Domeinwaarde | **polder** |
 | Definitie | Door waterscheidingen begrensd stuk land of gebied waarin de waterstand kan worden beheerst door bemaling. |
 | Inwinningscriteria | - |
@@ -6939,6 +6929,16 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **zeegat, zeearm** |
 | Definitie | Plaats waar een binnenzee in een zee uitmondt (zeegat). /<br>Lange, smalle inham van een zee (zeearm). |
+| Inwinningscriteria | - |
+| Volledigheid | Beperkt |
+| Punt | Ja |
+| Lijn | Nee |
+| Vlak | Ja |
+
+| Domein | GG\_typeGeografischGebied |
+|:---|:---|
+| Domeinwaarde | **overig** |
+| Definitie | De waarde van het objectkenmerk is bekend, maar anders dan de genoemde waarden. |
 | Inwinningscriteria | - |
 | Volledigheid | Beperkt |
 | Punt | Ja |
