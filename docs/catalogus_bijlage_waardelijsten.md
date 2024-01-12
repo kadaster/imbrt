@@ -25,6 +25,7 @@ Domein "Brontype"
 | Herkomst Definitie | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Brontype |
 |:---|:---|
@@ -33,6 +34,7 @@ Domein "Brontype"
 | Herkomst Definitie | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Brontype |
 |:---|:---|
@@ -41,6 +43,7 @@ Domein "Brontype"
 | Herkomst Definitie | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Brontype |
 |:---|:---|
@@ -49,6 +52,7 @@ Domein "Brontype"
 | Herkomst Definitie | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Brontype |
 |:---|:---|
@@ -57,6 +61,7 @@ Domein "Brontype"
 | Herkomst Definitie | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Algemeen - Mutatietype"
 
@@ -71,6 +76,7 @@ Domein "Mutatietype"
 | Herkomst Definitie | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Mutatietype |
 |:---|:---|
@@ -79,6 +85,7 @@ Domein "Mutatietype"
 | Herkomst Definitie | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Mutatietype |
 |:---|:---|
@@ -87,6 +94,7 @@ Domein "Mutatietype"
 | Herkomst Definitie | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Mutatietype |
 |:---|:---|
@@ -95,6 +103,7 @@ Domein "Mutatietype"
 | Herkomst Definitie | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Algemeen - Status"
 
@@ -109,6 +118,7 @@ Domein "Status"
 | Herkomst Definitie | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Status |
 |:---|:---|
@@ -117,6 +127,7 @@ Domein "Status"
 | Herkomst Definitie | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Status |
 |:---|:---|
@@ -125,6 +136,7 @@ Domein "Status"
 | Herkomst Definitie | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 ### Objectklasse Functioneel Gebied
 
@@ -146,6 +158,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -159,6 +172,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -172,6 +186,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -185,6 +200,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -198,6 +214,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-02-2019 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -211,6 +228,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -224,6 +242,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -237,6 +256,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -250,6 +270,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -263,6 +284,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -276,6 +298,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -289,6 +312,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -302,6 +326,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -315,6 +340,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -328,6 +354,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -341,6 +368,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -354,6 +382,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -367,6 +396,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-02-2019 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -380,6 +410,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -393,6 +424,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -406,6 +438,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -419,6 +452,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -432,6 +466,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -445,6 +480,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -458,6 +494,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -471,6 +508,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -484,6 +522,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -497,6 +536,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -510,6 +550,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -523,6 +564,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -536,6 +578,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -549,6 +592,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -562,6 +606,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -575,6 +620,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -588,6 +634,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -601,6 +648,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -614,6 +662,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -627,6 +676,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-02-2019 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -640,6 +690,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-02-2019 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -653,6 +704,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -666,6 +718,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -679,6 +732,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -692,6 +746,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -705,6 +760,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -718,6 +774,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -731,6 +788,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -744,6 +802,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -757,6 +816,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -770,6 +830,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -783,6 +844,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -796,6 +858,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -809,6 +872,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -822,6 +886,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -835,6 +900,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -848,6 +914,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -861,6 +928,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-02-2019 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -874,6 +942,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-02-2019 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -887,6 +956,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -900,6 +970,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -913,6 +984,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-02-2019 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -926,6 +998,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -939,6 +1012,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -952,6 +1026,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -965,6 +1040,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -978,6 +1054,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -991,6 +1068,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -1004,6 +1082,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -1017,6 +1096,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -1030,6 +1110,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -1043,6 +1124,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -1056,6 +1138,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2017 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -1069,6 +1152,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -1082,6 +1166,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -1095,6 +1180,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -1108,6 +1194,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2017 |
 
+<br>
 
 | Domein | Type Functioneel Gebied |
 |:---|:---|
@@ -1121,6 +1208,7 @@ Domein "Type Functioneel Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 ### Objectklasse Gebouw
 
@@ -1142,6 +1230,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
@@ -1155,6 +1244,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Gebouw - Gebruiksdoel"
 
@@ -1174,6 +1264,7 @@ Domein "Gebruiksdoel"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Gebruiksdoel |
 |:---|:---|
@@ -1187,6 +1278,7 @@ Domein "Gebruiksdoel"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Gebruiksdoel |
 |:---|:---|
@@ -1200,6 +1292,7 @@ Domein "Gebruiksdoel"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Gebruiksdoel |
 |:---|:---|
@@ -1213,6 +1306,7 @@ Domein "Gebruiksdoel"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Gebruiksdoel |
 |:---|:---|
@@ -1226,6 +1320,7 @@ Domein "Gebruiksdoel"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Gebruiksdoel |
 |:---|:---|
@@ -1239,6 +1334,7 @@ Domein "Gebruiksdoel"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Gebruiksdoel |
 |:---|:---|
@@ -1252,6 +1348,7 @@ Domein "Gebruiksdoel"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Gebruiksdoel |
 |:---|:---|
@@ -1265,6 +1362,7 @@ Domein "Gebruiksdoel"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Gebruiksdoel |
 |:---|:---|
@@ -1278,6 +1376,7 @@ Domein "Gebruiksdoel"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Gebruiksdoel |
 |:---|:---|
@@ -1291,6 +1390,7 @@ Domein "Gebruiksdoel"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Gebruiksdoel |
 |:---|:---|
@@ -1304,6 +1404,7 @@ Domein "Gebruiksdoel"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Gebouw - Hoogteklasse"
 
@@ -1323,6 +1424,7 @@ Domein "Hoogteklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Hoogteklasse |
 |:---|:---|
@@ -1336,6 +1438,7 @@ Domein "Hoogteklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Gebouw - Type Gebouw"
 
@@ -1355,6 +1458,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1368,6 +1472,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1381,6 +1486,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1394,6 +1500,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1407,6 +1514,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1420,6 +1528,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1433,6 +1542,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1446,6 +1556,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1459,6 +1570,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1472,6 +1584,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1485,6 +1598,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1498,6 +1612,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1511,6 +1626,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1524,6 +1640,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1537,6 +1654,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1550,6 +1668,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1563,6 +1682,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1576,6 +1696,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1589,6 +1710,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1602,6 +1724,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1615,6 +1738,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1628,6 +1752,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1641,6 +1766,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1654,6 +1780,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1667,6 +1794,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1680,6 +1808,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1693,6 +1822,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1706,6 +1836,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1719,6 +1850,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1732,6 +1864,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1745,6 +1878,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1758,6 +1892,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1771,6 +1906,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1784,6 +1920,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1797,6 +1934,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1810,6 +1948,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1823,6 +1962,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1836,6 +1976,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1849,6 +1990,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1862,6 +2004,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1875,6 +2018,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1888,6 +2032,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1901,6 +2046,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1914,6 +2060,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1927,6 +2074,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1940,6 +2088,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1953,6 +2102,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1966,6 +2116,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1979,6 +2130,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -1992,6 +2144,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2005,6 +2158,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2018,6 +2172,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2031,6 +2186,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2044,6 +2200,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2057,6 +2214,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2070,6 +2228,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2083,6 +2242,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2096,6 +2256,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2109,6 +2270,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2122,6 +2284,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2135,6 +2298,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2148,6 +2312,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2161,6 +2326,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2174,6 +2340,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2187,6 +2354,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2200,6 +2368,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2213,6 +2382,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2226,6 +2396,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2239,6 +2410,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2252,6 +2424,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2265,6 +2438,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2278,6 +2452,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2291,6 +2466,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2304,6 +2480,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2317,6 +2494,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2330,6 +2508,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2343,6 +2522,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2356,6 +2536,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-10-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2369,6 +2550,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2382,6 +2564,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebouw |
 |:---|:---|
@@ -2395,6 +2578,7 @@ Domein "Type Gebouw"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 ### Objectklasse Geografisch Gebied
 
@@ -2416,6 +2600,7 @@ Domein "Type Geografisch Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
@@ -2429,6 +2614,7 @@ Domein "Type Geografisch Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
@@ -2442,6 +2628,7 @@ Domein "Type Geografisch Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
@@ -2455,6 +2642,7 @@ Domein "Type Geografisch Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
@@ -2468,6 +2656,7 @@ Domein "Type Geografisch Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
@@ -2481,6 +2670,7 @@ Domein "Type Geografisch Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
@@ -2494,6 +2684,7 @@ Domein "Type Geografisch Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
@@ -2507,6 +2698,7 @@ Domein "Type Geografisch Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
@@ -2520,6 +2712,7 @@ Domein "Type Geografisch Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
@@ -2533,6 +2726,7 @@ Domein "Type Geografisch Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
@@ -2546,6 +2740,7 @@ Domein "Type Geografisch Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
@@ -2559,6 +2754,7 @@ Domein "Type Geografisch Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
@@ -2572,6 +2768,7 @@ Domein "Type Geografisch Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
@@ -2585,6 +2782,7 @@ Domein "Type Geografisch Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
@@ -2598,6 +2796,7 @@ Domein "Type Geografisch Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Geografisch Gebied |
 |:---|:---|
@@ -2611,6 +2810,7 @@ Domein "Type Geografisch Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 ### Objectklasse Hoogte
 
@@ -2632,6 +2832,7 @@ Domein "Referentievlak"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Referentievlak |
 |:---|:---|
@@ -2645,6 +2846,7 @@ Domein "Referentievlak"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Referentievlak |
 |:---|:---|
@@ -2658,6 +2860,7 @@ Domein "Referentievlak"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Referentievlak |
 |:---|:---|
@@ -2671,6 +2874,7 @@ Domein "Referentievlak"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Hoogte - Type Hoogte"
 
@@ -2690,6 +2894,7 @@ Domein "Type Hoogte"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Hoogte |
 |:---|:---|
@@ -2703,6 +2908,7 @@ Domein "Type Hoogte"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Hoogte |
 |:---|:---|
@@ -2716,6 +2922,7 @@ Domein "Type Hoogte"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Hoogte |
 |:---|:---|
@@ -2729,6 +2936,7 @@ Domein "Type Hoogte"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Hoogte |
 |:---|:---|
@@ -2742,6 +2950,7 @@ Domein "Type Hoogte"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Hoogte |
 |:---|:---|
@@ -2755,6 +2964,7 @@ Domein "Type Hoogte"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Hoogte |
 |:---|:---|
@@ -2768,6 +2978,7 @@ Domein "Type Hoogte"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Hoogte |
 |:---|:---|
@@ -2781,6 +2992,7 @@ Domein "Type Hoogte"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Hoogte |
 |:---|:---|
@@ -2794,6 +3006,7 @@ Domein "Type Hoogte"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 ### Objectklasse Inrichtingselement
 
@@ -2815,6 +3028,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -2828,6 +3042,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -2841,6 +3056,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -2854,6 +3070,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -2867,6 +3084,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -2880,6 +3098,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -2893,6 +3112,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -2906,6 +3126,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -2919,6 +3140,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -2932,6 +3154,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -2945,6 +3168,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -2958,6 +3182,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -2971,6 +3196,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -2984,6 +3210,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -2997,6 +3224,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-02-2019 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3010,6 +3238,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3023,6 +3252,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3036,6 +3266,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3049,6 +3280,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3062,6 +3294,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3075,6 +3308,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3088,6 +3322,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3101,6 +3336,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3114,6 +3350,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3127,6 +3364,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3140,6 +3378,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3153,6 +3392,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3166,6 +3406,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3179,6 +3420,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3192,6 +3434,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-02-2019 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3205,6 +3448,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3218,6 +3462,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3231,6 +3476,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3244,6 +3490,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3257,6 +3504,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3270,6 +3518,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3283,6 +3532,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3296,6 +3546,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3309,6 +3560,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3322,6 +3574,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3335,6 +3588,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3348,6 +3602,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3361,6 +3616,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3374,6 +3630,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3387,6 +3644,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3400,6 +3658,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3413,6 +3672,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3426,6 +3686,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3439,6 +3700,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3452,6 +3714,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3465,6 +3728,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3478,6 +3742,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3491,6 +3756,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3504,6 +3770,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3517,6 +3784,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3530,6 +3798,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3543,6 +3812,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3556,6 +3826,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3569,6 +3840,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3582,6 +3854,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-02-2019 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3595,6 +3868,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3608,6 +3882,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3621,6 +3896,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3634,6 +3910,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3647,6 +3924,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3660,6 +3938,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3673,6 +3952,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3686,6 +3966,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Inrichtingselement |
 |:---|:---|
@@ -3699,6 +3980,7 @@ Domein "Type Inrichtingselement"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 ### Objectklasse Plaats
 
@@ -3720,6 +4002,7 @@ Domein "Type Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebied |
 |:---|:---|
@@ -3733,6 +4016,7 @@ Domein "Type Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebied |
 |:---|:---|
@@ -3746,6 +4030,7 @@ Domein "Type Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebied |
 |:---|:---|
@@ -3759,6 +4044,7 @@ Domein "Type Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-06-2015 |
 
+<br>
 
 | Domein | Type Gebied |
 |:---|:---|
@@ -3772,6 +4058,7 @@ Domein "Type Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebied |
 |:---|:---|
@@ -3785,6 +4072,7 @@ Domein "Type Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebied |
 |:---|:---|
@@ -3798,6 +4086,7 @@ Domein "Type Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebied |
 |:---|:---|
@@ -3811,6 +4100,7 @@ Domein "Type Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Gebied |
 |:---|:---|
@@ -3824,6 +4114,7 @@ Domein "Type Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 ### Objectklasse Plantopografie
 
@@ -3845,6 +4136,7 @@ Domein "Type Object"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Object |
 |:---|:---|
@@ -3858,6 +4150,7 @@ Domein "Type Object"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Object |
 |:---|:---|
@@ -3871,6 +4164,7 @@ Domein "Type Object"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Object |
 |:---|:---|
@@ -3884,6 +4178,7 @@ Domein "Type Object"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 ### Objectklasse Registratief Gebied
 
@@ -3905,6 +4200,7 @@ Domein "Type Registratief Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Registratief Gebied |
 |:---|:---|
@@ -3918,6 +4214,7 @@ Domein "Type Registratief Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Registratief Gebied |
 |:---|:---|
@@ -3931,6 +4228,7 @@ Domein "Type Registratief Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Registratief Gebied |
 |:---|:---|
@@ -3944,6 +4242,7 @@ Domein "Type Registratief Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Registratief Gebied |
 |:---|:---|
@@ -3957,6 +4256,7 @@ Domein "Type Registratief Gebied"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 ### Objectklasse Relief
 
@@ -3978,6 +4278,7 @@ Domein "Functie"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Relief - Hoogteklasse"
 
@@ -3997,6 +4298,7 @@ Domein "Hoogteklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Hoogteklasse |
 |:---|:---|
@@ -4010,6 +4312,7 @@ Domein "Hoogteklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Hoogteklasse |
 |:---|:---|
@@ -4023,6 +4326,7 @@ Domein "Hoogteklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Relief - Type Relief"
 
@@ -4042,6 +4346,7 @@ Domein "Type Relief"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Relief |
 |:---|:---|
@@ -4055,6 +4360,7 @@ Domein "Type Relief"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Relief |
 |:---|:---|
@@ -4068,6 +4374,7 @@ Domein "Type Relief"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 ### Objectklasse Spoorbaandeel
 
@@ -4089,6 +4396,7 @@ Domein "Aantal Sporen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Aantal Sporen |
 |:---|:---|
@@ -4102,6 +4410,7 @@ Domein "Aantal Sporen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Aantal Sporen |
 |:---|:---|
@@ -4115,6 +4424,7 @@ Domein "Aantal Sporen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Spoorbaandeel - Fysiek Voorkomen"
 
@@ -4134,6 +4444,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
@@ -4147,6 +4458,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
@@ -4160,6 +4472,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
@@ -4173,6 +4486,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Spoorbaandeel - Spoorbreedte"
 
@@ -4192,6 +4506,7 @@ Domein "Spoorbreedte"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Spoorbreedte |
 |:---|:---|
@@ -4205,6 +4520,7 @@ Domein "Spoorbreedte"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Spoorbaandeel - Type Infrastructuur"
 
@@ -4224,6 +4540,7 @@ Domein "Type Infrastructuur"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Infrastructuur |
 |:---|:---|
@@ -4237,6 +4554,7 @@ Domein "Type Infrastructuur"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Spoorbaandeel - Type Spoorbaan"
 
@@ -4256,6 +4574,7 @@ Domein "Type Spoorbaan"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Spoorbaan |
 |:---|:---|
@@ -4269,6 +4588,7 @@ Domein "Type Spoorbaan"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Spoorbaan |
 |:---|:---|
@@ -4282,6 +4602,7 @@ Domein "Type Spoorbaan"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Spoorbaan |
 |:---|:---|
@@ -4295,6 +4616,7 @@ Domein "Type Spoorbaan"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Spoorbaan |
 |:---|:---|
@@ -4308,6 +4630,7 @@ Domein "Type Spoorbaan"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Spoorbaandeel - Vervoer Functie"
 
@@ -4327,6 +4650,7 @@ Domein "Vervoer Functie"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Vervoer Functie |
 |:---|:---|
@@ -4340,6 +4664,7 @@ Domein "Vervoer Functie"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Vervoer Functie |
 |:---|:---|
@@ -4353,6 +4678,7 @@ Domein "Vervoer Functie"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Vervoer Functie |
 |:---|:---|
@@ -4366,6 +4692,7 @@ Domein "Vervoer Functie"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 ### Objectklasse Terrein
 
@@ -4387,6 +4714,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
@@ -4400,6 +4728,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
@@ -4413,6 +4742,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
@@ -4426,6 +4756,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Terrein - Type Landgebruik"
 
@@ -4445,6 +4776,7 @@ Domein "Type Landgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Landgebruik |
 |:---|:---|
@@ -4458,6 +4790,7 @@ Domein "Type Landgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Landgebruik |
 |:---|:---|
@@ -4471,6 +4804,7 @@ Domein "Type Landgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Landgebruik |
 |:---|:---|
@@ -4484,6 +4818,7 @@ Domein "Type Landgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Landgebruik |
 |:---|:---|
@@ -4497,6 +4832,7 @@ Domein "Type Landgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Landgebruik |
 |:---|:---|
@@ -4510,6 +4846,7 @@ Domein "Type Landgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Landgebruik |
 |:---|:---|
@@ -4523,6 +4860,7 @@ Domein "Type Landgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Landgebruik |
 |:---|:---|
@@ -4536,6 +4874,7 @@ Domein "Type Landgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Landgebruik |
 |:---|:---|
@@ -4549,6 +4888,7 @@ Domein "Type Landgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Landgebruik |
 |:---|:---|
@@ -4562,6 +4902,7 @@ Domein "Type Landgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Landgebruik |
 |:---|:---|
@@ -4575,6 +4916,7 @@ Domein "Type Landgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Landgebruik |
 |:---|:---|
@@ -4588,6 +4930,7 @@ Domein "Type Landgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Landgebruik |
 |:---|:---|
@@ -4601,6 +4944,7 @@ Domein "Type Landgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Landgebruik |
 |:---|:---|
@@ -4614,6 +4958,7 @@ Domein "Type Landgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Landgebruik |
 |:---|:---|
@@ -4627,6 +4972,7 @@ Domein "Type Landgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Landgebruik |
 |:---|:---|
@@ -4640,6 +4986,7 @@ Domein "Type Landgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Landgebruik |
 |:---|:---|
@@ -4653,6 +5000,7 @@ Domein "Type Landgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Landgebruik |
 |:---|:---|
@@ -4666,6 +5014,7 @@ Domein "Type Landgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Landgebruik |
 |:---|:---|
@@ -4679,6 +5028,7 @@ Domein "Type Landgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Landgebruik |
 |:---|:---|
@@ -4692,6 +5042,7 @@ Domein "Type Landgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Landgebruik |
 |:---|:---|
@@ -4705,6 +5056,7 @@ Domein "Type Landgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Terrein - Voorkomen"
 
@@ -4724,6 +5076,7 @@ Domein "Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Voorkomen |
 |:---|:---|
@@ -4737,6 +5090,7 @@ Domein "Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 ### Objectklasse Waterdeel
 
@@ -4758,6 +5112,7 @@ Domein "Breedteklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Breedteklasse |
 |:---|:---|
@@ -4771,6 +5126,7 @@ Domein "Breedteklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Breedteklasse |
 |:---|:---|
@@ -4784,6 +5140,7 @@ Domein "Breedteklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Breedteklasse |
 |:---|:---|
@@ -4797,6 +5154,7 @@ Domein "Breedteklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Breedteklasse |
 |:---|:---|
@@ -4810,6 +5168,7 @@ Domein "Breedteklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Breedteklasse |
 |:---|:---|
@@ -4823,6 +5182,7 @@ Domein "Breedteklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Waterdeel - Functie"
 
@@ -4842,6 +5202,7 @@ Domein "Functie"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Functie |
 |:---|:---|
@@ -4855,6 +5216,7 @@ Domein "Functie"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Functie |
 |:---|:---|
@@ -4868,6 +5230,7 @@ Domein "Functie"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Functie |
 |:---|:---|
@@ -4881,6 +5244,7 @@ Domein "Functie"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Functie |
 |:---|:---|
@@ -4894,6 +5258,7 @@ Domein "Functie"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Functie |
 |:---|:---|
@@ -4907,6 +5272,7 @@ Domein "Functie"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Functie |
 |:---|:---|
@@ -4920,6 +5286,7 @@ Domein "Functie"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Functie |
 |:---|:---|
@@ -4933,6 +5300,7 @@ Domein "Functie"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Functie |
 |:---|:---|
@@ -4946,6 +5314,7 @@ Domein "Functie"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Functie |
 |:---|:---|
@@ -4959,6 +5328,7 @@ Domein "Functie"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Waterdeel - Fysiek Voorkomen"
 
@@ -4978,6 +5348,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
@@ -4991,6 +5362,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
@@ -5004,6 +5376,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
@@ -5017,6 +5390,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
@@ -5030,6 +5404,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
@@ -5043,6 +5418,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
@@ -5056,6 +5432,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Waterdeel - Type Water"
 
@@ -5075,6 +5452,7 @@ Domein "Type Water"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Water |
 |:---|:---|
@@ -5088,6 +5466,7 @@ Domein "Type Water"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Water |
 |:---|:---|
@@ -5101,6 +5480,7 @@ Domein "Type Water"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Water |
 |:---|:---|
@@ -5114,6 +5494,7 @@ Domein "Type Water"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Water |
 |:---|:---|
@@ -5127,6 +5508,7 @@ Domein "Type Water"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Water |
 |:---|:---|
@@ -5140,6 +5522,7 @@ Domein "Type Water"
 | Vlak | - |
 | Datum Vanaf | 01-09-2017 |
 
+<br>
 
 | Domein | Type Water |
 |:---|:---|
@@ -5153,6 +5536,7 @@ Domein "Type Water"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Water |
 |:---|:---|
@@ -5166,6 +5550,7 @@ Domein "Type Water"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Waterdeel - Vaarwegklasse"
 
@@ -5185,6 +5570,7 @@ Domein "Vaarwegklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Vaarwegklasse |
 |:---|:---|
@@ -5198,6 +5584,7 @@ Domein "Vaarwegklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Vaarwegklasse |
 |:---|:---|
@@ -5211,6 +5598,7 @@ Domein "Vaarwegklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Vaarwegklasse |
 |:---|:---|
@@ -5224,6 +5612,7 @@ Domein "Vaarwegklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Vaarwegklasse |
 |:---|:---|
@@ -5237,6 +5626,7 @@ Domein "Vaarwegklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Vaarwegklasse |
 |:---|:---|
@@ -5250,6 +5640,7 @@ Domein "Vaarwegklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Vaarwegklasse |
 |:---|:---|
@@ -5263,6 +5654,7 @@ Domein "Vaarwegklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Vaarwegklasse |
 |:---|:---|
@@ -5276,6 +5668,7 @@ Domein "Vaarwegklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Vaarwegklasse |
 |:---|:---|
@@ -5289,6 +5682,7 @@ Domein "Vaarwegklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Vaarwegklasse |
 |:---|:---|
@@ -5302,6 +5696,7 @@ Domein "Vaarwegklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Vaarwegklasse |
 |:---|:---|
@@ -5315,6 +5710,7 @@ Domein "Vaarwegklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Waterdeel - Voorkomen"
 
@@ -5334,6 +5730,7 @@ Domein "Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 ### Objectklasse Wegdeel
 
@@ -5355,6 +5752,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
@@ -5368,6 +5766,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
@@ -5381,6 +5780,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
@@ -5394,6 +5794,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
@@ -5407,6 +5808,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
@@ -5420,6 +5822,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Fysiek Voorkomen |
 |:---|:---|
@@ -5433,6 +5836,7 @@ Domein "Fysiek Voorkomen"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Wegdeel - Hoofdverkeersgebruik"
 
@@ -5452,6 +5856,7 @@ Domein "Hoofdverkeersgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Hoofdverkeersgebruik |
 |:---|:---|
@@ -5465,45 +5870,49 @@ Domein "Hoofdverkeersgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Hoofdverkeersgebruik |
 |:---|:---|
 | Domeinwaarde | **busverkeer** |
 | Definitie | Weg speciaal bestemd voor openbaar vervoer. |
-| Herkomst Definitie | Indien een busbaan is geïntegreerd in een bredere weg (dus als er op de grens tussen de busbaan en de rest van de weg geen fysieke barrière is om oneigenlijk gebruik te verhinderen), dan wordt de busbaan niet apart aangegeven |
-| Inwinningscriteria | - |
+| Herkomst Definitie | - |
+| Inwinningscriteria | Indien een busbaan is geïntegreerd in een bredere weg (dus als er op de grens tussen de busbaan en de rest van de weg geen fysieke barrière is om oneigenlijk gebruik te verhinderen), dan wordt de busbaan niet apart aangegeven. |
 | Volledigheid | - |
 | Punt | - |
 | Lijn | - |
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Hoofdverkeersgebruik |
 |:---|:---|
 | Domeinwaarde | **fietsers, bromfietsers** |
 | Definitie | Weg uitsluitend bestemd voor fietsers en/of bromfietsers en daartoe aangeduid met een blauw bord met daarop een wit rijwiel, of een blauw of zwart bord met daarop de tekst 'FIETSPAD' of 'RIJWIELPAD'. Indien, in uitzonderlijke gevallen, met grote mate van zekerheid bepaald kan worden dat een weg/pad een rijwielpad is, mag afgeweken worden van de regel dat er een aanduiding moet zijn. |
-| Herkomst Definitie | Een vrijliggend rijwielpad (waar niet direct een ander wegdeel naast ligt) breder dan 2 meter wordt altijd aangegeven.Een parallel gelegen rijwielpad (direct gelegen naast een ander wegdeel, met een fysieke scheiding ertussen) breder dan 2 meter, buiten bebouwd gebied, wordt altijd aangegeven.Een parallel gelegen rijwielpad breder dan 2 meter, binnen bebouwd gebied, wordt alleen gegeven naast een autosnelweg, hoofdweg, regionale weg of lokale weg.etc..... |
-| Inwinningscriteria | - |
+| Herkomst Definitie | - |
+| Inwinningscriteria | Een vrijliggend rijwielpad (waar niet direct een ander wegdeel naast ligt) breder dan 2 meter wordt altijd aangegeven. Een parallel gelegen rijwielpad (direct gelegen naast een ander wegdeel, met een fysieke scheiding ertussen) breder dan 2 meter, buiten bebouwd gebied, wordt altijd aangegeven. Een parallel gelegen rijwielpad breder dan 2 meter, binnen bebouwd gebied, wordt alleen gegeven naast een autosnelweg, hoofdweg, regionale weg of lokale weg. |
 | Volledigheid | - |
 | Punt | - |
 | Lijn | - |
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Hoofdverkeersgebruik |
 |:---|:---|
 | Domeinwaarde | **voetgangers** |
 | Definitie | Weg, uitsluitend bestemd voor voetgangers. |
-| Herkomst Definitie | Voetpaden smaller dan 2 meter worden alleen ingewonnen indien vrijliggend van andere wegdelen en langer dan 100 meter.Etc.... |
-| Inwinningscriteria | - |
+| Herkomst Definitie | - |
+| Inwinningscriteria | Voetpaden smaller dan 2 meter worden alleen ingewonnen indien vrijliggend van andere wegdelen en langer dan 100 meter. |
 | Volledigheid | - |
 | Punt | - |
 | Lijn | - |
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Hoofdverkeersgebruik |
 |:---|:---|
@@ -5517,6 +5926,7 @@ Domein "Hoofdverkeersgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Hoofdverkeersgebruik |
 |:---|:---|
@@ -5530,6 +5940,7 @@ Domein "Hoofdverkeersgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Hoofdverkeersgebruik |
 |:---|:---|
@@ -5543,6 +5954,7 @@ Domein "Hoofdverkeersgebruik"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Wegdeel - Type Infrastructuur"
 
@@ -5562,6 +5974,7 @@ Domein "Type Infrastructuur"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Infrastructuur |
 |:---|:---|
@@ -5575,6 +5988,7 @@ Domein "Type Infrastructuur"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Infrastructuur |
 |:---|:---|
@@ -5588,6 +6002,7 @@ Domein "Type Infrastructuur"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Wegdeel - Type Weg"
 
@@ -5607,6 +6022,7 @@ Domein "Type Weg"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Weg |
 |:---|:---|
@@ -5620,6 +6036,7 @@ Domein "Type Weg"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Weg |
 |:---|:---|
@@ -5633,6 +6050,7 @@ Domein "Type Weg"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Weg |
 |:---|:---|
@@ -5646,6 +6064,7 @@ Domein "Type Weg"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Weg |
 |:---|:---|
@@ -5659,6 +6078,7 @@ Domein "Type Weg"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Weg |
 |:---|:---|
@@ -5672,6 +6092,7 @@ Domein "Type Weg"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Weg |
 |:---|:---|
@@ -5685,6 +6106,7 @@ Domein "Type Weg"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Weg |
 |:---|:---|
@@ -5698,6 +6120,7 @@ Domein "Type Weg"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Weg |
 |:---|:---|
@@ -5711,6 +6134,7 @@ Domein "Type Weg"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Weg |
 |:---|:---|
@@ -5724,6 +6148,7 @@ Domein "Type Weg"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Weg |
 |:---|:---|
@@ -5737,6 +6162,7 @@ Domein "Type Weg"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Type Weg |
 |:---|:---|
@@ -5750,6 +6176,7 @@ Domein "Type Weg"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Wegdeel - Verhardingsbreedteklasse"
 
@@ -5769,6 +6196,7 @@ Domein "Verhardingsbreedteklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Verhardingsbreedteklasse |
 |:---|:---|
@@ -5782,6 +6210,7 @@ Domein "Verhardingsbreedteklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Verhardingsbreedteklasse |
 |:---|:---|
@@ -5795,6 +6224,7 @@ Domein "Verhardingsbreedteklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Verhardingsbreedteklasse |
 |:---|:---|
@@ -5808,6 +6238,7 @@ Domein "Verhardingsbreedteklasse"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 #### Domein "Wegdeel - Verhardingstype"
 
@@ -5827,6 +6258,7 @@ Domein "Verhardingstype"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Verhardingstype |
 |:---|:---|
@@ -5840,6 +6272,7 @@ Domein "Verhardingstype"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Verhardingstype |
 |:---|:---|
@@ -5853,6 +6286,7 @@ Domein "Verhardingstype"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
 | Domein | Verhardingstype |
 |:---|:---|
@@ -5866,4 +6300,5 @@ Domein "Verhardingstype"
 | Vlak | - |
 | Datum Vanaf | 01-09-2014 |
 
+<br>
 
