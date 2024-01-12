@@ -8164,7 +8164,7 @@ _Inwinningscriteria:_
 
 | Domein | PT\_typeObject |
 |:---|:---|
-| Domeinwaarde | **spoorbaan** |
+| Domeinwaarde | **spoor** |
 | Definitie | Plantopografie van spoorbaandelen. |
 | Inwinningscriteria | - |
 | Volledigheid | Beperkt |
