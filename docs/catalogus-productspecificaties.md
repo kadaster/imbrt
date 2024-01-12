@@ -5574,7 +5574,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 
 | Domein | IE\_typeInrichtingselement |
 |:---|:---|
-| Attribuutwaarde | **GPS kernnetpunt** |
+| Domeinwaarde | **GPS kernnetpunt** |
 | Definitie | Punt geschikt voor GPS metingen (kan een steen of bout zijn). |
 | Inwinningscriteria | Alleen recent gecontroleerde GPS-kernnetpunten worden opgenomen in de BRT. |
 | Volledigheid | Volledig |
