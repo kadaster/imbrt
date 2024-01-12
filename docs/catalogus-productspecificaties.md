@@ -2444,8 +2444,8 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 | Domein | WE\_verhardingsbreedteklasse |
 |:---|:---|
 | Domeinwaarde | **< 2 meter** |
-| Definitie | De breedte van de verharding, inclusief beton- en klinkerrand op gelijk niveau als het wegdek, berijdbare goot is smaller dan 2 meter.<br>Een verhardingsbreedteklasse "< 2 meter" geldt alleen voor weglijnen. |
-| Inwinningscriteria | - |
+| Definitie | De breedte van de verharding, inclusief beton- en klinkerrand op gelijk niveau als het wegdek, berijdbare goot is smaller dan 2 meter. |
+| Inwinningscriteria | Een verhardingsbreedteklasse "< 2 meter" geldt alleen voor weglijnen. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Ja |
