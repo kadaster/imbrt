@@ -45,7 +45,7 @@ Belangrijk: om de tabel hieronder juist weer te geven, moet er een witregel na d
 |:---|:---|:---|:---|:---|
 | 1.2.0.5 | 21 december 2021 | Kadaster | Wijzigingen n.a.v. Audit BRT 2020 doorgevoerd. <br> Toepassen webrichtlijnen. <br> Actualiseren bestandsleveringen en webservices. | - |
 | 1.2.0.4 | 22 juli 2021 | Kadaster | Toevoeging hoofdstuk met wijzigingen t.o.v. vorige versie, toevoeging link naar historische versies BRT Catalogus. | [versie 1.2.0.4 (web)](https://github.com/kadaster/imbrt/blob/5639d20316bd183a59d27a41e44eb312f64d8286/docs/catalogus-productspecificaties.md) |
-| 1.2.0.3 | 11 december 2020 | Kadaster | Enkele URL’s geactualiseerd, catalogus nu ook in GIT, wijziging door gebruik BAG-panden verwerkt. | [versie 1.2.0.3 (web)](https://github.com/kadaster/imbrt/blob/3b193ec7da5ce23c4c486e2f021b491c3573fb01/docs/catalogus-productspecificaties.md) <br> [versie 1.2.0.3 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.3.pdf) |
+| 1.2.0.3 | 11 december 2020 | Kadaster | Enkele URL's geactualiseerd, catalogus nu ook in GIT, wijziging door gebruik BAG-panden verwerkt. | [versie 1.2.0.3 (web)](https://github.com/kadaster/imbrt/blob/3b193ec7da5ce23c4c486e2f021b491c3573fb01/docs/catalogus-productspecificaties.md) <br> [versie 1.2.0.3 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.3.pdf) |
 | 1.2.0.2 | 20 april 2020 | Kadaster | Enkele kleine tekstuele fouten verbeterd. | [versie 1.2.0.2 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.2.pdf) |
 | 1.2.0.1 | 8 juli 2019 | Kadaster | Wijzigingen n.a.v. Audit BRT 2017 doorgevoerd. <br> Wijzigingen datamodel inrichtingselement en functioneel gebied verwerkt. <br> Diverse verduidelijkingen verwerkt. | [versie 1.2.0.1 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.1.pdf) |
 | 1.2.0 | 21 september 2017 | Kadaster | Nummering gelijk datamodel TOP10NL. <br> Herziening n.a.v. TOP10NL datamodel 1.2 verwerkt, wijzigingen in productieproces en inwinningscriteria verwerkt. | [versie 1.2.0 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.pdf) |
@@ -278,7 +278,7 @@ Het bestand TOP10NL beslaat het gehele Nederlandse grondgebied. Langs de grenzen
 
 ## 3.2 Actualiteit
 
-TOP10NL is gebaseerd op luchtfotografie, ondersteund door 360 graden beelden en eventueel een terreinverkenning. De datum van de luchtopname, meestal in de periode januari – april, is bepalend voor de actualiteitsdatum van TOP10NL. De bijhoudingscyclus van TOP10NL is één jaar voor heel Nederland. Een overzicht van de actualiteit van TOP10NL wordt weergegeven in de "BRT Actualiteitskaart: TOP10NL" (te vinden op [**www.kadaster.nl/zakelijk/producten/geo-informatie/topnl**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl) ).
+TOP10NL is gebaseerd op luchtfotografie, ondersteund door 360 graden beelden en eventueel een terreinverkenning. De datum van de luchtopname, meestal in de periode januari - april, is bepalend voor de actualiteitsdatum van TOP10NL. De bijhoudingscyclus van TOP10NL is één jaar voor heel Nederland. Een overzicht van de actualiteit van TOP10NL wordt weergegeven in de "BRT Actualiteitskaart: TOP10NL" (te vinden op [**www.kadaster.nl/zakelijk/producten/geo-informatie/topnl**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl) ).
 
 ## 3.3 Ruimtelijk referentiesysteem
 
@@ -335,7 +335,7 @@ De ISO-norm is dermate uitgebreid, dat de opstellende werkgroep TC211 een aantal
 
 Om een aantal praktische problemen, o.a. wat betreft uitwisselbaarheid, met de 'core-metadata' op te lossen is besloten een Nederlands profiel op ISO 19115:2003 op te stellen.
 
-Dit profiel bestaat uit een kernset en een optionele set. De kernset bevat de verplichte metadata-elementen op basis waarvan gebruikers geografische datasets en –series kunnen zoeken ("metadata for discovery"). Deze kernset is zo beperkt mogelijk gehouden. Dankzij deze kernset kunnen gebruikers gevonden datasets en –series op dezelfde elementen met elkaar vergelijken en weten gebruikers dat ze alle beschikbare data gevonden hebben. De optionele set bevat metadata-elementen voor het beheer van geografische datasets en –series. Het is een aanvulling op de minimale kernset en voorziet in de behoefte van het geo-werkveld aan een brede gemeenschappelijke basis van metadata-elementen, in het bijzonder voor het beheer. De verplichte kernset en optionele set maken dit profiel breed en praktisch toepasbaar voor het geo-werkveld. De metadata van TOP10NL is te vinden in het Nationaal Georegister ( [**www.nationaalgeoregister.nl**](https://www.nationaalgeoregister.nl) ).
+Dit profiel bestaat uit een kernset en een optionele set. De kernset bevat de verplichte metadata-elementen op basis waarvan gebruikers geografische datasets en -series kunnen zoeken ("metadata for discovery"). Deze kernset is zo beperkt mogelijk gehouden. Dankzij deze kernset kunnen gebruikers gevonden datasets en -series op dezelfde elementen met elkaar vergelijken en weten gebruikers dat ze alle beschikbare data gevonden hebben. De optionele set bevat metadata-elementen voor het beheer van geografische datasets en -series. Het is een aanvulling op de minimale kernset en voorziet in de behoefte van het geo-werkveld aan een brede gemeenschappelijke basis van metadata-elementen, in het bijzonder voor het beheer. De verplichte kernset en optionele set maken dit profiel breed en praktisch toepasbaar voor het geo-werkveld. De metadata van TOP10NL is te vinden in het Nationaal Georegister ( [**www.nationaalgeoregister.nl**](https://www.nationaalgeoregister.nl) ).
 
 ### 3.4.4 Metadata per object
 
@@ -383,7 +383,7 @@ De gegevens worden opgeslagen in een centrale database. Daarvoor wordt gebruik g
 
 ### 3.5.3 Gebruik externe bronnen
 
-Luchtfoto’s en panoramafoto’s vormen de belangrijkste bron voor het bijhouden van de basistopografie in TOP10NL. Maar op basis van alleen deze foto’s kunnen niet alle gegevens in TOP10NL ingewonnen en bijgehouden worden. Daarom wordt er in toenemende mate gebruik gemaakt van externe bronnen. Net als de basistopografie, worden de objecten en attributen die gebaseerd zijn op externe bronnen in principe jaarlijks bijgewerkt aan de hand van de beschikbare externe bronnen, voor zover jaarlijks een nieuwe versie van de bron beschikbaar is. Voor het intekenen van de geometrie wordt ook gebruik gemaakt van luchtfoto’s en panoramafoto’s. Externe bronnen worden met name gebruik voor het bijhouden van de gegevens in de volgende objectklassen: Gebouw, Inrichtingselement, Registratief gebied, Geografisch gebied, Plaats en Functioneel gebied.
+Luchtfoto's en panoramafoto's vormen de belangrijkste bron voor het bijhouden van de basistopografie in TOP10NL. Maar op basis van alleen deze foto's kunnen niet alle gegevens in TOP10NL ingewonnen en bijgehouden worden. Daarom wordt er in toenemende mate gebruik gemaakt van externe bronnen. Net als de basistopografie, worden de objecten en attributen die gebaseerd zijn op externe bronnen in principe jaarlijks bijgewerkt aan de hand van de beschikbare externe bronnen, voor zover jaarlijks een nieuwe versie van de bron beschikbaar is. Voor het intekenen van de geometrie wordt ook gebruik gemaakt van luchtfoto's en panoramafoto's. Externe bronnen worden met name gebruik voor het bijhouden van de gegevens in de volgende objectklassen: Gebouw, Inrichtingselement, Registratief gebied, Geografisch gebied, Plaats en Functioneel gebied.
 
 ### 3.5.4 Vervolgproducten
 
@@ -409,7 +409,7 @@ Omdat de topografische gegevens nu als objecten zijn opgeslagen, met een aantal 
 
 ## 3.7 TDN-codes uit TOP10vector
 
-De objectgerichte structuur van TOP10NL wijkt sterk af van de structuur van de voorganger TOP10vector. TOP10vector kende ruim 175 TDN codes, waarmee de verschillende inhoudselementen waren gecodeerd. Aan de (punt-, lijn – en vlak-)codes kon ook een visualisatie worden toegekend, waardoor er een vermenging ontstond met betrekking tot de 'zuivere' topografische kenmerken van de objecten. In TOP10NL zijn alle eigenschappen, inclusief de geometrie, als attributen van een object opgenomen en waren de oorspronkelijke TDN codes niet meer aanwezig. Om de koppeling mogelijk te maken tussen TOP10vector en TOP10NL is vanaf september 2012 het attribuut TDNcode aan het datamodel van TOP10NL toegevoegd. Omdat het gegevensmodel van TOP10NL meer attributen kent dan de TDN codes van TOP10vector is dit geen 1 op 1 relatie. Echter de meeste objecten zullen een TDNcode hebben.
+De objectgerichte structuur van TOP10NL wijkt sterk af van de structuur van de voorganger TOP10vector. TOP10vector kende ruim 175 TDN codes, waarmee de verschillende inhoudselementen waren gecodeerd. Aan de (punt-, lijn - en vlak-)codes kon ook een visualisatie worden toegekend, waardoor er een vermenging ontstond met betrekking tot de 'zuivere' topografische kenmerken van de objecten. In TOP10NL zijn alle eigenschappen, inclusief de geometrie, als attributen van een object opgenomen en waren de oorspronkelijke TDN codes niet meer aanwezig. Om de koppeling mogelijk te maken tussen TOP10vector en TOP10NL is vanaf september 2012 het attribuut TDNcode aan het datamodel van TOP10NL toegevoegd. Omdat het gegevensmodel van TOP10NL meer attributen kent dan de TDN codes van TOP10vector is dit geen 1 op 1 relatie. Echter de meeste objecten zullen een TDNcode hebben.
 
 ## 3.8 Gebruik van TOP10NL
 
@@ -720,7 +720,7 @@ _Tabel 4.5: Hoogteniveaus in TOP10NL._
 
 Met het hoogteniveau wordt de relatieve hoogte van het geo-object weergegeven. Zo kan worden bepaald op welke wijze geo-objecten elkaar kruisen, en op welk hoogteniveau. Kruisende geo-objecten die op de bovenste laag liggen krijgen de waarde 0, het hoogste niveau. Kruisende geo-objecten op een lager niveau krijgen in principe de waarde -1, voor het volgende lager niveau de waarde -2, enzovoort. Het is toegestaan dat de waarden (0, -1, -2, -3, enz.) elkaar niet opvolgen, maar dat er waarden worden overgeslagen (bijvoorbeeld 0, -2, -3, -6). Enkel de volgorde is van belang bij het bepalen van de relatieve hoogte. Het hoogteniveau attribuut bevat geen informatie over de absolute hoogte van een geo-object.
 
-In figuur 4.5 is een kruisend wegdeel aangegeven met hoogteniveau –1. Het kruisend spoorbaandeel heeft een hoogteniveau 0. Het wegdeel bevindt zich dus onder het spoorbaandeel.
+In figuur 4.5 is een kruisend wegdeel aangegeven met hoogteniveau -1. Het kruisend spoorbaandeel heeft een hoogteniveau 0. Het wegdeel bevindt zich dus onder het spoorbaandeel.
 
 ![Schematische weergave waarin een wegdeel en een spoorbaandeel elkaar kruisen op een verschillend hoogteniveau.](images/figuur4-5.svg "Het gebruik van het hoogteniveau-attribuut")
 
@@ -860,8 +860,8 @@ Definitie: Kleinste functioneel onafhankelijk stukje weg met gelijkblijvende, ho
 | Domein "WE\_verhardingsbreedteklasse" |
 |:---|
 | > 7 meter |
-| 4 – 7 meter |
-| 2 – 4 meter |
+| 4 - 7 meter |
+| 2 - 4 meter |
 | < 2 meter |
 
 | Domein "WE\_gescheidenRijbaan" |
@@ -1022,9 +1022,9 @@ Definitie: Kleinste functioneel onafhankelijk stukje water met gelijkblijvende, 
 |:---|:---|:---|:---|
 | 0,5 - 3 meter | x | x | |
 | 3 - 6 meter | x | x | |
-| 6 – 12 meter | | | x |
-| 12 – 50 meter | | | x |
-| 50 – 125 meter | | | x |
+| 6 - 12 meter | | | x |
+| 12 - 50 meter | | | x |
+| 50 - 125 meter | | | x |
 | > 125 meter | | | x |
 
 | Domein "WA\_hoofdafwatering" |
@@ -1373,7 +1373,7 @@ Definitie: Object dat tot doel heeft hoogteverschillen in het landschap te repre
 | Domein "RE\_hoogteklasse" |
 |:---|
 | < 1 meter |
-| 1 – 2,5 meter |
+| 1 - 2,5 meter |
 | > 2,5 meter |
 
 _Tabel 5.7 Attributen, attribuutwaarden en geometrieën van reliëf._
@@ -2073,7 +2073,7 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 |:---|:---|
 | Domeinwaarde | **kruising** |
 | Definitie | Gelijkvloerse kruising (wegdeel waar drie of meer hartlijnen van verbindingen op elkaar aansluiten). |
-| Inwinningscriteria | Een wegdeel van het type kruising heeft meestal als hoofdgeometrie een wegvlak of een wegpunt. Soms heeft het geen hoofdgeometrie.<br>Een wegdeel van het type kruising heeft altijd een hartpunt.<br>Het kruisingsvlak wordt geplaatst, daar waar twee wegvlakken elkaar kruisen of zoals bij op – en afritten, daar waar de wegvlakken bij elkaar komen. |
+| Inwinningscriteria | Een wegdeel van het type kruising heeft meestal als hoofdgeometrie een wegvlak of een wegpunt. Soms heeft het geen hoofdgeometrie.<br>Een wegdeel van het type kruising heeft altijd een hartpunt.<br>Het kruisingsvlak wordt geplaatst, daar waar twee wegvlakken elkaar kruisen of zoals bij op - en afritten, daar waar de wegvlakken bij elkaar komen. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
@@ -2403,7 +2403,7 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 | Attribuut | verhardingsbreedteklasse |
 |:---|:---|
 | Definitie | De breedte van de verharding, ingedeeld in klassen. |
-| Inwinningscriteria | Bij het bepalen van de wegbreedte wordt tot de verharding gerekend: het verharde rijgedeelte, beton- en klinkerrand op gelijk niveau als het wegdek, berijdbare goot en in de rijbaan geïntegreerde rijwielstrook, weg/ busbaan en parkeerstrook (aangegeven door b.v. een witte streep). Niet meegerekend worden: opstaande randen, parkeerhavens, groenstenen en bermverharding in de vorm van sintels, puin e.d.. Duidelijk zichtbare, plaatselijke versmallingen of verbredingen worden alleen opgemeten als deze zich over een afstand van tenminste 500 meter voortzetten (dus geen bruggen e.d.). Vluchtheuvels en verkeersgeleiders in de vorm van opstaande randen worden, mits ze korter zijn dan 500 meter, bij de bepaling van de wegbreedte buiten beschouwing gelaten.<br>Wegen van het type "straat" worden ingewonnen met verhardingsbreedteklasse = "2 – 4 meter" ongeacht de werkelijke verhardingsbreedte.<br>Wegen van het type "overig" en breder dan 2 meter, worden ingewonnen met verhardingsbreedteklasse = "2 – 4 meter" ongeacht de werkelijke verhardingsbreedte. Dit geldt bijvoorbeeld voor toegangswegen, busbanen, half-verharde wegen of onverharde wegen. |
+| Inwinningscriteria | Bij het bepalen van de wegbreedte wordt tot de verharding gerekend: het verharde rijgedeelte, beton- en klinkerrand op gelijk niveau als het wegdek, berijdbare goot en in de rijbaan geïntegreerde rijwielstrook, weg/ busbaan en parkeerstrook (aangegeven door b.v. een witte streep). Niet meegerekend worden: opstaande randen, parkeerhavens, groenstenen en bermverharding in de vorm van sintels, puin e.d.. Duidelijk zichtbare, plaatselijke versmallingen of verbredingen worden alleen opgemeten als deze zich over een afstand van tenminste 500 meter voortzetten (dus geen bruggen e.d.). Vluchtheuvels en verkeersgeleiders in de vorm van opstaande randen worden, mits ze korter zijn dan 500 meter, bij de bepaling van de wegbreedte buiten beschouwing gelaten.<br>Wegen van het type "straat" worden ingewonnen met verhardingsbreedteklasse = "2 - 4 meter" ongeacht de werkelijke verhardingsbreedte.<br>Wegen van het type "overig" en breder dan 2 meter, worden ingewonnen met verhardingsbreedteklasse = "2 - 4 meter" ongeacht de werkelijke verhardingsbreedte. Dit geldt bijvoorbeeld voor toegangswegen, busbanen, half-verharde wegen of onverharde wegen. |
 | Multipliciteit | Enkelvoudig |
 | Optionaliteit | Optioneel |
 | Formaat | Tekst |
@@ -3905,7 +3905,7 @@ Vrijstaande, overdekte en geheel of gedeeltelijk met wanden omsloten toegankelij
 
 _Inwinningscriteria:_
 
-- Met ingang van april 2020 is het muteren van gebouwen in de BRT gebaseerd op mutaties in de Basisregistratie Adressen en Gebouwen (BAG). Alle mutaties die in de BAG plaatsvinden worden in enigszins gegeneraliseerde vorm overgenomen in de BRT. Als peildatum voor de BAG-mutaties is hierbij 1 juni gebruikt, omdat dit het beste aansluit bij de luchtfoto’s waarmee de andere elementen in de BRT worden bijgewerkt. Omwille van de actualiteit worden ook BAG-panden met een voorlopige geometrie (status: "bouw gestart" en "pand in gebruik (niet ingemeten)") in dit proces meegenomen. 
+- Met ingang van april 2020 is het muteren van gebouwen in de BRT gebaseerd op mutaties in de Basisregistratie Adressen en Gebouwen (BAG). Alle mutaties die in de BAG plaatsvinden worden in enigszins gegeneraliseerde vorm overgenomen in de BRT. Als peildatum voor de BAG-mutaties is hierbij 1 juni gebruikt, omdat dit het beste aansluit bij de luchtfoto's waarmee de andere elementen in de BRT worden bijgewerkt. Omwille van de actualiteit worden ook BAG-panden met een voorlopige geometrie (status: "bouw gestart" en "pand in gebruik (niet ingemeten)") in dit proces meegenomen. 
 
 - Een gebouw moet een permanent karakter hebben en bedoeld zijn voor verblijf, handel, verkeer en/of arbeid.
 
@@ -6116,7 +6116,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 |:---|:---|
 | Domeinwaarde | **zendmast** |
 | Definitie | Telecommunicatietoren (toren t.b.v. datacommunicatie). / Zendtoren (toren met een zendantenne) / Zend- en/of ontvangstmast (hoge, open constructie t.b.v. het uitzenden en/of ontvangen van beeld- en/of geluidssignalen). |
-| Inwinningscriteria | Een telecommunicatietoren of zendtoren die niet voldoet aan de opnamecriteria voor gebouwen, wordt aangegeven als een inrichtingselement van het type zendmast.<br>Zend – en/of ontvangstmasten hoger dan 15 meter, al dan niet op een gebouw (de mast moet 15 meter zijn), worden opgenomen. |
+| Inwinningscriteria | Een telecommunicatietoren of zendtoren die niet voldoet aan de opnamecriteria voor gebouwen, wordt aangegeven als een inrichtingselement van het type zendmast.<br>Zend - en/of ontvangstmasten hoger dan 15 meter, al dan niet op een gebouw (de mast moet 15 meter zijn), worden opgenomen. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
