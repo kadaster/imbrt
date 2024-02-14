@@ -1325,7 +1325,7 @@ Definitie: Ruimtelijk object, punt of lijnvormig, al dan niet ter detaillering d
 | paalwerk | | x | |
 | peilschaal | x | | |
 | pijler | x | | |
-| plaatsnaambord | x | | |
+| plaatsnaambord | x | x | |
 | radiobaken | x | | |
 | radiotelescoop | x | | |
 | RD punt | x | | |
