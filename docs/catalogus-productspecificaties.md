@@ -25,6 +25,12 @@ In 2014 heeft het Kadaster samen met gebruikers een nieuw datamodel voor TOP10NL
 Het Kadaster streeft ernaar om de eigen online informatie en dienstverlening toegankelijk te maken, overeenkomstig het "Tijdelijk besluit digitale toegankelijkheid overheid". Meer informatie over het besluit is te vinden op [**wetten.overheid.nl/BWBR0040936/2018-07-01**](https://wetten.overheid.nl/BWBR0040936/2018-07-01) .
 De toegankelijkheidsverklaring die is opgesteld voor de website van de BRT Catalogus en Productspecificaties is gepubliceerd op [**www.toegankelijkheidsverklaring.nl/register/6112**]( https://www.toegankelijkheidsverklaring.nl/register/6112) .
 
+# Analytische cookies
+
+Om beter inzicht te krijgen in het functioneren van onze website maken we gebruik van analytische cookies. Met behulp van Piwik krijgen we inzicht in belangrijke statistieken over de gebruikerservaring van onze bezoekers. We analyseren deze gegevens, waardoor we de website nog beter op bezoekers kunnen afstemmen.<br>
+Piwik is zo ingesteld dat het een willekeurig gegenereerd identificatienummer (ID) toewijst waarmee statistieken worden vastgesteld. Het gemaskeerde IP adres wordt aan het kadaster getoond als een gegenereerd identificatienummer. Hierdoor zijn bezoekers volledig anoniem en bij het Kadaster alleen als ID-nummer bekend.<br>
+Meer informatie is te lezen in de cookieverklaring op onze website [**www.kadaster.nl/cookieverklaring**](https://www.kadaster.nl/cookieverklaring) .
+
 # Leeswijzer
 
 Dit document begint met een kort overzicht van het Stelsel van Basisregistraties. Hierna worden de belangrijkste kenmerken van TOP10NL beschreven. [**Hoofdstuk 3**](#3-opbouw-top10nl) behandelt een aantal algemene zaken over TOP10NL, zoals de gebiedsaanduiding, de actualiteit, het ruimtelijk referentiesysteem, een kwaliteitsbeschrijving, het productieproces en het gebruik van TOP10NL. [**Hoofdstuk 4**](#4-gegevensmodel-top10nl) beschrijft het gegevensmodel met de verschillende groepen kenmerken en het gedrag van geo-objecten. In [**hoofdstuk 5**](#5-de-objectcatalogus-in-het-kort) vindt u een compact overzicht van alle objectklassen, attributen en attribuutwaarden van TOP10NL inclusief de mogelijke geometrieën. [**Hoofdstuk 6**](#6-uitwisseling-van-topografische-gegevens) gaat in op de uitwisseling van gegevens. Daarbij komen o.a. GML, UML en de XSD aan bod. De complete uitgebreide objectcatalogus is opgenomen in [**hoofdstuk 7**](#7-catalogus-basisregistratie-topografie).
