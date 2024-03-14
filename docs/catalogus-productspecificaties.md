@@ -98,6 +98,7 @@ Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecif
 
 - [Inleiding](#inleiding)
 - [Toegankelijkheid website](#toegankelijkheid-website)
+- [Analytische cookies](#analytische-cookies)
 - [Leeswijzer](#leeswijzer)
 - [Versiehistorie](#versiehistorie)
 - [Wijzigingen t.o.v. vorige versie](#Wijzigingen-t.o.v.-vorige-versie)
