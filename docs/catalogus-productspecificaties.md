@@ -1710,11 +1710,11 @@ Naast TOP10NL bestaat de BRT uit andere topografische bestanden. In onderstaande
 
 | Product | Productpagina |
 |:---|:---|
-| TOPNL | [**www.kadaster.nl/zakelijk/producten/geo-informatie/topnl**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl) <br> PDOK: [**www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl) |
-| TOPraster | [**www.kadaster.nl/zakelijk/producten/geo-informatie/topraster**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topraster) <br> PDOK: [**www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster**](https://www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster) |
-| BRT Achtergrondkaart | [**https://www.kadaster.nl/zakelijk/producten/geo-informatie/brt-achtergrondkaart**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/brt-achtergrondkaart) <br> PDOK: [**www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-) |
-| TOPnamen | [**www.kadaster.nl/zakelijk/producten/geo-informatie/topnamen**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnamen) |
-| NLmaps | [**www.kadaster.nl/zakelijk/producten/geo-informatie/nl-maps**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/nl-maps) |
+| TOPNL | Productpagina: [**www.kadaster.nl/zakelijk/producten/geo-informatie/topnl**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl) <br> PDOK: [**www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl) |
+| TOPraster | Productpagina: [**www.kadaster.nl/zakelijk/producten/geo-informatie/topraster**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topraster) <br> PDOK: [**www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster**](https://www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster) |
+| BRT Achtergrondkaart | Productpagina: [**https://www.kadaster.nl/zakelijk/producten/geo-informatie/brt-achtergrondkaart**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/brt-achtergrondkaart) <br> PDOK: [**www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-) |
+| TOPnamen | Productpagina: [**www.kadaster.nl/zakelijk/producten/geo-informatie/topnamen**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnamen) <br> PDOK: [**www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl) |
+| NLmaps | Productpagina: [**www.kadaster.nl/zakelijk/producten/geo-informatie/nl-maps**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/nl-maps) |
 
 _Tabel 6.1: Tabel met verwijzingen naar productpagina's._
 
