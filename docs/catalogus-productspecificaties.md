@@ -1664,17 +1664,13 @@ _Figuur 6.1: UML model van TOP10NL._
 
 Het UML model is omgezet naar een XSD voor het gebruik in diverse programma's. Deze XSD is de basis voor het produceren en valideren van de GML bestanden van TOP10NL.
 
-Het UML model en de XSD van TOP10NL kunnen gevonden worden op:
-
-[**register.geostandaarden.nl/?url=brt/top10nl**](https://register.geostandaarden.nl/?url=brt/top10nl)
+Het UML model en de XSD van TOP10NL kunnen gevonden worden op: [**register.geostandaarden.nl/?url=brt/top10nl**](https://register.geostandaarden.nl/?url=brt/top10nl)
 
 ## 6.3 Waardelijsten TOP10NL
 
 De mogelijke attribuutwaarden voor attributen van TOP10NL zijn opgeslagen in waardelijsten. Deze waardelijsten zijn extern van de UML en XSD opgeslagen. Het extern opslaan van de waardelijsten heeft als voordeel dat de waardelijsten aangepast kunnen worden zonder dat dit gevolgen heeft voor de UML en XSD van TOP10NL. En doordat de XSD niet wijzigt, is er voor klanten geen aanpassing nodig aan het proces om de GML in te lezen.
 
-De waardelijsten van TOP10NL kunnen gevonden worden op:
-
-[**register.geostandaarden.nl/?url=brt/top10nl**](https://register.geostandaarden.nl/?url=brt/top10nl)
+De waardelijsten van TOP10NL kunnen gevonden worden op: [**register.geostandaarden.nl/?url=brt/top10nl**](https://register.geostandaarden.nl/?url=brt/top10nl)
 
 ## 6.4 Open data
 
