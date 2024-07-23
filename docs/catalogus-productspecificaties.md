@@ -196,7 +196,7 @@ Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecif
 
 De overheid beschikt over 30.000 verschillende systemen om gegevens vast te leggen. Bepaalde gegevens worden daardoor in meerdere systemen geregistreerd én bijgehouden. Om dit proces te vereenvoudigen en de dienstverlening te verbeteren is door de overheid besloten een stelsel van basisregistraties te implementeren. Dit stelsel zorgt ervoor dat elk (basis)gegeven één bron kent. Gegevens zullen daardoor betrouwbaarder, actueler en uitwisselbaar zijn.
 
-Een basisregistratie is een door de overheid officieel aangewezen registratie met daarin gegevens van hoogwaardige kwaliteit, die door alle overheidsinstellingen verplicht en zonder nader onderzoek, worden gebruikt bij de uitvoering van publiekrechtelijke taken. De kenmerken van een basisregistratie zijn verwoord in 12 eisen waaraan een basisregistratie moet voldoen (bron: [**www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties**](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/inhoud-basisregistraties) ):
+Een basisregistratie is een door de overheid officieel aangewezen registratie met daarin gegevens van hoogwaardige kwaliteit, die door alle overheidsinstellingen verplicht en zonder nader onderzoek, worden gebruikt bij de uitvoering van publiekrechtelijke taken. De kenmerken van een basisregistratie zijn verwoord in 12 eisen waaraan een basisregistratie moet voldoen (bron: [**www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/stelsel-van-basisregistraties/12-eisen-stelsel-van-basisregistraties**](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/stelsel-van-basisregistraties/12-eisen-stelsel-van-basisregistraties) ):
 
 1. De registratie is bij wet geregeld
 2. De afnemers hebben een terugmeldplicht
@@ -1664,17 +1664,13 @@ _Figuur 6.1: UML model van TOP10NL._
 
 Het UML model is omgezet naar een XSD voor het gebruik in diverse programma's. Deze XSD is de basis voor het produceren en valideren van de GML bestanden van TOP10NL.
 
-Het UML model en de XSD van TOP10NL kunnen gevonden worden op:
-
-[**register.geostandaarden.nl/?url=brt/top10nl**](https://register.geostandaarden.nl/?url=brt/top10nl)
+Het UML model en de XSD van TOP10NL kunnen gevonden worden op: [**register.geostandaarden.nl/?url=brt/top10nl**](https://register.geostandaarden.nl/?url=brt/top10nl)
 
 ## 6.3 Waardelijsten TOP10NL
 
 De mogelijke attribuutwaarden voor attributen van TOP10NL zijn opgeslagen in waardelijsten. Deze waardelijsten zijn extern van de UML en XSD opgeslagen. Het extern opslaan van de waardelijsten heeft als voordeel dat de waardelijsten aangepast kunnen worden zonder dat dit gevolgen heeft voor de UML en XSD van TOP10NL. En doordat de XSD niet wijzigt, is er voor klanten geen aanpassing nodig aan het proces om de GML in te lezen.
 
-De waardelijsten van TOP10NL kunnen gevonden worden op:
-
-[**register.geostandaarden.nl/?url=brt/top10nl**](https://register.geostandaarden.nl/?url=brt/top10nl)
+De waardelijsten van TOP10NL kunnen gevonden worden op: [**register.geostandaarden.nl/?url=brt/top10nl**](https://register.geostandaarden.nl/?url=brt/top10nl)
 
 ## 6.4 Open data
 
@@ -1702,7 +1698,7 @@ Daarnaast moet u er rekening mee houden dat alleen de gegevens die rechtstreeks 
 De BRT is als bestandslevering beschikbaar in het formaat GML en Geopackage. Een compleet overzicht van de verschillende bestandsleveringen en webservices van de Basisregistratie Topografie vindt u op de productpagina's van de BRT op PDOK: [**www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl)
 
 De GML-bestanden kunnen gedownload worden via een een download-viewer en via een API. Met de download-viewer kunt u de GML van heel Nederland in één keer downloaden. Ook kunt u zelf met de muis op de kaart van Nederland een gebied tekenen. Vervolgens kunt u de gewenste objectklassen selecteren en deze voor het geselecteerde gebied downloaden. 
-Voor afnemers die elke levering hetzelfde gebied willen selecteren, heeft PDOK een API ontwikkeld die dit proces automatiseert. Hiermee is het ook mogelijk om de GML's per kaartblad te downloaden. PDOK heeft een instructie gemaakt over het het downloaden van GML's met deze API. Deze is te vinden op: [**www.pdok.nl/documents/1901824/4016976/Stappenplan+-+PDOK+download+API%27s.pdf**](https://www.pdok.nl/documents/1901824/4016976/Stappenplan+-+PDOK+download+API%27s.pdf)
+Voor afnemers die elke levering hetzelfde gebied willen selecteren, heeft PDOK een API ontwikkeld die dit proces automatiseert. Hiermee is het ook mogelijk om de GML's per kaartblad te downloaden. PDOK heeft een instructie gemaakt over het het downloaden van GML's met deze API. Deze is te vinden op: [**www.pdok.nl/documents/1901824/4016976/Stappenplan_PDOK_download_APIs.pdf**](https://www.pdok.nl/documents/1901824/4016976/Stappenplan_PDOK_download_APIs.pdf)
 
 De BRT geopackages kunnen gedownload worden via de productpagina's van de BRT op PDOK. Een Geopackage bevat altijd alle objecten in heel Nederland. Meer informatie over Geopackage is te vinden op de website van Geonovum ( [**www.geonovum.nl/geo-standaarden/geopackage**](https://www.geonovum.nl/geo-standaarden/geopackage) ).
 
@@ -1714,11 +1710,11 @@ Naast TOP10NL bestaat de BRT uit andere topografische bestanden. In onderstaande
 
 | Product | Productpagina |
 |:---|:---|
-| TOPNL | [**www.kadaster.nl/zakelijk/producten/geo-informatie/topnl**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl) <br> PDOK: [**www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl) |
-| TOPraster | [**www.kadaster.nl/zakelijk/producten/geo-informatie/topraster**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topraster) <br> PDOK: [**www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster**](https://www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster) |
-| BRT Achtergrondkaart | [**https://www.kadaster.nl/zakelijk/producten/geo-informatie/brt-achtergrondkaart**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/brt-achtergrondkaart) <br> PDOK: [**www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-) |
-| TOPnamen | [**www.kadaster.nl/zakelijk/producten/geo-informatie/topnamen**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnamen) |
-| NLmaps | [**www.kadaster.nl/zakelijk/producten/geo-informatie/nl-maps**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/nl-maps) |
+| TOPNL | Productpagina: [**www.kadaster.nl/zakelijk/producten/geo-informatie/topnl**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl) <br> PDOK: [**www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl) |
+| TOPraster | Productpagina: [**www.kadaster.nl/zakelijk/producten/geo-informatie/topraster**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topraster) <br> PDOK: [**www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster**](https://www.pdok.nl/introductie/-/article/dataset-basisregistratie-topografie-brt-topraster) |
+| BRT Achtergrondkaart | Productpagina: [**https://www.kadaster.nl/zakelijk/producten/geo-informatie/brt-achtergrondkaart**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/brt-achtergrondkaart) <br> PDOK: [**www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-achtergrondkaarten-brt-a-) |
+| TOPnamen | Productpagina: [**www.kadaster.nl/zakelijk/producten/geo-informatie/topnamen**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnamen) <br> PDOK: [**www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl) |
+| NLmaps | Productpagina: [**www.kadaster.nl/zakelijk/producten/geo-informatie/nl-maps**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/nl-maps) |
 
 _Tabel 6.1: Tabel met verwijzingen naar productpagina's._
 
