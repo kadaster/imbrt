@@ -4336,7 +4336,7 @@ _Inwinningscriteria:_
 | Domein | GB\_typeGebouw |
 |:---|:---|
 | Domeinwaarde | **paleis** |
-| Definitie | Gebouw met een openbare of ceremoniële functie heeft voor gebruik door de koninklijke familie. |
+| Definitie | Gebouw dat een openbare of ceremoniële functie heeft voor gebruik door de koninklijke familie. |
 | Inwinningscriteria | - |
 | Volledigheid | Beperkt |
 | Punt | Ja |
