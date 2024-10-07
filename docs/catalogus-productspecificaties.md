@@ -1704,6 +1704,12 @@ De BRT geopackages kunnen gedownload worden via de productpagina's van de BRT op
 ## 6.6 Webservices en OGC API's
 
 Een webservice maakt het mogelijk een kaartbeeld in een webapplicatie te gebruiken, zonder dat de beheerder van de applicatie de geodata zelf in huis hoeft te hebben. Een webservice ontsluit dus de topografie "bij de bron". Voor TOP10NL is een WMS en een WMTS ingericht, waarmee de gegevens uit TOP10NL te bekijken zijn. Deze webservices zijn beschikbaar via het tabblad **(OGC) Webservices** op de productpagina van TOPNL: [**www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl)
+
+Voor TOP10NL zijn ook de **OGC API Features** en **OGC API Tiles en Styles (Vectortiles)** beschikbaar. <br>
+De **OGC API-Tiles** is een nieuwe standaard waarmee u visualisaties van topografische data maakt. Deze visualisaties kunt u daarna gebruiken in toepassingen zoals kaartviewers en andere topografische applicaties. In de OGC API-Tiles vindt u veel informatie over de BRT TOP10NL-objecten. Om snel te kunnen beginnen is de standaardvisualisatie van TOP10NL beschikbaar in de **OGC API-Styles**. In deze API kunt u die standaardvisualisatie ook aanpassen. <br>
+In de **OGC API-Features** is de complete TOP10NL-dataset beschikbaar. Hiermee kunt u specifieke objecten van TOP10NL-informatie downloaden, op basis van bijvoorbeeld een interessegebied of een ID. Omdat u met de OGC API-Features de TOP10NL-informatie op objectniveau bekijkt, hebt u geen specifieke geografische kennis of applicaties nodig. <br>
+Deze OGC API's zijn beschikbaar op: [api.pdok.nl/brt/top10nl/ogc/v1](https://api.pdok.nl/brt/top10nl/ogc/v1)
+
 ## 6.7 Andere BRT-producten
 
 Naast TOP10NL bestaat de BRT uit andere topografische bestanden. In onderstaande tabel wordt daarvan een overzicht gegeven en wordt verwezen naar de productpagina's en de PDOK-pagina's waar deze bestanden gedownload kunnen worden. Een compleet overzicht van de BRT-producten wordt gegeven op de pagina met BRT-producten: [**www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-producten**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-producten)
