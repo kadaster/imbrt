@@ -168,9 +168,10 @@ Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecif
   - [6.2 UML-model en XSD TOP10NL](#62-uml-model-en-xsd-top10nl)
   - [6.3 Waardelijsten TOP10NL](#63-waardelijsten-top10nl)
   - [6.4 Open data](#64-open-data)
-  - [6.5 Bestandsleveringen en Webservices](#65-bestandsleveringen-en-webservices)
-  - [6.6 Andere BRT-producten](#65-andere-brt-producten)
-  - [6.7 Andere BRT UML-modellen en XSD's](#67-andere-brt-uml-modellen-en-xsds)
+  - [6.5 Bestandsleveringen en Webservices](#65-bestandsleveringen)
+  - [6.6 Webservices en OGC API's](#66-webservices-en-ogc-apis)
+  - [6.7 Andere BRT-producten](#67-andere-brt-producten)
+  - [6.8 Andere BRT UML-modellen en XSD's](#68-andere-brt-uml-modellen-en-xsds)
 - [7 Catalogus Basisregistratie Topografie](#7-catalogus-basisregistratie-topografie)
   - [7.1 Objectklasse onafhankelijke attributen en domeinen](#71-objectklasse-onafhankelijke-attributen-en-domeinen)
     - [7.1.1 Attributen](#711-attributen)
@@ -1691,7 +1692,7 @@ De topografische gegevens worden beschikbaar gesteld onder een CC-BY licentie. D
 
 Daarnaast moet u er rekening mee houden dat alleen de gegevens die rechtstreeks uit de Basisregistratie afkomstig zijn, gelden als authentieke gegevens in de zin van de Kadasterwet.
 
-## 6.5 Bestandsleveringen en Webservices
+## 6.5 Bestandsleveringen
 
 De BRT is als bestandslevering beschikbaar in het formaat GML en Geopackage. Een compleet overzicht van de verschillende bestandsleveringen en webservices van de Basisregistratie Topografie vindt u op de productpagina's van de BRT op PDOK: [**www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl)
 
@@ -1701,8 +1702,9 @@ Voor afnemers die elke levering hetzelfde gebied willen selecteren, heeft PDOK e
 De BRT geopackages kunnen gedownload worden via de productpagina's van de BRT op PDOK. Een Geopackage bevat altijd alle objecten in heel Nederland. Meer informatie over Geopackage is te vinden op de website van Geonovum: [**www.geonovum.nl/geo-standaarden/geopackage**](https://www.geonovum.nl/geo-standaarden/geopackage)
 
 Een webservice maakt het mogelijk een kaartbeeld in een webapplicatie te gebruiken, zonder dat de beheerder van de applicatie de geodata zelf in huis hoeft te hebben. Een webservice ontsluit dus de topografie "bij de bron". De webservices van de BRT zijn beschikbaar via PDOK ( [**www.pdok.nl**](https://www.pdok.nl) ). Voor de BRT zijn op dit moment diverse webservices beschikbaar.
+## 6.6 Webservices en OGC API's
 
-## 6.6 Andere BRT-producten
+## 6.7 Andere BRT-producten
 
 Naast TOP10NL bestaat de BRT uit andere topografische bestanden. In onderstaande tabel wordt daarvan een overzicht gegeven en wordt verwezen naar de productpagina's en de PDOK-pagina's waar deze bestanden gedownload kunnen worden. Een compleet overzicht van de BRT-producten wordt gegeven op de pagina met BRT-producten: [**www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-producten**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-producten)
 
@@ -1716,7 +1718,7 @@ Naast TOP10NL bestaat de BRT uit andere topografische bestanden. In onderstaande
 
 _Tabel 6.1: Tabel met verwijzingen naar productpagina's._
 
-## 6.7 Andere BRT UML-modellen en XSD's
+## 6.8 Andere BRT UML-modellen en XSD's
 
 In paragraaf [**6.2**](#62-uml-model-en-xsd-top10nl) is het UML-model en de XSD van TOP10NL beschreven. In het technisch register bij Geonovum kunnen de  UML-modellen en XSD's van de BRT in het algemeen en van de overige BRT producten gevonden worden: 
 [**register.geostandaarden.nl/brt/index.html**](https://register.geostandaarden.nl/brt/index.html)
