@@ -2,7 +2,7 @@
 
 # Basisregistratie Topografie: Catalogus en Productspecificaties
 
-Versie: 1.2.0.5
+Versie: 1.2.0.6
 
 # Inleiding
 
@@ -14,7 +14,7 @@ TOP10NL geeft de topografische werkelijkheid binnen de grenzen van het schaalber
 
 Het Kadaster produceert vanaf 2007 dit nieuwe objectgerichte vectorbestand op de schaal 1:10.000. Het is de opvolger van TOP10vector dat sinds 1992 is vervaardigd. Bij de ontwikkeling van TOP10NL spelen standaarden een belangrijke rol. Eén van de belangrijkste doeleinden van het nieuwe bestand is een optimale uitwisseling mogelijk te maken tussen dit topografisch basisbestand en vele andere topografische en thematische bestanden die in Nederland worden geproduceerd. Aansluiten bij internationale standaarden is van essentieel belang om uitwisseling mogelijk te maken met geografische basisbestanden welke binnen Europa geproduceerd worden.
 
-Vanaf 1 januari 2008 fungeert TOP10NL als Basisregistratie Topografie (BRT). Daarmee is TOP10NL het standaard topografische basisbestand voor gebruik binnen de overheid op het betreffende schaalgebied. Voor meer informatie zie [**www.rijksoverheid.nl**](https://www.rijksoverheid.nl) en [**www.kadaster.nl/zakelijk/registraties/basisregistraties/brt**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt) .
+Vanaf 1 januari 2008 fungeert TOP10NL als Basisregistratie Topografie (BRT). Daarmee is TOP10NL het standaard topografische basisbestand voor gebruik binnen de overheid op het betreffende schaalgebied. Voor meer informatie zie: [**www.rijksoverheid.nl**](https://www.rijksoverheid.nl) en [**www.kadaster.nl/zakelijk/registraties/basisregistraties/brt**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt)
 
 Tijdens de ontwikkeling van TOP10NL zijn een groot aantal deelonderzoeken verricht. Het product TOP10NL is ontwikkeld in samenspraak met de gebruikers. Deelonderzoeken zijn verricht door de universiteiten van Delft, Wageningen en het ITC te Enschede. Externe GIS-software ontwikkelbedrijven hebben een aanzienlijke bijdrage geleverd in de ontwikkeling van de database.
 
@@ -22,18 +22,18 @@ In 2014 heeft het Kadaster samen met gebruikers een nieuw datamodel voor TOP10NL
 
 # Toegankelijkheid website
 
-Het Kadaster streeft ernaar om de eigen online informatie en dienstverlening toegankelijk te maken, overeenkomstig het "Tijdelijk besluit digitale toegankelijkheid overheid". Meer informatie over het besluit is te vinden op [**wetten.overheid.nl/BWBR0040936/2018-07-01**](https://wetten.overheid.nl/BWBR0040936/2018-07-01) .
-De toegankelijkheidsverklaring die is opgesteld voor de website van de BRT Catalogus en Productspecificaties is gepubliceerd op [**www.toegankelijkheidsverklaring.nl/register/6112**]( https://www.toegankelijkheidsverklaring.nl/register/6112) .
+Het Kadaster streeft ernaar om de eigen online informatie en dienstverlening toegankelijk te maken, overeenkomstig het "Tijdelijk besluit digitale toegankelijkheid overheid". Meer informatie over het besluit is te vinden op: [**wetten.overheid.nl/BWBR0040936/2018-07-01**](https://wetten.overheid.nl/BWBR0040936/2018-07-01)
+De toegankelijkheidsverklaring die is opgesteld voor de website van de BRT Catalogus en Productspecificaties is gepubliceerd op: [**www.toegankelijkheidsverklaring.nl/register/6112**]( https://www.toegankelijkheidsverklaring.nl/register/6112)
 
 # Analytische cookies
 
 Om beter inzicht te krijgen in het functioneren van onze website maken we gebruik van analytische cookies. Met behulp van Piwik krijgen we inzicht in belangrijke statistieken over de gebruikerservaring van onze bezoekers. We analyseren deze gegevens, waardoor we de website nog beter op bezoekers kunnen afstemmen.<br>
 Piwik is zo ingesteld dat het een willekeurig gegenereerd identificatienummer (ID) toewijst waarmee statistieken worden vastgesteld. Het gemaskeerde IP adres wordt aan het kadaster getoond als een gegenereerd identificatienummer. Hierdoor zijn bezoekers volledig anoniem en bij het Kadaster alleen als ID-nummer bekend.<br>
-Meer informatie is te lezen in de cookieverklaring op onze website [**www.kadaster.nl/cookieverklaring**](https://www.kadaster.nl/cookieverklaring) .
+Meer informatie is te lezen in de cookieverklaring op onze website: [**www.kadaster.nl/cookieverklaring**](https://www.kadaster.nl/cookieverklaring)
 
 # Leeswijzer
 
-Dit document begint met een kort overzicht van het Stelsel van Basisregistraties. Hierna worden de belangrijkste kenmerken van TOP10NL beschreven. [**Hoofdstuk 3**](#3-opbouw-top10nl) behandelt een aantal algemene zaken over TOP10NL, zoals de gebiedsaanduiding, de actualiteit, het ruimtelijk referentiesysteem, een kwaliteitsbeschrijving, het productieproces en het gebruik van TOP10NL. [**Hoofdstuk 4**](#4-gegevensmodel-top10nl) beschrijft het gegevensmodel met de verschillende groepen kenmerken en het gedrag van geo-objecten. In [**hoofdstuk 5**](#5-de-objectcatalogus-in-het-kort) vindt u een compact overzicht van alle objectklassen, attributen en attribuutwaarden van TOP10NL inclusief de mogelijke geometrieën. [**Hoofdstuk 6**](#6-uitwisseling-van-topografische-gegevens) gaat in op de uitwisseling van gegevens. Daarbij komen o.a. GML, UML en de XSD aan bod. De complete uitgebreide objectcatalogus is opgenomen in [**hoofdstuk 7**](#7-catalogus-basisregistratie-topografie).
+Dit document begint met een kort overzicht van het Stelsel van Basisregistraties. Hierna worden de belangrijkste kenmerken van TOP10NL beschreven. [**Hoofdstuk 3**](#3-opbouw-top10nl) behandelt een aantal algemene zaken over TOP10NL, zoals de gebiedsaanduiding, de actualiteit, het ruimtelijk referentiesysteem, een kwaliteitsbeschrijving, het productieproces en het gebruik van TOP10NL. [**Hoofdstuk 4**](#4-gegevensmodel-top10nl) beschrijft het gegevensmodel met de verschillende groepen kenmerken en het gedrag van geo-objecten. In [**hoofdstuk 5**](#5-de-objectcatalogus-in-het-kort) is een compact overzicht van alle objectklassen te vinden, attributen en attribuutwaarden van TOP10NL inclusief de mogelijke geometrieën. [**Hoofdstuk 6**](#6-uitwisseling-van-topografische-gegevens) gaat in op de uitwisseling van gegevens. Daarbij komen o.a. GML, UML en de XSD aan bod. De complete uitgebreide objectcatalogus is opgenomen in [**hoofdstuk 7**](#7-catalogus-basisregistratie-topografie).
 
 [**Bijlage 1: Mutatieprotocol**](#bijlage-1-mutatieprotocol) beschrijft het mutatieprotocol dat gebruikt wordt om te bepalen wanneer er sprake is van een nieuw object of een nieuwe versie van een object. Dit is van belang bij het toekennen van unieke identificatiecodes.
 
@@ -49,7 +49,8 @@ Belangrijk: om de tabel hieronder juist weer te geven, moet er een witregel na d
 
 | Versie | Datum | Auteur | Opmerking | Link naar historische versie |
 |:---|:---|:---|:---|:---|
-| 1.2.0.5 | 21 december 2021 | Kadaster | Wijzigingen n.a.v. Audit BRT 2020 doorgevoerd. <br> Toepassen webrichtlijnen. <br> Actualiseren bestandsleveringen en webservices. | - |
+| 1.2.0.6 | 7 oktober 2024 | Kadaster | Correctie definities vanuit waardelijsten TOP10NL. <br> Toevoegen paragraaf over analytische cookies. <br> Nalopen URL's. <br> Toevoegen TOP10NL OGC API's. | - |
+| 1.2.0.5 | 21 december 2021 | Kadaster | Wijzigingen n.a.v. Audit BRT 2020 doorgevoerd. <br> Toepassen webrichtlijnen. <br> Actualiseren bestandsleveringen en webservices. | [versie 1.2.0.5 (web)](https://github.com/kadaster/imbrt/blob/9ee6d84530386795e194e1716df92db5a6d20698/docs/catalogus-productspecificaties.md) |
 | 1.2.0.4 | 22 juli 2021 | Kadaster | Toevoeging hoofdstuk met wijzigingen t.o.v. vorige versie, toevoeging link naar historische versies BRT Catalogus. | [versie 1.2.0.4 (web)](https://github.com/kadaster/imbrt/blob/5639d20316bd183a59d27a41e44eb312f64d8286/docs/catalogus-productspecificaties.md) |
 | 1.2.0.3 | 11 december 2020 | Kadaster | Enkele URL's geactualiseerd, catalogus nu ook in GIT, wijziging door gebruik BAG-panden verwerkt. | [versie 1.2.0.3 (web)](https://github.com/kadaster/imbrt/blob/3b193ec7da5ce23c4c486e2f021b491c3573fb01/docs/catalogus-productspecificaties.md) <br> [versie 1.2.0.3 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.3.pdf) |
 | 1.2.0.2 | 20 april 2020 | Kadaster | Enkele kleine tekstuele fouten verbeterd. | [versie 1.2.0.2 (pdf)](https://github.com/kadaster/imbrt/blob/master/docs/catalogus-pdf/Catalogus_Productspecificaties_BRT_1.2.0.2.pdf) |
@@ -68,14 +69,11 @@ Het is ook mogelijk om alle wijzigingen ten opzichte van de vorige versie van de
 
 ## Belangrijkste verschillen
 
-De belangrijkste wijzigingen in versie 1.2.0.5 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
-- Wijzigingen n.a.v. Audit BRT 2020 doorgevoerd:
-  - Verduidelijking inwinning boom
-  - Verduidelijking inwinning hoogtelijn
-  - Verduidelijking herkomst grenzen
-- Toepassen webrichtlijnen bij hyperlinks en afbeeldingen, opnemen link naar toegankelijkheidsverklaring.
-- Actualiseren bestandsleveringen en webservices.
-- Verwijzing naar TOPNL UML en XSD's.
+De belangrijkste wijzigingen in versie 1.2.0.6 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
+- Correctie enkele definities in de Catalogus vanuit de waardelijsten TOP10NL.
+- Toevoegen paragraaf over analytische cookies.
+- Nalopen URL's.
+- Toevoegen TOP10NL OGC API's.
 
 ## Alle verschillen
 <!--
@@ -85,8 +83,8 @@ Laatste gedeelte van de URL achter "compare": hier staat de "master", oftewel de
 Deze link werkt alleen als de werk-branch is gepushed naar de master, gebruik tijdens het doorvoeren van wijzigingen het Pull-request om de verschillen te zien.
 -->
 
-Alle verschillen tussen versie 1.2.0.5 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie kunnen bekeken worden in GitHub:
-> [**Bekijk alle verschillen in GitHub**](https://github.com/kadaster/imbrt/compare/5639d20...master#files_bucket)
+Alle verschillen tussen versie 1.2.0.6 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie kunnen bekeken worden in GitHub:
+> [**Bekijk alle verschillen in GitHub**](https://github.com/kadaster/imbrt/compare/9ee6d84...master#files_bucket)
 
 Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecificaties weergegeven, aan de linkerzijde de vorige versie en aan de rechterzijde de huidige versie. Alleen de gedeelten van de BRT Catalogus en Productspecificaties waar wijzigingen hebben plaatsgevonden, worden weergegeven. Door middel van de kleuren roze en groen worden de verschillen tussen beide versies gemarkeerd. De betekenis van de kleuren is als volgt:
 > - een licht roze kleur markeert de vorige versie van de desbetreffende regel
@@ -170,9 +168,10 @@ Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecif
   - [6.2 UML-model en XSD TOP10NL](#62-uml-model-en-xsd-top10nl)
   - [6.3 Waardelijsten TOP10NL](#63-waardelijsten-top10nl)
   - [6.4 Open data](#64-open-data)
-  - [6.5 Bestandsleveringen en Webservices](#65-bestandsleveringen-en-webservices)
-  - [6.6 Andere BRT-producten](#65-andere-brt-producten)
-  - [6.7 Andere BRT UML-modellen en XSD's](#67-andere-brt-uml-modellen-en-xsds)
+  - [6.5 Bestandsleveringen en Webservices](#65-bestandsleveringen)
+  - [6.6 Webservices en OGC API's](#66-webservices-en-ogc-apis)
+  - [6.7 Andere BRT-producten](#67-andere-brt-producten)
+  - [6.8 Andere BRT UML-modellen en XSD's](#68-andere-brt-uml-modellen-en-xsds)
 - [7 Catalogus Basisregistratie Topografie](#7-catalogus-basisregistratie-topografie)
   - [7.1 Objectklasse onafhankelijke attributen en domeinen](#71-objectklasse-onafhankelijke-attributen-en-domeinen)
     - [7.1.1 Attributen](#711-attributen)
@@ -285,7 +284,7 @@ Het bestand TOP10NL beslaat het gehele Nederlandse grondgebied. Langs de grenzen
 
 ## 3.2 Actualiteit
 
-TOP10NL is gebaseerd op luchtfotografie, ondersteund door 360 graden beelden en eventueel een terreinverkenning. De datum van de luchtopname, meestal in de periode januari - april, is bepalend voor de actualiteitsdatum van TOP10NL. De bijhoudingscyclus van TOP10NL is één jaar voor heel Nederland. Een overzicht van de actualiteit van TOP10NL wordt weergegeven in de "BRT Actualiteitskaart: TOP10NL" (te vinden op [**www.kadaster.nl/zakelijk/producten/geo-informatie/topnl**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl) ).
+TOP10NL is gebaseerd op luchtfotografie, ondersteund door 360 graden beelden en eventueel een terreinverkenning. De datum van de luchtopname, meestal in de periode januari - april, is bepalend voor de actualiteitsdatum van TOP10NL. De bijhoudingscyclus van TOP10NL is één jaar voor heel Nederland. Een overzicht van de actualiteit van TOP10NL wordt weergegeven in de "BRT Actualiteitskaart: TOP10NL" (te vinden op: [**www.kadaster.nl/zakelijk/producten/geo-informatie/topnl**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl) ).
 
 ## 3.3 Ruimtelijk referentiesysteem
 
@@ -1636,7 +1635,7 @@ Het uitwisselingsformaat waarin de gegevens beschikbaar zijn, is meestal afhanke
 
 Voor de uitwisseling van de TOP10NL bestanden is gekozen voor de standaardtaal GML (Geography Markup Language). Het voordeel van GML is dat zowel de inhoud als de structuur van de gegevens meegeleverd wordt. De structuur wordt via het internet door de bronhouder(s) bijgehouden, zodat dataconversie problemen tot het verleden behoren. GML is in beginsel een uitwisselingsformaat dat onafhankelijk is van specifieke GIS-software. Het is wereldwijd bruikbaar in een GIS systeem dat compatibel is met XML (eXtensible Markup Language), een internationale standaard op ICT gebied.
 
-Vanaf de BRT-levering van september 2020 wordt TOP10NL ook ontsloten als Geopackage. Meer informatie over Geopackage is te vinden op de website van Geonovum ( [**www.geonovum.nl/geo-standaarden/geopackage**](https://www.geonovum.nl/geo-standaarden/geopackage) ).
+Vanaf de BRT-levering van september 2020 wordt TOP10NL ook ontsloten als Geopackage. Meer informatie over Geopackage is te vinden op de website van Geonovum: [**www.geonovum.nl/geo-standaarden/geopackage**](https://www.geonovum.nl/geo-standaarden/geopackage)
 
 ## 6.1 GML
 
@@ -1675,7 +1674,7 @@ De waardelijsten van TOP10NL kunnen gevonden worden op: [**register.geostandaard
 ## 6.4 Open data
 
 De basisregistratie Topografie is vanaf 1 januari 2012 als open data beschikbaar, in de vorm van bestandsleveringen en een aantal webservices via PDOK.
-Meer informatie over de Basisregistratie Topografie en de manieren om de producten van de BRT te verkrijgen vindt u op de productpagina's van de BRT:
+Meer informatie over de Basisregistratie Topografie en de manieren om de producten van de BRT te verkrijgen is te vinden op de productpagina's van de BRT:
 
 Productpagina BRT: [**www.kadaster.nl/zakelijk/registraties/basisregistraties/brt**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt)
 
@@ -1691,22 +1690,29 @@ De topografische gegevens worden beschikbaar gesteld onder een CC-BY licentie. D
 - Bij hergebruik of verspreiding de naam van het Kadaster wordt vermeld, op een manier die redelijk is in verhouding tot het gebruikte medium.
 - Het Kadaster zijn intellectuele eigendomsrechten (o.a. databankenrecht) blijft voorbehouden.
 
-Daarnaast moet u er rekening mee houden dat alleen de gegevens die rechtstreeks uit de Basisregistratie afkomstig zijn, gelden als authentieke gegevens in de zin van de Kadasterwet.
+Daarnaast moet er rekening mee gehouden worden dat alleen de gegevens die rechtstreeks uit de Basisregistratie afkomstig zijn, gelden als authentieke gegevens in de zin van de Kadasterwet.
 
-## 6.5 Bestandsleveringen en Webservices
+## 6.5 Bestandsleveringen
 
-De BRT is als bestandslevering beschikbaar in het formaat GML en Geopackage. Een compleet overzicht van de verschillende bestandsleveringen en webservices van de Basisregistratie Topografie vindt u op de productpagina's van de BRT op PDOK: [**www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl)
+De BRT is als bestandslevering beschikbaar in het formaat GML en Geopackage. Een compleet overzicht van de verschillende bestandsleveringen van de Basisregistratie Topografie is te vinden op de productpagina's van de BRT op PDOK: [**www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl)
 
-De GML-bestanden kunnen gedownload worden via een een download-viewer en via een API. Met de download-viewer kunt u de GML van heel Nederland in één keer downloaden. Ook kunt u zelf met de muis op de kaart van Nederland een gebied tekenen. Vervolgens kunt u de gewenste objectklassen selecteren en deze voor het geselecteerde gebied downloaden. 
+De GML-bestanden kunnen gedownload worden via een een download-viewer en via een API. Met de download-viewer kan de GML van heel Nederland in één keer downloaden. Ook kan er met de muis op de kaart van Nederland een gebied getekend worden. Vervolgens kunnen de gewenste objectklassen geselecteed worden en deze voor het geselecteerde gebied gedownload worden. 
 Voor afnemers die elke levering hetzelfde gebied willen selecteren, heeft PDOK een API ontwikkeld die dit proces automatiseert. Hiermee is het ook mogelijk om de GML's per kaartblad te downloaden. PDOK heeft een instructie gemaakt over het het downloaden van GML's met deze API. Deze is te vinden op: [**www.pdok.nl/documents/1901824/4016976/Stappenplan_PDOK_download_APIs.pdf**](https://www.pdok.nl/documents/1901824/4016976/Stappenplan_PDOK_download_APIs.pdf)
 
-De BRT geopackages kunnen gedownload worden via de productpagina's van de BRT op PDOK. Een Geopackage bevat altijd alle objecten in heel Nederland. Meer informatie over Geopackage is te vinden op de website van Geonovum ( [**www.geonovum.nl/geo-standaarden/geopackage**](https://www.geonovum.nl/geo-standaarden/geopackage) ).
+De BRT geopackages kunnen gedownload worden via de productpagina's van de BRT op PDOK. Een Geopackage bevat altijd alle objecten in heel Nederland. Meer informatie over Geopackage is te vinden op de website van Geonovum: [**www.geonovum.nl/geo-standaarden/geopackage**](https://www.geonovum.nl/geo-standaarden/geopackage)
 
-Een webservice maakt het mogelijk een kaartbeeld in een webapplicatie te gebruiken, zonder dat de beheerder van de applicatie de geodata zelf in huis hoeft te hebben. Een webservice ontsluit dus de topografie "bij de bron". De webservices van de BRT zijn beschikbaar via PDOK ( [**www.pdok.nl**](https://www.pdok.nl) ). Voor de BRT zijn op dit moment diverse webservices beschikbaar.
+## 6.6 Webservices en OGC API's
 
-## 6.6 Andere BRT-producten
+Een webservice maakt het mogelijk een kaartbeeld in een webapplicatie te gebruiken, zonder dat de beheerder van de applicatie de geodata zelf in huis hoeft te hebben. Een webservice ontsluit dus de topografie "bij de bron". Voor TOP10NL is een WMS en een WMTS ingericht, waarmee de gegevens uit TOP10NL te bekijken zijn. Deze webservices zijn beschikbaar via het tabblad **(OGC) Webservices** op de productpagina van TOPNL: [**www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl)
 
-Naast TOP10NL bestaat de BRT uit andere topografische bestanden. In onderstaande tabel wordt daarvan een overzicht gegeven en wordt verwezen naar de productpagina's en de PDOK-pagina's waar deze bestanden gedownload kunnen worden. Een compleet overzicht van de BRT-producten wordt gegeven op de pagina met BRT-producten ( [**www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-producten**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-producten) ).
+Voor TOP10NL zijn ook de **OGC API Features** en **OGC API Tiles en Styles (Vectortiles)** beschikbaar. <br>
+De **OGC API-Tiles** is een nieuwe standaard waarmee visualisaties van topografische data gemaakt kunnen worden. Deze visualisaties kunnen daarna gebruikt worden in toepassingen zoals kaartviewers en andere topografische applicaties. Om snel te kunnen beginnen is de standaardvisualisatie van TOP10NL beschikbaar in de **OGC API-Styles**. In deze API kan die standaardvisualisatie ook aangepast worden. <br>
+In de **OGC API-Features** is de complete TOP10NL-dataset beschikbaar. Hiermee kunnen specifieke objecten van TOP10NL-informatie gedownload worden, op basis van bijvoorbeeld een interessegebied of een ID. Omdat met de OGC API-Features de TOP10NL-informatie op objectniveau bekeken wordt, is er geen specifieke geografische kennis of een specifieke applicatie nodig. <br>
+Deze OGC API's zijn beschikbaar op: [api.pdok.nl/brt/top10nl/ogc/v1](https://api.pdok.nl/brt/top10nl/ogc/v1)
+
+## 6.7 Andere BRT-producten
+
+Naast TOP10NL bestaat de BRT uit andere topografische bestanden. In onderstaande tabel wordt daarvan een overzicht gegeven en wordt verwezen naar de productpagina's en de PDOK-pagina's waar deze bestanden gedownload kunnen worden. Een compleet overzicht van de BRT-producten wordt gegeven op de pagina met BRT-producten: [**www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-producten**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-producten)
 
 | Product | Productpagina |
 |:---|:---|
@@ -1718,7 +1724,7 @@ Naast TOP10NL bestaat de BRT uit andere topografische bestanden. In onderstaande
 
 _Tabel 6.1: Tabel met verwijzingen naar productpagina's._
 
-## 6.7 Andere BRT UML-modellen en XSD's
+## 6.8 Andere BRT UML-modellen en XSD's
 
 In paragraaf [**6.2**](#62-uml-model-en-xsd-top10nl) is het UML-model en de XSD van TOP10NL beschreven. In het technisch register bij Geonovum kunnen de  UML-modellen en XSD's van de BRT in het algemeen en van de overige BRT producten gevonden worden: 
 [**register.geostandaarden.nl/brt/index.html**](https://register.geostandaarden.nl/brt/index.html)
