@@ -1707,7 +1707,7 @@ Een webservice maakt het mogelijk een kaartbeeld in een webapplicatie te gebruik
 
 Voor TOP10NL zijn ook de **OGC API Features** en **OGC API Tiles en Styles (Vectortiles)** beschikbaar. <br>
 De **OGC API-Tiles** is een nieuwe standaard waarmee visualisaties van topografische data gemaakt kunnen worden. Deze visualisaties kunnen daarna gebruikt worden in toepassingen zoals kaartviewers en andere topografische applicaties. In de OGC API-Tiles kan veel informatie over de BRT TOP10NL-objecten gevonden worden. Om snel te kunnen beginnen is de standaardvisualisatie van TOP10NL beschikbaar in de **OGC API-Styles**. In deze API kan die standaardvisualisatie ook aangepast worden. <br>
-In de **OGC API-Features** is de complete TOP10NL-dataset beschikbaar. Hiermee kunnen specifieke objecten van TOP10NL-informatie gedownload worden, op basis van bijvoorbeeld een interessegebied of een ID. Omdat met de OGC API-Features de TOP10NL-informatie op objectniveau bekeken wordt, is er geen specifieke geografische kennis of applicaties nodig. <br>
+In de **OGC API-Features** is de complete TOP10NL-dataset beschikbaar. Hiermee kunnen specifieke objecten van TOP10NL-informatie gedownload worden, op basis van bijvoorbeeld een interessegebied of een ID. Omdat met de OGC API-Features de TOP10NL-informatie op objectniveau bekeken wordt, is er geen specifieke geografische kennis of een specifieke applicaties nodig. <br>
 Deze OGC API's zijn beschikbaar op: [api.pdok.nl/brt/top10nl/ogc/v1](https://api.pdok.nl/brt/top10nl/ogc/v1)
 
 ## 6.7 Andere BRT-producten
