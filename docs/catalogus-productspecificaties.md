@@ -69,14 +69,11 @@ Het is ook mogelijk om alle wijzigingen ten opzichte van de vorige versie van de
 
 ## Belangrijkste verschillen
 
-De belangrijkste wijzigingen in versie 1.2.0.5 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
-- Wijzigingen n.a.v. Audit BRT 2020 doorgevoerd:
-  - Verduidelijking inwinning boom
-  - Verduidelijking inwinning hoogtelijn
-  - Verduidelijking herkomst grenzen
-- Toepassen webrichtlijnen bij hyperlinks en afbeeldingen, opnemen link naar toegankelijkheidsverklaring.
-- Actualiseren bestandsleveringen en webservices.
-- Verwijzing naar TOPNL UML en XSD's.
+De belangrijkste wijzigingen in versie 1.2.0.6 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
+- Correctie enkele definities in de Catalogus vanuit de waardelijsten TOP10NL.
+- Toevoegen paragraaf over analytische cookies.
+- Nalopen URL's.
+- Toevoegen TOP10NL OGC API's.
 
 ## Alle verschillen
 <!--
