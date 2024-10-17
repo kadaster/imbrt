@@ -631,17 +631,17 @@ In onderstaande tabel zijn de relaties weergegeven die voorkomen tussen de objec
 | be­schrij­vend | num­mer | | | | | | O | | | O | | | | |
 | be­schrij­vend | hoog­te­ni­veau | V | V | V | V | V | V | V | | | | | | |
 | be­schrij­vend | sta­tus | V | V | | V | | | | | | | | | |
-| be­schrij­vend | ty­pe in­fra­struc­tuur | V | V | | | | | | | | | | | |
-| be­schrij­vend | fy­siek voor­ko­men | O | O | O | O | O | | | | | | | | |
+| be­schrij­vend | ty­pe­In­fra­struc­tuur | V | V | | | | | | | | | | | |
+| be­schrij­vend | fy­siek­Voor­ko­men | O | O | O | O | O | | | | | | | | |
 | be­schrij­vend | voor­ko­men | | | O | | O | | | | | | | | |
 | be­schrij­vend | hoog­te­klas­se | | | | V | | | V | | | | | | |
 | be­schrij­vend | hoog­te | | | | O | | O | | V | | | | | |
-| be­schrij­vend | ty­pe weg | V | | | | | | | | | | | | |
+| be­schrij­vend | ty­pe­Weg | V | | | | | | | | | | | | |
 | be­schrij­vend | hoofd­ver­keers­ge­bruik | V | | | | | | | | | | | | |
 | be­schrij­vend | ver­har­dings­breed­te­klas­se | O | | | | | | | | | | | | |
-| be­schrij­vend | ge­schei­den rij­baan | V | | | | | | | | | | | | |
+| be­schrij­vend | ge­schei­den­Rij­baan | V | | | | | | | | | | | | |
 | be­schrij­vend | ver­har­dings­ty­pe | V | | | | | | | | | | | | |
-| be­schrij­vend | aan­tal rij­stro­ken | O | | | | | | | | | | | | |
+| be­schrij­vend | aan­tal­Rij­stro­ken | O | | | | | | | | | | | | |
 | be­schrij­vend | A-weg­num­mer | O | | | | | | | | | | | | |
 | be­schrij­vend | N-weg­num­mer | O | | | | | | | | | | | | |
 | be­schrij­vend | E-weg­num­mer | O | | | | | | | | | | | | |
@@ -649,35 +649,35 @@ In onderstaande tabel zijn de relaties weergegeven die voorkomen tussen de objec
 | be­schrij­vend | af­rit­num­mer | O | | | | | | | | | | | | |
 | be­schrij­vend | af­rit­naam | O | | | | | | | | | | | | |
 | be­schrij­vend | knoop­punt­naam | O | | | | | | | | | | | | |
-| be­schrij­vend | ty­pe spoor­baan | | V | | | | | | | | | | | |
+| be­schrij­vend | ty­pe­Spoor­baan | | V | | | | | | | | | | | |
 | be­schrij­vend | spoor­breed­te | | V | | | | | | | | | | | |
-| be­schrij­vend | aan­tal spo­ren | | V | | | | | | | | | | | |
+| be­schrij­vend | aan­tal­Spo­ren | | V | | | | | | | | | | | |
 | be­schrij­vend | ver­voer­func­tie | | V | | | | | | | | | | | |
 | be­schrij­vend | elek­tri­fi­ca­tie | | V | | | | | | | | | | | |
 | be­schrij­vend | baan­vak­naam | | O | | | | | | | | | | | |
-| be­schrij­vend | ty­pe wa­ter | | | V | | | | | | | | | | |
+| be­schrij­vend | ty­pe­Wa­ter | | | V | | | | | | | | | | |
 | be­schrij­vend | breed­te­klas­se | | | O | | | | | | | | | | |
 | be­schrij­vend | hoofd­af­wa­te­ring | | | V | | | | | | | | | | |
 | be­schrij­vend | func­tie | | | V | | | | | | | | | | |
 | be­schrij­vend | ge­tij­de­In­vloed | | | V | | | | | | | | | | |
 | be­schrij­vend | vaar­weg­klas­se | | | O | | | | | | | | | | |
 | be­schrij­vend | sluis­naam | | | O | | | | | | | | | | |
-| be­schrij­vend | ty­pe ge­bouw | | | | V | | | | | | | | | |
+| be­schrij­vend | ty­pe­Ge­bouw | | | | V | | | | | | | | | |
 | be­schrij­vend | ge­bruiks­doel | | | | O | | | | | | | | | |
-| be­schrij­vend | ty­pe land­ge­bruik | | | | | V | | | | | | | | |
-| be­schrij­vend | ty­pe in­rich­tings­ele­ment | | | | | | V | | | | | | | |
+| be­schrij­vend | ty­pe­Land­ge­bruik | | | | | V | | | | | | | | |
+| be­schrij­vend | ty­pe­In­rich­tings­ele­ment | | | | | | V | | | | | | | |
 | be­schrij­vend | breed­te | | | | | | O | | | | | | | |
-| be­schrij­vend | ty­pe re­liëf | | | | | | | V | | | | | | |
+| be­schrij­vend | ty­pe­Re­liëf | | | | | | | V | | | | | | |
 | be­schrij­vend | func­tie | | | | | | | O | | | | | | |
 | be­schrij­vend | ty­pe​Hoog­te | | | | | | | | V | | | | | |
 | be­schrij­vend | re­fe­ren­tie­vlak | | | | | | | | V | | | | | |
-| be­schrij­vend | ty­pe re­gis­tra­tief ge­bied | | | | | | | | | V | | | | |
-| be­schrij­vend | ty­pe geo­gra­fisch ge­bied | | | | | | | | | | V | | | |
+| be­schrij­vend | ty­pe­Re­gis­tra­tief­Ge­bied | | | | | | | | | V | | | | |
+| be­schrij­vend | ty­pe­Geo­gra­fisch­Ge­bied | | | | | | | | | | V | | | |
 | be­schrij­vend | ty­pe​Ge­bied | | | | | | | | | | | V | | |
 | be­schrij­vend | be­bouw­de​Kom | | | | | | | | | | | V | | |
 | be­schrij­vend | is​BAG­woon­plaats | | | | | | | | | | | V | | |
-| be­schrij­vend | aan­tal in­wo­ners | | | | | | | | | | | O | | |
-| be­schrij­vend | ty­pe func­ti­o­neel ge­bied | | | | | | | | | | | | V | |
+| be­schrij­vend | aan­tal­In­wo­ners | | | | | | | | | | | O | | |
+| be­schrij­vend | ty­pe­Func­ti­o­neelGe­bied | | | | | | | | | | | | V | |
 | be­schrij­vend | ty­pe​Ob­ject | | | | | | | | | | | | | V |
 
 Tabel 4.4: Relatiematrix. **V** = verplicht. **O** = optioneel.
@@ -1002,11 +1002,11 @@ Definitie: Kleinste functioneel onafhankelijk stukje water met gelijkblijvende, 
 | fysiek voorkomen | veelvoudig | optioneel | < domein "WA\_fysiekVoorkomen" > | | | |
 | functie | enkelvoudig | verplicht | < domein "WA\_functie" > | | | |
 | voorkomen | enkelvoudig | optioneel | met riet | | x | x |
-| getijdeInvloed | enkelvoudig | verplicht | < domein "WA\_getijdeInvloed" > | x | x | x |
+| getijde invloed | enkelvoudig | verplicht | < domein "WA\_getijdeInvloed" > | x | x | x |
 | vaarwegklasse | enkelvoudig | optioneel | < domein "WA\_vaarwegklasse" > | x | x | x |
-| NaamOfficieel | enkelvoudig | optioneel | < Officiële naam water > | x | x | x |
-| naamNL | veelvoudig | optioneel | < Nederlandse naam water > | x | x | x |
-| naamFries | veelvoudig | optioneel | < Friese naam water > | x | x | x |
+| naam officieel | enkelvoudig | optioneel | < Officiële naam water > | x | x | x |
+| naam NL | veelvoudig | optioneel | < Nederlandse naam water > | x | x | x |
+| naam Fries | veelvoudig | optioneel | < Friese naam water > | x | x | x |
 | isBAGnaam | enkelvoudig | optioneel | < domein "WA\_isBAGnaam" > | x | x | x |
 | sluisnaam | enkelvoudig | optioneel | < naam sluis > | x | x | x |
 | brugnaam | enkelvoudig | optioneel | < naam brug > | x | x | x |
@@ -1422,9 +1422,9 @@ Definitie: Op basis van wet- en regelgeving afgebakend gebied dat als eenheid ge
 | Attribuut | Multipliciteit | Optionaliteit | Attribuutwaarde | Punt | Lijn | Vlak |
 |:---|:---|:---|:---|:---|:---|:---|
 | type registratief gebied | enkelvoudig | verplicht | < domein "RG\_typeRegistratiefGebied" > | | | x |
-| NaamOfficieel | enkelvoudig | verplicht | < Officiële naam registratief gebied > | | | x |
-| naam (Nl) | veelvoudig | optioneel | < Nederlandse naam registratief gebied > | | | x |
-| naam (Fr) | veelvoudig | optioneel | < Friese naam registratief gebied > | | | x |
+| naam officieel | enkelvoudig | verplicht | < Officiële naam registratief gebied > | | | x |
+| naam NL | veelvoudig | optioneel | < Nederlandse naam registratief gebied > | | | x |
+| naam Fries | veelvoudig | optioneel | < Friese naam registratief gebied > | | | x |
 | nummer | veelvoudig | optioneel | < registratief nummer > | | | x |
 
 | Domein "RG\_typeRegistratiefGebied" |
@@ -1446,8 +1446,8 @@ Definitie: Begrensd en benoemd gebied dat door een geografische eenheid beschrev
 | Attribuut | Multipliciteit | Optionaliteit | Attribuutwaarde | Punt | Lijn | Vlak |
 |:---|:---|:---|:---|:---|:---|:---|
 | type geografisch gebied | enkelvoudig | verplicht | < domein "GG\_typeGeografischGebied" > | x | | x |
-| naam (Nl) | veelvoudig | optioneel | < Nederlandse naam geografisch gebied > | x | | x |
-| naam (Fr) | veelvoudig | optioneel | < Friese naam geografisch gebied > | x | | x |
+| naam NL | veelvoudig | optioneel | < Nederlandse naam geografisch gebied > | x | | x |
+| naam Fries | veelvoudig | optioneel | < Friese naam geografisch gebied > | x | | x |
 
 | Domein "GG\_typeGeografischGebied" |
 |:---|
@@ -1482,9 +1482,9 @@ Definitie: geografisch gebied gekenmerkt door een concentratie van gebouwen gebr
 | bebouwde kom | enkelvoudig | verplicht | < domein "PL\_isBebouwdeKom" > | x | | x |
 | isBAGwoonplaats | enkelvoudig | verplicht | < domein "PL\_isBAGwoonplaats" > | x | | x |
 | aantal inwoners | enkelvoudig | optioneel | < nummer > | x | | x |
-| Naam Officieel | enkelvoudig | optioneel | < Officiële naam plaats > | x | | x |
-| naam (Nl) | veelvoudig | optioneel | < Nederlandse naam geografisch gebied > | x | | x |
-| naam (Fr) | veelvoudig | optioneel | < Friese naam geografisch gebied > | x | | x |
+| naam officieel | enkelvoudig | optioneel | < Officiële naam plaats > | x | | x |
+| naam NL | veelvoudig | optioneel | < Nederlandse naam geografisch gebied > | x | | x |
+| naam Fries | veelvoudig | optioneel | < Friese naam geografisch gebied > | x | | x |
 
 | Domein "PL\_typeGebied" | Punt | Lijn | Vlak |
 |:---|:---|:---|:---|
@@ -1518,8 +1518,8 @@ Definitie: Begrensd en benoemd gebied dat door een functionele eenheid beschreve
 |:---|:---|:---|:---|:---|:---|:---|
 | type functioneel gebied | enkelvoudig | verplicht | < domein "FG\_typeFunctioneelGebied" > | x | | x |
 | soortnaam | enkelvoudig | optioneel | < soortnaam functioneel gebied > | x | | x |
-| naam (Nl) | veelvoudig | optioneel | < Nederlandse naam functioneel gebied > | x | | x |
-| naam (Fr) | veelvoudig | optioneel | < Friese naam functioneel gebied > | x | | x |
+| naam NL | veelvoudig | optioneel | < Nederlandse naam functioneel gebied > | x | | x |
+| naam Fries | veelvoudig | optioneel | < Friese naam functioneel gebied > | x | | x |
 
 | Domein "FG\_typeFunctioneelGebied" |
 |:---|
@@ -2053,9 +2053,9 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 | Formaat | GM\_Curve |
 | Domein | "Ruimtelijke coördinaten" |
 
-### Attribuut type infrastructuur
+### Attribuut typeInfrastructuur
 
-| Attribuut | type infrastructuur |
+| Attribuut | typeInfrastructuur |
 |:---|:---|
 | Definitie | Aanduiding of het object een verbinding, een kruising of een overig verkeersgebied is. |
 | Inwinningscriteria | - |
@@ -2096,9 +2096,9 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 | Lijn | Nee |
 | Vlak | Ja |
 
-### Attribuut type weg
+### Attribuut typeWeg
 
-| Attribuut | type weg |
+| Attribuut | typeWeg |
 |:---|:---|
 | Definitie | Het soort weg. |
 | Inwinningscriteria | Wegen worden hiërarchisch opgedeeld in een aantal categorieën, welke met dit attribuut worden aangeduid.<br>Een op- of afrit en een rotonde wordt aangegeven als een wegdeel van de hoogst geclassificeerde route (Volgorde van classificatie van hoog naar laag: 1 autosnelweg, 2 hoofdweg, 3 regionale weg, 4 lokale weg, 5 alle andere). Echter, als van een autosnelweg of hoofdweg voor snelverkeer een op/afrit op een rotonde uitkomt, dan vervalt de regel van hoogst geclassificeerde route, en krijgt de rotonde de code van de doorgaande route.<br>Autosnelwegen en hoofdwegen vormen samen een gesloten netwerk. Autosnelwegen, hoofdwegen en regionale wegen vormen ook een gesloten netwerk. |
@@ -2322,9 +2322,9 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 | Lijn | Ja |
 | Vlak | Ja |
 
-### Attribuut fysiek voorkomen
+### Attribuut fysiekVoorkomen
 
-| Attribuut | fysiek voorkomen |
+| Attribuut | fysiekVoorkomen |
 |:---|:---|
 | Definitie | De plaats waar het object zich bevindt t.o.v. andere constructies. |
 | Inwinningscriteria | - |
@@ -2458,9 +2458,9 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 | Lijn | Ja |
 | Vlak | Nee |
 
-### Attribuut gescheiden rijbaan
+### Attribuut gescheidenRijbaan
 
-| Attribuut | gescheiden rijbaan |
+| Attribuut | gescheidenRijbaan |
 |:---|:---|
 | Definitie | Aanduiding of het object onderdeel uitmaakt van een weg met gescheiden rijbanen. |
 | Inwinningscriteria | Een weg heeft gescheiden rijbanen als het obstakel (vangrail, verhoogde betonrand, middenberm) tussen de rijbanen langer is dan 500 meter, mits beide wegen als een samenhangend geheel kunnen worden beschouwd. Een plaatselijke onderbreking van het obstakel (bijvoorbeeld bij een brug) wordt niet als onderbreking van het obstakel beschouwd. In het geval het terrein tussen beide rijbanen gevuld is met min of meer aaneengesloten bebouwing of met water of met een dusdanige dichte begroeiing dat het verband tussen beide wegen in het terrein niet meer is waar te nemen dan worden beide rijbanen niet meer aangegeven als gescheiden rijbaan.<br>De combinatie van gescheiden rijbaan "ja" en straat is niet toegestaan. |
@@ -2544,9 +2544,9 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 | Lijn | Ja |
 | Vlak | Ja |
 
-### Attribuut aantal rijstroken
+### Attribuut aantalRijstroken
 
-| Attribuut | aantal rijstroken |
+| Attribuut | aantalRijstroken |
 |:---|:---|
 | Definitie | Het aantal onderverdelingen van een wegdeel d.m.v. strepen, verschil in verharding of kleur. |
 | Inwinningscriteria | Wordt aangegeven voor alle wegdelen behorende tot de categorie autosnelwegen en/of hoofdwegen. Niet meegeteld worden geïntegreerde stroken met een speciale bestemming zoals busbaan en rijwielstrook. Een eventuele wisselstrook (een fysiek gescheiden rijbaan die beurtelings per rijrichting gebruikt wordt om doorstroming van het verkeer in de spits te bevorderen) telt mee voor het aantal rijstroken. Een wisselend aantal rijstroken wordt pas weergegeven als het aantal rijstroken over tenminste 500 m constant is. Bij een weg met gescheiden rijbanen wordt het **aantal rijstroken** per rijbaan aangegeven. Het **aantal rijstroken** wordt _**niet**_ toegevoegd aan op- en afritten, wel aan de verbindingswegen op een **knooppunt**. |
@@ -2789,9 +2789,9 @@ De hartlijnen worden opgenomen. Op het rangeergedeelte van een emplacement worde
 | Formaat | GM\_Curve |
 | Domein | "Ruimtelijke coördinaten" |
 
-### Attribuut type infrastructuur
+### Attribuut typeInfrastructuur
 
-| Attribuut | type infrastructuur |
+| Attribuut | typeInfrastructuur |
 |:---|:---|
 | Definitie | Aanduiding of het object een verbinding of een kruising is. |
 | Inwinningscriteria | - |
@@ -2822,9 +2822,9 @@ De hartlijnen worden opgenomen. Op het rangeergedeelte van een emplacement worde
 | Lijn | Nee |
 | Vlak | Nee |
 
-### Attribuut type spoorbaan
+### Attribuut typeSpoorbaan
 
-| Attribuut | type spoorbaan |
+| Attribuut | typeSpoorbaan |
 |:---|:---|
 | Definitie | Het soort vervoermiddel waarvoor het spoorbaandeel bestemd is. |
 | Inwinningscriteria | - |
@@ -2885,9 +2885,9 @@ De hartlijnen worden opgenomen. Op het rangeergedeelte van een emplacement worde
 | Lijn | Ja |
 | Vlak | Nee |
 
-### Attribuut fysiek voorkomen
+### Attribuut fysiekVoorkomen
 
-| Attribuut | fysiek voorkomen |
+| Attribuut | fysiekVoorkomen |
 |:---|:---|
 | Definitie | De plaats waar het object zich bevindt t.o.v. andere constructies. |
 | Inwinningscriteria | - |
@@ -2971,9 +2971,9 @@ De hartlijnen worden opgenomen. Op het rangeergedeelte van een emplacement worde
 | Lijn | Ja |
 | Vlak | Nee |
 
-### Attribuut aantal sporen
+### Attribuut aantalSporen
 
-| Attribuut | aantal sporen |
+| Attribuut | aantalSporen |
 |:---|:---|
 | Definitie | Het aantal sporen van het spoorbaandeel. |
 | Inwinningscriteria | Een wisselend aantal sporen wordt pas weergegeven als het aantal sporen over tenminste 5 kilometer constant is. Indien het aantal sporen over een lengte van minder dan 5 km wisselt, wordt het extra spoor niet apart weergegeven. Een tijdelijk parallel spoor op een volledig eigen tracé, wordt apart weergegeven.<br>Echter: de minimum lengte voor opname van een dubbelsporig gedeelte in een **enkelspoor** is 500 meter en ditzelfde geld voor een enkelsporig gedeelte in een **dubbelspoor**.<br>Voor het inwinnen van het aantal sporen van een spoorbaandeel is gebruik gemaakt van gegevens van ProRail. |
@@ -3215,9 +3215,9 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 | Formaat | GM\_Surface |
 | Domein | "Ruimtelijke coördinaten" |
 
-### Attribuut type water
+### Attribuut typeWater
 
-| Attribuut | type water |
+| Attribuut | typeWater |
 |:---|:---|
 | Definitie | Het type water. |
 | Inwinningscriteria | - |
@@ -3414,9 +3414,9 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 | Lijn | Ja |
 | Vlak | Ja |
 
-### Attribuut fysiek voorkomen
+### Attribuut fysiekVoorkomen
 
-| Attribuut | fysiek voorkomen |
+| Attribuut | fysiekVoorkomen |
 |:---|:---|
 | Definitie | De plaats waar het object zich bevindt t.o.v. andere constructies. |
 | Inwinningscriteria | - |
@@ -3789,9 +3789,9 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 | Lijn | Ja |
 | Vlak | Ja |
 
-### Attribuut naam (Nl)
+### Attribuut naamNL
 
-| Attribuut | naam (Nl) |
+| Attribuut | naamNL |
 |:---|:---|
 | Definitie | De Nederlandse naam van het water. |
 | Inwinningscriteria | Indien het waterdeel de functie 'haven' heeft, dan mag de soortnaam 'vluchthaven' of 'werkhaven' worden opgenomen. |
@@ -3803,9 +3803,9 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 | Lijn | Ja |
 | Vlak | Ja |
 
-### Attribuut naam (Fr)
+### Attribuut naamFries
 
-| Attribuut | naam (Fr) |
+| Attribuut | naamFries |
 |:---|:---|
 | Definitie | De Friese naam van het water. |
 | Inwinningscriteria | Wordt alleen in Friesland ingewonnen. |
@@ -3816,9 +3816,9 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 | Lijn | Ja |
 | Vlak | Ja |
 
-### Attribuut naam Officieel
+### Attribuut naamOfficieel
 
-| Attribuut | naam Officieel |
+| Attribuut | naamOfficieel |
 |:---|:---|
 | Definitie | De officiële naam van het water. |
 | Inwinningscriteria | Indien het waterdeel de functie 'haven' heeft, dan mag de soortnaam 'vluchthaven' of 'werkhaven' worden opgenomen. |
@@ -3974,9 +3974,9 @@ _Inwinningscriteria:_
 | Formaat | GM\_Surface |
 | Domein | "Ruimtelijke coördinaten" |
 
-### Attribuut type gebouw
+### Attribuut typeGebouw
 
-| Attribuut | type gebouw |
+| Attribuut | typeGebouw |
 |:---|:---|
 | Definitie | Het type gebouw, het doel waarvoor de bebouwing gebruikt wordt (gaat worden / werd). |
 | Inwinningscriteria | Indien de betreffende bebouwing onderdeel uitmaakt van een groter geheel, wordt het gebouwdeel "uitgesneden" uit de omliggende bebouwing en voorzien van de bijbehorende attribuutwaarde. Indien het gebouwdeel niet exact is aan te geven, wordt een op zich zelf staand gebouw aangebracht aan de rand van het complete gebouw (op de ware plek of bij de dichtstbij gelegen ingang van het gebouw). |
@@ -4797,9 +4797,9 @@ _Inwinningscriteria:_
 | Lijn | Nee |
 | Vlak | Ja |
 
-### Attribuut fysiek voorkomen
+### Attribuut fysiekVoorkomen
 
-| Attribuut | fysiek voorkomen |
+| Attribuut | fysiekVoorkomen |
 |:---|:---|
 | Definitie | De plaats waar het object zich bevindt t.o.v. andere constructies. |
 | Inwinningscriteria | - |
@@ -5077,9 +5077,9 @@ Voor het bijhouden van het attribuut type_landgebruik wordt gebruik gemaakt van 
 | Formaat | GM\_Surface |
 | Domein | "Ruimtelijke coördinaten" |
 
-### Attribuut type landgebruik
+### Attribuut typeLandgebruik
 
-| Attribuut | type landgebruik |
+| Attribuut | typeLandgebruik |
 |:---|:---|
 | Definitie | De gebruiksbestemming van het terrein. |
 | Inwinningscriteria | Indien er in het terrein meerdere vormen van begroeiing naast elkaar voorkomen, zonder dat daartussen duidelijke grenzen zijn aan te geven, dan wordt de meest voorkomende begroeiingsvorm opgenomen. Zo mogelijk worden binnen dit vlakobject kleinere vlakobjecten aangegeven met andere begroeiingsvormen, mits deze groter zijn dan plm. 1000 m². De perceeltjes behoren een globale indruk te geven van de bezettingsgraad van elk der vegetatievormen / vormen van grondgebruik. |
@@ -5300,9 +5300,9 @@ Voor het bijhouden van het attribuut type_landgebruik wordt gebruik gemaakt van 
 | Lijn | Nee |
 | Vlak | Ja |
 
-### Attribuut fysiek voorkomen
+### Attribuut fysiekVoorkomen
 
-| Attribuut | fysiek voorkomen |
+| Attribuut | fysiekVoorkomen |
 |:---|:---|
 | Definitie | De plaats waar het object zich bevindt t.o.v. andere constructies. |
 | Inwinningscriteria | |
@@ -5446,9 +5446,9 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 | Formaat | GM\_Curve |
 | Domein | "Ruimtelijke coördinaten" |
 
-### Attribuut type inrichtingselement
+### Attribuut typeInrichtingselement
 
-| Attribuut | type inrichtingselement |
+| Attribuut | typeInrichtingselement |
 |:---|:---|
 | Definitie | Het soort inrichtingselement. |
 | Inwinningscriteria | - |
@@ -6276,9 +6276,9 @@ _Inwinningscriteria:_
 | Formaat | GM\_Curve |
 | Domein | "Ruimtelijke coördinaten" |
 
-### Attribuut type reliëf
+### Attribuut typeReliëf
 
-| Attribuut | type reliëf |
+| Attribuut | typeReliëf |
 |:---|:---|
 | Definitie | Het soort reliëf. |
 | Inwinningscriteria | - |
@@ -6432,9 +6432,9 @@ _Inwinningscriteria:_
 | Formaat | GM\_Curve |
 | Domein | "Ruimtelijke coördinaten" |
 
-### Attribuut type hoogte
+### Attribuut typeHoogte
 
-| Attribuut | type hoogte |
+| Attribuut | typeHoogte |
 |:---|:---|
 | Definitie | Het soort hoogte. |
 | Inwinningscriteria | - |
@@ -6628,9 +6628,9 @@ Voor de 12-mijls zone zijn de "Grenzen territoriale zee" van de Dienst der Hydro
 | Formaat | GM\_Surface of GM\_MultiSurface |
 | Domein | "Ruimtelijke coördinaten" |
 
-### Attribuut type registratief gebied
+### Attribuut typeRegistratiefGebied
 
-| Attribuut | type registratief gebied |
+| Attribuut | typeRegistratiefGebied |
 |:---|:---|
 | Definitie | Het soort administratief gebied. |
 | Inwinningscriteria | - |
@@ -6691,9 +6691,9 @@ Voor de 12-mijls zone zijn de "Grenzen territoriale zee" van de Dienst der Hydro
 | Lijn | Nee |
 | Vlak | Ja |
 
-### Attribuut NaamOfficieel
+### Attribuut naamOfficieel
 
-| Attribuut | NaamOfficieel |
+| Attribuut | naamOfficieel |
 |:---|:---|
 | Definitie | De officiële naam van het registratief gebied. |
 | Inwinningscriteria | Waar mogelijk wordt de officiële naam vastgelegd, waar niet mogelijk de Nederlandse en/of de Friese. |
@@ -6705,9 +6705,9 @@ Voor de 12-mijls zone zijn de "Grenzen territoriale zee" van de Dienst der Hydro
 | Lijn | Nee |
 | Vlak | Ja |
 
-### Attribuut naam (Nl)
+### Attribuut naamNL
 
-| Attribuut | naam (Nl) |
+| Attribuut | naamNL |
 |:---|:---|
 | Definitie | De Nederlandse naam van het registratief gebied. |
 | Inwinningscriteria | - |
@@ -6719,9 +6719,9 @@ Voor de 12-mijls zone zijn de "Grenzen territoriale zee" van de Dienst der Hydro
 | Lijn | Nee |
 | Vlak | Ja |
 
-### Attribuut naam (Fr)
+### Attribuut naamFries
 
-| Attribuut | naam (Fr) |
+| Attribuut | naamFries |
 |:---|:---|
 | Definitie | De Friese naam van het registratief gebied. |
 | Inwinningscriteria | Wordt alleen in Friesland ingewonnen. |
@@ -6779,9 +6779,9 @@ _Inwinningscriteria:_
 | Formaat | GM\_Surface of GM\_MultiSurface |
 | Domein | "Ruimtelijke coördinaten" |
 
-### Attribuut type geografisch gebied
+### Attribuut typeGeografischGebied
 
-| Attribuut | type geografisch gebied |
+| Attribuut | typeGeografischGebied |
 |:---|:---|
 | Definitie | Het soort geografisch gebied. |
 | Inwinningscriteria | - |
@@ -6952,9 +6952,9 @@ _Inwinningscriteria:_
 | Lijn | Nee |
 | Vlak | Ja |
 
-### Attribuut naam (Nl)
+### Attribuut naamNL
 
-| Attribuut | naam (Nl) |
+| Attribuut | naamNL |
 |:---|:---|
 | Definitie | De Nederlandse naam van het geografisch gebied. |
 | Inwinningscriteria | Een woonwijk mag de tekst 'Stadswijk in aanleg' of 'Woonwijk in aanleg' als naam hebben. |
@@ -6966,9 +6966,9 @@ _Inwinningscriteria:_
 | Lijn | Nee |
 | Vlak | Ja |
 
-### Attribuut naam (Fr)
+### Attribuut naamFries
 
-| Attribuut | naam (Fr) |
+| Attribuut | naamFries |
 |:---|:---|
 | Definitie | De Friese naam van het geografisch gebied. |
 | Inwinningscriteria | Wordt alleen in Friesland ingewonnen. |
@@ -7141,9 +7141,9 @@ De volgende topografische elementen maken deel uit van het vlak van een topograf
 | Lijn | Nee |
 | Vlak | Ja |
 
-### Attribuut bebouwde kom
+### Attribuut bebouwdeKom
 
-| Attribuut | bebouwde kom |
+| Attribuut | bebouwdeKom |
 |:---|:---|
 | Definitie | Aanduiding of het gebied de bebouwde kom van een plaats omvat. |
 | Inwinningscriteria | De status van de bebouwingskern volgens de Wegenverkeerswet is bepalend. De aanwezigheid van plaatsnaamborden is hierbij een hulpmiddel. |
@@ -7210,9 +7210,9 @@ De volgende topografische elementen maken deel uit van het vlak van een topograf
 | Lijn | Nee |
 | Vlak | Ja |
 
-### Attribuut aantal inwoners
+### Attribuut aantalInwoners
 
-| Attribuut | aantal inwoners |
+| Attribuut | aantalInwoners |
 |:---|:---|
 | Definitie | Het aantal inwoners dat in een plaats woont. |
 | Inwinningscriteria | Het aantal inwoners van een topografische bebouwde kom is het totaal van alle mensen die als bewoner op een van de binnen het vlak gelegen adressen geregistreerd staan in de Basisregistratie Personen (BRP) op peildatum 1 juli van het jaar waarin de luchtfoto's genomen zijn, die gebruikt zijn voor het intekenen van de vlakken. Omdat voor de vlakbegrenzing de oever van een water als grens is aangehouden, waardoor woonboten langs een oever niet binnen een vlak vallen, is het inwoneraantal van het vlak vermeerderd met de mensen die als bewoner van een woonboot grenzend aan een vlak geregistreerd staan. Hiervoor is een buffer van 25 meter aangehouden gerekend vanaf de vlakgrens.<br>Bij deze telling moet opgemerkt dat niet alle in de BRP geregistreerde inwoners van Nederland gekoppeld zijn aan een adreslocatie. Het gaat echter om minder dan 0,1% van de in de BRP geregistreerde inwoners die niet bij de berekening wordt meegenomen.<br>De berekening en telling van het aantal inwoners van de topografische bebouwde kommen wordt uitgevoerd door het Centraal Bureau voor de Statistiek (CBS), dat toegang heeft tot de BRP-gegevens. |
@@ -7224,9 +7224,9 @@ De volgende topografische elementen maken deel uit van het vlak van een topograf
 | Lijn | Nee |
 | Vlak | Ja |
 
-### Attribuut Naam Officieel
+### Attribuut naamOfficieel
 
-| Attribuut | Naam Officieel |
+| Attribuut | naamOfficieel |
 |:---|:---|
 | Definitie | De officiële naam van de plaats. |
 | Inwinningscriteria | De officiële naam zoals geregistreerd in de Basisregistratie Adressen en Gebouwen (BAG).<br>Voor plaatsen die een eigen BAG-woonplaatsgebied hebben, wordt de spelling van de naam van het BAG-woonplaatsgebied overgenomen als officiële naam, met uitzondering van toevoegingen ter onderscheiding van gelijknamige plaatsen (bijvoorbeeld "Bergen L" voor "Bergen" in de provincie Limburg), afkortingen (bijvoorbeeld "St.-Annaparochie" voor "Sint-Annaparochie") en een kleine beginletter (bijvoorbeeld "de Lutte" voor "De Lutte"). |
@@ -7238,9 +7238,9 @@ De volgende topografische elementen maken deel uit van het vlak van een topograf
 | Lijn | Nee |
 | Vlak | Ja |
 
-### Attribuut naam (Nl)
+### Attribuut naamNL
 
-| Attribuut | naam (Nl) |
+| Attribuut | naamNL |
 |:---|:---|
 | Definitie | De Nederlandse naam van de plaats. |
 | Inwinningscriteria | De Nederlandse naam van een plaats wordt altijd ingewonnen, ook als dit niet de officiële naam is. |
@@ -7252,9 +7252,9 @@ De volgende topografische elementen maken deel uit van het vlak van een topograf
 | Lijn | Nee |
 | Vlak | Ja |
 
-### Attribuut naam (Fr)
+### Attribuut naamFries
 
-| Attribuut | naam (Fr) |
+| Attribuut | naamFries |
 |:---|:---|
 | Definitie | De Friese naam van de plaats. |
 | Inwinningscriteria | Wordt alleen in Friesland ingewonnen. Voor plaatsen gelegen in het Fries taalgebied van de provincie Fryslân is zowel de Nederlandse als de Friese naam aangegeven. |
@@ -7298,9 +7298,9 @@ _Inwinningscriteria:_
 | Formaat | GM\_Surface of GM\_MultiSurface |
 | Domein | "Ruimtelijke coördinaten" |
 
-### Attribuut type functioneel gebied
+### Attribuut typeFunctioneelGebied
 
-| Attribuut | type functioneel gebied |
+| Attribuut | typeFunctioneelGebied |
 |:---|:---|
 | Definitie | Het soort functioneel gebied. |
 | Inwinningscriteria | - |
@@ -8085,9 +8085,9 @@ _Inwinningscriteria:_
 | Lijn | Nee |
 | Vlak | Ja |
 
-### Attribuut naam (Nl)
+### Attribuut naamNL
 
-| Attribuut | naam (Nl) |
+| Attribuut | naamNL |
 |:---|:---|
 | Definitie | De Nederlandse naam van het functionele gebied. |
 | Inwinningscriteria | In principe worden, indien aanwezig, alleen de geografische namen (toponiemen) van de functionele gebieden worden ingewonnen. |
@@ -8099,9 +8099,9 @@ _Inwinningscriteria:_
 | Lijn | Nee |
 | Vlak | Ja |
 
-### Attribuut naam (Fr)
+### Attribuut naamFries
 
-| Attribuut | naam (Fr) |
+| Attribuut | naamFries |
 |:---|:---|
 | Definitie | De Friese naam van het functionele gebied. |
 | Inwinningscriteria | Wordt alleen in Friesland ingewonnen. |
