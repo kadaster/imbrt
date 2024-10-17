@@ -401,7 +401,6 @@ De bijgewerkte TOP10NL is vervolgens de bron voor het maken van de vervolgproduc
 - TOP500raster en TOP500NL
 - TOP1000raster en TOP1000NL
 - BRT-Achtergrondkaart in 4 visualisaties
-- TOPgrenzen
 - TOPnamen
 
 Net zoals TOP10NL worden deze producten 5 keer per jaar ontsloten via PDOK ( [**www.pdok.nl**](https://www.pdok.nl) ).
