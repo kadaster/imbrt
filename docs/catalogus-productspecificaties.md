@@ -3932,7 +3932,7 @@ _Inwinningscriteria:_
 
 - Het al dan niet aangegeven van een gebouw is afhankelijk van de omgeving waarin dit gebouw staat. In een gebied met weinig bebouwing wordt elk gebouw aangegeven (vanwege de oriënterende waarde).
 
-- In een gebied met drukke bebouwing worden gebouwen kleiner dan 50 m² achter de eerste rij gebouwen gezien vanaf de ontsluitingsweg niet opgenomen.
+- In een gebied met drukke bebouwing worden gebouwen kleiner dan 50 m² achter de eerste rij gebouwen, gezien vanaf de voorzijde van een gebouw, niet opgenomen.
 
 - Boothuizen worden als gebouw ingewonnen.
 
