@@ -73,6 +73,7 @@ Het is ook mogelijk om alle wijzigingen ten opzichte van de vorige versie van de
 De belangrijkste wijzigingen in versie 1.2.0.7 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
 - Wijzigingen n.a.v. Audit BRT 2023 doorgevoerd:
   - Verduidelijking regels gebouw voor tweedelijns bebouwing, samenvoeging dicht bij elkaar staande bebouwing en stacaravans.
+  - Verduidelijking regels hoogte voor hoogtelijn.
   - Verduidelijking regels geografisch gebied voor eiland.
 - Op verschillende plekken in de Catalogus is de naamgeving van attributen geünifomrmeerd.
 
@@ -6473,7 +6474,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **hoogtelijn** |
 | Definitie | Lijn die punten van gelijke hoogte met elkaar verbindt. |
-| Inwinningscriteria | De hoogtelijnen zijn automatisch gegenereerd uit het hoogtemodel zonder rekening te houden met in het landschap aanwezige kunstmatige elementen, zoals wallen en dijken. Deze kunstmatige elementen met hoogte zijn ingewonnen als Reliëf-object. |
+| Inwinningscriteria | Hoogtelijnen zijn een cartografische weergave van de hoogte in het terrein.<br>De hoogtelijnen zijn automatisch gegenereerd uit het hoogtemodel zonder rekening te houden met in het landschap aanwezige kunstmatige elementen, zoals wallen en dijken. Deze kunstmatige elementen met hoogte zijn ingewonnen als Reliëf-object.<br>Bij het berekenen van de hoogtelijnen is geen rekening gehouden met klene waterdelen, waardoor de lijnen in sommige gevallen door deze waterdelen heen lopen. |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Ja |
