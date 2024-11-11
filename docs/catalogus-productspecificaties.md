@@ -72,7 +72,8 @@ Het is ook mogelijk om alle wijzigingen ten opzichte van de vorige versie van de
 
 De belangrijkste wijzigingen in versie 1.2.0.7 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
 - Wijzigingen n.a.v. Audit BRT 2023 doorgevoerd:
-  - 
+  - Verduidelijking regels gebouw voor tweedelijns bebouwing, samenvoeging dicht bij elkaar staande bebouwing en stacaravans.
+- Op verschillende plekken in de Catalogus is de naamgeving van attributen geünifomrmeerd.
 
 ## Alle verschillen
 <!--
@@ -3914,7 +3915,7 @@ _Inwinningscriteria:_
 
 - Met ingang van april 2020 is het muteren van gebouwen in de BRT gebaseerd op mutaties in de Basisregistratie Adressen en Gebouwen (BAG). Alle mutaties die in de BAG plaatsvinden worden in enigszins gegeneraliseerde vorm overgenomen in de BRT. Als peildatum voor de BAG-mutaties is hierbij 1 juni gebruikt, omdat dit het beste aansluit bij de luchtfoto's waarmee de andere elementen in de BRT worden bijgewerkt. Omwille van de actualiteit worden ook BAG-panden met een voorlopige geometrie (status: "bouw gestart" en "pand in gebruik (niet ingemeten)") in dit proces meegenomen. 
 
-- Voor bestaande bebouwing gelden, in tegenstelling tot nieuw in te winnen gebouwen, afwijkende inwinregels. Kleinere mutaties in de vorm van het gebouw, zoals een aanbouw of carport, worden bij de actualisering genegeerd. Deze regel is geïntroduceerd vanwege het gebruik van de TOP10NL gebouwen door het CBS en nu nog actief vanwege de komst van de BAG als bron voor de gebouwen in TOP10NL.
+- Voor bestaande bebouwing gelden, in tegenstelling tot nieuw in te winnen gebouwen, afwijkende inwinregels. Kleinere afwijkingen in de vorm van het gebouw, zoals een aanbouw of carport, worden bij de actualisering genegeerd. Deze regel is geïntroduceerd vanwege het gebruik van de TOP10NL-gebouwen door het CBS en nu nog actief vanwege het gebruik van de BAG als bron voor de gebouwen in TOP10NL.
 
 - Een gebouw moet een permanent karakter hebben en bedoeld zijn voor verblijf, handel, verkeer en/of arbeid.
 
@@ -3933,6 +3934,8 @@ _Inwinningscriteria:_
 - Het al dan niet aangegeven van een gebouw is afhankelijk van de omgeving waarin dit gebouw staat. In een gebied met weinig bebouwing wordt elk gebouw aangegeven (vanwege de oriënterende waarde).
 
 - In een gebied met drukke bebouwing worden gebouwen kleiner dan 50 m² achter de eerste rij gebouwen, gezien vanaf de voorzijde van een gebouw, niet opgenomen.
+
+- Meerdere aaneengeschakelde stacaravans, aaneen gebouwd of in een L-vorm, en stacaravans met een beduidend grotere breedte dan normaal (voor stacaravans) worden als gebouw ingewonnen. Een enkele stacaravan wordt niet ingewonnen.
 
 - Boothuizen worden als gebouw ingewonnen.
 
