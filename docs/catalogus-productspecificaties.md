@@ -73,6 +73,7 @@ Het is ook mogelijk om alle wijzigingen ten opzichte van de vorige versie van de
 De belangrijkste wijzigingen in versie 1.2.0.7 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
 - Wijzigingen n.a.v. Audit BRT 2023 doorgevoerd:
   - Verduidelijking regels gebouw voor tweedelijns bebouwing, samenvoeging dicht bij elkaar staande bebouwing en stacaravans.
+  - Verduidelijking regels geografisch gebied voor eiland.
 - Op verschillende plekken in de Catalogus is de naamgeving van attributen geünifomrmeerd.
 
 ## Alle verschillen
@@ -6829,7 +6830,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **eiland** |
 | Definitie | Land, omgeven door water. |
-| Inwinningscriteria | - |
+| Inwinningscriteria | Ook voormalige eilanden kunnen gegeven worden als geografisch gebied "eiland", bijvoorbeeld "Walcheren" en "Zuid-Beveland".  |
 | Volledigheid | Beperkt |
 | Punt | Ja |
 | Lijn | Nee |
