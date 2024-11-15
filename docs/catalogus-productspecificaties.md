@@ -76,7 +76,7 @@ De belangrijkste wijzigingen in versie 1.2.0.7 van de BRT Catalogus en Productsp
   - Verduidelijking regels inrichtingselement voor bomenrij en koedam.
   - Verduidelijking regels hoogte voor hoogtelijn.
   - Verduidelijking regels geografisch gebied voor eiland.
-- Op verschillende plekken in de Catalogus is de naamgeving van attributen geüniformeerd.
+- Op verschillende plekken in de Catalogus is de naamgeving van attributen geüniformeerd en zijn ter verduidelijking opsommingen toegevoegd.
 
 ## Alle verschillen
 <!--
