@@ -49,7 +49,7 @@ Belangrijk: om de tabel hieronder juist weer te geven, moet er een witregel na d
 
 | Versie | Datum | Auteur | Opmerking | Link naar historische versie |
 |:---|:---|:---|:---|:---|
-| 1.2.0.7 | 17 oktober 2024 | Kadaster | Wijzigingen n.a.v. Audit BRT 2023 doorgevoerd. | - |
+| 1.2.0.7 | 15 november 2024 | Kadaster | Wijzigingen n.a.v. Audit BRT 2023 doorgevoerd. | - |
 | 1.2.0.6 | 7 oktober 2024 | Kadaster | Correctie definities vanuit waardelijsten TOP10NL. <br> Toevoegen paragraaf over analytische cookies. <br> Nalopen URL's. <br> Toevoegen TOP10NL OGC API's. | [versie 1.2.0.6 (web)](https://github.com/kadaster/imbrt/blob/d423c21f7fb0d52bb0f9b4906d7b254c8234ae1a/docs/catalogus-productspecificaties.md) |
 | 1.2.0.5 | 21 december 2021 | Kadaster | Wijzigingen n.a.v. Audit BRT 2020 doorgevoerd. <br> Toepassen webrichtlijnen. <br> Actualiseren bestandsleveringen en webservices. | [versie 1.2.0.5 (web)](https://github.com/kadaster/imbrt/blob/9ee6d84530386795e194e1716df92db5a6d20698/docs/catalogus-productspecificaties.md) |
 | 1.2.0.4 | 22 juli 2021 | Kadaster | Toevoeging hoofdstuk met wijzigingen t.o.v. vorige versie, toevoeging link naar historische versies BRT Catalogus. | [versie 1.2.0.4 (web)](https://github.com/kadaster/imbrt/blob/5639d20316bd183a59d27a41e44eb312f64d8286/docs/catalogus-productspecificaties.md) |
