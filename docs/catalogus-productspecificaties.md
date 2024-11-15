@@ -85,7 +85,7 @@ De belangrijkste wijzigingen in versie 1.2.0.7 van de BRT Catalogus en Productsp
 Hoe werkt de URL naar de vergelijking die hieronder staat:
 Eerste gedeelte van de URL achter "compare": hier staat de verwijzing naar de laatste commit van de vorige versie van de catalogus (dit zijn de eerste 7 karakters van het complete commit-id wat in de inhoudsopgave toegevoegd is)
 Laatste gedeelte van de URL achter "compare": hier staat de "master", oftewel de actuele versie
-Deze link werkt alleen als de werk-branch is gepushed naar de master, gebruik tijdens het doorvoeren van wijzigingen het Pull-request om de verschillen te zien.
+Deze link werkt alleen als de werk-branch is gepushed naar de master, gebruik tijdens het doorvoeren van wijzigingen het Pull-request om de verschillen te zien
 -->
 
 Alle verschillen tussen versie 1.2.0.7 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie kunnen bekeken worden in GitHub:
