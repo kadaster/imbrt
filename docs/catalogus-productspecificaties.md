@@ -76,6 +76,7 @@ De belangrijkste wijzigingen in versie 1.2.0.7 van de BRT Catalogus en Productsp
   - Verduidelijking regels inrichtingselement voor bomenrij en koedam.
   - Verduidelijking regels hoogte voor hoogtelijn.
   - Verduidelijking regels geografisch gebied voor eiland.
+  - Verduidelijking regels functioneel gebied voor waterkering.
 - Op verschillende plekken in de Catalogus is de naamgeving van attributen geüniformeerd en zijn ter verduidelijking opsommingen toegevoegd.
 
 ## Alle verschillen
@@ -7941,7 +7942,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **waterkering** |
 | Definitie | Geheel van een dijk of dam, inclusief talud. |
-| Inwinningscriteria | - |
+| Inwinningscriteria | - Alle dijken die nog boven het maaiveld uitsteken / in het landschap zichtbaar zijn (dus ook dijken die niet langs een water liggen) worden gegeven als "waterkering".<br>- Dijken die niet langs een water liggen krijgen de soortnaam "binnendijk". Een deel van die binnendijken heeft nog een waterkerende functie als de dijk langs het water het begeeft.<br>- Als de dijk niet meer boven de omgeving uitsteekt, tekenen we niks in. |
 | Volledigheid | Niet |
 | Punt | Ja |
 | Lijn | Nee |
