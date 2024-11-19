@@ -2395,7 +2395,7 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 |:---|:---|
 | Domeinwaarde | **overkluisd** |
 | Definitie | Overbouwd door gebouwen, zodanig dat de orthogonale projectie van de gebouwen op of over het object valt. |
-| Inwinningscriteria | - Wordt aangegeven voor de objectklassen Wegdeel, Spoorbaandeel, Waterdeel en Terrein.<br>- Een overkluizing wordt niet aangeven in het geval van kleine oversteekjes. Bij de objectklasse terrein is de minimale maat 100 m2, de andere objectklassen kennen geen minimummaat.<br>- Het verloop van het object onder de bebouwing, wordt volgens de meest waarschijnlijke vorm aangegeven. Een overkluizing is geen aanleiding tot verandering van het hoogteniveau.<br>- Wanneer een weg voor een gedeelte van de breedte overkluisd is, wordt het gehele wegdeel waarvoor dit geldt overkluisd (i.v.m. hartlijn). |
+| Inwinningscriteria | - Een overkluizing wordt niet aangeven in het geval van kleine oversteekjes. Bij de objectklasse terrein is de minimale maat 100 m2, de andere objectklassen kennen geen minimummaat.<br>- Het verloop van het object onder de bebouwing, wordt volgens de meest waarschijnlijke vorm aangegeven.<br>- Een overkluizing is geen aanleiding tot verandering van het hoogteniveau (bijvoorbeeld: een object waarboven zich alleen een gebouw bevindt, heeft als hoogteniveau de attribuutwaarde 0).<br>- Wanneer een weg voor een gedeelte van de breedte overkluisd is, wordt het gehele wegdeel waarvoor dit geldt overkluisd (i.v.m. hartlijn). |
 | Volledigheid | Beperkt |
 | Punt | Ja |
 | Lijn | Ja |
@@ -2928,7 +2928,7 @@ De hartlijnen worden opgenomen. Op het rangeergedeelte van een emplacement worde
 |:---|:---|
 | Domeinwaarde | **overkluisd** |
 | Definitie | Overbouwd door bebouwing of door een al dan niet licht doorlatend dak, zodanig dat de orthogonale projectie van de bebouwing of het dak op of over het object valt. |
-| Inwinningscriteria | Het verloop van het object onder de bebouwing, wordt volgens de meest waarschijnlijke vorm aangegeven. Een overkluizing is geen aanleiding tot verandering van het hoogteniveau (bijvoorbeeld: een object waarboven zich alleen een gebouw bevindt, heeft als hoogteniveau de attribuutwaarde 0). |
+| Inwinningscriteria | - Het verloop van het object onder de bebouwing, wordt volgens de meest waarschijnlijke vorm aangegeven.<br>- Een overkluizing is geen aanleiding tot verandering van het hoogteniveau (bijvoorbeeld: een object waarboven zich alleen een gebouw bevindt, heeft als hoogteniveau de attribuutwaarde 0). |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Ja |
@@ -3497,7 +3497,7 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 |:---|:---|
 | Domeinwaarde | **overkluisd** |
 | Definitie | Water overbouwd door gebouwen. |
-| Inwinningscriteria | - |
+| Inwinningscriteria | - Een overkluizing wordt niet aangeven in het geval van kleine oversteekjes. Bij de objectklasse terrein is de minimale maat 100 m2, de andere objectklassen kennen geen minimummaat.<br>- Het verloop van het object onder de bebouwing, wordt volgens de meest waarschijnlijke vorm aangegeven.<br>- Een overkluizing is geen aanleiding tot verandering van het hoogteniveau (bijvoorbeeld: een object waarboven zich alleen een gebouw bevindt, heeft als hoogteniveau de attribuutwaarde 0).|
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Ja |
@@ -4832,7 +4832,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **overkluisd** |
 | Definitie | Gebouw overbouwd door andere bebouwing. |
-| Inwinningscriteria | - |
+| Inwinningscriteria | - Een overkluizing wordt niet aangeven in het geval van kleine oversteekjes. Bij de objectklasse terrein is de minimale maat 100 m2, de andere objectklassen kennen geen minimummaat.<br>- Het verloop van het object onder de bebouwing, wordt volgens de meest waarschijnlijke vorm aangegeven.<br>- Een overkluizing is geen aanleiding tot verandering van het hoogteniveau (bijvoorbeeld: een object waarboven zich alleen een gebouw bevindt, heeft als hoogteniveau de attribuutwaarde 0). |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
@@ -5325,7 +5325,7 @@ Voor het bijhouden van het attribuut type_landgebruik wordt gebruik gemaakt van 
 |:---|:---|
 | Domeinwaarde | **overkluisd** |
 | Definitie | Overbouwd door bebouwing of door een al dan niet licht doorlatend dak, zodanig dat de orthogonale projectie van de bebouwing of het dak op of over het object valt. |
-| Inwinningscriteria | Overkluizing wordt niet aangeven in het geval van kleine oversteekjes. Minimale oppervlakte overkluisd terrein: 100 m². |
+| Inwinningscriteria | - Een overkluizing wordt niet aangeven in het geval van kleine oversteekjes. Bij de objectklasse terrein is de minimale maat 100 m2, de andere objectklassen kennen geen minimummaat.<br>- Het verloop van het object onder de bebouwing, wordt volgens de meest waarschijnlijke vorm aangegeven.<br>- Een overkluizing is geen aanleiding tot verandering van het hoogteniveau (bijvoorbeeld: een object waarboven zich alleen een gebouw bevindt, heeft als hoogteniveau de attribuutwaarde 0). |
 | Volledigheid | Beperkt |
 | Punt | Nee |
 | Lijn | Nee |
