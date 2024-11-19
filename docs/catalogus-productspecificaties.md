@@ -2149,7 +2149,7 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 |:---|:---|
 | Domeinwaarde | **lokale weg** |
 | Definitie | Weg van lokaal belang tussen bewegwijzerde routes. |
-| Inwinningscriteria | - De belangrijkste straat (straten) binnen een wijk van tenminste 1 km2.<br>- Belangrijke ontsluitingswegen zijn bewegwijzerd met witte ANWB-borden.<br>- Aan- en afvoerwegen naar bebouwingsconcentraties (ook als deze doodlopend zijn) die veel verkeer aantrekken zoals winkel- en wijkcentra, industrieterreinen, stations, ziekenhuizen en aanverwante inrichtingen, kampeerterreinen, kazernes etc..<br>- Een doodlopende weg langer dan 250 meter wordt ingewonnen als 'lokale weg' als deze verhard is of geen toegangsweg is. |
+| Inwinningscriteria | - De belangrijkste straat (straten) binnen een wijk van tenminste 1 km2.<br>- Belangrijke ontsluitingswegen zijn bewegwijzerd met witte ANWB-borden.<br>- Aan- en afvoerwegen naar bebouwingsconcentraties (ook als deze doodlopend zijn) die veel verkeer aantrekken zoals winkel- en wijkcentra, industrieterreinen, stations, ziekenhuizen en aanverwante inrichtingen, kampeerterreinen, kazernes etc.<br>- Een doodlopende weg langer dan 250 meter wordt ingewonnen als 'lokale weg' als deze verhard is of geen toegangsweg is. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Ja |
@@ -2416,7 +2416,7 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 | Attribuut | verhardingsbreedteklasse |
 |:---|:---|
 | Definitie | De breedte van de verharding, ingedeeld in klassen. |
-| Inwinningscriteria | - Bij het bepalen van de wegbreedte wordt tot de verharding gerekend: het verharde rijgedeelte, beton- en klinkerrand op gelijk niveau als het wegdek, berijdbare goot en in de rijbaan geïntegreerde rijwielstrook, weg/ busbaan en parkeerstrook (aangegeven door b.v. een witte streep). Niet meegerekend worden: opstaande randen, parkeerhavens, groenstenen en bermverharding in de vorm van sintels, puin e.d.. Duidelijk zichtbare, plaatselijke versmallingen of verbredingen worden alleen opgemeten als deze zich over een afstand van tenminste 500 meter voortzetten (dus geen bruggen e.d.). Vluchtheuvels en verkeersgeleiders in de vorm van opstaande randen worden, mits ze korter zijn dan 500 meter, bij de bepaling van de wegbreedte buiten beschouwing gelaten.<br>- Wegen van het type "straat" worden ingewonnen met verhardingsbreedteklasse = "2 - 4 meter" ongeacht de werkelijke verhardingsbreedte.<br>- Wegen van het type "overig" en breder dan 2 meter, worden ingewonnen met verhardingsbreedteklasse = "2 - 4 meter" ongeacht de werkelijke verhardingsbreedte. Dit geldt bijvoorbeeld voor toegangswegen, busbanen, half-verharde wegen of onverharde wegen. |
+| Inwinningscriteria | - Bij het bepalen van de wegbreedte wordt tot de verharding gerekend: het verharde rijgedeelte, beton- en klinkerrand op gelijk niveau als het wegdek, berijdbare goot en in de rijbaan geïntegreerde rijwielstrook, weg/ busbaan en parkeerstrook (aangegeven door b.v. een witte streep). Niet meegerekend worden: opstaande randen, parkeerhavens, groenstenen en bermverharding in de vorm van sintels, puin e.d. Duidelijk zichtbare, plaatselijke versmallingen of verbredingen worden alleen opgemeten als deze zich over een afstand van tenminste 500 meter voortzetten (dus geen bruggen e.d.). Vluchtheuvels en verkeersgeleiders in de vorm van opstaande randen worden, mits ze korter zijn dan 500 meter, bij de bepaling van de wegbreedte buiten beschouwing gelaten.<br>- Wegen van het type "straat" worden ingewonnen met verhardingsbreedteklasse = "2 - 4 meter" ongeacht de werkelijke verhardingsbreedte.<br>- Wegen van het type "overig" en breder dan 2 meter, worden ingewonnen met verhardingsbreedteklasse = "2 - 4 meter" ongeacht de werkelijke verhardingsbreedte. Dit geldt bijvoorbeeld voor toegangswegen, busbanen, half-verharde wegen of onverharde wegen. |
 | Multipliciteit | Enkelvoudig |
 | Optionaliteit | Optioneel |
 | Formaat | Tekst |
@@ -2514,7 +2514,7 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 |:---|:---|
 | Domeinwaarde | **verhard** |
 | Definitie | Een weg met een egale verharding (asfalt, beton, klinkers, tegels, keien, etc.). |
-| Inwinningscriteria | - Ook wegen met een verharding in slechte staat worden als verhard ingewonnen.<br>- Wegen die van nature min of meer steenachtig zijn, zoals bijvoorbeeld in Limburg, worden als onverhard aangegeven.<br>- Het verhardingstype wordt niet ingewonnen voor voetpaden en een aantal 'overige' wegen (bv. wegen opafgesloten terreinen, doodlopende wegen korter dan 250 m, wegen achter bebouwing). Het verhardingstype is dan "onbekend". |
+| Inwinningscriteria | - Ook wegen met een verharding in slechte staat worden als verhard ingewonnen.<br>- Wegen die van nature min of meer steenachtig zijn, zoals bijvoorbeeld in Limburg, worden als onverhard aangegeven.<br>- Het verhardingstype wordt niet ingewonnen voor voetpaden en een aantal 'overige' wegen (bv. wegen op afgesloten terreinen, doodlopende wegen korter dan 250 m, wegen achter bebouwing). Het verhardingstype is dan "onbekend". |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Ja |
@@ -3237,7 +3237,7 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 | Domein | WA\_typeWater |
 |:---|:---|
 | Domeinwaarde | **waterloop** |
-| Definitie | Langgerekt waterdeel in de vorm van een sloot, rivier, kanaal, enz.. |
+| Definitie | Langgerekt waterdeel in de vorm van een sloot, rivier, kanaal, enz. |
 | Inwinningscriteria | Als waterloop worden beschouwd:<br>- Beek (natuurlijke waterloop, ontstaan uit een bron).<br>- Boezem (het geheel aan stilstaande, gemeen liggende, doch van het buitenwater afgesloten plassen, kanalen, tochten en sloten, waarop het overtollige water uit lager gelegen polders wordt uitgeslagen. Karakteristiek hierbij is dat het waterniveau hoger is dan het naastliggende maaiveldniveau).<br>- Gracht (gegraven geul).<br>- Kanaal (een ten behoeve van de waterbeheersing of scheepvaart gegraven geul).<br>- Kreek (klein, smal, niet gegraven water, dikwijls een inham van een zee, ook wel een overblijfsel van een overstroming). Worden gegeneraliseerd aangegeven.<br>- Natte sloot (sloot waar het grootste gedeelte van het jaar water in staat).<br>- Rivier (natuurlijke waterloop).<br>- Sprang / Sprank / Spreng (sloot of kanaal in zandgrond tot verzameling van het in de bodem aanwezige water t.b.v. de drinkwatervoorziening).<br>- Vaart (kanaal, gegraven waterweg).<br>- Vistrap (omleiding bij een stuw of een deel van een waterloop zodanig ingericht dat vissen stroomopwaarts kunnen passeren).<br>- Wijk (sloot of kanaal in veenkoloniaal gebied). |
 | Volledigheid | Volledig |
 | Punt | Nee |
@@ -3998,7 +3998,7 @@ _Inwinningscriteria:_
 | Domein | GB\_typeGebouw |
 |:---|:---|
 | Domeinwaarde | **bezoekerscentrum** |
-| Definitie | Informatiecentrum in een culturele instelling, een natuurpark, enz.. |
+| Definitie | Informatiecentrum in een culturele instelling, een natuurpark, enz. |
 | Inwinningscriteria | - |
 | Volledigheid | Beperkt |
 | Punt | Ja |
@@ -4398,7 +4398,7 @@ _Inwinningscriteria:_
 | Domein | GB\_typeGebouw |
 |:---|:---|
 | Domeinwaarde | **postkantoor** |
-| Definitie | Kantoor waar men administratieve handelingen kan verrichten ten behoeve van postverzending, giro e.d.. |
+| Definitie | Kantoor waar men administratieve handelingen kan verrichten ten behoeve van postverzending, giro e.d. |
 | Inwinningscriteria | Alle locaties die PostNL als postkantoor aanduidt, worden als 'postkantoor' ingewonnen. Pakketpunten, businesspoints en andere locaties waar niet alle diensten van een postkantoor worden aangeboden, worden niet ingewonnen als 'postkantoor'. |
 | Volledigheid | Volledig |
 | Punt | Ja |
@@ -6477,7 +6477,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **hoogtelijn** |
 | Definitie | Lijn die punten van gelijke hoogte met elkaar verbindt. |
-| Inwinningscriteria | - Hoogtelijnen zijn een cartografische weergave van de hoogte in het terrein.<br>- De hoogtelijnen zijn automatisch gegenereerd uit het hoogtemodel zonder rekening te houden met in het landschap aanwezige kunstmatige elementen, zoals wallen en dijken. Deze kunstmatige elementen met hoogte zijn ingewonnen als Reliëf-object.<br>- Bij het berekenen van de hoogtelijnen is geen rekening gehouden met klene waterdelen, waardoor de lijnen in sommige gevallen door deze waterdelen heen lopen. |
+| Inwinningscriteria | - Hoogtelijnen zijn een cartografische weergave van de hoogte in het terrein.<br>- De hoogtelijnen zijn automatisch gegenereerd uit het hoogtemodel zonder rekening te houden met in het landschap aanwezige kunstmatige elementen, zoals wallen en dijken. Deze kunstmatige elementen met hoogte zijn ingewonnen als Reliëf-object.<br>- Bij het berekenen van de hoogtelijnen is geen rekening gehouden met kleine waterdelen, waardoor de lijnen in sommige gevallen door deze waterdelen heen lopen. |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Ja |
@@ -7332,7 +7332,7 @@ _Inwinningscriteria:_
 | Domein | FG\_typeFunctioneelGebied |
 |:---|:---|
 | Domeinwaarde | **bedrijventerrein** |
-| Definitie | Het geheel aan gebouwen en terreinen ten behoeve van bedrijven en industrie, inclusief toevoerwegen, tussengelegen water, etc.. |
+| Definitie | Het geheel aan gebouwen en terreinen ten behoeve van bedrijven en industrie, inclusief toevoerwegen, tussengelegen water, etc. |
 | Inwinningscriteria | - |
 | Volledigheid | Volledig |
 | Punt | Ja |
@@ -7943,7 +7943,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **waterkering** |
 | Definitie | Geheel van een dijk of dam, inclusief talud. |
-| Inwinningscriteria | - Alle dijken die nog boven het maaiveld uitsteken / in het landschap zichtbaar zijn (dus ook dijken die niet langs een water liggen) worden gegeven als "waterkering".<br>- Dijken die niet langs een water liggen krijgen de soortnaam "binnendijk". Een deel van die binnendijken heeft nog een waterkerende functie als de dijk langs het water het begeeft.<br>- Als de dijk niet meer boven de omgeving uitsteekt, tekenen we niks in. |
+| Inwinningscriteria | - Alle dijken die nog boven het maaiveld uitsteken / in het landschap zichtbaar zijn (dus ook dijken die niet langs een water liggen) worden gegeven als "waterkering".<br>- Dijken die niet langs een water liggen krijgen de soortnaam "binnendijk". Een deel van die binnendijken heeft nog een waterkerende functie als de dijk langs het water het begeeft.<br>- Dijken die niet meer boven de omgeving uitsteken, worden niet ingetekend. |
 | Volledigheid | Niet |
 | Punt | Ja |
 | Lijn | Nee |
