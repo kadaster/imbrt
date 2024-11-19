@@ -7493,8 +7493,8 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **gebied voor radioastronomie** |
 | Definitie | Gebied waarin sensoren opgesteld zijn ten behoeven van radio-astronomie. |
-| Inwinningscriteria | Beperkt |
-| Volledigheid | Niet |
+| Inwinningscriteria | - |
+| Volledigheid | Beperkt |
 | Punt | Ja |
 | Lijn | Nee |
 | Vlak | Ja |
