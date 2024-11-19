@@ -2199,7 +2199,7 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 |:---|:---|
 | Domeinwaarde | **parkeerplaats** |
 | Definitie | Parkeergelegenheid voor meerdere voertuigen in de openlucht. |
-| Inwinningscriteria | Parkeerplaatsen worden gegeven als deze openbaar zijn en groter zijn dan 1000m². Parkeerterreinen kleiner dan 1000 m² in een bosrijk natuurgebied én van oriënterende waarde worden ook ingewonnen. |
+| Inwinningscriteria | - Parkeerplaatsen worden gegeven als deze openbaar zijn en groter zijn dan 1000m².<br>- Parkeerterreinen kleiner dan 1000 m² in een bosrijk natuurgebied én van oriënterende waarde worden ook ingewonnen. |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
@@ -2555,7 +2555,7 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 | Attribuut | aantalRijstroken |
 |:---|:---|
 | Definitie | Het aantal onderverdelingen van een wegdeel d.m.v. strepen, verschil in verharding of kleur. |
-| Inwinningscriteria | Wordt aangegeven voor alle wegdelen behorende tot de categorie autosnelwegen en/of hoofdwegen. Niet meegeteld worden geïntegreerde stroken met een speciale bestemming zoals busbaan en rijwielstrook. Een eventuele wisselstrook (een fysiek gescheiden rijbaan die beurtelings per rijrichting gebruikt wordt om doorstroming van het verkeer in de spits te bevorderen) telt mee voor het aantal rijstroken. Een wisselend aantal rijstroken wordt pas weergegeven als het aantal rijstroken over tenminste 500 m constant is. Bij een weg met gescheiden rijbanen wordt het **aantal rijstroken** per rijbaan aangegeven. Het **aantal rijstroken** wordt _**niet**_ toegevoegd aan op- en afritten, wel aan de verbindingswegen op een **knooppunt**. |
+| Inwinningscriteria | - Wordt aangegeven voor alle wegdelen behorende tot de categorie autosnelwegen en/of hoofdwegen.<br>- Niet meegeteld worden geïntegreerde stroken met een speciale bestemming zoals busbaan en rijwielstrook. Een eventuele wisselstrook (een fysiek gescheiden rijbaan die beurtelings per rijrichting gebruikt wordt om doorstroming van het verkeer in de spits te bevorderen) telt mee voor het aantal rijstroken.<br>- Een wisselend aantal rijstroken wordt pas weergegeven als het aantal rijstroken over tenminste 500 m constant is.<br>- Bij een weg met gescheiden rijbanen wordt het **aantal rijstroken** per rijbaan aangegeven.<br>- Het **aantal rijstroken** wordt _**niet**_ toegevoegd aan op- en afritten, wel aan de verbindingswegen op een **knooppunt**. |
 | Volledigheid | Beperkt |
 | Multipliciteit | Enkelvoudig |
 | Optionaliteit | Optioneel |
@@ -2714,7 +2714,7 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 | Attribuut | brugnaam |
 |:---|:---|
 | Definitie | De naam van een brug. |
-| Inwinningscriteria | Indien de brug is gelegen over een waterdeel van het type Greppel, Enkele sloot of Gerenforceerde sloot en er zich geen weer te geven brugvlak boven het waterdeel bevindt is het niet mogelijk een naam toe te voegen. Indien de brug wel is beschreven op de 1:25.000 wordt in dat geval een inrichtingspunt geplaatst van het type overig waaraan de naam wordt toegevoegd. |
+| Inwinningscriteria | - Indien de brug is gelegen over een waterdeel van het type Greppel, Enkele sloot of Gerenforceerde sloot en er zich geen weer te geven brugvlak boven het waterdeel bevindt is het niet mogelijk een naam toe te voegen.<br>- Indien de brug wel is beschreven op de 1:25.000 wordt in dat geval een inrichtingspunt geplaatst van het type overig waaraan de naam wordt toegevoegd. |
 | Volledigheid | Beperkt |
 | Multipliciteit | Enkelvoudig |
 | Optionaliteit | Optioneel |
@@ -3268,7 +3268,7 @@ Een vlakvormig waterdeel (zee of meer, plas) kan opgesplitst worden in meerdere 
 |:---|:---|
 | Domeinwaarde | **zee** |
 | Definitie | Uitgestrekt oppervlak zout water dat het grootste deel van de aarde bedekt. |
-| Inwinningscriteria | - Het waterdeel in een haven aan zee heeft ook de attribuutwaarde "zee".<br>- De overgang naar "waterloop" of "meer, plas" ligt op een sluis (bv. haven Den Helder en IJmuiden, Haringvlietsluizen). Nieuwe Waterweg: compleet waterloop en dus geen zee. De overgang naar de Noordzee ligt aan het eind van de Noorderdam, haaks over de Nieuwe Waterweg (tussen de twee landhoofden). Oosterschelde: compleet zee, tot de Philipsdam en de Oesterdam. Westerschelde: compleet zee, de overgang naar waterloop ligt bij de Stroomleidam (ter hoogte van de rijksgrens met België). De overgang ligt op de dam en vanaf het einde van de dam haaks over de Schelde. |
+| Inwinningscriteria | - Het waterdeel in een haven aan zee heeft ook de attribuutwaarde 'zee'.<br>- De overgang naar 'waterloop' of 'meer, plas' ligt op een sluis (bv. haven Den Helder en IJmuiden, Haringvlietsluizen).<br>- Nieuwe Waterweg: compleet waterloop en dus geen zee. De overgang naar de Noordzee ligt aan het eind van de Noorderdam, haaks over de Nieuwe Waterweg (tussen de twee landhoofden).<br>- Oosterschelde: compleet zee, tot de Philipsdam en de Oesterdam.<br>- Westerschelde: compleet zee, de overgang naar waterloop ligt bij de Stroomleidam (ter hoogte van de rijksgrens met België). De overgang ligt op de dam en vanaf het einde van de dam haaks over de Schelde. |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
@@ -3457,7 +3457,7 @@ Een vlakvormig waterdeel (zee of meer, plas) kan opgesplitst worden in meerdere 
 |:---|:---|
 | Domeinwaarde | **in duiker** |
 | Definitie | Gelegen in een niet afsluitbare koker die dient voor de instandhouding van de verbinding tussen wederzijds gelegen wateren of voor de afwatering van aangrenzende landerijen, niet zijnde een grondduiker. |
-| Inwinningscriteria | - Elke duiker in het hoofdafwateringspatroon wordt aangegeven en elke duiker onder een dijk of (spoor)weg met een minimale diameter van 60 centimeter. Een duiker in open terrein, niet gelegen in het hoofdafwateringspatroon, wordt aangegeven als (koe)dam. (Koe)dammen gelegen in waterlopen smaller dan 6 meter die onderdeel uitmaken van het hoofdafwateringspatroon worden opgenomen als duiker.<br>- Een buis voor het lozen van industrieel water op oppervlaktewater wordt niet opgenomen. |
+| Inwinningscriteria | - Elke duiker in het hoofdafwateringspatroon wordt aangegeven en elke duiker onder een dijk of (spoor)weg met een minimale diameter van 60 centimeter.<br>- Een duiker in open terrein, niet gelegen in het hoofdafwateringspatroon, wordt aangegeven als (koe)dam.<br>- (Koe)dammen gelegen in waterlopen smaller dan 6 meter die onderdeel uitmaken van het hoofdafwateringspatroon worden opgenomen als duiker.<br>- Een buis voor het lozen van industrieel water op oppervlaktewater wordt niet opgenomen. |
 | Volledigheid | Beperkt |
 | Punt | Nee |
 | Lijn | Ja |
@@ -3467,7 +3467,7 @@ Een vlakvormig waterdeel (zee of meer, plas) kan opgesplitst worden in meerdere 
 |:---|:---|
 | Domeinwaarde | **in afsluitbare duiker** |
 | Definitie | Gelegen in een afsluitbare koker die dient voor de instandhouding van de verbinding tussen wederzijds gelegen wateren of voor de afwatering van aangrenzende landerijen, niet zijnde een grondduiker. |
-| Inwinningscriteria | - Elke afsluitbare duiker in het hoofdafwateringspatroon wordt aangegeven en elke afsluitbare duiker onder een dijk of (spoor)weg met een minimale diameter van 60 centimeter. Een afsluitbare duiker in open terrein, niet gelegen in het hoofdafwateringspatroon, wordt aangegeven als (koe)dam. (Koe)dammen gelegen in waterlopen smaller dan 6 meter die onderdeel uitmaken van het hoofdafwateringspatroon worden opgenomen als duiker. Ook een uitwateringssluis (sluis waarmee overtollig water gespuid wordt) wordt opgenomen als waterdeel in afsluitbare duiker, tenzij er een aantal uitwateringssluizen als complex naast elkaar voorkomen. Dan wordt het geheel als functioneel gebied van het type sluizencomplex opgenomen.<br>- Een duiker gelegen onder een gemaal of onder een molen van het type windmolen: watermolen wordt altijd gegeven als afsluitbare duiker.<br>- Een buis voor het lozen van industrieel water op oppervlaktewater wordt niet opgenomen. |
+| Inwinningscriteria | - Elke afsluitbare duiker in het hoofdafwateringspatroon wordt aangegeven en elke afsluitbare duiker onder een dijk of (spoor)weg met een minimale diameter van 60 centimeter.<br>- Een afsluitbare duiker in open terrein, niet gelegen in het hoofdafwateringspatroon, wordt aangegeven als (koe)dam.<br>- (Koe)dammen gelegen in waterlopen smaller dan 6 meter die onderdeel uitmaken van het hoofdafwateringspatroon worden opgenomen als duiker.<br>- Ook een uitwateringssluis (sluis waarmee overtollig water gespuid wordt) wordt opgenomen als waterdeel in afsluitbare duiker, tenzij er een aantal uitwateringssluizen als complex naast elkaar voorkomen. Dan wordt het geheel als functioneel gebied van het type sluizencomplex opgenomen.<br>- Een duiker gelegen onder een gemaal of onder een molen van het type windmolen: watermolen wordt altijd gegeven als afsluitbare duiker.<br>- Een buis voor het lozen van industrieel water op oppervlaktewater wordt niet opgenomen. |
 | Volledigheid | Beperkt |
 | Punt | Nee |
 | Lijn | Ja |
@@ -3987,7 +3987,7 @@ _Inwinningscriteria:_
 | Attribuut | typeGebouw |
 |:---|:---|
 | Definitie | Het type gebouw, het doel waarvoor de bebouwing gebruikt wordt (gaat worden / werd). |
-| Inwinningscriteria | Indien de betreffende bebouwing onderdeel uitmaakt van een groter geheel, wordt het gebouwdeel "uitgesneden" uit de omliggende bebouwing en voorzien van de bijbehorende attribuutwaarde. Indien het gebouwdeel niet exact is aan te geven, wordt een op zich zelf staand gebouw aangebracht aan de rand van het complete gebouw (op de ware plek of bij de dichtstbij gelegen ingang van het gebouw). |
+| Inwinningscriteria | - Indien de betreffende bebouwing onderdeel uitmaakt van een groter geheel, wordt het gebouwdeel "uitgesneden" uit de omliggende bebouwing en voorzien van de bijbehorende attribuutwaarde.<br>- Indien het gebouwdeel niet exact is aan te geven, wordt een op zich zelf staand gebouw aangebracht aan de rand van het complete gebouw (op de ware plek of bij de dichtstbij gelegen ingang van het gebouw). |
 | Multipliciteit | Veelvoudig |
 | Optionaliteit | Verplicht |
 | Formaat | Tekst |
@@ -4139,7 +4139,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **huizenblok** |
 | Definitie | Terrein, volledig of nagenoeg volledig bedekt met bebouwing (niet zijnde lintbebouwing of grote boerderijen met bijbehorende stallen), gelegen in stedelijk/verstedelijkt gebied, waarbij de bebouwing naar alle zijden aaneengesloten is en waar men vanaf de openbare weg van eventuele binnenplaatsen en -tuinen weinig of niets kan zien. |
-| Inwinningscriteria | Bij de beoordeling of een zijde aaneengesloten is wordt alle bebouwing meegerekend, plus muren. Kleine openingen tot plm. 3 meter en poorten worden als bebouwd beschouwd. Grotere inspringingen welke niet voor het publiek vanaf de openbare weg toegankelijk zijn, worden bij het bebouwd gebied getrokken. Kleine en smalle inspringingen (tot plm. 3 meter) in de begrenzingslijn worden niet aangegeven. Ingeval het bebouwd gebied slechts uit één of enkele gebouwen bestaat, mogen binnenplaatsen gegeven worden indien deze groter zijn dan plm. 1000m². |
+| Inwinningscriteria | - Bij de beoordeling of een zijde aaneengesloten is wordt alle bebouwing meegerekend, plus muren. Kleine openingen tot plm. 3 meter en poorten worden als bebouwd beschouwd. Grotere inspringingen welke niet voor het publiek vanaf de openbare weg toegankelijk zijn, worden bij het bebouwd gebied getrokken.<br>- Kleine en smalle inspringingen (tot plm. 3 meter) in de begrenzingslijn worden niet aangegeven.<br>- Ingeval het bebouwd gebied slechts uit één of enkele gebouwen bestaat, mogen binnenplaatsen gegeven worden indien deze groter zijn dan plm. 1000m². |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
@@ -4159,7 +4159,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **kas, warenhuis** |
 | Definitie | Voornamelijk uit glas opgebouwde overbouwing van de grond. |
-| Inwinningscriteria | Een kas wordt aangegeven als een gebouw van het type kas, warenhuis, indien groter dan 200 m². Stookhokken worden als typegebouw 'overig' opgenomen. Plastic kassen met een permanent karakter worden ingewonnen als 'kas, warenhuis'. Het zogenaamde "platte glas" wordt niet aangegeven. |
+| Inwinningscriteria | - Een kas wordt aangegeven als een gebouw van het type kas, warenhuis, indien groter dan 200 m². Stookhokken worden als typegebouw 'overig' opgenomen.<br>- Plastic kassen met een permanent karakter worden ingewonnen als 'kas, warenhuis'.<br>- Het zogenaamde "platte glas" wordt niet aangegeven. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
@@ -4209,7 +4209,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **klokkentoren** |
 | Definitie | Toren t.b.v. de ophanging van een klokkenspel (met tenminste 8 klokken). |
-| Inwinningscriteria | Torens met minder dan 8 klokken of alleen een uurwerk worden gegeven als toren en niet als klokkentoren. Een klokkentoren welke niet voldoet aan de opnamecriteria voor een gebouwvlak, wordt aangegeven als gebouwpunt. |
+| Inwinningscriteria | - Torens met minder dan 8 klokken of alleen een uurwerk worden gegeven als toren en niet als klokkentoren.<br>- Een klokkentoren welke niet voldoet aan de opnamecriteria voor een gebouwvlak, wordt aangegeven als gebouwpunt. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
@@ -4399,7 +4399,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **postkantoor** |
 | Definitie | Kantoor waar men administratieve handelingen kan verrichten ten behoeve van postverzending, giro e.d. |
-| Inwinningscriteria | Alle locaties die PostNL als postkantoor aanduidt, worden als 'postkantoor' ingewonnen. Pakketpunten, businesspoints en andere locaties waar niet alle diensten van een postkantoor worden aangeboden, worden niet ingewonnen als 'postkantoor'. |
+| Inwinningscriteria | - Alle locaties die PostNL als postkantoor aanduidt, worden als 'postkantoor' ingewonnen.<br>- Pakketpunten, businesspoints en andere locaties waar niet alle diensten van een postkantoor worden aangeboden, worden niet ingewonnen als 'postkantoor'. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
@@ -4479,7 +4479,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **ruïne** |
 | Definitie | Overblijfsel van een verwoest of door ouderdom vervallen gebouw. |
-| Inwinningscriteria | - Minimaal een deel van een muur van een gebouw moet nog overeind staan om als ruïne gegeven te worden. Alleen een gebouw als ruïne aangeven als het een historisch gebouw is (in terrein te zien aan bebording, naamgeving, gedenkteken, etc.). Als een (niet historisch) gebouw / huis vervallen of verwoest is, dan wordt dit gebouw aangeven volgens voorkomen met de status buiten gebruik.<br>- Indien het object niet voldoet aan de criteria voor een gebouwvlak, dan wordt deze opgenomen als gebouwpunt. |
+| Inwinningscriteria | - Minimaal een deel van een muur van een gebouw moet nog overeind staan om als ruïne gegeven te worden.<br>- Alleen een gebouw als ruïne aangeven als het een historisch gebouw is (in terrein te zien aan bebording, naamgeving, gedenkteken, etc.). Als een (niet historisch) gebouw / huis vervallen of verwoest is, dan wordt dit gebouw aangeven volgens voorkomen met de status buiten gebruik.<br>- Indien het object niet voldoet aan de criteria voor een gebouwvlak, dan wordt deze opgenomen als gebouwpunt. |
 | Volledigheid | Beperkt |
 | Punt | Ja |
 | Lijn | Nee |
@@ -4579,7 +4579,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **tank** |
 | Definitie | Rond bouwwerk t.b.v. opslag. |
-| Inwinningscriteria | Minimum diameter: 8 meter (bij een liggende tank geldt de breedtemaat), uitgezonderd een markante, alleenstaande tank. Zowel open als gesloten, zowel staand als liggend. Meerdere tanks met kleinere doorsnede worden niet aangegeven. Bijvoorbeeld gasbol, graansilo, mestsilo of olietank. Een niet-ronde graansilo wordt als 'overig' gebouw ingewonnen. Een niet-ronde waterbak groter dan 50 m² wordt opgenomen als waterdeel van het type 'meer, plas'. |
+| Inwinningscriteria | - Minimum diameter: 8 meter (bij een liggende tank geldt de breedtemaat), uitgezonderd een markante, alleenstaande tank.<br>- Zowel open als gesloten, zowel staand als liggend.<br>- Meerdere tanks met kleinere doorsnede worden niet aangegeven. Bijvoorbeeld gasbol, graansilo, mestsilo of olietank.<br>- Een niet-ronde graansilo wordt als 'overig' gebouw ingewonnen. Een niet-ronde waterbak groter dan 50 m² wordt opgenomen als waterdeel van het type 'meer, plas'. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
@@ -5102,7 +5102,7 @@ Voor het bijhouden van het attribuut type_landgebruik wordt gebruik gemaakt van 
 |:---|:---|
 | Domeinwaarde | **aanlegsteiger** |
 | Definitie | In het water uitstekende brug of pier, breder dan 2 meter, gebruikt om personen en goederen aan wal te brengen. |
-| Inwinningscriteria | - Minimum lengte 50 meter. Wordt gegeneraliseerd weergegeven.<br>- De minimumlengte geldt niet indien de aanlegsteiger is gelegen in een waterdeel met de functie haven. Een rij onderling verbonden meerpalen wordt aangegeven als aanlegsteiger. |
+| Inwinningscriteria | - Minimum lengte 50 meter.<br>- Wordt gegeneraliseerd weergegeven.<br>- De minimumlengte geldt niet indien de aanlegsteiger is gelegen in een waterdeel met de functie haven.<br>- Een rij onderling verbonden meerpalen wordt aangegeven als aanlegsteiger. |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
@@ -5122,7 +5122,7 @@ Voor het bijhouden van het attribuut type_landgebruik wordt gebruik gemaakt van 
 |:---|:---|
 | Domeinwaarde | **basaltblokken, steenglooiing** |
 | Definitie | Dijkversteviging m.b.v. stenen, tegels, basaltblokken, stortsteen (geen asfalt of bitumen) of een golfslagbreker, stroombreker of strekdam langs de kust en in rivieren. |
-| Inwinningscriteria | Minimumgrootte: 50 m². Wordt niet opgenomen langs een kanaal. |
+| Inwinningscriteria | - Minimumgrootte: 50 m².<br>- Wordt niet opgenomen langs een kanaal. |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
@@ -5152,7 +5152,7 @@ Voor het bijhouden van het attribuut type_landgebruik wordt gebruik gemaakt van 
 |:---|:---|
 | Domeinwaarde | **boomkwekerij** |
 | Definitie | Terrein, overwegend in gebruik t.b.v. het opkweken van bomen (inclusief coniferen en sparren) en struiken, waarbij de hoogte van de aanplant niet van belang is. |
-| Inwinningscriteria | Het terreingedeelte met plantgoed van een tuincentrum wordt ook opgenomen als boomkwekerij. Een verwaarloosde kerstsparkwekerij wordt weergegeven als bos: naaldbos. De wegen op de boomkwekerij worden gegeneraliseerd weergegeven. |
+| Inwinningscriteria | - Het terreingedeelte met plantgoed van een tuincentrum wordt ook opgenomen als boomkwekerij.<br>- Een verwaarloosde kerstsparkwekerij wordt weergegeven als bos: naaldbos.<br>- De wegen op de boomkwekerij worden gegeneraliseerd weergegeven. |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
@@ -5202,7 +5202,7 @@ Voor het bijhouden van het attribuut type_landgebruik wordt gebruik gemaakt van 
 |:---|:---|
 | Domeinwaarde | **braakliggend** |
 | Definitie | Een stuk grond dat geen functie vervult of niet wordt onderhouden, met uitzondering van landbouwgrond. |
-| Inwinningscriteria | Braakliggende landbouwgronden en landbouwterreinen die zijn ingezaaid met groenbemesters worden aangegeven als braakliggend. Betreft het een andersoortig terrein dan wordt dit gegeven met een vlak van het type 'overig'. |
+| Inwinningscriteria | - Braakliggende landbouwgronden en landbouwterreinen die zijn ingezaaid met groenbemesters worden aangegeven als braakliggend.<br>- Betreft het een andersoortig terrein dan wordt dit gegeven met een vlak van het type 'overig'. |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
@@ -5302,7 +5302,7 @@ Voor het bijhouden van het attribuut type_landgebruik wordt gebruik gemaakt van 
 |:---|:---|
 | Domeinwaarde | **overig** |
 | Definitie | De waarde van het objectkenmerk is bekend, maar anders dan de genoemde waarden. Een niet nader omschreven gebruiksbestemming. |
-| Inwinningscriteria | Bijvoorbeeld een oppervlakte begroeid met struiken of varens, een dijkversteviging met asfalt of bitumen, onland (terrein zonder begroeiing of met onduidelijke begroeiing), een skibaan, een stortplaats, een terrein ingericht t.b.v. een tankstation, een terrein rondom een transformatorstation, tennisbanen, een tribune die geen geheel vormt met de bebouwing, een kunstgrasveld, een trottoir breder dan 6 meter, volkstuinen, een paardenbak of het drafgedeelte van een renbaan. Ook opgenomen wordt een (sier)gazon, d.w.z. een goed onderhouden grasperk, op een erf. Een mestopslag groter dan 1000 m² en het terrein met voor een nertsfarm specifieke bebouwing wordt ook opgenomen. Bij een weg in aanleg wordt het gerealiseerde gedeelte aangegeven als wegdeel. Voor de overige wegen in aanleg geldt dat het gedeelte van het terrein waar de werkzaamheden zijn aangevangen wordt aangegeven als een terrein met overig landgebruik. |
+| Inwinningscriteria | - Bijvoorbeeld een oppervlakte begroeid met struiken of varens, een dijkversteviging met asfalt of bitumen, onland (terrein zonder begroeiing of met onduidelijke begroeiing), een skibaan, een stortplaats, een terrein ingericht t.b.v. een tankstation, een terrein rondom een transformatorstation, tennisbanen, een tribune die geen geheel vormt met de bebouwing, een kunstgrasveld, een trottoir breder dan 6 meter, volkstuinen, een paardenbak of het drafgedeelte van een renbaan.<br>- Ook opgenomen wordt een (sier)gazon, d.w.z. een goed onderhouden grasperk, op een erf.<br>- Een mestopslag groter dan 1000 m² en het terrein met voor een nertsfarm specifieke bebouwing wordt ook opgenomen.<br>- Bij een weg in aanleg wordt het gerealiseerde gedeelte aangegeven als wegdeel.<br>- Voor de overige wegen in aanleg geldt dat het gedeelte van het terrein waar de werkzaamheden zijn aangevangen wordt aangegeven als een terrein met overig landgebruik. |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
@@ -5551,7 +5551,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 |:---|:---|
 | Domeinwaarde | **gaswinning** |
 | Definitie | Installatie t.b.v. de winning of transport van aardgas. |
-| Inwinningscriteria | Maximum oppervlakte: 1000 m². Indien groter, dan wordt het opgenomen als functioneel gebied. |
+| Inwinningscriteria | - Maximum oppervlakte: 1000 m².<br>- Indien groter, dan wordt het opgenomen als functioneel gebied. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
@@ -5601,7 +5601,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 |:---|:---|
 | Domeinwaarde | **grenspunt** |
 | Definitie | Aanduiding van een grensscheiding. |
-| Inwinningscriteria | Bij een herziening worden grenspalen alleen gecontroleerd in de buurt van nieuwe topografie. Overige grenspalen worden niet gecontroleerd. Op een gemeentegrens of provinciegrens worden alleen grote, markante palen aangegeven (een stalen paal met een gemeentenaambordje wordt niet als markant gezien). Indien er langs de grens dubbele grenspalen aanwezig zijn (bijvoorbeeld aan weerszijden van een waterloop) wordt er slechts één gegeven. |
+| Inwinningscriteria | - Bij een herziening worden grenspalen alleen gecontroleerd in de buurt van nieuwe topografie. Overige grenspalen worden niet gecontroleerd.<br>- Op een gemeentegrens of provinciegrens worden alleen grote, markante palen aangegeven (een stalen paal met een gemeentenaambordje wordt niet als markant gezien).<br>- Indien er langs de grens dubbele grenspalen aanwezig zijn (bijvoorbeeld aan weerszijden van een waterloop) wordt er slechts één gegeven. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
@@ -5711,7 +5711,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 |:---|:---|
 | Domeinwaarde | **kilometerpaal** |
 | Definitie | Paal waarop de kilometrering van een weg wordt aangegeven. |
-| Inwinningscriteria | Alleen de palen met een gehele kilometeraanduiding worden aangegeven. Bij een weg met gescheiden rijbanen met een middenberm smaller dan 6 meter en met kilometeraanduiding aan beide zijden en eventueel in de middenberm, wordt toch slechts één aanduiding aangegeven; bij voorkeur rechts in oplopende richting. Bij een weg met gescheiden rijbanen met een middenberm breder dan 6 meter en met kilometeraanduiding aan beide zijden en eventueel in de middenberm, worden de aanduidingen links en rechts aangegeven, niet in de middenberm. Bij een weg met gescheiden rijbanen met alleen een kilometeraanduiding in de middenberm, wordt de aanduiding alleen in de middenberm aangegeven. Er wordt geen kilometrering gegeven langs op- en afritten met uitzondering van wegen die behoren tot een knooppunt. |
+| Inwinningscriteria | - Alleen de palen met een gehele kilometeraanduiding worden aangegeven.<br>- Bij een weg met gescheiden rijbanen met een middenberm smaller dan 6 meter en met kilometeraanduiding aan beide zijden en eventueel in de middenberm, wordt toch slechts één aanduiding aangegeven; bij voorkeur rechts in oplopende richting.<br>- Bij een weg met gescheiden rijbanen met een middenberm breder dan 6 meter en met kilometeraanduiding aan beide zijden en eventueel in de middenberm, worden de aanduidingen links en rechts aangegeven, niet in de middenberm.<br>- Bij een weg met gescheiden rijbanen met alleen een kilometeraanduiding in de middenberm, wordt de aanduiding alleen in de middenberm aangegeven.<br>- Er wordt geen kilometrering gegeven langs op- en afritten, met uitzondering van wegen die behoren tot een knooppunt. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
@@ -5721,7 +5721,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 |:---|:---|
 | Domeinwaarde | **kilometerpaal spoorweg** |
 | Definitie | Paal waarop de kilometrering van een spoorweg wordt aangegeven. |
-| Inwinningscriteria | Alleen de palen met een gehele kilometeraanduiding worden aangegeven. Wordt niet ingewonnen langs metrolijnen. |
+| Inwinningscriteria | - Alleen de palen met een gehele kilometeraanduiding worden aangegeven.<br>- Wordt niet ingewonnen langs metrolijnen. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
@@ -5731,7 +5731,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 |:---|:---|
 | Domeinwaarde | **kilometerpaal water** |
 | Definitie | Paal waarop de kilometrering van een water wordt aangegeven. |
-| Inwinningscriteria | Alleen de palen met een gehele kilometeraanduiding worden aangegeven. Indien er alleen hectometerpalen aanwezig zijn, worden alleen de tientallen opgenomen. |
+| Inwinningscriteria | - Alleen de palen met een gehele kilometeraanduiding worden aangegeven.<br>- Indien er alleen hectometerpalen aanwezig zijn, worden alleen de tientallen opgenomen. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
@@ -5841,7 +5841,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 |:---|:---|
 | Domeinwaarde | **metrostation** |
 | Definitie | Halteplaats voor een onder- of bovengronds metronetwerk. |
-| Inwinningscriteria | Geeft de ingang van het station aan. De ligging van een ondergronds metrostation wordt ontleend aan de plattegrond van de metro. Een eventueel stationsgebouw wordt niet als metrostation aangegeven maar als gebouw van het type 'stationsgebouw'. |
+| Inwinningscriteria | - Geeft de ingang van het station aan.<br>- De ligging van een ondergronds metrostation wordt ontleend aan de plattegrond van de metro.<br>- Een eventueel stationsgebouw wordt niet als metrostation aangegeven maar als gebouw van het type 'stationsgebouw'. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
@@ -5851,7 +5851,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 |:---|:---|
 | Domeinwaarde | **muur** |
 | Definitie | Relatief smal, rechtopstaand bouwwerk. |
-| Inwinningscriteria | Minimum lengte: 50 meter. Minimum hoogte: 2 meter. Voor een muraltmuur (muur geplaatst op een dijk met een waterkerende functie) geldt deze minimum hoogte niet. Een muur voor het bijzetten van urnen (columbarium) op een begraafplaats wordt niet opgenomen. |
+| Inwinningscriteria | - Minimum lengte: 50 meter.<br>- Minimum hoogte: 2 meter.<br>- Voor een muraltmuur (muur geplaatst op een dijk met een waterkerende functie) geldt deze minimum hoogte niet.<br>- Een muur voor het bijzetten van urnen (columbarium) op een begraafplaats wordt niet opgenomen. |
 | Volledigheid | Beperkt |
 | Punt | Nee |
 | Lijn | Ja |
@@ -5861,7 +5861,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 |:---|:---|
 | Domeinwaarde | **oliepompinstallatie** |
 | Definitie | Productie-installatie om olie uit de grond te pompen. |
-| Inwinningscriteria | Per plateau wordt slechts één oliepompinstallatie geplaatst. Opnamecriterium is de aanwezigheid van de installatie, niet of deze wel of niet operationeel is. |
+| Inwinningscriteria | - Per plateau wordt slechts één oliepompinstallatie geplaatst.<br>- Opnamecriterium is de aanwezigheid van de installatie, niet of deze wel of niet operationeel is. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
@@ -5871,7 +5871,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 |:---|:---|
 | Domeinwaarde | **paal** |
 | Definitie | Stevig, langwerpig, rechtop in de grond geplaatst merkteken ter afbakening. / Kilometrering van een dijklichaam. |
-| Inwinningscriteria | Voor de kilometrering van een dijklichaam geldt: Alleen de palen met een gehele kilometeraanduiding worden aangegeven. Indien er alleen hectometerpalen aanwezig zijn, worden alleen de tientallen opgenomen. |
+| Inwinningscriteria | Voor de kilometrering van een dijklichaam geldt:<br>- Alleen de palen met een gehele kilometeraanduiding worden aangegeven.<br>- Indien er alleen hectometerpalen aanwezig zijn, worden alleen de tientallen opgenomen. |
 | Volledigheid | Beperkt |
 | Punt | Ja |
 | Lijn | Nee |
@@ -5991,7 +5991,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 |:---|:---|
 | Domeinwaarde | **sneltramhalte** |
 | Definitie | Halte aan een sneltramlijn. |
-| Inwinningscriteria | Geeft de ingang van de halte aan. Een eventueel stationsgebouw wordt niet als sneltramhalte aangegeven maar als gebouw van het type 'stationsgebouw'. |
+| Inwinningscriteria | - Geeft de ingang van de halte aan.<br>- Een eventueel stationsgebouw wordt niet als sneltramhalte aangegeven maar als gebouw van het type 'stationsgebouw'. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
@@ -6051,7 +6051,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 |:---|:---|
 | Domeinwaarde | **treinstation** |
 | Definitie | Halte aan een spoorlijn. |
-| Inwinningscriteria | Geeft de ingang van het station aan. Een eventueel stationsgebouw wordt niet als treinstation aangegeven maar als gebouw van het type 'stationsgebouw'. |
+| Inwinningscriteria | - Geeft de ingang van het station aan.<br>- Een eventueel stationsgebouw wordt niet als treinstation aangegeven maar als gebouw van het type 'stationsgebouw'. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
@@ -6477,7 +6477,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **hoogtelijn** |
 | Definitie | Lijn die punten van gelijke hoogte met elkaar verbindt. |
-| Inwinningscriteria | - Hoogtelijnen zijn een cartografische weergave van de hoogte in het terrein.<br>- De hoogtelijnen zijn automatisch gegenereerd uit het hoogtemodel zonder rekening te houden met in het landschap aanwezige kunstmatige elementen, zoals wallen en dijken. Deze kunstmatige elementen met hoogte zijn ingewonnen als Reliëf-object.<br>- Bij het berekenen van de hoogtelijnen is geen rekening gehouden met kleine waterdelen, waardoor de lijnen in sommige gevallen door deze waterdelen heen lopen. |
+| Inwinningscriteria | - Hoogtelijnen zijn een cartografische weergave van de hoogte in het terrein.<br>- De hoogtelijnen zijn automatisch gegenereerd uit het hoogtemodel zonder rekening te houden met in het landschap aanwezige kunstmatige elementen, zoals wallen en dijken. Deze kunstmatige elementen met hoogte zijn ingewonnen als reliëf-object.<br>- Bij het berekenen van de hoogtelijnen is geen rekening gehouden met kleine waterdelen, waardoor de lijnen in sommige gevallen door deze waterdelen heen lopen. |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Ja |
@@ -7223,7 +7223,7 @@ De volgende topografische elementen maken deel uit van het vlak van een topograf
 | Attribuut | aantalInwoners |
 |:---|:---|
 | Definitie | Het aantal inwoners dat in een plaats woont. |
-| Inwinningscriteria | - Het aantal inwoners van een topografische bebouwde kom is het totaal van alle mensen die als bewoner op een van de binnen het vlak gelegen adressen geregistreerd staan in de Basisregistratie Personen (BRP) op peildatum 1 juli van het jaar waarin de luchtfoto's genomen zijn, die gebruikt zijn voor het intekenen van de vlakken. Omdat voor de vlakbegrenzing de oever van een water als grens is aangehouden, waardoor woonboten langs een oever niet binnen een vlak vallen, is het inwoneraantal van het vlak vermeerderd met de mensen die als bewoner van een woonboot grenzend aan een vlak geregistreerd staan. Hiervoor is een buffer van 25 meter aangehouden gerekend vanaf de vlakgrens.<br>- Bij deze telling moet opgemerkt dat niet alle in de BRP geregistreerde inwoners van Nederland gekoppeld zijn aan een adreslocatie. Het gaat echter om minder dan 0,1% van de in de BRP geregistreerde inwoners die niet bij de berekening wordt meegenomen.<br>- De berekening en telling van het aantal inwoners van de topografische bebouwde kommen wordt uitgevoerd door het Centraal Bureau voor de Statistiek (CBS), dat toegang heeft tot de BRP-gegevens. |
+| Inwinningscriteria | - Het aantal inwoners van een topografische bebouwde kom is het totaal van alle mensen die als bewoner op een van de binnen het vlak gelegen adressen geregistreerd staan in de Basisregistratie Personen (BRP) op peildatum 1 juli van het jaar waarin de luchtfoto's genomen zijn, die gebruikt zijn voor het intekenen van de vlakken.<br>- Omdat voor de vlakbegrenzing de oever van een water als grens is aangehouden, waardoor woonboten langs een oever niet binnen een vlak vallen, is het inwoneraantal van het vlak vermeerderd met de mensen die als bewoner van een woonboot grenzend aan een vlak geregistreerd staan. Hiervoor is een buffer van 25 meter aangehouden gerekend vanaf de vlakgrens.<br>- Bij deze telling moet opgemerkt dat niet alle in de BRP geregistreerde inwoners van Nederland gekoppeld zijn aan een adreslocatie. Het gaat echter om minder dan 0,1% van de in de BRP geregistreerde inwoners die niet bij de berekening wordt meegenomen.<br>- De berekening en telling van het aantal inwoners van de topografische bebouwde kommen wordt uitgevoerd door het Centraal Bureau voor de Statistiek (CBS), dat toegang heeft tot de BRP-gegevens. |
 | Volledigheid | Volledig |
 | Multipliciteit | Enkelvoudig |
 | Optionaliteit | Optioneel |
@@ -7473,7 +7473,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **gaswinning** |
 | Definitie | Gebied met installatie(s) t.b.v. de winning of transport van aardgas. |
-| Inwinningscriteria | Minimumgrootte: 1000 m². Indien kleiner, dan wordt het opgenomen als inrichtingselement. |
+| Inwinningscriteria | - Minimumgrootte: 1000 m².<br>- Indien kleiner, dan wordt het opgenomen als inrichtingselement. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
@@ -7833,7 +7833,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **stortplaats** |
 | Definitie | Plaats waar afval gestort mag worden. |
-| Inwinningscriteria | Het gehele object wordt aangegeven als functioneel gebied van het type stortplaats indien er nog actief wordt gestort. Een afvalbrengstation, milieustraat of stortbordes wordt niet als stortplaats aangegeven. |
+| Inwinningscriteria | - Het gehele object wordt aangegeven als functioneel gebied van het type stortplaats indien er nog actief wordt gestort.<br>- Een afvalbrengstation, milieustraat of stortbordes wordt niet als stortplaats aangegeven. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
