@@ -5313,7 +5313,7 @@ Voor het bijhouden van het attribuut type_landgebruik wordt gebruik gemaakt van 
 | Attribuut | fysiekVoorkomen |
 |:---|:---|
 | Definitie | De plaats waar het object zich bevindt t.o.v. andere constructies. |
-| Inwinningscriteria | |
+| Inwinningscriteria | - |
 | Multipliciteit | Veelvoudig |
 | Optionaliteit | Optioneel |
 | Formaat | Tekst |
@@ -5399,7 +5399,7 @@ Voor het bijhouden van het attribuut type_landgebruik wordt gebruik gemaakt van 
 | Attribuut | naam |
 |:---|:---|
 | Definitie | De naam van het terrein. |
-| Inwinningscriteria | |
+| Inwinningscriteria | - |
 | Volledigheid | Beperkt |
 | Multipliciteit | Enkelvoudig |
 | Optionaliteit | Optioneel |
@@ -5521,7 +5521,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 |:---|:---|
 | Domeinwaarde | **busstation** |
 | Definitie | Een plaats waar verschillende buslijnen samenkomen en waar meerdere bushaltes aanwezig zijn, met het doel dat buspassagiers hier kunnen in-, uit- of overstappen. |
-| Inwinningscriteria | |
+| Inwinningscriteria | - |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
@@ -5531,7 +5531,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 |:---|:---|
 | Domeinwaarde | **calamiteitendoorgang** |
 | Definitie | Doorgang in de verkeersgeleider of wegafsluiting die hulpdiensten doorgang moet verlenen voor het bestrijden van calamiteiten. |
-| Inwinningscriteria | |
+| Inwinningscriteria | - |
 | Volledigheid | Beperkt |
 | Punt | Nee |
 | Lijn | Ja |
@@ -5641,7 +5641,7 @@ Inrichtingspunten met een negatief hoogteniveau worden niet ingewonnen.
 |:---|:---|
 | Domeinwaarde | **helikopterlandingsplatform** |
 | Definitie | Platform dat als landings- en vertrekplaats dient voor helikopters. |
-| Inwinningscriteria | |
+| Inwinningscriteria | - |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
