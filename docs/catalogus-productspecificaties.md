@@ -2502,7 +2502,7 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 | Attribuut | verhardingstype |
 |:---|:---|
 | Definitie | Het type verharding van een wegdeel. |
-| Inwinningscriteria | - |
+| Inwinningscriteria | Het verhardingstype wordt niet ingewonnen voor voetpaden en een aantal 'overige' wegen (bv. wegen op afgesloten terreinen, doodlopende wegen korter dan 250 m, wegen achter bebouwing). Het verhardingstype is dan "onbekend". |
 | Multipliciteit | Enkelvoudig |
 | Optionaliteit | Verplicht |
 | Formaat | Tekst |
@@ -2514,7 +2514,7 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 |:---|:---|
 | Domeinwaarde | **verhard** |
 | Definitie | Een weg met een egale verharding (asfalt, beton, klinkers, tegels, keien, etc.). |
-| Inwinningscriteria | - Ook wegen met een verharding in slechte staat worden als verhard ingewonnen.<br>- Wegen die van nature min of meer steenachtig zijn, zoals bijvoorbeeld in Limburg, worden als onverhard aangegeven.<br>- Het verhardingstype wordt niet ingewonnen voor voetpaden en een aantal 'overige' wegen (bv. wegen op afgesloten terreinen, doodlopende wegen korter dan 250 m, wegen achter bebouwing). Het verhardingstype is dan "onbekend". |
+| Inwinningscriteria | - Wegen met een verharding in slechte staat worden als verhard ingewonnen.<br>- Wegen die van nature min of meer steenachtig zijn, zoals bijvoorbeeld in Limburg, worden als onverhard aangegeven. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Ja |
@@ -2524,7 +2524,7 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 |:---|:---|
 | Domeinwaarde | **half verhard** |
 | Definitie | Een weg waarop de verharding slechts gedeeltelijk is aangebracht (als twee banen met klinkers, beton, tegels, of uitsluitend groenstenen, etc.) of het rijvlak is verbeterd met grind of sintels. |
-| Inwinningscriteria | Wegen met een verharding in slechte staat worden als verhard ingewonnen. Wegen die van nature min of meer steenachtig zijn, zoals bijvoorbeeld in Limburg, worden als onverhard aangegeven. |
+| Inwinningscriteria | - Wegen met een verharding in slechte staat worden als verhard ingewonnen.<br>- Wegen die van nature min of meer steenachtig zijn, zoals bijvoorbeeld in Limburg, worden als onverhard aangegeven. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Ja |
@@ -2534,7 +2534,7 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 |:---|:---|
 | Domeinwaarde | **onverhard** |
 | Definitie | Een weg zonder enige vorm van kunstmatige verharding, dan wel een weg hier en daar opgevuld met puin. |
-| Inwinningscriteria | Ook wegen die van nature min of meer steenachtig zijn, zoals bijvoorbeeld in Limburg, worden als onverhard aangegeven. |
+| Inwinningscriteria | Wegen die van nature min of meer steenachtig zijn, zoals bijvoorbeeld in Limburg, worden als onverhard aangegeven. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Ja |
@@ -2544,7 +2544,7 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 |:---|:---|
 | Domeinwaarde | **onbekend** |
 | Definitie | De waarde van het objectkenmerk is niet bekend. |
-| Inwinningscriteria | - |
+| Inwinningscriteria | Het verhardingstype wordt niet ingewonnen voor voetpaden en een aantal 'overige' wegen (bv. wegen op afgesloten terreinen, doodlopende wegen korter dan 250 m, wegen achter bebouwing). Het verhardingstype is dan "onbekend". |
 | Volledigheid | Beperkt |
 | Punt | Ja |
 | Lijn | Ja |
