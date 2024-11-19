@@ -8098,7 +8098,7 @@ _Inwinningscriteria:_
 | Attribuut | naamNL |
 |:---|:---|
 | Definitie | De Nederlandse naam van het functionele gebied. |
-| Inwinningscriteria | In principe worden, indien aanwezig, alleen de geografische namen (toponiemen) van de functionele gebieden worden ingewonnen. |
+| Inwinningscriteria | In principe worden, indien aanwezig, alleen de geografische namen (toponiemen) van de functionele gebieden ingewonnen. |
 | Volledigheid | Beperkt |
 | Multipliciteit | Veelvoudig |
 | Optionaliteit | Optioneel |
