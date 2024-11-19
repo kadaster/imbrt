@@ -3186,7 +3186,7 @@ Maximum breedte voor lijnvormige waterdelen: 6 meter.
 
 Minimum oppervlakte voor vlakvormige waterdelen: 50 m².
 
-Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden in meerdere delen, zodat het aantal punten niet te groot wordt.
+Een vlakvormig waterdeel (zee of meer, plas) kan opgesplitst worden in meerdere delen, zodat het aantal punten niet te groot wordt.
 
 ### Attribuut geometriePunt
 
@@ -3268,7 +3268,7 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 |:---|:---|
 | Domeinwaarde | **zee** |
 | Definitie | Uitgestrekt oppervlak zout water dat het grootste deel van de aarde bedekt. |
-| Inwinningscriteria | - Het waterdeel in een haven aan zee heeft ook de attribuutwaarde zee.<br>- De overgang naar waterloop of meer, .plas, ven, vijver ligt op een sluis (bv. haven Den Helder en IJmuiden, Haringvlietsluizen). Nieuwe Waterweg: compleet waterloop en dus geen zee. De overgang naar de Noordzee ligt aan het eind van de Noorderdam, haaks over de Nieuwe Waterweg (tussen de twee landhoofden). Oosterschelde: compleet zee, tot de Philipsdam en de Oesterdam. Westerschelde: compleet zee, de overgang naar waterloop ligt bij de Stroomleidam (ter hoogte van de rijksgrens met België). De overgang ligt op de dam en vanaf het einde van de dam haaks over de Schelde. |
+| Inwinningscriteria | - Het waterdeel in een haven aan zee heeft ook de attribuutwaarde "zee".<br>- De overgang naar "waterloop" of "meer, plas" ligt op een sluis (bv. haven Den Helder en IJmuiden, Haringvlietsluizen). Nieuwe Waterweg: compleet waterloop en dus geen zee. De overgang naar de Noordzee ligt aan het eind van de Noorderdam, haaks over de Nieuwe Waterweg (tussen de twee landhoofden). Oosterschelde: compleet zee, tot de Philipsdam en de Oesterdam. Westerschelde: compleet zee, de overgang naar waterloop ligt bij de Stroomleidam (ter hoogte van de rijksgrens met België). De overgang ligt op de dam en vanaf het einde van de dam haaks over de Schelde. |
 | Volledigheid | Volledig |
 | Punt | Nee |
 | Lijn | Nee |
@@ -3530,7 +3530,7 @@ Een vlakvormig waterdeel (zee of meer, plas, ven, vijver) kan opgesplitst worden
 |:---|:---|
 | Domeinwaarde | **haven** |
 | Definitie | Lig- en bergplaats voor vaartuigen. |
-| Inwinningscriteria | Tot welk type water een haven behoort, is afhankelijk van het waterdeel waar de haven aan ligt. Is dat waterdeel een "waterloop" dan is ook de haven een "waterloop", is dat waterdeel van de categorie "meer, plas, ven, vijver" dan is de haven ook een "meer, plas, ven, vijver". |
+| Inwinningscriteria | Tot welk type water een haven behoort, is afhankelijk van het waterdeel waar de haven aan ligt. Is dat waterdeel een "waterloop" dan is ook de haven een "waterloop", is dat waterdeel van de categorie "meer, plas" dan is de haven ook een "meer, plas". |
 | Volledigheid | Beperkt |
 | Punt | Nee |
 | Lijn | Ja |
@@ -4579,7 +4579,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **tank** |
 | Definitie | Rond bouwwerk t.b.v. opslag. |
-| Inwinningscriteria | Minimum diameter: 8 meter (bij een liggende tank geldt de breedtemaat), uitgezonderd een markante, alleenstaande tank. Zowel open als gesloten, zowel staand als liggend. Meerdere tanks met kleinere doorsnede worden niet aangegeven. Bijvoorbeeld gasbol, graansilo, mestsilo of olietank. Een niet-ronde graansilo wordt als 'overig' gebouw ingewonnen. Een niet-ronde waterbak groter dan 50 m² wordt opgenomen als waterdeel van het type 'meer, plas, ven, vijver'. |
+| Inwinningscriteria | Minimum diameter: 8 meter (bij een liggende tank geldt de breedtemaat), uitgezonderd een markante, alleenstaande tank. Zowel open als gesloten, zowel staand als liggend. Meerdere tanks met kleinere doorsnede worden niet aangegeven. Bijvoorbeeld gasbol, graansilo, mestsilo of olietank. Een niet-ronde graansilo wordt als 'overig' gebouw ingewonnen. Een niet-ronde waterbak groter dan 50 m² wordt opgenomen als waterdeel van het type 'meer, plas'. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
