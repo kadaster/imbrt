@@ -7944,7 +7944,7 @@ _Inwinningscriteria:_
 | Domeinwaarde | **waterkering** |
 | Definitie | Geheel van een dijk of dam, inclusief talud. |
 | Inwinningscriteria | - Alle dijken die nog boven het maaiveld uitsteken / in het landschap zichtbaar zijn (dus ook dijken die niet langs een water liggen) worden gegeven als "waterkering".<br>- Dijken die niet langs een water liggen krijgen de soortnaam "binnendijk". Een deel van die binnendijken heeft nog een waterkerende functie als de dijk langs het water het begeeft.<br>- Dijken die niet meer boven de omgeving uitsteken, worden niet ingetekend. |
-| Volledigheid | Niet |
+| Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
 | Vlak | Ja |
