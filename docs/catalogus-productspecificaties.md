@@ -2139,7 +2139,7 @@ Een wisselstrook krijgt dezelfde attribuutwaarden als de rest van de weg.
 |:---|:---|
 | Domeinwaarde | **regionale weg** |
 | Definitie | Verharde weg die een verbinding vormt tussen bewoonde oorden of grote stadswijken en daartoe van twee kanten bewegwijzerd zijn met blauwe ANWB-richtingsborden voor autoverkeer. |
-| Inwinningscriteria | - |
+| Inwinningscriteria | Uitzondering:  Een weg mag als regionaal worden opgenomen wanneer deze door 1 richtingsbord voor autoverkeer wordt aangeduid. Het kan zijn dat er in een bepaald gebied geen blauwe ANWB-borden aanwezig zijn, maar wel lokale borden voor autoverkeer. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Ja |
