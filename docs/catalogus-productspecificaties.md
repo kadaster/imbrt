@@ -431,7 +431,7 @@ De basisgegevens worden onder meer gebruikt ten behoeve van de landsverdediging,
 
 De geografische informatie is voorts van cruciaal belang om verplichtingen en beleidsafspraken in het kader van de NAVO en andere internationale verdragen te kunnen nakomen.
 
-Sinds 1 januari 2008 is TOP10NL onderdeel van de Basisregistratie Topografie (BRT) en daarmee het belangrijkste topografische referentiebestand zijn voor overheidsgebruik op het schaalniveau 1:10.000.
+Sinds 1 januari 2008 is TOP10NL onderdeel van de Basisregistratie Topografie (BRT) en daarmee het belangrijkste topografische referentiebestand voor overheidsgebruik op het schaalniveau 1:10.000.
 
 Sinds 1 januari 2012 is de BRT beschikbaar als open data.
 
