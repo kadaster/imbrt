@@ -285,7 +285,7 @@ Dit hoofdstuk beschrijft de belangrijkste kenmerken van TOP10NL, daarbij ook rel
 
 ## 3.1 Gebiedsaanduiding
 
-Het bestand TOP10NL beslaat het gehele Nederlandse grondgebied. Langs de grenzen met België en Duitsland is een buffer van ongeveer 250 m vanaf de landsgrens opgenomen.
+Het bestand TOP10NL beslaat het gehele Nederlandse grondgebied, met uitzondering van de Caribische eilanden Bonaire, Sint Eustatius en Saba (BES-eilanden). Langs de grenzen met België en Duitsland is een buffer van ongeveer 250 m vanaf de landsgrens opgenomen.
 
 ## 3.2 Actualiteit
 
