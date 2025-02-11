@@ -285,11 +285,11 @@ Dit hoofdstuk beschrijft de belangrijkste kenmerken van TOP10NL, daarbij ook rel
 
 ## 3.1 Gebiedsaanduiding
 
-Het bestand TOP10NL beslaat het gehele Nederlandse grondgebied. Langs de grenzen met België en Duitsland is een buffer van ongeveer 250 m vanaf de landsgrens opgenomen.
+Het bestand TOP10NL beslaat het gehele Nederlandse grondgebied, met uitzondering van de Caribische eilanden Bonaire, Sint Eustatius en Saba (BES-eilanden). Langs de grenzen met België en Duitsland is een buffer van ongeveer 250 m vanaf de landsgrens opgenomen.
 
 ## 3.2 Actualiteit
 
-TOP10NL is gebaseerd op luchtfotografie, ondersteund door 360 graden beelden en eventueel een terreinverkenning. De datum van de luchtopname, meestal in de periode januari - april, is bepalend voor de actualiteitsdatum van TOP10NL. De bijhoudingscyclus van TOP10NL is één jaar voor heel Nederland. Een overzicht van de actualiteit van TOP10NL wordt weergegeven in de "BRT Actualiteitskaart: TOP10NL" (te vinden op: [**www.kadaster.nl/zakelijk/producten/geo-informatie/topnl**](https://www.kadaster.nl/zakelijk/producten/geo-informatie/topnl) ).
+TOP10NL is gebaseerd op luchtfotografie, ondersteund door 360 graden beelden en eventueel een terreinverkenning. De datum van de luchtopname, meestal in de periode januari - april, is bepalend voor de actualiteitsdatum van TOP10NL. De bijhoudingscyclus van TOP10NL is één jaar voor heel Nederland. Een overzicht van de actualiteit van TOP10NL wordt weergegeven in de [**BRT Actualiteitskaart**](https://www.kadaster.nl/-/brt-actualiteitskaart-huidige-levering).
 
 ## 3.3 Ruimtelijk referentiesysteem
 
@@ -318,7 +318,7 @@ In GIS-applicaties worden EPSG (European Petroleum Survey Group) codes gebruik o
 
 ### 3.4.1 Kwaliteitscontrole
 
-De interne kwaliteitscontrole wordt uitgevoerd met behulp van het interne document "Controleprotocol TOP10NL" ( [**www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-documentatie**](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/brt/brt-documentatie) ). In het controleprotocol vinden de controleaspecten plaats zoals genoemd in ISO 19113. Deze controleaspecten zijn: logische consistentie, positionele nauwkeurigheid, actualiteit, volledigheid, thematische nauwkeurigheid en de terugmeldingen.
+De interne kwaliteitscontrole wordt uitgevoerd met behulp van het interne document "Controleprotocol TOP10NL" ( [**www.kadaster.nl/-/brt-controleprotocol-top10nl**](https://www.kadaster.nl/-/brt-controleprotocol-top10nl) ). In het controleprotocol vinden de controleaspecten plaats zoals genoemd in ISO 19113. Deze controleaspecten zijn: logische consistentie, positionele nauwkeurigheid, actualiteit, volledigheid, thematische nauwkeurigheid en de terugmeldingen.
 
 De in de wet bedoelde externe kwaliteitscontrole wordt eens in de drie jaar uitgevoerd door een externe expert. De kwaliteitsbeoordeling moet worden gemaakt volgens de ISO 19114 standaard. In 2011 en 2015 zijn deze controles uitgevoerd door Wageningen Environmental Research (Alterra). De uitkomsten van deze controle heeft het Kadaster aan het Ministerie van Infrastructuur en Milieu gerapporteerd.
 
@@ -431,7 +431,7 @@ De basisgegevens worden onder meer gebruikt ten behoeve van de landsverdediging,
 
 De geografische informatie is voorts van cruciaal belang om verplichtingen en beleidsafspraken in het kader van de NAVO en andere internationale verdragen te kunnen nakomen.
 
-Sinds 1 januari 2008 is TOP10NL onderdeel van de Basisregistratie Topografie (BRT) en daarmee het belangrijkste topografische referentiebestand zijn voor overheidsgebruik op het schaalniveau 1:10.000.
+Sinds 1 januari 2008 is TOP10NL onderdeel van de Basisregistratie Topografie (BRT) en daarmee het belangrijkste topografische referentiebestand voor overheidsgebruik op het schaalniveau 1:10.000.
 
 Sinds 1 januari 2012 is de BRT beschikbaar als open data.
 
