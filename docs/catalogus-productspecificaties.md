@@ -7453,7 +7453,7 @@ _Inwinningscriteria:_
 |:---|:---|
 | Domeinwaarde | **emplacement** |
 | Definitie | Het totaal aan sporen op een terrein ten behoeve van het rangeren en stallen van treinen. |
-| Inwinningscriteria | - |
+| Inwinningscriteria | Een emplacement wordt ingetekend vanaf de plek waar het laatste sein staat voor het begin van het wisselcomplex. |
 | Volledigheid | Volledig |
 | Punt | Ja |
 | Lijn | Nee |
