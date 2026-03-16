@@ -1,5 +1,2 @@
 # General settings
-title:
-  nl: 'Informatiemodel van de Basisregistratie Topografie' # feel free to use Markdown
-language: # ISO 639-1 language code
-  - nl # first language in the list is default
+lang: "nl" # ISO 639-1 language code
