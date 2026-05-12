@@ -439,6 +439,8 @@ Afhankelijk van het GIS-software pakket dat gebruikt wordt, kunnen vele GIS anal
 
 De TOP10NL database bevat geo-objecten met een beschrijving van de eigenschappen. Sinds september 2012 heeft ieder object een visualisatiecode gekregen. Hiermee is het visualiseren van TOP10NL eenvoudiger gemaakt. Het Kadaster levert standaard visualisatiemodules mee met de TOP10NL-data gebaseerd op de topografische kaart 1:25.000. Ook kan de gebruiker zelf visualisaties definiëren in de applicatiesoftware.
 
+Een overzicht met de mogelijke visualisatiecodes voor TOP10NL waarop de visualisatie gebaseerd is, kan gevonden worden in het bestand **'BRT_TOP10NL_1.2_visualisatiecode_attributen.xlsx'** op: [**register.geostandaarden.nl/visualisatie/top10nl/1.2.0/**](https://register.geostandaarden.nl/visualisatie/top10nl/1.2.0/)
+
 ![Deze figuur laat de standaardvisualisatie van TOP10NL zien, afgebeeld in het GIS-pakket QGIS.](images/figuur3-1.png "Standaardvisualisatie van TOP10NL")
 
 _Figuur 3.1: Standaardvisualisatie van TOP10NL_
@@ -1705,6 +1707,8 @@ Een webservice maakt het mogelijk een kaartbeeld in een webapplicatie te gebruik
 
 Voor TOP10NL zijn ook de **OGC API Features** en **OGC API Tiles en Styles (Vectortiles)** beschikbaar.<br>
 De **OGC API-Tiles** is een nieuwe standaard waarmee visualisaties van topografische data gemaakt kunnen worden. Deze visualisaties kunnen daarna gebruikt worden in toepassingen zoals kaartviewers en andere topografische applicaties. Om snel te kunnen beginnen is de standaardvisualisatie van TOP10NL beschikbaar in de **OGC API-Styles**. In deze API kan die standaardvisualisatie ook aangepast worden.<br>
+Een overzicht met de mogelijke visualisatiecodes voor TOP10NL waarop de visualisatie gebaseerd is, kan gevonden worden in het bestand **'BRT_TOP10NL_1.2_visualisatiecode_attributen.xlsx'** op: [**register.geostandaarden.nl/visualisatie/top10nl/1.2.0/**](https://register.geostandaarden.nl/visualisatie/top10nl/1.2.0/)
+
 In de **OGC API-Features** is de complete TOP10NL-dataset beschikbaar. Hiermee kunnen specifieke objecten van TOP10NL-informatie gedownload worden, op basis van bijvoorbeeld een interessegebied of een ID. Omdat met de OGC API-Features de TOP10NL-informatie op objectniveau bekeken wordt, is er geen specifieke geografische kennis of een specifieke applicatie nodig.<br>
 Deze OGC API's zijn beschikbaar op: [api.pdok.nl/brt/top10nl/ogc/v1](https://api.pdok.nl/brt/top10nl/ogc/v1)
 
