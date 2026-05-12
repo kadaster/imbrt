@@ -171,6 +171,7 @@ Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecif
   - [6.6 Webservices en OGC API's](#66-webservices-en-ogc-apis)
   - [6.7 Andere BRT-producten](#67-andere-brt-producten)
   - [6.8 Andere BRT UML-modellen en XSD's](#68-andere-brt-uml-modellen-en-xsds)
+  - [6.9 BRT Achtergrondkaart API's](#69-brt-achtergrondkaart-apis)
 - [7 Catalogus Basisregistratie Topografie](#7-catalogus-basisregistratie-topografie)
   - [7.1 Objectklasse onafhankelijke attributen en domeinen](#71-objectklasse-onafhankelijke-attributen-en-domeinen)
     - [7.1.1 Attributen](#711-attributen)
@@ -1731,6 +1732,12 @@ _Tabel 6.1: Tabel met verwijzingen naar productpagina's._
 
 In paragraaf [**6.2**](#62-uml-model-en-xsd-top10nl) is het UML-model en de XSD van TOP10NL beschreven. In het technisch register bij Geonovum kunnen de  UML-modellen en XSD's van de BRT in het algemeen en van de overige BRT producten gevonden worden: 
 [**register.geostandaarden.nl/brt/index.html**](https://register.geostandaarden.nl/brt/index.html)
+
+# 6.9 BRT Achtergrondkaart API's
+
+Voor De BRT Achtergrondkaart zijn ook de **OGC API Tiles en Styles (Vectortiles)** beschikbaar.<br>
+De **OGC API-Tiles** is een nieuwe standaard waarmee visualisaties van topografische data gemaakt kunnen worden. Deze visualisaties kunnen daarna gebruikt worden in toepassingen zoals kaartviewers en andere topografische applicaties. Om snel te kunnen beginnen zijn van de BRT Achtergrondkaart de visualisaties 'standaard', 'dark mode' en 'labels' beschikbaar in de **OGC API-Styles**. In deze API kunnen deze visualisaties ook aangepast worden.<br>
+Deze OGC API's zijn beschikbaar op: [api.pdok.nl/kadaster/brt-achtergrondkaart/ogc/v1](https://api.pdok.nl/kadaster/brt-achtergrondkaart/ogc/v1)
 
 # 7 Catalogus Basisregistratie Topografie
 
