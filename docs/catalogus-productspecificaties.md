@@ -1711,7 +1711,7 @@ De **OGC API-Tiles** is een nieuwe standaard waarmee visualisaties van topografi
 Een overzicht met de mogelijke visualisatiecodes voor TOP10NL waarop de visualisatie gebaseerd is, kan gevonden worden in het bestand **'BRT_TOP10NL_1.2_visualisatiecode_attributen.xlsx'** op: [**register.geostandaarden.nl/visualisatie/top10nl/1.2.0/**](https://register.geostandaarden.nl/visualisatie/top10nl/1.2.0/)
 
 In de **OGC API-Features** is de complete TOP10NL-dataset beschikbaar. Hiermee kunnen specifieke objecten van TOP10NL-informatie gedownload worden, op basis van bijvoorbeeld een interessegebied of een ID. Omdat met de OGC API-Features de TOP10NL-informatie op objectniveau bekeken wordt, is er geen specifieke geografische kennis of een specifieke applicatie nodig.<br>
-Deze OGC API's zijn beschikbaar op: [api.pdok.nl/brt/top10nl/ogc/v1](https://api.pdok.nl/brt/top10nl/ogc/v1)
+Deze OGC API's zijn beschikbaar op: [**api.pdok.nl/brt/top10nl/ogc/v1**](https://api.pdok.nl/brt/top10nl/ogc/v1)
 
 ## 6.7 Andere BRT-producten
 
