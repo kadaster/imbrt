@@ -1739,6 +1739,102 @@ Voor de BRT Achtergrondkaart zijn ook de **OGC API Tiles en Styles (Vectortiles)
 De **OGC API-Tiles** is een nieuwe standaard waarmee visualisaties van topografische data gemaakt kunnen worden. Deze visualisaties kunnen daarna gebruikt worden in toepassingen zoals kaartviewers en andere topografische applicaties. Om snel te kunnen beginnen zijn van de BRT Achtergrondkaart de visualisaties 'standaard', 'dark mode' en 'labels' beschikbaar in de **OGC API-Styles**. In deze API kunnen deze visualisaties ook aangepast worden.<br>
 Deze OGC API's zijn beschikbaar op: [**api.pdok.nl/kadaster/brt-achtergrondkaart/ogc/v1**](https://api.pdok.nl/kadaster/brt-achtergrondkaart/ogc/v1)
 
+In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen die gebruikt kunnen worden voor visualisatie: het attribuut  **'viscode'** met numerieke code en het attribuut **'vistekst"** met een tekstuele code. In onderstaande tabel zijn de gebruikte visualisatiecodes voor de BRT Achtergrondkaart gegeven:
+
+| Tabel (geometrie)  | Viscode | Vistext | Opmerking |
+|:-------------------|:--------|:--------|:----------|
+| nederland          | 18081 | (zee)water | |
+| nederland          | 15260 | onderlegger Nederland | |
+| wegdeel            | 12000 | autosnelweg | |
+| wegdeel            | 12001 | E-weg | |
+| wegdeel            | 12007 | autosnelweg op brug | |
+| wegdeel            | 12008 | autosnelweg in tunnel | |
+| wegdeel            | 12009 | autosnelweg oprit/afrit | |
+| wegdeel            | 12080 | lokale weg | |
+| wegdeel            | 12087 | lokale weg op brug | |
+| wegdeel            | 12088 | lokale weg in tunnel | |
+| wegdeel            | 12089 | lokale weg oprit/afrit | |
+| wegdeel            | 12100 | hoofdweg | |
+| wegdeel            | 12107 | hoofdweg op brug | |
+| wegdeel            | 12108 | hoofdweg in tunnel | |
+| wegdeel            | 12109 | hoofdweg oprit/afrit | |
+| wegdeel            | 12750 | regionale weg | |
+| wegdeel            | 12757 | regionale weg op brug | |
+| wegdeel            | 12758 | regionale weg in tunnel | |
+| wegdeel            | 12759 | regionale weg oprit/afrit | |
+| wegdeel            | 13530 | straat | |
+| wegdeel            | 13537 | straat op brug | |
+| wegdeel            | 13538 | straat in tunnel | |
+| wegdeel            | 13620 | fietspad | |
+| wegdeel            | 13640 | fietspad | |
+| wegdeel            | 13900 | overige weg | | 
+| wegdeel            | 00008 | weg in tunnel | |
+| spoorbaandeel      | 14000 | treinspoor | |
+| spoorbaandeel      | 14002 | spoor onder ander object | Niet visualiseren |
+| spoorbaandeel      | 14010 | spoor onder ander object | Niet visualiseren |
+| spoorbaandeel      | 14042 | spoor onder ander object | Niet visualiseren |
+| spoorbaandeel      | 14050 | spoor onder ander object | Niet visualiseren |
+| spoorbaandeel      | 14230 | tram | |
+| spoorbaandeel      | 14260 | metro / sneltram | |
+| spoorbaandeel      | 14300 | metro / sneltram | |
+| spoorbaandeel      | 14008 | spoor in tunnel | |
+| spoorbaandeel      | 14268 | metro / sneltram in tunnel | |
+| spoorbaandeel      | 14308 | metro / sneltram in tunnel | |
+| spoorbaandeel      | 14238 | tram in tunnel | |
+| spoorbaandeel      | 12345 | spoor onder ander object | Niet visualiseren |
+| waterdeel          | 16000 | zee | |
+| waterdeel          | 16110 | meer, plas | |
+| waterdeel          | 16310 | waterloop | |
+| waterdeel          | 16210 | droogvallend | |
+| waterdeel          | 16002 | water onder brug | Niet visualiseren |
+| waterdeel          | 16020 | waterloop (3-6m) | |
+| waterdeel          | 16010 | waterloop (0,5-3m) | | 
+| gebouw             | 11000 | gebouwvlak | |
+| gebouw             | 11030 | gebouwvlak | |
+| gebouw             | 11080 | gebouwvlak | |
+| gebouw             | 16540 | gebouwvlak | |
+| terrein            | 16290 | steenglooing | |
+| terrein            | 15250 | zand | |
+| terrein            | 15252 | zand: dras, moeras, riet | |
+| terrein            | 15240 | heide | |
+| terrein            | 15242 | heide: dras, moeras, riet | |
+| terrein            | 15020 | bos | |
+| terrein            | 15021 | bos: dras, moeras, riet | |
+| terrein            | 11070 | kassengebied | |
+| terrein            | 11010 | bebouwd gebied | |
+| terrein            | 16510 | aanlegsteiger | |  
+| terrein            | 15212 | grasland: dras, moeras, riet | Alleen op BRT-A water |
+| terrein            | 15999 | resterend: dras, moeras, riet | Alleen op BRT-A water |
+| inrichtingselement | 11040 | muur | |
+| inrichtingselement | 14410 | kabelbaan | |
+| inrichtingselement | 14810 | hoogspanningsleiding | |
+| inrichtingselement | 16260 | onderlegger Nederland | |
+| inrichtingselement | 16520 | aanlegsteiger | |
+| inrichtingselement | 16720 | sluisdeur | Alleen op BRT-A water |
+| inrichtingselement | 16730 | stuw | Alleen op BRT-A water |
+| inrichtingselement | 16840 | stormvloedkering | Alleen op BRT-A water |
+| inrichtingselement | 17160 | geluidswering | |
+| inrichtingselement | 18190 | hekwerk | |
+| inrichtingselement | 14800 | hoogspanningsmast | |
+| registratiegebied  | 18080 | land/grens (NL) | |
+| registratiegebied  | 18089 | landsgrens (NL-BE, NL-DE) | |
+| registratiegebied  | 18040 | provinciegrens | |
+| annotaties         | 18000 | plaatsnamen | | 
+| annotaties         | 18100 | plaatsnamen (BRT-A water) | Andere selectie voor BRT-A water |
+| annotaties         | 18001 | wijknamen | | 
+| annotaties         | 10000 | A-wegnummers | | 
+| annotaties         | 10001 | N-wegnummers | | 
+| annotaties         | 18200 | sluisnamen | Alleen op BRT-A water |
+| annotaties         | 16610 | kilometrering vaarwegen | Alleen op BRT-A water |
+| annotaties         | 16620 | kilometrering vaarwegen | Alleen op BRT-A water |
+| annotaties         | 17310 | hoogtepunten | Alleen op BRT-A water |
+| annotaties         | 16230 | dieptepunten | Alleen op BRT-A water |
+| annotaties         | 18300 | deltawerken | Alleen op BRT-A water |
+| waterlabel         | 17000 | waterlabellijn | |
+| waterlabel         | 17005 | waterlabellijn kort | Niet visualiseren, want te kort |
+
+_Tabel 6.2: Tabel met een overzicht van de gebruikte visualisatiecodes in de BRT Achtergrondkaart in Vectortiles._
+
 # 7 Catalogus Basisregistratie Topografie
 
 In de catalogus van de Basisregistratie Topografie worden objecten en hun attributen in detail beschreven. Dit wordt gedaan door voor de objecten de attributen en attribuutwaarden te beschrijven. Onder andere worden de definitie, inwinningscriteria, multipliciteit en optionaliteit van de attributen en attribuutwaarden gegeven. Meer informatie over deze attributen is te vinden in de paragrafen [**3.6**](#36-volledigheid-top10nl), [**4.3.3**](#433-multipliciteit-van-een-kenmerk) en [**4.3.4**](#434-optionaliteit-van-een-kenmerk). Ook wordt aangegeven als welk geometrietype het object kan voorkomen.
