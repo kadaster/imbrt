@@ -1737,7 +1737,7 @@ In paragraaf [**6.2**](#62-uml-model-en-xsd-top10nl) is het UML-model en de XSD 
 
 Voor De BRT Achtergrondkaart zijn ook de **OGC API Tiles en Styles (Vectortiles)** beschikbaar.<br>
 De **OGC API-Tiles** is een nieuwe standaard waarmee visualisaties van topografische data gemaakt kunnen worden. Deze visualisaties kunnen daarna gebruikt worden in toepassingen zoals kaartviewers en andere topografische applicaties. Om snel te kunnen beginnen zijn van de BRT Achtergrondkaart de visualisaties 'standaard', 'dark mode' en 'labels' beschikbaar in de **OGC API-Styles**. In deze API kunnen deze visualisaties ook aangepast worden.<br>
-Deze OGC API's zijn beschikbaar op: [api.pdok.nl/kadaster/brt-achtergrondkaart/ogc/v1](https://api.pdok.nl/kadaster/brt-achtergrondkaart/ogc/v1)
+Deze OGC API's zijn beschikbaar op: [**api.pdok.nl/kadaster/brt-achtergrondkaart/ogc/v1**](https://api.pdok.nl/kadaster/brt-achtergrondkaart/ogc/v1)
 
 # 7 Catalogus Basisregistratie Topografie
 
