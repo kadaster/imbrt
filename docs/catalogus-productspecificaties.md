@@ -2,7 +2,7 @@
 
 # Basisregistratie Topografie: Catalogus en Productspecificaties
 
-Versie: 1.2.0.7
+Versie: 1.2.0.8
 
 # Inleiding
 
@@ -49,7 +49,8 @@ Belangrijk: om de tabel hieronder juist weer te geven, moet er een witregel na d
 
 | Versie | Datum | Auteur | Opmerking | Link naar historische versie |
 |:---|:---|:---|:---|:---|
-| 1.2.0.7 | 28 november 2024 | Kadaster | Wijzigingen n.a.v. Audit BRT 2023 doorgevoerd. | - |
+| 1.2.0.8 | 13 mei 2026 | Kadaster | Toevoeging visualisatiecodes OGC API's TOP10NL en BRT Achtergrondkaart. | - |
+| 1.2.0.7 | 28 november 2024 | Kadaster | Wijzigingen n.a.v. Audit BRT 2023 doorgevoerd. | [versie 1.2.0.7 (web)](https://github.com/kadaster/imbrt/blob/66455d03ae23accfb0b72ab442abf2b9baae3e43/docs/catalogus-productspecificaties.md) |
 | 1.2.0.6 | 7 oktober 2024 | Kadaster | Correctie definities vanuit waardelijsten TOP10NL. <br> Toevoegen paragraaf over analytische cookies. <br> Nalopen URL's. <br> Toevoegen TOP10NL OGC API's. | [versie 1.2.0.6 (web)](https://github.com/kadaster/imbrt/blob/d423c21f7fb0d52bb0f9b4906d7b254c8234ae1a/docs/catalogus-productspecificaties.md) |
 | 1.2.0.5 | 21 december 2021 | Kadaster | Wijzigingen n.a.v. Audit BRT 2020 doorgevoerd. <br> Toepassen webrichtlijnen. <br> Actualiseren bestandsleveringen en webservices. | [versie 1.2.0.5 (web)](https://github.com/kadaster/imbrt/blob/9ee6d84530386795e194e1716df92db5a6d20698/docs/catalogus-productspecificaties.md) |
 | 1.2.0.4 | 22 juli 2021 | Kadaster | Toevoeging hoofdstuk met wijzigingen t.o.v. vorige versie, toevoeging link naar historische versies BRT Catalogus. | [versie 1.2.0.4 (web)](https://github.com/kadaster/imbrt/blob/5639d20316bd183a59d27a41e44eb312f64d8286/docs/catalogus-productspecificaties.md) |
@@ -70,15 +71,8 @@ Het is ook mogelijk om alle wijzigingen ten opzichte van de vorige versie van de
 
 ## Belangrijkste verschillen
 
-De belangrijkste wijzigingen in versie 1.2.0.7 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
-- Wijzigingen n.a.v. Audit BRT 2023 doorgevoerd:
-  - Verduidelijking regels wegdeel voor verhardingstype onbekend en geclassificeerde wegen.
-  - Verduidelijking regels gebouw voor tweedelijns bebouwing, samenvoeging dicht bij elkaar staande bebouwing en stacaravans.
-  - Verduidelijking regels inrichtingselement voor bomenrij en koedam.
-  - Verduidelijking regels hoogte voor hoogtelijn.
-  - Verduidelijking regels geografisch gebied voor eiland.
-  - Verduidelijking regels functioneel gebied voor waterkering.
-- Op verschillende plekken in de Catalogus is de naamgeving van attributen geüniformeerd en zijn ter verduidelijking opsommingen toegevoegd.
+De belangrijkste wijzigingen in versie 1.2.0.8 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
+- Toevoeging visualisatiecodes OGC API's TOP10NL en BRT Achtergrondkaart.
 
 ## Alle verschillen
 <!--
@@ -88,8 +82,8 @@ Laatste gedeelte van de URL achter "compare": hier staat de "master", oftewel de
 Deze link werkt alleen als de werk-branch is gepushed naar de master, gebruik tijdens het doorvoeren van wijzigingen het Pull-request om de verschillen te zien
 -->
 
-Alle verschillen tussen versie 1.2.0.7 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie kunnen bekeken worden in GitHub:
-> [**Bekijk alle verschillen in GitHub**](https://github.com/kadaster/imbrt/compare/d423c21...master#files_bucket)
+Alle verschillen tussen versie 1.2.0.8 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie kunnen bekeken worden in GitHub:
+> [**Bekijk alle verschillen in GitHub**](https://github.com/kadaster/imbrt/compare/66455d0...master#files_bucket)
 
 Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecificaties weergegeven, aan de linkerzijde de vorige versie en aan de rechterzijde de huidige versie. Alleen de gedeelten van de BRT Catalogus en Productspecificaties waar wijzigingen hebben plaatsgevonden, worden weergegeven. Door middel van de kleuren roze en groen worden de verschillen tussen beide versies gemarkeerd. De betekenis van de kleuren is als volgt:
 > - een licht roze kleur markeert de vorige versie van de desbetreffende regel
