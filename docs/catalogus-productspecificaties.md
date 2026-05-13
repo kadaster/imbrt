@@ -1743,7 +1743,7 @@ In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen
 
 | Tabel (geometrie)  | Viscode | Vistext | Opmerking |
 |:-------------------|:--------|:--------|:----------|
-| nederland          | 18080 | - | Nederland, aleen voor zoomniveau 0 en 1 |
+| nederland          | 18080 | Nederland | Aleen voor zoomniveau 0 en 1 |
 | nederland          | 18081 | (zee)water | |
 | nederland          | 15260 | onderlegger Nederland | |
 | wegdeel            | 12000 | autosnelweg | |
@@ -1814,7 +1814,7 @@ In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen
 | inrichtingselement  | 17160 | geluidswering | |
 | inrichtingselement  | 18190 | hekwerk | |
 | inrichtingselement  | 14800 | hoogspanningsmast | |
-| inrichtingselement  | 16260 | onderlegger Nederland | |
+| inrichtingselement  | 16260 | strekdam krib golfbreker | Alleen op BRT-A water |
 | inrichtingselement  | 16720 | sluisdeur | Alleen op BRT-A water |
 | inrichtingselement  | 16730 | stuw | Alleen op BRT-A water |
 | inrichtingselement  | 16840 | stormvloedkering | Alleen op BRT-A water |
