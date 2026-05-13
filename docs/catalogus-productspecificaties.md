@@ -1741,72 +1741,72 @@ Deze OGC API's zijn beschikbaar op: [**api.pdok.nl/kadaster/brt-achtergrondkaart
 
 In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen die gebruikt kunnen worden voor visualisatie: het attribuut  **'viscode'** met numerieke code en het attribuut **'vistekst"** met een tekstuele code. In onderstaande tabel zijn de gebruikte visualisatiecodes voor de BRT Achtergrondkaart gegeven:
 
-| Tabel (geometrie)  | Viscode | Vistext | Opmerking |
-|:-------------------|:--------|:--------|:----------|
-| nederland          | 18080 | Nederland | Aleen voor zoomniveau 0 en 1 |
-| nederland          | 18081 | (zee)water | |
-| nederland          | 15260 | onderlegger Nederland | |
-| wegdeel            | 12000 | autosnelweg | |
-| wegdeel            | 12001 | E-weg | |
-| wegdeel            | 12007 | autosnelweg op brug | |
-| wegdeel            | 12008 | autosnelweg in tunnel | |
-| wegdeel            | 12009 | autosnelweg oprit/afrit | |
-| wegdeel            | 12100 | hoofdweg | |
-| wegdeel            | 12107 | hoofdweg op brug | |
-| wegdeel            | 12108 | hoofdweg in tunnel | |
-| wegdeel            | 12109 | hoofdweg oprit/afrit | |
-| wegdeel            | 12750 | regionale weg | |
-| wegdeel            | 12757 | regionale weg op brug | |
-| wegdeel            | 12758 | regionale weg in tunnel | |
-| wegdeel            | 12759 | regionale weg oprit/afrit | |
-| wegdeel            | 12080 | lokale weg | |
-| wegdeel            | 12087 | lokale weg op brug | |
-| wegdeel            | 12088 | lokale weg in tunnel | |
-| wegdeel            | 12089 | lokale weg oprit/afrit | |
-| wegdeel            | 13530 | straat | |
-| wegdeel            | 13537 | straat op brug | |
-| wegdeel            | 13538 | straat in tunnel | |
-| wegdeel            | 13620 | fietspad | |
-| wegdeel            | 13640 | fietspad | |
-| wegdeel            | 13900 | overige weg | | 
-| wegdeel            | 00008 | weg in tunnel | |
-| spoorbaandeel      | 14000 | treinspoor | |
-| spoorbaandeel      | 14008 | spoor in tunnel | |
-| spoorbaandeel      | 14260 | metro / sneltram | |
-| spoorbaandeel      | 14268 | metro / sneltram in tunnel | |
-| spoorbaandeel      | 14300 | metro / sneltram | |
-| spoorbaandeel      | 14308 | metro / sneltram in tunnel | |
-| spoorbaandeel      | 14230 | tram | |
-| spoorbaandeel      | 14238 | tram in tunnel | |
-| spoorbaandeel      | 14002 | spoor onder ander object | Niet visualiseren |
-| spoorbaandeel      | 14010 | spoor onder ander object | Niet visualiseren |
-| spoorbaandeel      | 14042 | spoor onder ander object | Niet visualiseren |
-| spoorbaandeel      | 14050 | spoor onder ander object | Niet visualiseren |
-| spoorbaandeel      | 12345 | spoor onder ander object | Niet visualiseren |
-| waterdeel          | 16000 | zee | |
-| waterdeel          | 16210 | droogvallend | |
-| waterdeel          | 16110 | meer, plas | |
-| waterdeel          | 16310 | waterloop | |
-| waterdeel          | 16002 | water onder brug | Niet visualiseren |
-| waterdeel          | 16020 | waterloop (3-6m) | |
-| waterdeel          | 16010 | waterloop (0,5-3m) | | 
-| gebouw             | 11000 | gebouwvlak | |
-| gebouw             | 11030 | gebouwvlak | |
-| gebouw             | 11070 | gebouwvlak | |
-| gebouw             | 11080 | gebouwvlak | |
-| gebouw             | 16540 | gebouwvlak | |
-| terrein            | 16290 | steenglooing | |
-| terrein            | 15250 | zand | |
-| terrein            | 15252 | zand: dras, moeras, riet | |
-| terrein            | 15240 | heide | |
-| terrein            | 15242 | heide: dras, moeras, riet | |
-| terrein            | 15020 | bos | |
-| terrein            | 15021 | bos: dras, moeras, riet | |
-| terrein            | 11070 | kassengebied | |
-| terrein            | 11010 | bebouwd gebied | |
-| terrein            | 16510 | aanlegsteiger | |  
-| terrein            | 15212 | grasland: dras, moeras, riet | Alleen op BRT-A water |
-| terrein            | 15999 | resterend: dras, moeras, riet | Alleen op BRT-A water |
+| Tabel (geometrie)   | Viscode | Vistext | Opmerking |
+|:--------------------|:--------|:--------|:----------|
+| nederland           | 18080 | Nederland | Aleen voor zoomniveau 0 en 1 |
+| nederland           | 18081 | (zee)water | |
+| nederland           | 15260 | onderlegger Nederland | |
+| wegdeel             | 12000 | autosnelweg | |
+| wegdeel             | 12001 | E-weg | |
+| wegdeel             | 12007 | autosnelweg op brug | |
+| wegdeel             | 12008 | autosnelweg in tunnel | |
+| wegdeel             | 12009 | autosnelweg oprit/afrit | |
+| wegdeel             | 12100 | hoofdweg | |
+| wegdeel             | 12107 | hoofdweg op brug | |
+| wegdeel             | 12108 | hoofdweg in tunnel | |
+| wegdeel             | 12109 | hoofdweg oprit/afrit | |
+| wegdeel             | 12750 | regionale weg | |
+| wegdeel             | 12757 | regionale weg op brug | |
+| wegdeel             | 12758 | regionale weg in tunnel | |
+| wegdeel             | 12759 | regionale weg oprit/afrit | |
+| wegdeel             | 12080 | lokale weg | |
+| wegdeel             | 12087 | lokale weg op brug | |
+| wegdeel             | 12088 | lokale weg in tunnel | |
+| wegdeel             | 12089 | lokale weg oprit/afrit | |
+| wegdeel             | 13530 | straat | |
+| wegdeel             | 13537 | straat op brug | |
+| wegdeel             | 13538 | straat in tunnel | |
+| wegdeel             | 13620 | fietspad | |
+| wegdeel             | 13640 | fietspad | |
+| wegdeel             | 13900 | overige weg | | 
+| wegdeel             | 00008 | weg in tunnel | |
+| spoorbaandeel       | 14000 | treinspoor | |
+| spoorbaandeel       | 14008 | spoor in tunnel | |
+| spoorbaandeel       | 14260 | metro / sneltram | |
+| spoorbaandeel       | 14268 | metro / sneltram in tunnel | |
+| spoorbaandeel       | 14300 | metro / sneltram | |
+| spoorbaandeel       | 14308 | metro / sneltram in tunnel | |
+| spoorbaandeel       | 14230 | tram | |
+| spoorbaandeel       | 14238 | tram in tunnel | |
+| spoorbaandeel       | 14002 | spoor onder ander object | Niet visualiseren |
+| spoorbaandeel       | 14010 | spoor onder ander object | Niet visualiseren |
+| spoorbaandeel       | 14042 | spoor onder ander object | Niet visualiseren |
+| spoorbaandeel       | 14050 | spoor onder ander object | Niet visualiseren |
+| spoorbaandeel       | 12345 | spoor onder ander object | Niet visualiseren |
+| waterdeel           | 16000 | zee | |
+| waterdeel           | 16210 | droogvallend | |
+| waterdeel           | 16110 | meer, plas | |
+| waterdeel           | 16310 | waterloop | |
+| waterdeel           | 16002 | water onder brug | Niet visualiseren |
+| waterdeel           | 16020 | waterloop (3-6m) | |
+| waterdeel           | 16010 | waterloop (0,5-3m) | | 
+| gebouw              | 11000 | gebouwvlak | |
+| gebouw              | 11030 | gebouwvlak | |
+| gebouw              | 11070 | gebouwvlak | |
+| gebouw              | 11080 | gebouwvlak | |
+| gebouw              | 16540 | gebouwvlak | |
+| terrein             | 16290 | steenglooing | |
+| terrein             | 15250 | zand | |
+| terrein             | 15252 | zand: dras, moeras, riet | |
+| terrein             | 15240 | heide | |
+| terrein             | 15242 | heide: dras, moeras, riet | |
+| terrein             | 15020 | bos | |
+| terrein             | 15021 | bos: dras, moeras, riet | |
+| terrein             | 11070 | kassengebied | |
+| terrein             | 11010 | bebouwd gebied | |
+| terrein             | 16510 | aanlegsteiger | |  
+| terrein             | 15212 | grasland: dras, moeras, riet | Alleen op BRT-A water |
+| terrein             | 15999 | resterend: dras, moeras, riet | Alleen op BRT-A water |
 | inrichtingselement  | 11040 | muur | |
 | inrichtingselement  | 14410 | kabelbaan | |
 | inrichtingselement  | 14810 | hoogspanningsleiding | |
@@ -1833,7 +1833,7 @@ In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen
 | annotaties          | 16230 | dieptepunten | Alleen op BRT-A water |
 | annotaties          | 18300 | deltawerken | Alleen op BRT-A water |
 | straatnamen         |     - | - | Straatnamen hebben geen codes |
-| waterdeelvlak_label |     - | - | Waterlabels hebben geen codes |
+| waterdeelvlak_label |     - | - | Waterdeellabels hebben geen codes |
 | waterlabellijn      | 17000 | waterlabellijn | |
 | waterlabellijn      | 17005 | waterlabellijn kort | Niet visualiseren, want te kort |
 
