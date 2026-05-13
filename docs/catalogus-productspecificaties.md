@@ -1750,10 +1750,6 @@ In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen
 | wegdeel            | 12007 | autosnelweg op brug | |
 | wegdeel            | 12008 | autosnelweg in tunnel | |
 | wegdeel            | 12009 | autosnelweg oprit/afrit | |
-| wegdeel            | 12080 | lokale weg | |
-| wegdeel            | 12087 | lokale weg op brug | |
-| wegdeel            | 12088 | lokale weg in tunnel | |
-| wegdeel            | 12089 | lokale weg oprit/afrit | |
 | wegdeel            | 12100 | hoofdweg | |
 | wegdeel            | 12107 | hoofdweg op brug | |
 | wegdeel            | 12108 | hoofdweg in tunnel | |
@@ -1762,6 +1758,10 @@ In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen
 | wegdeel            | 12757 | regionale weg op brug | |
 | wegdeel            | 12758 | regionale weg in tunnel | |
 | wegdeel            | 12759 | regionale weg oprit/afrit | |
+| wegdeel            | 12080 | lokale weg | |
+| wegdeel            | 12087 | lokale weg op brug | |
+| wegdeel            | 12088 | lokale weg in tunnel | |
+| wegdeel            | 12089 | lokale weg oprit/afrit | |
 | wegdeel            | 13530 | straat | |
 | wegdeel            | 13537 | straat op brug | |
 | wegdeel            | 13538 | straat in tunnel | |
@@ -1770,22 +1770,22 @@ In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen
 | wegdeel            | 13900 | overige weg | | 
 | wegdeel            | 00008 | weg in tunnel | |
 | spoorbaandeel      | 14000 | treinspoor | |
+| spoorbaandeel      | 14008 | spoor in tunnel | |
+| spoorbaandeel      | 14260 | metro / sneltram | |
+| spoorbaandeel      | 14268 | metro / sneltram in tunnel | |
+| spoorbaandeel      | 14300 | metro / sneltram | |
+| spoorbaandeel      | 14308 | metro / sneltram in tunnel | |
+| spoorbaandeel      | 14230 | tram | |
+| spoorbaandeel      | 14238 | tram in tunnel | |
 | spoorbaandeel      | 14002 | spoor onder ander object | Niet visualiseren |
 | spoorbaandeel      | 14010 | spoor onder ander object | Niet visualiseren |
 | spoorbaandeel      | 14042 | spoor onder ander object | Niet visualiseren |
 | spoorbaandeel      | 14050 | spoor onder ander object | Niet visualiseren |
-| spoorbaandeel      | 14230 | tram | |
-| spoorbaandeel      | 14260 | metro / sneltram | |
-| spoorbaandeel      | 14300 | metro / sneltram | |
-| spoorbaandeel      | 14008 | spoor in tunnel | |
-| spoorbaandeel      | 14268 | metro / sneltram in tunnel | |
-| spoorbaandeel      | 14308 | metro / sneltram in tunnel | |
-| spoorbaandeel      | 14238 | tram in tunnel | |
 | spoorbaandeel      | 12345 | spoor onder ander object | Niet visualiseren |
 | waterdeel          | 16000 | zee | |
+| waterdeel          | 16210 | droogvallend | |
 | waterdeel          | 16110 | meer, plas | |
 | waterdeel          | 16310 | waterloop | |
-| waterdeel          | 16210 | droogvallend | |
 | waterdeel          | 16002 | water onder brug | Niet visualiseren |
 | waterdeel          | 16020 | waterloop (3-6m) | |
 | waterdeel          | 16010 | waterloop (0,5-3m) | | 
@@ -1805,33 +1805,33 @@ In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen
 | terrein            | 16510 | aanlegsteiger | |  
 | terrein            | 15212 | grasland: dras, moeras, riet | Alleen op BRT-A water |
 | terrein            | 15999 | resterend: dras, moeras, riet | Alleen op BRT-A water |
-| inrichtingselement | 11040 | muur | |
-| inrichtingselement | 14410 | kabelbaan | |
-| inrichtingselement | 14810 | hoogspanningsleiding | |
-| inrichtingselement | 16260 | onderlegger Nederland | |
-| inrichtingselement | 16520 | aanlegsteiger | |
-| inrichtingselement | 16720 | sluisdeur | Alleen op BRT-A water |
-| inrichtingselement | 16730 | stuw | Alleen op BRT-A water |
-| inrichtingselement | 16840 | stormvloedkering | Alleen op BRT-A water |
-| inrichtingselement | 17160 | geluidswering | |
-| inrichtingselement | 18190 | hekwerk | |
-| inrichtingselement | 14800 | hoogspanningsmast | |
-| registratiegebied  | 18080 | land/grens (NL) | |
-| registratiegebied  | 18089 | landsgrens (NL-BE, NL-DE) | |
-| registratiegebied  | 18040 | provinciegrens | |
-| annotaties         | 18000 | plaatsnamen | | 
-| annotaties         | 18100 | plaatsnamen (BRT-A water) | Andere selectie voor BRT-A water |
-| annotaties         | 18001 | wijknamen | | 
-| annotaties         | 10000 | A-wegnummers | | 
-| annotaties         | 10001 | N-wegnummers | | 
-| annotaties         | 18200 | sluisnamen | Alleen op BRT-A water |
-| annotaties         | 16610 | kilometrering vaarwegen | Alleen op BRT-A water |
-| annotaties         | 16620 | kilometrering vaarwegen | Alleen op BRT-A water |
-| annotaties         | 17310 | hoogtepunten | Alleen op BRT-A water |
-| annotaties         | 16230 | dieptepunten | Alleen op BRT-A water |
-| annotaties         | 18300 | deltawerken | Alleen op BRT-A water |
-| waterlabel         | 17000 | waterlabellijn | |
-| waterlabel         | 17005 | waterlabellijn kort | Niet visualiseren, want te kort |
+| inrichtingselement  | 11040 | muur | |
+| inrichtingselement  | 14410 | kabelbaan | |
+| inrichtingselement  | 14810 | hoogspanningsleiding | |
+| inrichtingselement  | 16520 | aanlegsteiger | |
+| inrichtingselement  | 17160 | geluidswering | |
+| inrichtingselement  | 18190 | hekwerk | |
+| inrichtingselement  | 14800 | hoogspanningsmast | |
+| inrichtingselement  | 16260 | onderlegger Nederland | |
+| inrichtingselement  | 16720 | sluisdeur | Alleen op BRT-A water |
+| inrichtingselement  | 16730 | stuw | Alleen op BRT-A water |
+| inrichtingselement  | 16840 | stormvloedkering | Alleen op BRT-A water |
+| registratiegebied   | 18080 | land/grens (NL) | |
+| registratiegebied   | 18089 | landsgrens (NL-BE, NL-DE) | |
+| registratiegebied   | 18040 | provinciegrens | |
+| annotaties          | 18000 | plaatsnamen | | 
+| annotaties          | 18100 | plaatsnamen (BRT-A water) | Andere selectie voor BRT-A water |
+| annotaties          | 18001 | wijknamen | | 
+| annotaties          | 10000 | A-wegnummers | | 
+| annotaties          | 10001 | N-wegnummers | | 
+| annotaties          | 18200 | sluisnamen | Alleen op BRT-A water |
+| annotaties          | 16610 | kilometrering vaarwegen | Alleen op BRT-A water |
+| annotaties          | 16620 | kilometrering vaarwegen | Alleen op BRT-A water |
+| annotaties          | 17310 | hoogtepunten | Alleen op BRT-A water |
+| annotaties          | 16230 | dieptepunten | Alleen op BRT-A water |
+| annotaties          | 18300 | deltawerken | Alleen op BRT-A water |
+| waterlabellijn      | 17000 | waterlabellijn | |
+| waterlabellijn      | 17005 | waterlabellijn kort | Niet visualiseren, want te kort |
 
 _Tabel 6.2: Tabel met een overzicht van de gebruikte visualisatiecodes in de BRT Achtergrondkaart in Vectortiles._
 
