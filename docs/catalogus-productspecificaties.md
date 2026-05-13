@@ -1743,6 +1743,7 @@ In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen
 
 | Tabel (geometrie)  | Viscode | Vistext | Opmerking |
 |:-------------------|:--------|:--------|:----------|
+| nederland          | 18080 | - | Nederland, aleen voor zoomniveau 0 en 1 |
 | nederland          | 18081 | (zee)water | |
 | nederland          | 15260 | onderlegger Nederland | |
 | wegdeel            | 12000 | autosnelweg | |
@@ -1791,6 +1792,7 @@ In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen
 | waterdeel          | 16010 | waterloop (0,5-3m) | | 
 | gebouw             | 11000 | gebouwvlak | |
 | gebouw             | 11030 | gebouwvlak | |
+| gebouw             | 11070 | gebouwvlak | |
 | gebouw             | 11080 | gebouwvlak | |
 | gebouw             | 16540 | gebouwvlak | |
 | terrein            | 16290 | steenglooing | |
@@ -1830,6 +1832,8 @@ In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen
 | annotaties          | 17310 | hoogtepunten | Alleen op BRT-A water |
 | annotaties          | 16230 | dieptepunten | Alleen op BRT-A water |
 | annotaties          | 18300 | deltawerken | Alleen op BRT-A water |
+| straatnamen         |     - | - | |
+| waterdeelvlak_label |     - | - | |
 | waterlabellijn      | 17000 | waterlabellijn | |
 | waterlabellijn      | 17005 | waterlabellijn kort | Niet visualiseren, want te kort |
 
