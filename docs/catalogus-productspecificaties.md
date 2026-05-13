@@ -1832,8 +1832,8 @@ In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen
 | annotaties          | 17310 | hoogtepunten | Alleen op BRT-A water |
 | annotaties          | 16230 | dieptepunten | Alleen op BRT-A water |
 | annotaties          | 18300 | deltawerken | Alleen op BRT-A water |
-| straatnamen         |     - | - | |
-| waterdeelvlak_label |     - | - | |
+| straatnamen         |     - | - | Straatnamen hebben geen codes |
+| waterdeelvlak_label |     - | - | Waterlabels hebben geen codes |
 | waterlabellijn      | 17000 | waterlabellijn | |
 | waterlabellijn      | 17005 | waterlabellijn kort | Niet visualiseren, want te kort |
 
