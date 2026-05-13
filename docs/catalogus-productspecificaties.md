@@ -2,7 +2,7 @@
 
 # Basisregistratie Topografie: Catalogus en Productspecificaties
 
-Versie: 1.2.0.7
+Versie: 1.2.0.8
 
 # Inleiding
 
@@ -49,7 +49,8 @@ Belangrijk: om de tabel hieronder juist weer te geven, moet er een witregel na d
 
 | Versie | Datum | Auteur | Opmerking | Link naar historische versie |
 |:---|:---|:---|:---|:---|
-| 1.2.0.7 | 28 november 2024 | Kadaster | Wijzigingen n.a.v. Audit BRT 2023 doorgevoerd. | - |
+| 1.2.0.8 | 13 mei 2026 | Kadaster | Toevoeging visualisatiecodes OGC API's TOP10NL en BRT Achtergrondkaart. | - |
+| 1.2.0.7 | 28 november 2024 | Kadaster | Wijzigingen n.a.v. Audit BRT 2023 doorgevoerd. | [versie 1.2.0.7 (web)](https://github.com/kadaster/imbrt/blob/66455d03ae23accfb0b72ab442abf2b9baae3e43/docs/catalogus-productspecificaties.md) |
 | 1.2.0.6 | 7 oktober 2024 | Kadaster | Correctie definities vanuit waardelijsten TOP10NL. <br> Toevoegen paragraaf over analytische cookies. <br> Nalopen URL's. <br> Toevoegen TOP10NL OGC API's. | [versie 1.2.0.6 (web)](https://github.com/kadaster/imbrt/blob/d423c21f7fb0d52bb0f9b4906d7b254c8234ae1a/docs/catalogus-productspecificaties.md) |
 | 1.2.0.5 | 21 december 2021 | Kadaster | Wijzigingen n.a.v. Audit BRT 2020 doorgevoerd. <br> Toepassen webrichtlijnen. <br> Actualiseren bestandsleveringen en webservices. | [versie 1.2.0.5 (web)](https://github.com/kadaster/imbrt/blob/9ee6d84530386795e194e1716df92db5a6d20698/docs/catalogus-productspecificaties.md) |
 | 1.2.0.4 | 22 juli 2021 | Kadaster | Toevoeging hoofdstuk met wijzigingen t.o.v. vorige versie, toevoeging link naar historische versies BRT Catalogus. | [versie 1.2.0.4 (web)](https://github.com/kadaster/imbrt/blob/5639d20316bd183a59d27a41e44eb312f64d8286/docs/catalogus-productspecificaties.md) |
@@ -70,15 +71,8 @@ Het is ook mogelijk om alle wijzigingen ten opzichte van de vorige versie van de
 
 ## Belangrijkste verschillen
 
-De belangrijkste wijzigingen in versie 1.2.0.7 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
-- Wijzigingen n.a.v. Audit BRT 2023 doorgevoerd:
-  - Verduidelijking regels wegdeel voor verhardingstype onbekend en geclassificeerde wegen.
-  - Verduidelijking regels gebouw voor tweedelijns bebouwing, samenvoeging dicht bij elkaar staande bebouwing en stacaravans.
-  - Verduidelijking regels inrichtingselement voor bomenrij en koedam.
-  - Verduidelijking regels hoogte voor hoogtelijn.
-  - Verduidelijking regels geografisch gebied voor eiland.
-  - Verduidelijking regels functioneel gebied voor waterkering.
-- Op verschillende plekken in de Catalogus is de naamgeving van attributen geüniformeerd en zijn ter verduidelijking opsommingen toegevoegd.
+De belangrijkste wijzigingen in versie 1.2.0.8 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie zijn:
+- Toevoeging visualisatiecodes OGC API's TOP10NL en BRT Achtergrondkaart.
 
 ## Alle verschillen
 <!--
@@ -88,8 +82,8 @@ Laatste gedeelte van de URL achter "compare": hier staat de "master", oftewel de
 Deze link werkt alleen als de werk-branch is gepushed naar de master, gebruik tijdens het doorvoeren van wijzigingen het Pull-request om de verschillen te zien
 -->
 
-Alle verschillen tussen versie 1.2.0.7 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie kunnen bekeken worden in GitHub:
-> [**Bekijk alle verschillen in GitHub**](https://github.com/kadaster/imbrt/compare/d423c21...master#files_bucket)
+Alle verschillen tussen versie 1.2.0.8 van de BRT Catalogus en Productspecificaties ten opzichte van de vorige versie kunnen bekeken worden in GitHub:
+> [**Bekijk alle verschillen in GitHub**](https://github.com/kadaster/imbrt/compare/66455d0...master#files_bucket)
 
 Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecificaties weergegeven, aan de linkerzijde de vorige versie en aan de rechterzijde de huidige versie. Alleen de gedeelten van de BRT Catalogus en Productspecificaties waar wijzigingen hebben plaatsgevonden, worden weergegeven. Door middel van de kleuren roze en groen worden de verschillen tussen beide versies gemarkeerd. De betekenis van de kleuren is als volgt:
 > - een licht roze kleur markeert de vorige versie van de desbetreffende regel
@@ -177,6 +171,7 @@ Op deze internetpagina worden twee versies van de BRT Catalogus en Productspecif
   - [6.6 Webservices en OGC API's](#66-webservices-en-ogc-apis)
   - [6.7 Andere BRT-producten](#67-andere-brt-producten)
   - [6.8 Andere BRT UML-modellen en XSD's](#68-andere-brt-uml-modellen-en-xsds)
+  - [6.9 BRT Achtergrondkaart API's](#69-brt-achtergrondkaart-apis)
 - [7 Catalogus Basisregistratie Topografie](#7-catalogus-basisregistratie-topografie)
   - [7.1 Objectklasse onafhankelijke attributen en domeinen](#71-objectklasse-onafhankelijke-attributen-en-domeinen)
     - [7.1.1 Attributen](#711-attributen)
@@ -444,6 +439,8 @@ Afhankelijk van het GIS-software pakket dat gebruikt wordt, kunnen vele GIS anal
 ### 3.8.2 Visualisatie
 
 De TOP10NL database bevat geo-objecten met een beschrijving van de eigenschappen. Sinds september 2012 heeft ieder object een visualisatiecode gekregen. Hiermee is het visualiseren van TOP10NL eenvoudiger gemaakt. Het Kadaster levert standaard visualisatiemodules mee met de TOP10NL-data gebaseerd op de topografische kaart 1:25.000. Ook kan de gebruiker zelf visualisaties definiëren in de applicatiesoftware.
+
+Een overzicht met de mogelijke visualisatiecodes voor TOP10NL waarop de visualisatie gebaseerd is, kan gevonden worden in het bestand **'BRT_TOP10NL_1.2_visualisatiecode_attributen.xlsx'** op: [**register.geostandaarden.nl/visualisatie/top10nl/1.2.0/**](https://register.geostandaarden.nl/visualisatie/top10nl/1.2.0/)
 
 ![Deze figuur laat de standaardvisualisatie van TOP10NL zien, afgebeeld in het GIS-pakket QGIS.](images/figuur3-1.png "Standaardvisualisatie van TOP10NL")
 
@@ -1709,10 +1706,13 @@ De BRT geopackages kunnen gedownload worden via de productpagina's van de BRT op
 
 Een webservice maakt het mogelijk een kaartbeeld in een webapplicatie te gebruiken, zonder dat de beheerder van de applicatie de geodata zelf in huis hoeft te hebben. Een webservice ontsluit dus de topografie "bij de bron". Voor TOP10NL is een WMS en een WMTS ingericht, waarmee de gegevens uit TOP10NL te bekijken zijn. Deze webservices zijn beschikbaar via het tabblad **(OGC) Webservices** op de productpagina van TOPNL: [**www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl**](https://www.pdok.nl/introductie/-/article/basisregistratie-topografie-brt-topnl)
 
-Voor TOP10NL zijn ook de **OGC API Features** en **OGC API Tiles en Styles (Vectortiles)** beschikbaar.<br>
+Voor TOP10NL zijn ook de **OGC API Features** en **OGC API Tiles en Styles (Vectortiles)** beschikbaar.
+
 De **OGC API-Tiles** is een nieuwe standaard waarmee visualisaties van topografische data gemaakt kunnen worden. Deze visualisaties kunnen daarna gebruikt worden in toepassingen zoals kaartviewers en andere topografische applicaties. Om snel te kunnen beginnen is de standaardvisualisatie van TOP10NL beschikbaar in de **OGC API-Styles**. In deze API kan die standaardvisualisatie ook aangepast worden.<br>
+Een overzicht met de mogelijke visualisatiecodes voor TOP10NL waarop de visualisatie gebaseerd is, kan gevonden worden in het bestand **'BRT_TOP10NL_1.2_visualisatiecode_attributen.xlsx'** op: [**register.geostandaarden.nl/visualisatie/top10nl/1.2.0/**](https://register.geostandaarden.nl/visualisatie/top10nl/1.2.0/)
+
 In de **OGC API-Features** is de complete TOP10NL-dataset beschikbaar. Hiermee kunnen specifieke objecten van TOP10NL-informatie gedownload worden, op basis van bijvoorbeeld een interessegebied of een ID. Omdat met de OGC API-Features de TOP10NL-informatie op objectniveau bekeken wordt, is er geen specifieke geografische kennis of een specifieke applicatie nodig.<br>
-Deze OGC API's zijn beschikbaar op: [api.pdok.nl/brt/top10nl/ogc/v1](https://api.pdok.nl/brt/top10nl/ogc/v1)
+Deze OGC API's zijn beschikbaar op: [**api.pdok.nl/brt/top10nl/ogc/v1**](https://api.pdok.nl/brt/top10nl/ogc/v1)
 
 ## 6.7 Andere BRT-producten
 
@@ -1732,6 +1732,112 @@ _Tabel 6.1: Tabel met verwijzingen naar productpagina's._
 
 In paragraaf [**6.2**](#62-uml-model-en-xsd-top10nl) is het UML-model en de XSD van TOP10NL beschreven. In het technisch register bij Geonovum kunnen de  UML-modellen en XSD's van de BRT in het algemeen en van de overige BRT producten gevonden worden: 
 [**register.geostandaarden.nl/brt/index.html**](https://register.geostandaarden.nl/brt/index.html)
+
+# 6.9 BRT Achtergrondkaart API's
+
+Voor de BRT Achtergrondkaart zijn ook de **OGC API Tiles en Styles (Vectortiles)** beschikbaar.<br>
+De **OGC API-Tiles** is een nieuwe standaard waarmee visualisaties van topografische data gemaakt kunnen worden. Deze visualisaties kunnen daarna gebruikt worden in toepassingen zoals kaartviewers en andere topografische applicaties. Om snel te kunnen beginnen zijn van de BRT Achtergrondkaart de visualisaties 'standaard', 'dark mode' en 'labels' beschikbaar in de **OGC API-Styles**. In deze API kunnen deze visualisaties ook aangepast worden.<br>
+Deze OGC API's zijn beschikbaar op: [**api.pdok.nl/kadaster/brt-achtergrondkaart/ogc/v1**](https://api.pdok.nl/kadaster/brt-achtergrondkaart/ogc/v1)
+
+In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen die gebruikt kunnen worden voor visualisatie: het attribuut  **'viscode'** met numerieke code en het attribuut **'vistext"** met een tekstuele code. De tekstuele code geeft een goede omschrijving van het te visualiseren object. In onderstaande tabel zijn de gebruikte visualisatiecodes voor de BRT Achtergrondkaart gegeven:
+
+| Tabel (geometrie)   | Viscode | Vistext | Opmerking |
+|:--------------------|:--------|:--------|:----------|
+| nederland           | 18080 | Nederland | Aleen voor zoomniveau 0 en 1 |
+| nederland           | 18081 | (zee)water | |
+| nederland           | 15260 | onderlegger Nederland | |
+| wegdeel             | 12000 | autosnelweg | |
+| wegdeel             | 12001 | E-weg | |
+| wegdeel             | 12007 | autosnelweg op brug | |
+| wegdeel             | 12008 | autosnelweg in tunnel | |
+| wegdeel             | 12009 | autosnelweg oprit/afrit | |
+| wegdeel             | 12100 | hoofdweg | |
+| wegdeel             | 12107 | hoofdweg op brug | |
+| wegdeel             | 12108 | hoofdweg in tunnel | |
+| wegdeel             | 12109 | hoofdweg oprit/afrit | |
+| wegdeel             | 12750 | regionale weg | |
+| wegdeel             | 12757 | regionale weg op brug | |
+| wegdeel             | 12758 | regionale weg in tunnel | |
+| wegdeel             | 12759 | regionale weg oprit/afrit | |
+| wegdeel             | 12080 | lokale weg | |
+| wegdeel             | 12087 | lokale weg op brug | |
+| wegdeel             | 12088 | lokale weg in tunnel | |
+| wegdeel             | 12089 | lokale weg oprit/afrit | |
+| wegdeel             | 13530 | straat | |
+| wegdeel             | 13537 | straat op brug | |
+| wegdeel             | 13538 | straat in tunnel | |
+| wegdeel             | 13620 | fietspad | |
+| wegdeel             | 13640 | fietspad | |
+| wegdeel             | 13900 | overige weg | | 
+| wegdeel             | 00008 | weg in tunnel | |
+| spoorbaandeel       | 14000 | treinspoor | |
+| spoorbaandeel       | 14008 | spoor in tunnel | |
+| spoorbaandeel       | 14260 | metro / sneltram | |
+| spoorbaandeel       | 14268 | metro / sneltram in tunnel | |
+| spoorbaandeel       | 14300 | metro / sneltram | |
+| spoorbaandeel       | 14308 | metro / sneltram in tunnel | |
+| spoorbaandeel       | 14230 | tram | |
+| spoorbaandeel       | 14238 | tram in tunnel | |
+| spoorbaandeel       | 14002 | spoor onder ander object | Wordt niet gevisualiseerd |
+| spoorbaandeel       | 14010 | spoor onder ander object | Wordt niet gevisualiseerd |
+| spoorbaandeel       | 14042 | spoor onder ander object | Wordt niet gevisualiseerd |
+| spoorbaandeel       | 14050 | spoor onder ander object | Wordt niet gevisualiseerd |
+| spoorbaandeel       | 12345 | spoor onder ander object | Wordt niet gevisualiseerd |
+| waterdeel           | 16000 | zee | |
+| waterdeel           | 16210 | droogvallend | |
+| waterdeel           | 16110 | meer, plas | |
+| waterdeel           | 16310 | waterloop | |
+| waterdeel           | 16002 | water onder brug | Wordt niet gevisualiseerd |
+| waterdeel           | 16020 | waterloop (3-6m) | |
+| waterdeel           | 16010 | waterloop (0,5-3m) | | 
+| gebouw              | 11000 | gebouwvlak | |
+| gebouw              | 11030 | gebouwvlak | |
+| gebouw              | 11070 | gebouwvlak | |
+| gebouw              | 11080 | gebouwvlak | |
+| gebouw              | 16540 | gebouwvlak | |
+| terrein             | 16290 | steenglooing | |
+| terrein             | 15250 | zand | |
+| terrein             | 15252 | zand: dras, moeras, riet | |
+| terrein             | 15240 | heide | |
+| terrein             | 15242 | heide: dras, moeras, riet | |
+| terrein             | 15020 | bos | |
+| terrein             | 15021 | bos: dras, moeras, riet | |
+| terrein             | 11070 | kassengebied | |
+| terrein             | 11010 | bebouwd gebied | |
+| terrein             | 16510 | aanlegsteiger | |  
+| terrein             | 15212 | grasland: dras, moeras, riet | Alleen op BRT-A water |
+| terrein             | 15999 | resterend: dras, moeras, riet | Alleen op BRT-A water |
+| inrichtingselement  | 11040 | muur | |
+| inrichtingselement  | 14410 | kabelbaan | |
+| inrichtingselement  | 14810 | hoogspanningsleiding | |
+| inrichtingselement  | 16520 | aanlegsteiger | |
+| inrichtingselement  | 17160 | geluidswering | |
+| inrichtingselement  | 18190 | hekwerk | |
+| inrichtingselement  | 14800 | hoogspanningsmast | |
+| inrichtingselement  | 16260 | strekdam krib golfbreker | Alleen op BRT-A water |
+| inrichtingselement  | 16720 | sluisdeur | Alleen op BRT-A water |
+| inrichtingselement  | 16730 | stuw | Alleen op BRT-A water |
+| inrichtingselement  | 16840 | stormvloedkering | Alleen op BRT-A water |
+| registratiegebied   | 18080 | land/grens (NL) | |
+| registratiegebied   | 18089 | landsgrens (NL-BE, NL-DE) | |
+| registratiegebied   | 18040 | provinciegrens | |
+| annotaties          | 18000 | plaatsnamen | | 
+| annotaties          | 18100 | plaatsnamen (BRT-A water) | Andere selectie voor BRT-A water |
+| annotaties          | 18001 | wijknamen | | 
+| annotaties          | 10000 | A-wegnummers | | 
+| annotaties          | 10001 | N-wegnummers | | 
+| annotaties          | 18200 | sluisnamen | Alleen op BRT-A water |
+| annotaties          | 16610 | kilometrering vaarwegen | Alleen op BRT-A water |
+| annotaties          | 16620 | kilometrering vaarwegen | Alleen op BRT-A water |
+| annotaties          | 17310 | hoogtepunten | Alleen op BRT-A water |
+| annotaties          | 16230 | dieptepunten | Alleen op BRT-A water |
+| annotaties          | 18300 | deltawerken | Alleen op BRT-A water |
+| straatnamen         |     - | - | Straatnamen hebben geen codes |
+| waterdeelvlak_label |     - | - | Waterdeellabels hebben geen codes |
+| waterlabellijn      | 17000 | waterlabellijn | |
+| waterlabellijn      | 17005 | waterlabellijn kort | Wordt niet gevisualiseerd, want te kort |
+
+_Tabel 6.2: Tabel met een overzicht van de gebruikte visualisatiecodes in de BRT Achtergrondkaart in Vectortiles._
 
 # 7 Catalogus Basisregistratie Topografie
 
