@@ -1733,7 +1733,7 @@ _Tabel 6.1: Tabel met verwijzingen naar productpagina's._
 In paragraaf [**6.2**](#62-uml-model-en-xsd-top10nl) is het UML-model en de XSD van TOP10NL beschreven. In het technisch register bij Geonovum kunnen de  UML-modellen en XSD's van de BRT in het algemeen en van de overige BRT producten gevonden worden: 
 [**register.geostandaarden.nl/brt/index.html**](https://register.geostandaarden.nl/brt/index.html)
 
-# 6.9 BRT Achtergrondkaart API's
+## 6.9 BRT Achtergrondkaart API's
 
 Voor de BRT Achtergrondkaart zijn ook de **OGC API Tiles en Styles (Vectortiles)** beschikbaar.<br>
 De **OGC API-Tiles** is een nieuwe standaard waarmee visualisaties van topografische data gemaakt kunnen worden. Deze visualisaties kunnen daarna gebruikt worden in toepassingen zoals kaartviewers en andere topografische applicaties. Om snel te kunnen beginnen zijn van de BRT Achtergrondkaart de visualisaties 'standaard', 'dark mode' en 'labels' beschikbaar in de **OGC API-Styles**. In deze API kunnen deze visualisaties ook aangepast worden.<br>
