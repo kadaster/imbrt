@@ -49,7 +49,7 @@ Belangrijk: om de tabel hieronder juist weer te geven, moet er een witregel na d
 
 | Versie | Datum | Auteur | Opmerking | Link naar historische versie |
 |:---|:---|:---|:---|:---|
-| 1.2.0.8 | 13 mei 2026 | Kadaster | Toevoeging visualisatiecodes OGC API's TOP10NL en BRT Achtergrondkaart. | - |
+| 1.2.0.8 | 18 mei 2026 | Kadaster | Toevoeging visualisatiecodes OGC API's TOP10NL en BRT Achtergrondkaart. | - |
 | 1.2.0.7 | 28 november 2024 | Kadaster | Wijzigingen n.a.v. Audit BRT 2023 doorgevoerd. | [versie 1.2.0.7 (web)](https://github.com/kadaster/imbrt/blob/66455d03ae23accfb0b72ab442abf2b9baae3e43/docs/catalogus-productspecificaties.md) |
 | 1.2.0.6 | 7 oktober 2024 | Kadaster | Correctie definities vanuit waardelijsten TOP10NL. <br> Toevoegen paragraaf over analytische cookies. <br> Nalopen URL's. <br> Toevoegen TOP10NL OGC API's. | [versie 1.2.0.6 (web)](https://github.com/kadaster/imbrt/blob/d423c21f7fb0d52bb0f9b4906d7b254c8234ae1a/docs/catalogus-productspecificaties.md) |
 | 1.2.0.5 | 21 december 2021 | Kadaster | Wijzigingen n.a.v. Audit BRT 2020 doorgevoerd. <br> Toepassen webrichtlijnen. <br> Actualiseren bestandsleveringen en webservices. | [versie 1.2.0.5 (web)](https://github.com/kadaster/imbrt/blob/9ee6d84530386795e194e1716df92db5a6d20698/docs/catalogus-productspecificaties.md) |
@@ -1733,15 +1733,51 @@ _Tabel 6.1: Tabel met verwijzingen naar productpagina's._
 In paragraaf [**6.2**](#62-uml-model-en-xsd-top10nl) is het UML-model en de XSD van TOP10NL beschreven. In het technisch register bij Geonovum kunnen de  UML-modellen en XSD's van de BRT in het algemeen en van de overige BRT producten gevonden worden: 
 [**register.geostandaarden.nl/brt/index.html**](https://register.geostandaarden.nl/brt/index.html)
 
-# 6.9 BRT Achtergrondkaart API's
+## 6.9 BRT Achtergrondkaart API's
 
 Voor de BRT Achtergrondkaart zijn ook de **OGC API Tiles en Styles (Vectortiles)** beschikbaar.<br>
 De **OGC API-Tiles** is een nieuwe standaard waarmee visualisaties van topografische data gemaakt kunnen worden. Deze visualisaties kunnen daarna gebruikt worden in toepassingen zoals kaartviewers en andere topografische applicaties. Om snel te kunnen beginnen zijn van de BRT Achtergrondkaart de visualisaties 'standaard', 'dark mode' en 'labels' beschikbaar in de **OGC API-Styles**. In deze API kunnen deze visualisaties ook aangepast worden.<br>
 Deze OGC API's zijn beschikbaar op: [**api.pdok.nl/kadaster/brt-achtergrondkaart/ogc/v1**](https://api.pdok.nl/kadaster/brt-achtergrondkaart/ogc/v1)
 
-In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen die gebruikt kunnen worden voor visualisatie: het attribuut  **'viscode'** met numerieke code en het attribuut **'vistext"** met een tekstuele code. De tekstuele code geeft een goede omschrijving van het te visualiseren object. In onderstaande tabel zijn de gebruikte visualisatiecodes voor de BRT Achtergrondkaart gegeven:
+In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen die gebruikt kunnen worden voor visualisatie: het attribuut  **'viscode'** met numerieke code en/of het attribuut **'vistext"** met een tekstuele code. De tekstuele code geeft een goede omschrijving van het te visualiseren object.
 
-| Tabel (geometrie)   | Viscode | Vistext | Opmerking |
+De volgende tabel bevat de beschikbare lagen in de BRT Achtergrondkaart in Vectortiles. De zoomniveau's zijn opgegeven volgens het door [**PDOK gebruikte tilingschema in RD**](https://api.pdok.nl/kadaster/brt-achtergrondkaart/ogc/v1/tileMatrixSets/NetherlandsRDNewQuad).
+
+| Laagnaam                 | Zoomniveau min (RD) | Zoomniveau max (RD) |
+|:-------------------------|:--------------------|:--------------------|
+| annotaties               | 1 | 14 |
+| gebouwvlak               | 7 | 14 |
+| inrichtingselementlijn   | 7 | 14 |
+| inrichtingselementpunt   | 8 | 14 |
+| nederland                | 0 | 14 |
+| registratiefgebiedlijn   | 0 | 14 |
+| spoorbaandeellijn        | 4 | 14 |
+| straatnamen              | 8 | 14 |
+| terreinvlak              | 0 | 14 |
+| waterdeellijn            | 8 | 14 |
+| waterdeelvlak            | 2 | 14 |
+| waterdeelvlak_2_label    | 2 |  2 |
+| waterdeelvlak_3_label    | 3 |  3 |
+| waterdeelvlak_4_label    | 4 |  4 |
+| waterdeelvlak_5_label    | 5 |  5 |
+| waterdeelvlak_6_label    | 6 |  6 |
+| waterdeelvlak_7_label    | 7 |  7 |
+| waterdeelvlak_8_label    | 8 |  8 |
+| waterdeelvlak_9_14_label | 9 | 14 |
+| waterlabellijn_2         | 2 |  2 |
+| waterlabellijn_3         | 3 |  3 |
+| waterlabellijn_4         | 4 |  4 |
+| waterlabellijn_5         | 5 |  5 |
+| waterlabellijn_6         | 6 |  6 |
+| waterlabellijn_7         | 7 |  7 |
+| wegdeellijn              | 1 |  9 |
+| wegdeelvlak              | 7 | 14 |
+
+_Tabel 6.2: Tabel met een overzicht van de beschikbare lagen in de BRT Achtergrondkaart in Vectortiles._
+
+In onderstaande tabel zijn de gebruikte visualisatiecodes voor de BRT Achtergrondkaart per laag gegeven:
+
+| Laag (geometrie)    | Viscode | Vistext | Opmerking |
 |:--------------------|:--------|:--------|:----------|
 | nederland           | 18080 | Nederland | Aleen voor zoomniveau 0 en 1 |
 | nederland           | 18081 | (zee)water | |
@@ -1778,16 +1814,16 @@ In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen
 | spoorbaandeel       | 14308 | metro / sneltram in tunnel | |
 | spoorbaandeel       | 14230 | tram | |
 | spoorbaandeel       | 14238 | tram in tunnel | |
-| spoorbaandeel       | 14002 | spoor onder ander object | Wordt niet gevisualiseerd |
-| spoorbaandeel       | 14010 | spoor onder ander object | Wordt niet gevisualiseerd |
-| spoorbaandeel       | 14042 | spoor onder ander object | Wordt niet gevisualiseerd |
-| spoorbaandeel       | 14050 | spoor onder ander object | Wordt niet gevisualiseerd |
-| spoorbaandeel       | 12345 | spoor onder ander object | Wordt niet gevisualiseerd |
+| spoorbaandeel       | 14002 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisatie |
+| spoorbaandeel       | 14010 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisatie |
+| spoorbaandeel       | 14042 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisatie |
+| spoorbaandeel       | 14050 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisatie |
+| spoorbaandeel       | 12345 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisatie |
 | waterdeel           | 16000 | zee | |
 | waterdeel           | 16210 | droogvallend | |
 | waterdeel           | 16110 | meer, plas | |
 | waterdeel           | 16310 | waterloop | |
-| waterdeel           | 16002 | water onder brug | Wordt niet gevisualiseerd |
+| waterdeel           | 16002 | water onder brug | Wordt niet gevisualiseerd in de standaardvisualisatie |
 | waterdeel           | 16020 | waterloop (3-6m) | |
 | waterdeel           | 16010 | waterloop (0,5-3m) | | 
 | gebouw              | 11000 | gebouwvlak | |
@@ -1818,9 +1854,9 @@ In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen
 | inrichtingselement  | 16720 | sluisdeur | Alleen op BRT-A water |
 | inrichtingselement  | 16730 | stuw | Alleen op BRT-A water |
 | inrichtingselement  | 16840 | stormvloedkering | Alleen op BRT-A water |
-| registratiegebied   | 18080 | land/grens (NL) | |
-| registratiegebied   | 18089 | landsgrens (NL-BE, NL-DE) | |
-| registratiegebied   | 18040 | provinciegrens | |
+| registratiefgebied  | 18080 | land/grens (NL) | |
+| registratiefgebied  | 18089 | landsgrens (NL-BE, NL-DE) | |
+| registratiefgebied  | 18040 | provinciegrens | |
 | annotaties          | 18000 | plaatsnamen | | 
 | annotaties          | 18100 | plaatsnamen (BRT-A water) | Andere selectie voor BRT-A water |
 | annotaties          | 18001 | wijknamen | | 
@@ -1832,12 +1868,12 @@ In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen
 | annotaties          | 17310 | hoogtepunten | Alleen op BRT-A water |
 | annotaties          | 16230 | dieptepunten | Alleen op BRT-A water |
 | annotaties          | 18300 | deltawerken | Alleen op BRT-A water |
-| straatnamen         |     - | - | Straatnamen hebben geen codes |
-| waterdeelvlak_label |     - | - | Waterdeellabels hebben geen codes |
+| straatnamen         | -     | - | Straatnamen hebben geen codes |
+| waterdeelvlak_label | -     | - | Waterdeellabels hebben geen codes |
 | waterlabellijn      | 17000 | waterlabellijn | |
-| waterlabellijn      | 17005 | waterlabellijn kort | Wordt niet gevisualiseerd, want te kort |
+| waterlabellijn      | 17005 | waterlabellijn kort | Wordt niet gevisualiseerd in de standaardvisualisatie |
 
-_Tabel 6.2: Tabel met een overzicht van de gebruikte visualisatiecodes in de BRT Achtergrondkaart in Vectortiles._
+_Tabel 6.3: Tabel met een overzicht van de gebruikte visualisatiecodes in de BRT Achtergrondkaart in Vectortiles._
 
 # 7 Catalogus Basisregistratie Topografie
 
