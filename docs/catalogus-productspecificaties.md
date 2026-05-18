@@ -1739,7 +1739,7 @@ Voor de BRT Achtergrondkaart zijn ook de **OGC API Tiles en Styles (Vectortiles)
 De **OGC API-Tiles** is een nieuwe standaard waarmee visualisaties van topografische data gemaakt kunnen worden. Deze visualisaties kunnen daarna gebruikt worden in toepassingen zoals kaartviewers en andere topografische applicaties. Om snel te kunnen beginnen zijn van de BRT Achtergrondkaart de visualisaties 'standaard', 'dark mode' en 'labels' beschikbaar in de **OGC API-Styles**. In deze API kunnen deze visualisaties ook aangepast worden.<br>
 Deze OGC API's zijn beschikbaar op: [**api.pdok.nl/kadaster/brt-achtergrondkaart/ogc/v1**](https://api.pdok.nl/kadaster/brt-achtergrondkaart/ogc/v1)
 
-In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen die gebruikt kunnen worden voor visualisatie: het attribuut  **'viscode'** met numerieke code en het attribuut **'vistext"** met een tekstuele code. De tekstuele code geeft een goede omschrijving van het te visualiseren object.
+In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen die gebruikt kunnen worden voor visualisatie: het attribuut  **'viscode'** met numerieke code en/of het attribuut **'vistext"** met een tekstuele code. De tekstuele code geeft een goede omschrijving van het te visualiseren object.
 
 In de volgende tabel bevat de beschikbare lagen in de BRT Achtergrondkaart in Vectortiles. De zoomniveau's zijn opgegeven volgens het door [**PDOK gebruikte tilingschema in RD**](https://api.pdok.nl/kadaster/brt-achtergrondkaart/ogc/v1/tileMatrixSets/NetherlandsRDNewQuad).
 
