@@ -1743,35 +1743,35 @@ In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen
 
 In de volgende tabel bevat de beschikbare lagen in de BRT Achtergrondkaart in Vectortiles. De zoomniveau's zijn opgegeven volgens het door [**PDOK gebruikte tilingschema in RD**](https://api.pdok.nl/kadaster/brt-achtergrondkaart/ogc/v1/tileMatrixSets/NetherlandsRDNewQuad).
 
-| Laagnaam | Zoomniveau min (RD) | Zoomniveau max (RD) |
-|:---------|:--------------------|:--------------------|
-| annotaties | 1 | 14 |
-| gebouwvlak | 7 | 14 |
-| inrichtingselementlijn | 7 | 14 |
-| inrichtingselementpunt | 8 | 14 |
-| nederland | 0 | 14 |
-| registratiefgebiedlijn | 0 | 14 |
-| spoorbaandeellijn | 4 | 14 |
-| straatnamen | 8 | 14 |
-| terreinvlak | 0 | 14 |
-| waterdeellijn | 8| 14 |
-| waterdeelvlak | 2 | 14 |
-| waterdeelvlak_2_label | 2 | 2 |
-| waterdeelvlak_3_label | 3 | 3 |
-| waterdeelvlak_4_label | 4 | 4 |
-| waterdeelvlak_5_label | 5 | 5 |
-| waterdeelvlak_6_label | 6 | 6 |
-| waterdeelvlak_7_label | 7 | 7 |
-| waterdeelvlak_8_label | 8 | 8 |
+| Laagnaam                 | Zoomniveau min (RD) | Zoomniveau max (RD) |
+|:-------------------------|:--------------------|:--------------------|
+| annotaties               | 1 | 14 |
+| gebouwvlak               | 7 | 14 |
+| inrichtingselementlijn   | 7 | 14 |
+| inrichtingselementpunt   | 8 | 14 |
+| nederland                | 0 | 14 |
+| registratiefgebiedlijn   | 0 | 14 |
+| spoorbaandeellijn        | 4 | 14 |
+| straatnamen              | 8 | 14 |
+| terreinvlak              | 0 | 14 |
+| waterdeellijn            | 8 | 14 |
+| waterdeelvlak            | 2 | 14 |
+| waterdeelvlak_2_label    | 2 |  2 |
+| waterdeelvlak_3_label    | 3 |  3 |
+| waterdeelvlak_4_label    | 4 |  4 |
+| waterdeelvlak_5_label    | 5 |  5 |
+| waterdeelvlak_6_label    | 6 |  6 |
+| waterdeelvlak_7_label    | 7 |  7 |
+| waterdeelvlak_8_label    | 8 |  8 |
 | waterdeelvlak_9_14_label | 9 | 14 |
-| waterlabellijn_2 | 2  | 2 |
-| waterlabellijn_3 | 3 | 3 |
-| waterlabellijn_4 | 4 | 4 |
-| waterlabellijn_5 | 5 | 5 |
-| waterlabellijn_6 | 6 | 6 |
-| waterlabellijn_7 | 7 | 7 |
-| wegdeellijn | 1 | 9 |
-| wegdeelvlak | 7 | 14 |
+| waterlabellijn_2         | 2 |  2 |
+| waterlabellijn_3         | 3 |  3 |
+| waterlabellijn_4         | 4 |  4 |
+| waterlabellijn_5         | 5 |  5 |
+| waterlabellijn_6         | 6 |  6 |
+| waterlabellijn_7         | 7 |  7 |
+| wegdeellijn              | 1 |  9 |
+| wegdeelvlak              | 7 | 14 |
 
 _Tabel 6.2: Tabel met een overzicht van de beschikbare in de BRT Achtergrondkaart in Vectortiles._
 
