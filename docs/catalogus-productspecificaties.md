@@ -1741,7 +1741,7 @@ Deze OGC API's zijn beschikbaar op: [**api.pdok.nl/kadaster/brt-achtergrondkaart
 
 In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen die gebruikt kunnen worden voor visualisatie: het attribuut  **'viscode'** met numerieke code en het attribuut **'vistext"** met een tekstuele code. De tekstuele code geeft een goede omschrijving van het te visualiseren object.
 
-De volgende lagen komen voor in de BRT Achtergrondkaart in Vectortiles:
+In de volgende tabel bevat de beschikbare lagen in de BRT Achtergrondkaart in Vectortiles. De zoomniveau's zijn opgegeven volgens het door [**PDOK gebruikte tilingschema**](https://api.pdok.nl/kadaster/brt-achtergrondkaart/ogc/v1/tileMatrixSets/NetherlandsRDNewQuad).
 
 | Laagnaam | Zoomniveau min | Zoomniveau max |
 |:---------|:---------|:---------|
