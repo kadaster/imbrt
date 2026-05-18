@@ -1739,7 +1739,43 @@ Voor de BRT Achtergrondkaart zijn ook de **OGC API Tiles en Styles (Vectortiles)
 De **OGC API-Tiles** is een nieuwe standaard waarmee visualisaties van topografische data gemaakt kunnen worden. Deze visualisaties kunnen daarna gebruikt worden in toepassingen zoals kaartviewers en andere topografische applicaties. Om snel te kunnen beginnen zijn van de BRT Achtergrondkaart de visualisaties 'standaard', 'dark mode' en 'labels' beschikbaar in de **OGC API-Styles**. In deze API kunnen deze visualisaties ook aangepast worden.<br>
 Deze OGC API's zijn beschikbaar op: [**api.pdok.nl/kadaster/brt-achtergrondkaart/ogc/v1**](https://api.pdok.nl/kadaster/brt-achtergrondkaart/ogc/v1)
 
-In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen die gebruikt kunnen worden voor visualisatie: het attribuut  **'viscode'** met numerieke code en het attribuut **'vistext"** met een tekstuele code. De tekstuele code geeft een goede omschrijving van het te visualiseren object. In onderstaande tabel zijn de gebruikte visualisatiecodes voor de BRT Achtergrondkaart gegeven:
+In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen die gebruikt kunnen worden voor visualisatie: het attribuut  **'viscode'** met numerieke code en het attribuut **'vistext"** met een tekstuele code. De tekstuele code geeft een goede omschrijving van het te visualiseren object.
+
+De volgende lagen komen voor in de BRT Achtergrondkaart in Vectortiles:
+
+| Laagnaam | Zoomniveau min | Zoomniveau max |
+|:---------|:---------|:---------|
+| annotaties | | |
+| gebouwvlak | | |
+| inrichtingselementlijn | | |
+| inrichtingselementpunt | | |
+| nederland | | |
+| registratiefgebiedlijn | | |
+| spoorbaandeellijn | | |
+| straatnamen | | |
+| terreinvlak | | |
+| waterdeellijn | | |
+| waterdeelvlak | | |
+| waterdeelvlak_2label | | |
+| waterdeelvlak_3_label | | |
+| waterdeelvlak_4_label | | |
+| waterdeelvlak_5_label | | |
+| waterdeelvlak_6_label | | |
+| waterdeelvlak_7_label | | |
+| waterdeelvlak_8_label | | |
+| waterdeelvlak_9_14_label | | |
+| waterlabellijn_2 | | |
+| waterlabellijn_3 | | |
+| waterlabellijn_4 | | |
+| waterlabellijn_5 | | |
+| waterlabellijn_6 | | |
+| waterlabellijn_7 | | |
+| wegdeellijn | | |
+| wegdeelvlak | | |
+
+_Tabel 6.2: Tabel met een overzicht van de beschikbare in de BRT Achtergrondkaart in Vectortiles._
+
+In onderstaande tabel zijn de gebruikte visualisatiecodes voor de BRT Achtergrondkaart gegeven:
 
 | Tabel (geometrie)   | Viscode | Vistext | Opmerking |
 |:--------------------|:--------|:--------|:----------|
@@ -1837,7 +1873,7 @@ In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen
 | waterlabellijn      | 17000 | waterlabellijn | |
 | waterlabellijn      | 17005 | waterlabellijn kort | Wordt niet gevisualiseerd, want te kort |
 
-_Tabel 6.2: Tabel met een overzicht van de gebruikte visualisatiecodes in de BRT Achtergrondkaart in Vectortiles._
+_Tabel 6.3: Tabel met een overzicht van de gebruikte visualisatiecodes in de BRT Achtergrondkaart in Vectortiles._
 
 # 7 Catalogus Basisregistratie Topografie
 
