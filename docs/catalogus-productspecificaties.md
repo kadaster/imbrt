@@ -1854,9 +1854,9 @@ In onderstaande tabel zijn de gebruikte visualisatiecodes voor de BRT Achtergron
 | inrichtingselement  | 16720 | sluisdeur | Alleen op BRT-A water |
 | inrichtingselement  | 16730 | stuw | Alleen op BRT-A water |
 | inrichtingselement  | 16840 | stormvloedkering | Alleen op BRT-A water |
-| registratiegebied   | 18080 | land/grens (NL) | |
-| registratiegebied   | 18089 | landsgrens (NL-BE, NL-DE) | |
-| registratiegebied   | 18040 | provinciegrens | |
+| registratiefgebied  | 18080 | land/grens (NL) | |
+| registratiefgebied  | 18089 | landsgrens (NL-BE, NL-DE) | |
+| registratiefgebied  | 18040 | provinciegrens | |
 | annotaties          | 18000 | plaatsnamen | | 
 | annotaties          | 18100 | plaatsnamen (BRT-A water) | Andere selectie voor BRT-A water |
 | annotaties          | 18001 | wijknamen | | 
