@@ -1868,8 +1868,8 @@ In onderstaande tabel zijn de gebruikte visualisatiecodes voor de BRT Achtergron
 | annotaties          | 17310 | hoogtepunten | Alleen op BRT-A water |
 | annotaties          | 16230 | dieptepunten | Alleen op BRT-A water |
 | annotaties          | 18300 | deltawerken | Alleen op BRT-A water |
-| straatnamen         |     - | - | Straatnamen hebben geen codes |
-| waterdeelvlak_label |     - | - | Waterdeellabels hebben geen codes |
+| straatnamen         | -     | - | Straatnamen hebben geen codes |
+| waterdeelvlak_label | -     | - | Waterdeellabels hebben geen codes |
 | waterlabellijn      | 17000 | waterlabellijn | |
 | waterlabellijn      | 17005 | waterlabellijn kort | Wordt niet gevisualiseerd, want te kort |
 
