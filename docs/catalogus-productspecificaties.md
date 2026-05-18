@@ -1744,7 +1744,7 @@ In de Vectortiles van de BRT Achtergrondkaart hebben de objecten twee attributen
 In de volgende tabel bevat de beschikbare lagen in de BRT Achtergrondkaart in Vectortiles. De zoomniveau's zijn opgegeven volgens het door [**PDOK gebruikte tilingschema**](https://api.pdok.nl/kadaster/brt-achtergrondkaart/ogc/v1/tileMatrixSets/NetherlandsRDNewQuad).
 
 | Laagnaam | Zoomniveau min | Zoomniveau max |
-|:---------|:---------|:---------|
+|:---------|:---------------|:---------------|
 | annotaties | 1 | 14 |
 | gebouwvlak | 7 | 14 |
 | inrichtingselementlijn | 7 | 14 |
@@ -1775,9 +1775,9 @@ In de volgende tabel bevat de beschikbare lagen in de BRT Achtergrondkaart in Ve
 
 _Tabel 6.2: Tabel met een overzicht van de beschikbare in de BRT Achtergrondkaart in Vectortiles._
 
-In onderstaande tabel zijn de gebruikte visualisatiecodes voor de BRT Achtergrondkaart gegeven:
+In onderstaande tabel zijn de gebruikte visualisatiecodes voor de BRT Achtergrondkaart per laag gegeven:
 
-| Tabel (geometrie)   | Viscode | Vistext | Opmerking |
+| Laag (geometrie)    | Viscode | Vistext | Opmerking |
 |:--------------------|:--------|:--------|:----------|
 | nederland           | 18080 | Nederland | Aleen voor zoomniveau 0 en 1 |
 | nederland           | 18081 | (zee)water | |
