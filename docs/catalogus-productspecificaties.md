@@ -1745,33 +1745,33 @@ De volgende lagen komen voor in de BRT Achtergrondkaart in Vectortiles:
 
 | Laagnaam | Zoomniveau min | Zoomniveau max |
 |:---------|:---------|:---------|
-| annotaties | | |
-| gebouwvlak | | |
-| inrichtingselementlijn | | |
-| inrichtingselementpunt | | |
-| nederland | | |
-| registratiefgebiedlijn | | |
-| spoorbaandeellijn | | |
-| straatnamen | | |
-| terreinvlak | | |
-| waterdeellijn | | |
-| waterdeelvlak | | |
-| waterdeelvlak_3_label | | |
-| waterdeelvlak_4_label | | |
-| waterdeelvlak_5_label | | |
-| waterdeelvlak_6_label | | |
-| waterdeelvlak_7_label | | |
-| waterdeelvlak_8_label | | |
-| waterdeelvlak_9_14_label | | |
-| waterlabellijn_2 | | |
-| waterlabellijn_3 | | |
-| waterlabellijn_4 | | |
-| waterlabellijn_5 | | |
-| waterlabellijn_6 | | |
-| waterlabellijn_7 | | |
-| wegdeellijn | | |
-| wegdeelvlak | | |
-| waterdeelvlak_2_label | | |
+| annotaties | 1 | 14 |
+| gebouwvlak | 7 | 14 |
+| inrichtingselementlijn | 7 | 14 |
+| inrichtingselementpunt | 8 | 14 |
+| nederland | 0 | 14 |
+| registratiefgebiedlijn | 0 | 14 |
+| spoorbaandeellijn | 4 | 14 |
+| straatnamen | 8 | 14 |
+| terreinvlak | 0 | 14 |
+| waterdeellijn | 8| 14 |
+| waterdeelvlak | 2 | 14 |
+| waterdeelvlak_2_label | 2 | 2 |
+| waterdeelvlak_3_label | 3 | 3 |
+| waterdeelvlak_4_label | 4 | 4 |
+| waterdeelvlak_5_label | 5 | 5 |
+| waterdeelvlak_6_label | 6 | 6 |
+| waterdeelvlak_7_label | 7 | 7 |
+| waterdeelvlak_8_label | 8 | 8 |
+| waterdeelvlak_9_14_label | 9 | 14 |
+| waterlabellijn_2 | 2  | 2 |
+| waterlabellijn_3 | 3 | 3 |
+| waterlabellijn_4 | 4 | 4 |
+| waterlabellijn_5 | 5 | 5 |
+| waterlabellijn_6 | 6 | 6 |
+| waterlabellijn_7 | 7 | 7 |
+| wegdeellijn | 1 | 9 |
+| wegdeelvlak | 7 | 14 |
 
 _Tabel 6.2: Tabel met een overzicht van de beschikbare in de BRT Achtergrondkaart in Vectortiles._
 
