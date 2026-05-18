@@ -1756,7 +1756,6 @@ De volgende lagen komen voor in de BRT Achtergrondkaart in Vectortiles:
 | terreinvlak | | |
 | waterdeellijn | | |
 | waterdeelvlak | | |
-| waterdeelvlak_2label | | |
 | waterdeelvlak_3_label | | |
 | waterdeelvlak_4_label | | |
 | waterdeelvlak_5_label | | |
@@ -1772,6 +1771,7 @@ De volgende lagen komen voor in de BRT Achtergrondkaart in Vectortiles:
 | waterlabellijn_7 | | |
 | wegdeellijn | | |
 | wegdeelvlak | | |
+| waterdeelvlak_2_label | | |
 
 _Tabel 6.2: Tabel met een overzicht van de beschikbare in de BRT Achtergrondkaart in Vectortiles._
 
