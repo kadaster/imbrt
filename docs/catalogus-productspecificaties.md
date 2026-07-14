@@ -1838,7 +1838,7 @@ In onderstaande tabel zijn de gebruikte visualisatiecodes voor de BRT Achtergron
 | terrein             | 15242 | heide: dras, moeras, riet | |
 | terrein             | 15020 | bos | |
 | terrein             | 15021 | bos: dras, moeras, riet | |
-| terrein             | 11070 | kassengebied | |
+| terrein             | 15570 | kassengebied | |
 | terrein             | 11010 | bebouwd gebied | |
 | terrein             | 16510 | aanlegsteiger | |  
 | terrein             | 15212 | grasland: dras, moeras, riet | Alleen op BRT-A water |
