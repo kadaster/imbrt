@@ -1831,25 +1831,25 @@ In onderstaande tabel zijn de gebruikte visualisatiecodes voor de BRT Achtergron
 | gebouw              | 11070 | gebouwvlak | |
 | gebouw              | 11080 | gebouwvlak | |
 | gebouw              | 16540 | gebouwvlak | |
-| terrein             | 16290 | steenglooing | |
-| terrein             | 15250 | zand | |
-| terrein             | 15252 | zand: dras, moeras, riet | |
-| terrein             | 15240 | heide | |
-| terrein             | 15242 | heide: dras, moeras, riet | |
+| terrein             | 11010 | bebouwd gebied | |
 | terrein             | 15020 | bos | |
 | terrein             | 15021 | bos: dras, moeras, riet | |
+| terrein             | 15240 | heide | |
+| terrein             | 15242 | heide: dras, moeras, riet | |
+| terrein             | 15250 | zand | |
+| terrein             | 15252 | zand: dras, moeras, riet | |
 | terrein             | 15570 | kassengebied | |
-| terrein             | 11010 | bebouwd gebied | |
+| terrein             | 16290 | steenglooing | |
 | terrein             | 16510 | aanlegsteiger | |  
 | terrein             | 15212 | grasland: dras, moeras, riet | Alleen op BRT-A water |
 | terrein             | 15999 | resterend: dras, moeras, riet | Alleen op BRT-A water |
 | inrichtingselement  | 11040 | muur | |
 | inrichtingselement  | 14410 | kabelbaan | |
+| inrichtingselement  | 14800 | hoogspanningsmast | |
 | inrichtingselement  | 14810 | hoogspanningsleiding | |
 | inrichtingselement  | 16520 | aanlegsteiger | |
 | inrichtingselement  | 17160 | geluidswering | |
 | inrichtingselement  | 18190 | hekwerk | |
-| inrichtingselement  | 14800 | hoogspanningsmast | |
 | inrichtingselement  | 16260 | strekdam krib golfbreker | Alleen op BRT-A water |
 | inrichtingselement  | 16720 | sluisdeur | Alleen op BRT-A water |
 | inrichtingselement  | 16730 | stuw | Alleen op BRT-A water |
