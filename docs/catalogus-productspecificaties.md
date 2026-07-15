@@ -1779,7 +1779,7 @@ In onderstaande tabel zijn de gebruikte visualisatiecodes voor de BRT Achtergron
 
 | Laag (geometrie)    | Viscode | Vistext | Opmerking |
 |:--------------------|:--------|:--------|:----------|
-| nederland           | 18080 | Nederland | Aleen voor zoomniveau 0 en 1 |
+| nederland           | 18088 | Nederland | Aleen voor zoomniveau 0 en 1 |
 | nederland           | 18081 | (zee)water | |
 | nederland           | 15260 | onderlegger Nederland | |
 | wegdeel             | 12000 | autosnelweg | |
