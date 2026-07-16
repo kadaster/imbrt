@@ -1858,10 +1858,10 @@ In onderstaande tabel zijn de gebruikte visualisatiecodes voor de BRT Achtergron
 | registratiefgebied  | 18089 | landsgrens (NL-BE, NL-DE) | |
 | registratiefgebied  | 18040 | provinciegrens | |
 | annotaties          | 18000 | plaatsnamen | | 
-| annotaties          | 18100 | plaatsnamen (BRT-A water) | Andere selectie voor BRT-A water |
 | annotaties          | 18001 | wijknamen | | 
 | annotaties          | 10000 | A-wegnummers | | 
 | annotaties          | 10001 | N-wegnummers | | 
+| annotaties          | 18100 | plaatsnamen (BRT-A water) | Andere selectie voor BRT-A water |
 | annotaties          | 18200 | sluisnamen | Alleen op BRT-A water |
 | annotaties          | 16610 | kilometrering vaarwegen | Alleen op BRT-A water |
 | annotaties          | 16620 | kilometrering vaarwegen | Alleen op BRT-A water |
