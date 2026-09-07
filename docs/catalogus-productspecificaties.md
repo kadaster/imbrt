@@ -1779,8 +1779,7 @@ In onderstaande tabel zijn de gebruikte visualisatiecodes voor de BRT Achtergron
 
 | Laag (geometrie)    | Viscode | Vistext | Opmerking |
 |:--------------------|:--------|:--------|:----------|
-| nederland           | 18080 | Nederland | Aleen voor zoomniveau 0 en 1 |
-| nederland           | 18081 | (zee)water | |
+| nederland           | 18088 | Nederland | Aleen voor zoomniveau 0 en 1 |
 | nederland           | 15260 | onderlegger Nederland | |
 | wegdeel             | 12000 | autosnelweg | |
 | wegdeel             | 12001 | E-weg | |
@@ -1814,16 +1813,16 @@ In onderstaande tabel zijn de gebruikte visualisatiecodes voor de BRT Achtergron
 | spoorbaandeel       | 14308 | metro / sneltram in tunnel | |
 | spoorbaandeel       | 14230 | tram | |
 | spoorbaandeel       | 14238 | tram in tunnel | |
-| spoorbaandeel       | 14002 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisatie |
-| spoorbaandeel       | 14010 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisatie |
-| spoorbaandeel       | 14042 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisatie |
-| spoorbaandeel       | 14050 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisatie |
-| spoorbaandeel       | 12345 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisatie |
+| spoorbaandeel       | 14002 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisaties |
+| spoorbaandeel       | 14010 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisaties |
+| spoorbaandeel       | 14042 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisaties |
+| spoorbaandeel       | 14050 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisaties |
+| spoorbaandeel       | 12345 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisaties |
 | waterdeel           | 16000 | zee | |
 | waterdeel           | 16210 | droogvallend | |
 | waterdeel           | 16110 | meer, plas | |
 | waterdeel           | 16310 | waterloop | |
-| waterdeel           | 16002 | water onder brug | Wordt niet gevisualiseerd in de standaardvisualisatie |
+| waterdeel           | 16002 | water onder brug | Wordt niet gevisualiseerd in de standaardvisualisaties |
 | waterdeel           | 16020 | waterloop (3-6m) | |
 | waterdeel           | 16010 | waterloop (0,5-3m) | | 
 | gebouw              | 11000 | gebouwvlak | |
@@ -1831,25 +1830,25 @@ In onderstaande tabel zijn de gebruikte visualisatiecodes voor de BRT Achtergron
 | gebouw              | 11070 | gebouwvlak | |
 | gebouw              | 11080 | gebouwvlak | |
 | gebouw              | 16540 | gebouwvlak | |
-| terrein             | 16290 | steenglooing | |
-| terrein             | 15250 | zand | |
-| terrein             | 15252 | zand: dras, moeras, riet | |
-| terrein             | 15240 | heide | |
-| terrein             | 15242 | heide: dras, moeras, riet | |
+| terrein             | 11010 | bebouwd gebied | |
 | terrein             | 15020 | bos | |
 | terrein             | 15021 | bos: dras, moeras, riet | |
-| terrein             | 11070 | kassengebied | |
-| terrein             | 11010 | bebouwd gebied | |
+| terrein             | 15240 | heide | |
+| terrein             | 15242 | heide: dras, moeras, riet | |
+| terrein             | 15250 | zand | |
+| terrein             | 15252 | zand: dras, moeras, riet | |
+| terrein             | 15570 | kassengebied | |
+| terrein             | 16290 | steenglooing | |
 | terrein             | 16510 | aanlegsteiger | |  
 | terrein             | 15212 | grasland: dras, moeras, riet | Alleen op BRT-A water |
 | terrein             | 15999 | resterend: dras, moeras, riet | Alleen op BRT-A water |
 | inrichtingselement  | 11040 | muur | |
 | inrichtingselement  | 14410 | kabelbaan | |
+| inrichtingselement  | 14800 | hoogspanningsmast | |
 | inrichtingselement  | 14810 | hoogspanningsleiding | |
 | inrichtingselement  | 16520 | aanlegsteiger | |
 | inrichtingselement  | 17160 | geluidswering | |
 | inrichtingselement  | 18190 | hekwerk | |
-| inrichtingselement  | 14800 | hoogspanningsmast | |
 | inrichtingselement  | 16260 | strekdam krib golfbreker | Alleen op BRT-A water |
 | inrichtingselement  | 16720 | sluisdeur | Alleen op BRT-A water |
 | inrichtingselement  | 16730 | stuw | Alleen op BRT-A water |
@@ -1858,20 +1857,20 @@ In onderstaande tabel zijn de gebruikte visualisatiecodes voor de BRT Achtergron
 | registratiefgebied  | 18089 | landsgrens (NL-BE, NL-DE) | |
 | registratiefgebied  | 18040 | provinciegrens | |
 | annotaties          | 18000 | plaatsnamen | | 
-| annotaties          | 18100 | plaatsnamen (BRT-A water) | Andere selectie voor BRT-A water |
 | annotaties          | 18001 | wijknamen | | 
 | annotaties          | 10000 | A-wegnummers | | 
 | annotaties          | 10001 | N-wegnummers | | 
+| annotaties          | 18100 | plaatsnamen (BRT-A water) | Andere selectie voor BRT-A water |
 | annotaties          | 18200 | sluisnamen | Alleen op BRT-A water |
 | annotaties          | 16610 | kilometrering vaarwegen | Alleen op BRT-A water |
 | annotaties          | 16620 | kilometrering vaarwegen | Alleen op BRT-A water |
 | annotaties          | 17310 | hoogtepunten | Alleen op BRT-A water |
 | annotaties          | 16230 | dieptepunten | Alleen op BRT-A water |
 | annotaties          | 18300 | deltawerken | Alleen op BRT-A water |
-| straatnamen         | -     | - | Straatnamen hebben geen codes |
+| straatnamen         | -     | - | Straatnamen hebben codes, maar die worden niet gebruikt voor de visualisaties |
 | waterdeelvlak_label | -     | - | Waterdeellabels hebben geen codes |
 | waterlabellijn      | 17000 | waterlabellijn | |
-| waterlabellijn      | 17005 | waterlabellijn kort | Wordt niet gevisualiseerd in de standaardvisualisatie |
+| waterlabellijn      | 17005 | waterlabellijn kort | Wordt niet gevisualiseerd in de standaardvisualisaties |
 
 _Tabel 6.3: Tabel met een overzicht van de gebruikte visualisatiecodes in de BRT Achtergrondkaart in Vectortiles._
 
