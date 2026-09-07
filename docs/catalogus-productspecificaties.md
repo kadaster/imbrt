@@ -1813,16 +1813,16 @@ In onderstaande tabel zijn de gebruikte visualisatiecodes voor de BRT Achtergron
 | spoorbaandeel       | 14308 | metro / sneltram in tunnel | |
 | spoorbaandeel       | 14230 | tram | |
 | spoorbaandeel       | 14238 | tram in tunnel | |
-| spoorbaandeel       | 14002 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisatie |
-| spoorbaandeel       | 14010 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisatie |
-| spoorbaandeel       | 14042 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisatie |
-| spoorbaandeel       | 14050 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisatie |
-| spoorbaandeel       | 12345 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisatie |
+| spoorbaandeel       | 14002 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisaties |
+| spoorbaandeel       | 14010 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisaties |
+| spoorbaandeel       | 14042 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisaties |
+| spoorbaandeel       | 14050 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisaties |
+| spoorbaandeel       | 12345 | spoor onder ander object | Wordt niet gevisualiseerd in de standaardvisualisaties |
 | waterdeel           | 16000 | zee | |
 | waterdeel           | 16210 | droogvallend | |
 | waterdeel           | 16110 | meer, plas | |
 | waterdeel           | 16310 | waterloop | |
-| waterdeel           | 16002 | water onder brug | Wordt niet gevisualiseerd in de standaardvisualisatie |
+| waterdeel           | 16002 | water onder brug | Wordt niet gevisualiseerd in de standaardvisualisaties |
 | waterdeel           | 16020 | waterloop (3-6m) | |
 | waterdeel           | 16010 | waterloop (0,5-3m) | | 
 | gebouw              | 11000 | gebouwvlak | |
@@ -1867,10 +1867,10 @@ In onderstaande tabel zijn de gebruikte visualisatiecodes voor de BRT Achtergron
 | annotaties          | 17310 | hoogtepunten | Alleen op BRT-A water |
 | annotaties          | 16230 | dieptepunten | Alleen op BRT-A water |
 | annotaties          | 18300 | deltawerken | Alleen op BRT-A water |
-| straatnamen         | -     | - | Straatnamen hebben codes, maar die worden niet gebruikt voor de visualisatie |
+| straatnamen         | -     | - | Straatnamen hebben codes, maar die worden niet gebruikt voor de visualisaties |
 | waterdeelvlak_label | -     | - | Waterdeellabels hebben geen codes |
 | waterlabellijn      | 17000 | waterlabellijn | |
-| waterlabellijn      | 17005 | waterlabellijn kort | Wordt niet gevisualiseerd in de standaardvisualisatie |
+| waterlabellijn      | 17005 | waterlabellijn kort | Wordt niet gevisualiseerd in de standaardvisualisaties |
 
 _Tabel 6.3: Tabel met een overzicht van de gebruikte visualisatiecodes in de BRT Achtergrondkaart in Vectortiles._
 
