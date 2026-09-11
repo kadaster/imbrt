@@ -547,7 +547,7 @@ Een beschrijvend kenmerk is optioneel of verplicht. Optioneel betekent dat het k
 
 Geometrische kenmerken zijn eigenschappen toegekend aan een geo-object die locatie en vorm van het geo-object vastlegt. De vorm wordt vastgelegd als punt, rechte lijn of een door rechte lijnen begrensd vlak. In onderstaande tabel wordt aangegeven welke geometrie een objectklasse kan hebben.
 
-| | punt | lijn | vlak |
+| objectklasse | punt | lijn | vlak |
 |:---|:---|:---|:---|
 | wegdeel | + | + | + |
 | spoorbaandeel | + | + | - |
@@ -608,7 +608,7 @@ Het mutatieprotocol (zie [**Bijlage 1: Mutatieprotocol**](#bijlage-1-mutatieprot
 
 In onderstaande tabel zijn de relaties weergegeven die voorkomen tussen de objectklassen en de attributen.
 
-| | Ob­ject­ken­merk | weg­deel | spoor­baan­deel | wa­ter­deel | ge­bouw | ter­rein | in­rich­tings­ele­ment | re­liëf | hoog­te | re­gis­tra­tief ge­bied | geo­gra­fisch ge­bied | plaats | func­ti­o­neel ge­bied | plan­to­po­gra­fie |
+| relatie | ob­ject­ken­merk | weg­deel | spoor­baan­deel | wa­ter­deel | ge­bouw | ter­rein | in­rich­tings­ele­ment | re­liëf | hoog­te | re­gis­tra­tief ge­bied | geo­gra­fisch ge­bied | plaats | func­ti­o­neel ge­bied | plan­to­po­gra­fie |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | iden­ti­fi­ce­rend | iden­ti­fi­ca­tie | V | V | V | V | V | V | V | V | V | V | V | V | V |
 | geo­me­trisch | geo­me­trie | V | V | V | V | V | V | V | V | V | V | V | V | V |
@@ -1195,8 +1195,8 @@ Definitie: Vrijstaande, overdekte en geheel of gedeeltelijk met wanden omsloten 
 | ondergronds | | | x |
 | overkluisd | x | | x |
 
-| Domein "GE\_hoogteklasse" |
-|:---|
+| Domein "GE\_hoogteklasse" | Punt | Lijn | Vlak |
+|:---|:---|:---|:---|
 | laagbouw | x | | x |
 | hoogbouw | x | | x |
 
@@ -8570,7 +8570,7 @@ In onderstaand schema wordt aangegeven wat er in welke situatie gebeurt. Dit is 
 
 | Objectklasse | Verandering van attribuutwaarde | Verandering van coördinaten | Verandering van geometrietype |
 |:---|:---|:---|:---|
-| Wegdeel | 1 | 3 | 3 | |
+| Wegdeel | 1 | 3 | 3 |
 | Spoorbaandeel | 1 | 3 | 3 |
 | Waterdeel | 1 | 3 | 3 |
 | Gebouw | 1 | 3 | 3 |
