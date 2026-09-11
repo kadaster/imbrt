@@ -2033,7 +2033,7 @@ In de Basisregistratie Topografie zijn attributen gedefinieerd die bij ieder obj
 | Domein | Brontype |
 |:---|:---|
 | Domeinwaarde | **RD** |
-| Definitie | Net van vaste punten in Nederland. Deze vaste punten zijn de referentiepunten waarnaar overige metingen en karteringen kunnen verwijzen. De referentiepunten maken deel uit van een netwerk dat is vastgelegd in het systeem van de Rijksdriehoeksmeting (RD). Dit netwerk wordt beheerd en onderhouden door het Kadaster. ( [www.kadaster.nl](https://www.kadaster.nl) ). |
+| Definitie | Net van vaste punten in Nederland. Deze vaste punten zijn de referentiepunten waarnaar overige metingen en karteringen kunnen verwijzen. De referentiepunten maken deel uit van een netwerk dat is vastgelegd in het systeem van de Rijksdriehoeksmeting (RD). Dit netwerk wordt beheerd en onderhouden door het Kadaster. ( www.kadaster.nl ). |
 
 | Domein | Brontype |
 |:---|:---|
